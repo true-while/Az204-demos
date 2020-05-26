@@ -1,7 +1,0 @@
-docker image ls
-
-docker run -d -p 8081:80 ninjacat
-
-http://localhost:8081/
-
-docker image prune -a
