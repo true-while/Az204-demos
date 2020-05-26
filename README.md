@@ -29,7 +29,7 @@
   - [NodeJS FunIN-FunOut](/M02/Demo%20%233%20DurableFunction/Demo-nodejs2.md)
 
 
-  ## Module 03: Develop solutions that use blob storage
+## Module 03: Develop solutions that use blob storage
 
 - Demo #1: Azure Blob
   - [Portal](/M03/Demo%20%231%20New%20Blob/Demo.md)
@@ -39,6 +39,6 @@
   - [CSharp](/M03/Demo%20%233%20BobProj/Demo-CSharp.md)
   - [NodeJS](/M03/Demo%20%233%20BobProj/Demo-Nodejs.md)
 - Demo #4: Using AzCopy in the Cloud Shell
-  - [CMD+AzCopy](/M03/Demo%20%234%20-%20AzCopy/Demo.md)
+  - [CMD+AzCopy](/M03/Demo%20%234%20AzCopy/Demo.md)
 
 
