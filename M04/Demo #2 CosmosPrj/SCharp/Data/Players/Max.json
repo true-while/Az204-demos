@@ -1,0 +1,10 @@
+{
+    "id": "Max",
+    "Money": 1000,
+    "Items": [
+        {
+            "Name": "Helmet",
+            "Price": 300
+        }
+    ]
+}

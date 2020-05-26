@@ -1,0 +1,265 @@
+{
+    "id": "Apollo 11",
+    "Description": "Neil Armstrong descends a ladder to become the first human to step onto the surface of the Moon",
+    "Mission type": "Manned lunar landing",
+    "Operator": "NASA1",
+    "COSPAR ID": [ "CSM: 1969-059A", "LM: 1969-059C" ],
+    "SATCAT": [ "CSM: 4039", "LM: 4041" ],
+    "Mission duration": "8 days, 3 hours, 18 minutes, 35 seconds",
+    "Spacecraft properties": {
+        "Spacecraft": [ "Apollo CSM-107", "Apollo LM-5" ],
+        "Manufacturer": [ "CSM: North American Rockwell", "LM: Grumman" ],
+        "Launch mass": "100,756 pounds (45,702 kg)",
+        "Landing mass": "10,873 pounds (4,932 kg)"
+    },
+    "Crew": {
+        "Crew size": 3,
+        "Members": [ "Neil A. Armstrong", "Michael Collins", "Edwin E. \"Buzz\" Aldrin, Jr." ],
+        "Callsign": [ "CSM: Columbia", "LM: Eagle" ],
+        "On surface": "Tranquility Base"
+    },
+    "Start of mission": {
+        "Launch date": "July 16, 1969, 13:32:00 (1969-07-16UTC13:32Z) UTC",
+        "Rocket": "Saturn V SA-506",
+        "Launch site": "Kennedy LC-39A"
+    },
+    "End of mission": {
+        "Recovered by": "USS Hornet",
+        "Landing date": "July 24, 1969, 16:50:35 (1969-07-24UTC16:50:36Z) UTC2",
+        "Landing site": "North Pacific Ocean",
+        "": "13°19N 169°9W / 13.317°N 169.150°W / 13.317; -169.150 (Apollo 11 splashdown)2"
+    },
+    "Orbital parameters": {
+        "Reference system": "Selenocentric",
+        "Periselene": "100.9 kilometers (54.5 nmi)3",
+        "Aposelene": "122.4 kilometers (66.1 nmi)3",
+        "Inclination": "1.25 degrees3",
+        "Period": "2 hours3",
+        "Epoch": "July 19, 1969, 21:44 UTC3"
+    },
+    "Lunar orbiter": {
+        "Spacecraft component": "Command/Service Module",
+        "Orbital insertion": "July 19, 1969, 17:21:50 UTC4",
+        "Departed orbit": "July 22, 1969, 04:55:42 UTC4",
+        "Orbits": 30
+    },
+    "Lunar lander": {
+        "Spacecraft component": "Lunar Module",
+        "Landing date": "July 20, 1969, 20:18:04 UTC5",
+        "Return launch": "July 21, 1969, 17:54 UTC",
+        "Landing site": [ "Mare Tranquillitatis", "0°4027N 23°2823E / 0.67408°N 23.47297°E / 0.67408; 23.472976" ],
+        "Sample mass": "21.55 kilograms (47.51 lb)",
+        "Surface EVAs": "1",
+        "EVA duration": "2 hours, 31 minutes 40 seconds"
+    },
+    "Docking with LM": {
+        "Docking date": "July 16, 1969, 16:56:03 UTC4",
+        "Undocking date": "July 20, 1969, 17:44:00 UTC4"
+    },
+    "Docking with LM Ascent Stage": {
+        "Docking date": "July 21, 1969, 21:35:00 UTC4",
+        "Undocking date": "July 21, 1969, 23:41:31 UTC4"
+    },
+    "Artifacts": [
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/mission=Apollo%2011&sample=10003",
+            "Sample Number": 10003,
+            "Mission": "Apollo 11",
+            "Sample Type": "rock",
+            "Lithology": "basalt",
+            "Description": "Medium-grained subophitic basalt composed of clinopyroxene, two generations of plagioclase, ilmenite with subordinate cristobalite and mesostasis."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/mission=Apollo%2011&sample=10009",
+            "Sample Number": 10009,
+            "Mission": "Apollo 11",
+            "Sample Type": "rock",
+            "Lithology": "breccia",
+            "Description": "Highly devitrified breccia with high glass clast content"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/mission=Apollo%2011&sample=10017",
+            "Sample Number": 10017,
+            "Mission": "Apollo 11",
+            "Sample Type": "rock",
+            "Lithology": "basalt",
+            "Description": "Fine-grained, poikilitic, vesicular basalt composed of clinopyroxene, plagioclase, two generations of ilmenite and subordinate opaques and mesostasis"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/mission=Apollo%2011&sample=10018",
+            "Sample Number": 10018,
+            "Mission": "Apollo 11",
+            "Sample Type": "rock",
+            "Lithology": "breccia",
+            "Description": "Dark grey fine breccia"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/mission=Apollo%2011&sample=10019",
+            "Sample Number": 10019,
+            "Mission": "Apollo 11",
+            "Sample Type": "rock",
+            "Lithology": "breccia",
+            "Description": "Partly devitrified breccia with low lithic clast content"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/mission=Apollo%2011&sample=10021",
+            "Sample Number": 10021,
+            "Mission": "Apollo 11",
+            "Sample Type": "rock",
+            "Lithology": "breccia",
+            "Description": "Partly devitrified typical breccia with a relatively low amount of glass fragments"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/mission=Apollo%2011&sample=10023",
+            "Sample Number": 10023,
+            "Mission": "Apollo 11",
+            "Sample Type": "rock",
+            "Lithology": "breccia",
+            "Description": "Sub-rounded, medium dark gray, fine breccia"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/mission=Apollo%2011&sample=10047",
+            "Sample Number": 10047,
+            "Mission": "Apollo 11",
+            "Sample Type": "rock",
+            "Lithology": "basalt",
+            "Description": "Medium-grained subophitic basalt composed of clinopyroxene, two generations of plagioclase, ilmenite with subordinate cristobalite pyroxferroite and mesostasis."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/mission=Apollo%2011&sample=10048",
+            "Sample Number": 10048,
+            "Mission": "Apollo 11",
+            "Sample Type": "rock",
+            "Lithology": "breccia",
+            "Description": "Rounded to subrounded, medium light grey, fine breccia"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/mission=Apollo%2011&sample=10049",
+            "Sample Number": 10049,
+            "Mission": "Apollo 11",
+            "Sample Type": "rock",
+            "Lithology": "basalt",
+            "Description": "Fine-grained vesicular intersertal basalt with a pyroxene-ilmenite network hosting smaller plagioclase crystals and abundant mesostasis."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/mission=Apollo%2011&sample=10056",
+            "Sample Number": 10056,
+            "Mission": "Apollo 11",
+            "Sample Type": "rock",
+            "Lithology": "breccia",
+            "Description": "Angular to sub-angular, medium dark grey microbreccia"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/mission=Apollo%2011&sample=10059",
+            "Sample Number": 10059,
+            "Mission": "Apollo 11",
+            "Sample Type": "rock",
+            "Lithology": "breccia",
+            "Description": "Slightly devitrified typical breccia with relatively low lithic clast content"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/mission=Apollo%2011&sample=10061",
+            "Sample Number": 10061,
+            "Mission": "Apollo 11",
+            "Sample Type": "rock",
+            "Lithology": "breccia",
+            "Description": "Partly devitrified, medium grey fine breccia with marked matrix differences between zones"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/mission=Apollo%2011&sample=10063",
+            "Sample Number": 10063,
+            "Mission": "Apollo 11",
+            "Sample Type": "rock",
+            "Lithology": "breccia",
+            "Description": "Sub-angular, dark grey, partly devitrified typical breccia with relatively high glass clast content"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/mission=Apollo%2011&sample=10064",
+            "Sample Number": 10064,
+            "Mission": "Apollo 11",
+            "Sample Type": "rock",
+            "Lithology": "breccia",
+            "Description": "Angular, dark to light grey, highly devitrified fine breccia with high glass clast content"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/mission=Apollo%2011&sample=10066",
+            "Sample Number": 10066,
+            "Mission": "Apollo 11",
+            "Sample Type": "rock",
+            "Lithology": "breccia",
+            "Description": "Rounded, dark grey, fine breccia"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/mission=Apollo%2011&sample=10067",
+            "Sample Number": 10067,
+            "Mission": "Apollo 11",
+            "Sample Type": "rock",
+            "Lithology": "breccia",
+            "Description": "Sub-angular, dark grey, partly devitrified microbreccia with low glass content"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/mission=Apollo%2011&sample=10070",
+            "Sample Number": 10070,
+            "Mission": "Apollo 11",
+            "Sample Type": "rock",
+            "Lithology": "breccia",
+            "Description": "Subangular, dark grey, partly devitrified fine breccia with many small lithic clasts and few large clasts"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/mission=Apollo%2011&sample=10073",
+            "Sample Number": 10073,
+            "Mission": "Apollo 11",
+            "Sample Type": "rock",
+            "Lithology": "breccia",
+            "Description": "Rounded, medium dark grey, partly devitrified microbreccia with low lithic clast content"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/mission=Apollo%2011&sample=10074",
+            "Sample Number": 10074,
+            "Mission": "Apollo 11",
+            "Sample Type": "rock",
+            "Lithology": "breccia",
+            "Description": "Angular, medium dark grey, partly devitrified microbreccia with low lithic clast content"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/mission=Apollo%2011&sample=10075",
+            "Sample Number": 10075,
+            "Mission": "Apollo 11",
+            "Sample Type": "rock",
+            "Lithology": "breccia",
+            "Description": "Subangular, medium grey, partly devitrified fine breccia"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/mission=Apollo%2011&sample=10082",
+            "Sample Number": 10082,
+            "Mission": "Apollo 11",
+            "Sample Type": "rock",
+            "Lithology": "breccia",
+            "Description": "Rounded to subrounded, dark grey to black, partly devitrified microbreccia with no large lithic clasts"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/mission=Apollo%2011&sample=10093",
+            "Sample Number": 10093,
+            "Mission": "Apollo 11",
+            "Sample Type": "rock",
+            "Lithology": "breccia",
+            "Description": "Subangular, medium dark grey, fine breccia"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/mission=Apollo%2011&sample=10094",
+            "Sample Number": 10094,
+            "Mission": "Apollo 11",
+            "Sample Type": "rock",
+            "Lithology": "breccia",
+            "Description": "Subangular to subrounded, medium dark grey breccia"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/mission=Apollo%2011&sample=10084",
+            "Sample Number": 10084,
+            "Mission": "Apollo 11",
+            "Sample Type": "soil-general",
+            "Lithology": "",
+            "Description": "The contingency sample was taken in front of quad IV of the LM. The documented sample was collected 5 meters north of the LM, the bulk sample was collected in front of quad IV by pouring scoops of loose soil to fill the voids left between rock samples in the bulk sample container. 10084 is the bulk soil sample. Soil is fine grained and hard in this sample area. There are few fragments and it is difficult to scoop deeper than 5 cm below the surface."
+        }
+    ]
+}

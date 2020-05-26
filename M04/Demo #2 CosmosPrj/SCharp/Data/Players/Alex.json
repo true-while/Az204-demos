@@ -1,0 +1,14 @@
+{
+    "id": "Alex",
+    "Money": 500,
+    "Items": [
+        {
+            "Name": "Sword",
+            "Price": 300
+        },
+        {
+            "Name": "Key",
+            "Price": 100
+        }
+    ]
+}

@@ -42,3 +42,14 @@
   - [CMD+AzCopy](/M03/Demo%20%234%20AzCopy/Demo.md)
 
 
+## Module 04: Develop solutions that use blob storage
+
+- Demo #1: Creating and Query Azure Cosmos DB
+  - [Portal](/M04/Demo%20%231%20CreateCosmosDb/Demo.md)
+- Demo #2: Document insertion and Consistency in Cosmos DB by using code
+  - [CSharp](/M04/Demo%20%232%20CosmosPrj/Demo-CSharp.md)
+  - [Nodejs](/M04/Demo%20%232%20CosmosPrj/Demo-Nodejs.md)
+- Demo #3: Stored proc, Trigger and Transaction support in Cosmos DB
+  - [Portal](/M04/Demo%20%233%20SP,Triggers/Demo.md)
+- Demo #4: Graph API
+  - [Portal+Nodejs](/M04/Demo%20%234%20Graph/Demo.md)

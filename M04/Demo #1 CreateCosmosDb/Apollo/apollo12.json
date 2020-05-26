@@ -1,0 +1,253 @@
+{
+    "id": "Apollo 12",
+    "Description": "Astronaut Pete Conrad studies the Surveyor 3 spacecraft; the Lunar Module, Intrepid, can be seen in the top right of the picture.",
+    "Mission type": "Manned lunar landing",
+    "Operator": "NASA",
+    "COSPAR ID": [
+        "CSM: 1969-099A",
+        "LM: 1969-099C"
+    ],
+    "SATCAT ": [
+        "CSM: 4225",
+        "LM: 4226"
+    ],
+    "Mission duration": "10 days, 4 hours, 36 minutes, 24 seconds",
+    "Spacecraft properties": {
+        "Spacecraft": [
+            "Apollo CSM-108",
+            "Apollo LM-6"
+        ],
+        "Manufacturer": [ "CSM: North American Rockwell", "LM: Grumman" ],
+        "Launch mass": "101,127 pounds (45,870 kg)",
+        "Landing mass": "11,050 pounds (5,010 kg)"
+    },
+    "Crew": {
+        "Crew size": 3,
+        "Members": [
+            "Charles \"Pete\" Conrad, Jr.",
+            "Richard F. Gordon, Jr.",
+            "Alan L. Bean"
+        ],
+        "Callsign": "CSM: Yankee Clipper, LM: Intrepid"
+    },
+    "Start of mission": {
+        "Launch date": "November 14, 1969, 16:22:00 (1969-11-14UTC16:22Z) UTC",
+        "Rocket": "Saturn V SA-507",
+        "Launch site": "Kennedy LC-39A"
+    },
+    "End of mission": {
+        "Recovered by": "USS Hornet",
+        "Landing date": "November 24, 1969, 20:58:24 (1969-11-24UTC20:58:25Z) UTC",
+        "Landing site": [
+            "South Pacific Ocean",
+            "15°47S 165°9W / 15.783°S 165.150°W / -15.783; -165.150 (Apollo 12 splashdown)"
+        ]
+    },
+    "Orbital parameters": {
+
+        "Reference system": "Selenocentric",
+        "Periselene": "101.10 kilometers (54.59 nmi)",
+        "Aposelene": "122.42 kilometers (66.10 nmi)"
+    },
+    "Lunar orbiter": {
+
+        "Orbital insertion": "November 18, 1969, 03:47:23 UTC",
+        "Departed orbit": "November 21, 1969, 20:49:16 UTC",
+        "Orbits": 45
+    },
+    "Lunar lander": {
+
+        "Spacecraft component": "Lunar Module",
+        "Landing date": "November 19, 1969, 06:54:35 UTC",
+        "Return launch": "November 20, 1969, 14:25:47 UTC",
+        "Landing site": [
+            "Ocean of Storms",
+            "3°0045S 23°2518W / 3.01239°S 23.42157°W / -3.01239; -23.42157"
+        ],
+        "Sample mass": "34.35 kilograms (75.7 lb)",
+        "Surface EVAs": "2",
+        "EVA duration": "Total: 7 hours, 45 minutes, 18 seconds",
+        "First": "3 hours, 56 minutes, 03 seconds",
+        "Second": "3 hours, 49 minutes, 15 seconds"
+    },
+    "Docking with LM": {
+
+        "Docking date": "November 14, 1969, 19:48:53 UTC",
+        "Undocking date": "November 19, 1969, 04:16:02 UTC"
+    },
+    "Docking with LM Ascent Stage": {
+
+        "Docking date": "November 20, 1969, 17:58:20 UTC",
+        "Undocking date": "November 20, 1969, 20:21:31 UTC"
+    },
+    "Artifacts": [
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2012&sample=12004",
+            "Sample Number": 12004,
+            "Mission": "Apollo 12",
+            "Sample Type": "rock",
+            "Lithology": "basalt",
+            "Description": "olivine basalt"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2012&sample=12005",
+            "Sample Number": 12005,
+            "Mission": "Apollo 12",
+            "Sample Type": "rock",
+            "Lithology": "basalt",
+            "Description": "holocrystalline, olivine basalt"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2012&sample=12006",
+            "Sample Number": 12006,
+            "Mission": "Apollo 12",
+            "Sample Type": "rock",
+            "Lithology": "basalt",
+            "Description": "Oliving Basalt, holocrystalline"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2012&sample=12007",
+            "Sample Number": 12007,
+            "Mission": "Apollo 12",
+            "Sample Type": "rock",
+            "Lithology": "basalt",
+            "Description": "holocrystalline"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2012&sample=12008",
+            "Sample Number": 12008,
+            "Mission": "Apollo 12",
+            "Sample Type": "rock",
+            "Lithology": "basalt",
+            "Description": "cumulate (ilmenite) ?"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2012&sample=12011",
+            "Sample Number": 12011,
+            "Mission": "Apollo 12",
+            "Sample Type": "rock",
+            "Lithology": "basalt",
+            "Description": "holocrystalline"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2012&sample=12012",
+            "Sample Number": 12012,
+            "Mission": "Apollo 12",
+            "Sample Type": "rock",
+            "Lithology": "basalt",
+            "Description": "Olivine Pyroxenite; holocrystalline"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2012&sample=12014",
+            "Sample Number": 12014,
+            "Mission": "Apollo 12",
+            "Sample Type": "rock",
+            "Lithology": "basalt",
+            "Description": "porphyritic olivine microgabbro"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2012&sample=12018",
+            "Sample Number": 12018,
+            "Mission": "Apollo 12",
+            "Sample Type": "rock",
+            "Lithology": "basalt",
+            "Description": "(terrestrial analogue) medium grained gabbro"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2012&sample=12038",
+            "Sample Number": 12038,
+            "Mission": "Apollo 12",
+            "Sample Type": "rock",
+            "Lithology": "basalt",
+            "Description": "holocrystalline; diabase (terrestrial analogue);"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2012&sample=12063",
+            "Sample Number": 12063,
+            "Mission": "Apollo 12",
+            "Sample Type": "rock",
+            "Lithology": "basalt",
+            "Description": "diabase (terrestrial analogue); ilmenite microgabbro similar to Apollo 11 (Chao)"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2012&sample=12065",
+            "Sample Number": 12065,
+            "Mission": "Apollo 12",
+            "Sample Type": "rock",
+            "Lithology": "basalt",
+            "Description": "diabase (terrestrial analogue); holocrystalline"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2012&sample=12003",
+            "Sample Number": 12003,
+            "Mission": "Apollo 12",
+            "Sample Type": "soil >1 cm",
+            "Lithology": "",
+            "Description": "12003 is coarse (>1cm) split from 12001, along with friable material from the bottom of the sample box. This was collected about 30 meters northwest of LM on EVA-1. These broken up fines from larger rocks do not make a statistical sample."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2012&sample=12001",
+            "Sample Number": 12001,
+            "Mission": "Apollo 12",
+            "Sample Type": "soil-general",
+            "Lithology": "",
+            "Description": "12001 is <1 cm fraction of bulk regolith collected about 30 meters northwest of the LM on the first EVA traverse. Astronaut Conrad saw several beads of pure glass while collecting this sample. Fryxell reports that the fines are weakly coherent; they adhere to rocks and do not slump when the sample holder is tipped 45 degrees."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2012&sample=12032",
+            "Sample Number": 12032,
+            "Mission": "Apollo 12",
+            "Sample Type": "soil-general",
+            "Lithology": "",
+            "Description": "Surface soil 12032, along with several rocks were collected from the north rim of Bench crater. It includes some light gray material from just below the surace. Soil collected with \"potato\" rock 12053."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2012&sample=12033",
+            "Sample Number": 12033,
+            "Mission": "Apollo 12",
+            "Sample Type": "soil-general",
+            "Lithology": "",
+            "Description": "Trench sample 12033 was collected 15 cm below the surface, 15 meters from the northwest rim of Head Crater near 12031. The trench bottom is lighter in color than the surface materials. Astronauts noticed more large blocks on the west side of Bench crater than on the east."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2012&sample=12041",
+            "Sample Number": 12041,
+            "Mission": "Apollo 12",
+            "Sample Type": "soil-general",
+            "Lithology": "",
+            "Description": "Soil sample collected about 50 m east of the rim of Bench crater. Sample consists mostly of ine particles but includes a 6.4 mm glass sphere."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2012&sample=12044",
+            "Sample Number": 12044,
+            "Mission": "Apollo 12",
+            "Sample Type": "soil-general",
+            "Lithology": "",
+            "Description": "Soil 12044 and rock 12043 were collected from the south rim of Surveyor crater. Astronauts observed a prominent double glass bead on the surface."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2012&sample=12023",
+            "Sample Number": 12023,
+            "Mission": "Apollo 12",
+            "Sample Type": "",
+            "Lithology": "soil",
+            "Description": "Trench sample 12023 (collected at a depth of 20 cm) was collected from the east rim of the 20 meter Sharp crater. The rim material is softer and lighter in ccolor than the surrounding material."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2012&sample=12037",
+            "Sample Number": 12037,
+            "Mission": "Apollo 12",
+            "Sample Type": "",
+            "Lithology": "basalt",
+            "Description": "Soil sample in same sample bag as 12036, a friable basalt. Both were collected near the site of 12035 on the NW rim of Bench crater. Because it includes much broken material from the friable basalt, it is not statistically a soil sample."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2012&sample=12042",
+            "Sample Number": 12042,
+            "Mission": "Apollo 12",
+            "Sample Type": "",
+            "Lithology": "",
+            "Description": "12042 is a surface soil taken on the outer flank of Surveyor crater rim, 50 m NW of Halo crater. The sample area is strewn with cohesive clods or aggregates showing a \"wrinkled texture\". Perhaps this indicates an area of secondary ejecta."
+        }
+    ]
+}

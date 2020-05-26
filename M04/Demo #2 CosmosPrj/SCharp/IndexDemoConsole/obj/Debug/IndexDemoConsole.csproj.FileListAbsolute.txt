@@ -1,0 +1,358 @@
+D:\Workshops\AzureFastStart\DocumentDB\Demo\Apollo\IndexDemoConsole\IndexDemoConsole\bin\Debug\IndexDemoConsole.exe.config
+D:\Workshops\AzureFastStart\DocumentDB\Demo\Apollo\IndexDemoConsole\IndexDemoConsole\obj\Debug\IndexDemoConsole.csprojResolveAssemblyReference.cache
+D:\Workshops\AzureFastStart\DocumentDB\Demo\Apollo\IndexDemoConsole\IndexDemoConsole\bin\Debug\Microsoft.Azure.Documents.ServiceInterop.dll
+D:\Workshops\AzureFastStart\DocumentDB\Demo\Apollo\IndexDemoConsole\IndexDemoConsole\bin\Debug\DocumentDB.Spatial.Sql.dll
+D:\Workshops\AzureFastStart\DocumentDB\Demo\Apollo\IndexDemoConsole\IndexDemoConsole\bin\Debug\IndexDemoConsole.exe
+D:\Workshops\AzureFastStart\DocumentDB\Demo\Apollo\IndexDemoConsole\IndexDemoConsole\bin\Debug\IndexDemoConsole.pdb
+D:\Workshops\AzureFastStart\DocumentDB\Demo\Apollo\IndexDemoConsole\IndexDemoConsole\bin\Debug\Microsoft.Azure.Documents.Client.dll
+D:\Workshops\AzureFastStart\DocumentDB\Demo\Apollo\IndexDemoConsole\IndexDemoConsole\bin\Debug\Newtonsoft.Json.dll
+D:\Workshops\AzureFastStart\DocumentDB\Demo\Apollo\IndexDemoConsole\IndexDemoConsole\bin\Debug\Microsoft.Azure.Documents.Client.xml
+D:\Workshops\AzureFastStart\DocumentDB\Demo\Apollo\IndexDemoConsole\IndexDemoConsole\bin\Debug\Newtonsoft.Json.xml
+D:\Workshops\AzureFastStart\DocumentDB\Demo\Apollo\IndexDemoConsole\IndexDemoConsole\obj\Debug\IndexDemoConsole.exe
+D:\Workshops\AzureFastStart\DocumentDB\Demo\Apollo\IndexDemoConsole\IndexDemoConsole\obj\Debug\IndexDemoConsole.pdb
+D:\Workshops\AzureFastStart\DocumentDB\Demo\Apollo\IndexDemoConsole\obj\Debug\IndexDemoConsole.exe
+D:\Workshops\AzureFastStart\DocumentDB\Demo\Apollo\IndexDemoConsole\obj\Debug\IndexDemoConsole.pdb
+D:\Workshops\AzureFastStart\DocumentDB\Demo\Apollo\IndexDemoConsole\bin\Debug\Microsoft.Azure.Documents.ServiceInterop.dll
+D:\Workshops\AzureFastStart\DocumentDB\Demo\Apollo\IndexDemoConsole\bin\Debug\DocumentDB.Spatial.Sql.dll
+D:\Workshops\AzureFastStart\DocumentDB\Demo\Apollo\IndexDemoConsole\bin\Debug\IndexDemoConsole.exe
+D:\Workshops\AzureFastStart\DocumentDB\Demo\Apollo\IndexDemoConsole\bin\Debug\IndexDemoConsole.pdb
+D:\Workshops\AzureFastStart\DocumentDB\Demo\Apollo\IndexDemoConsole\bin\Debug\Microsoft.Azure.Documents.Client.dll
+D:\Workshops\AzureFastStart\DocumentDB\Demo\Apollo\IndexDemoConsole\bin\Debug\Newtonsoft.Json.dll
+D:\Workshops\AzureFastStart\DocumentDB\Demo\Apollo\IndexDemoConsole\bin\Debug\Microsoft.Azure.Documents.Client.xml
+D:\Workshops\AzureFastStart\DocumentDB\Demo\Apollo\IndexDemoConsole\bin\Debug\Newtonsoft.Json.xml
+D:\Workshops\AzureFastStart\DocumentDB\Demo\Apollo\IndexDemoConsole\bin\Debug\IndexDemoConsole.exe.config
+D:\Workshops\AzureFastStart\DocumentDB\Demo\Apollo\IndexDemoConsole\bin\Debug\Data\0.json
+D:\Workshops\AzureFastStart\DocumentDB\Demo\Apollo\IndexDemoConsole\bin\Debug\Data\1.json
+D:\Workshops\AzureFastStart\DocumentDB\Demo\Apollo\IndexDemoConsole\bin\Debug\Data\10.json
+D:\Workshops\AzureFastStart\DocumentDB\Demo\Apollo\IndexDemoConsole\bin\Debug\Data\11.json
+D:\Workshops\AzureFastStart\DocumentDB\Demo\Apollo\IndexDemoConsole\bin\Debug\Data\12.json
+D:\Workshops\AzureFastStart\DocumentDB\Demo\Apollo\IndexDemoConsole\bin\Debug\Data\13.json
+D:\Workshops\AzureFastStart\DocumentDB\Demo\Apollo\IndexDemoConsole\bin\Debug\Data\14.json
+D:\Workshops\AzureFastStart\DocumentDB\Demo\Apollo\IndexDemoConsole\bin\Debug\Data\15.json
+D:\Workshops\AzureFastStart\DocumentDB\Demo\Apollo\IndexDemoConsole\bin\Debug\Data\16.json
+D:\Workshops\AzureFastStart\DocumentDB\Demo\Apollo\IndexDemoConsole\bin\Debug\Data\17.json
+D:\Workshops\AzureFastStart\DocumentDB\Demo\Apollo\IndexDemoConsole\bin\Debug\Data\18.json
+D:\Workshops\AzureFastStart\DocumentDB\Demo\Apollo\IndexDemoConsole\bin\Debug\Data\19.json
+D:\Workshops\AzureFastStart\DocumentDB\Demo\Apollo\IndexDemoConsole\bin\Debug\Data\2.json
+D:\Workshops\AzureFastStart\DocumentDB\Demo\Apollo\IndexDemoConsole\bin\Debug\Data\20.json
+D:\Workshops\AzureFastStart\DocumentDB\Demo\Apollo\IndexDemoConsole\bin\Debug\Data\21.json
+D:\Workshops\AzureFastStart\DocumentDB\Demo\Apollo\IndexDemoConsole\bin\Debug\Data\22.json
+D:\Workshops\AzureFastStart\DocumentDB\Demo\Apollo\IndexDemoConsole\bin\Debug\Data\23.json
+D:\Workshops\AzureFastStart\DocumentDB\Demo\Apollo\IndexDemoConsole\bin\Debug\Data\24.json
+D:\Workshops\AzureFastStart\DocumentDB\Demo\Apollo\IndexDemoConsole\bin\Debug\Data\25.json
+D:\Workshops\AzureFastStart\DocumentDB\Demo\Apollo\IndexDemoConsole\bin\Debug\Data\26.json
+D:\Workshops\AzureFastStart\DocumentDB\Demo\Apollo\IndexDemoConsole\bin\Debug\Data\27.json
+D:\Workshops\AzureFastStart\DocumentDB\Demo\Apollo\IndexDemoConsole\bin\Debug\Data\28.json
+D:\Workshops\AzureFastStart\DocumentDB\Demo\Apollo\IndexDemoConsole\bin\Debug\Data\29.json
+D:\Workshops\AzureFastStart\DocumentDB\Demo\Apollo\IndexDemoConsole\bin\Debug\Data\3.json
+D:\Workshops\AzureFastStart\DocumentDB\Demo\Apollo\IndexDemoConsole\bin\Debug\Data\30.json
+D:\Workshops\AzureFastStart\DocumentDB\Demo\Apollo\IndexDemoConsole\bin\Debug\Data\31.json
+D:\Workshops\AzureFastStart\DocumentDB\Demo\Apollo\IndexDemoConsole\bin\Debug\Data\32.json
+D:\Workshops\AzureFastStart\DocumentDB\Demo\Apollo\IndexDemoConsole\bin\Debug\Data\33.json
+D:\Workshops\AzureFastStart\DocumentDB\Demo\Apollo\IndexDemoConsole\bin\Debug\Data\34.json
+D:\Workshops\AzureFastStart\DocumentDB\Demo\Apollo\IndexDemoConsole\bin\Debug\Data\35.json
+D:\Workshops\AzureFastStart\DocumentDB\Demo\Apollo\IndexDemoConsole\bin\Debug\Data\36.json
+D:\Workshops\AzureFastStart\DocumentDB\Demo\Apollo\IndexDemoConsole\bin\Debug\Data\37.json
+D:\Workshops\AzureFastStart\DocumentDB\Demo\Apollo\IndexDemoConsole\bin\Debug\Data\38.json
+D:\Workshops\AzureFastStart\DocumentDB\Demo\Apollo\IndexDemoConsole\bin\Debug\Data\39.json
+D:\Workshops\AzureFastStart\DocumentDB\Demo\Apollo\IndexDemoConsole\bin\Debug\Data\4.json
+D:\Workshops\AzureFastStart\DocumentDB\Demo\Apollo\IndexDemoConsole\bin\Debug\Data\40.json
+D:\Workshops\AzureFastStart\DocumentDB\Demo\Apollo\IndexDemoConsole\bin\Debug\Data\41.json
+D:\Workshops\AzureFastStart\DocumentDB\Demo\Apollo\IndexDemoConsole\bin\Debug\Data\42.json
+D:\Workshops\AzureFastStart\DocumentDB\Demo\Apollo\IndexDemoConsole\bin\Debug\Data\43.json
+D:\Workshops\AzureFastStart\DocumentDB\Demo\Apollo\IndexDemoConsole\bin\Debug\Data\44.json
+D:\Workshops\AzureFastStart\DocumentDB\Demo\Apollo\IndexDemoConsole\bin\Debug\Data\45.json
+D:\Workshops\AzureFastStart\DocumentDB\Demo\Apollo\IndexDemoConsole\bin\Debug\Data\46.json
+D:\Workshops\AzureFastStart\DocumentDB\Demo\Apollo\IndexDemoConsole\bin\Debug\Data\47.json
+D:\Workshops\AzureFastStart\DocumentDB\Demo\Apollo\IndexDemoConsole\bin\Debug\Data\48.json
+D:\Workshops\AzureFastStart\DocumentDB\Demo\Apollo\IndexDemoConsole\bin\Debug\Data\49.json
+D:\Workshops\AzureFastStart\DocumentDB\Demo\Apollo\IndexDemoConsole\bin\Debug\Data\5.json
+D:\Workshops\AzureFastStart\DocumentDB\Demo\Apollo\IndexDemoConsole\bin\Debug\Data\50.json
+D:\Workshops\AzureFastStart\DocumentDB\Demo\Apollo\IndexDemoConsole\bin\Debug\Data\51.json
+D:\Workshops\AzureFastStart\DocumentDB\Demo\Apollo\IndexDemoConsole\bin\Debug\Data\52.json
+D:\Workshops\AzureFastStart\DocumentDB\Demo\Apollo\IndexDemoConsole\bin\Debug\Data\53.json
+D:\Workshops\AzureFastStart\DocumentDB\Demo\Apollo\IndexDemoConsole\bin\Debug\Data\54.json
+D:\Workshops\AzureFastStart\DocumentDB\Demo\Apollo\IndexDemoConsole\bin\Debug\Data\55.json
+D:\Workshops\AzureFastStart\DocumentDB\Demo\Apollo\IndexDemoConsole\bin\Debug\Data\56.json
+D:\Workshops\AzureFastStart\DocumentDB\Demo\Apollo\IndexDemoConsole\bin\Debug\Data\57.json
+D:\Workshops\AzureFastStart\DocumentDB\Demo\Apollo\IndexDemoConsole\bin\Debug\Data\58.json
+D:\Workshops\AzureFastStart\DocumentDB\Demo\Apollo\IndexDemoConsole\bin\Debug\Data\59.json
+D:\Workshops\AzureFastStart\DocumentDB\Demo\Apollo\IndexDemoConsole\bin\Debug\Data\6.json
+D:\Workshops\AzureFastStart\DocumentDB\Demo\Apollo\IndexDemoConsole\bin\Debug\Data\60.json
+D:\Workshops\AzureFastStart\DocumentDB\Demo\Apollo\IndexDemoConsole\bin\Debug\Data\61.json
+D:\Workshops\AzureFastStart\DocumentDB\Demo\Apollo\IndexDemoConsole\bin\Debug\Data\62.json
+D:\Workshops\AzureFastStart\DocumentDB\Demo\Apollo\IndexDemoConsole\bin\Debug\Data\63.json
+D:\Workshops\AzureFastStart\DocumentDB\Demo\Apollo\IndexDemoConsole\bin\Debug\Data\64.json
+D:\Workshops\AzureFastStart\DocumentDB\Demo\Apollo\IndexDemoConsole\bin\Debug\Data\65.json
+D:\Workshops\AzureFastStart\DocumentDB\Demo\Apollo\IndexDemoConsole\bin\Debug\Data\66.json
+D:\Workshops\AzureFastStart\DocumentDB\Demo\Apollo\IndexDemoConsole\bin\Debug\Data\67.json
+D:\Workshops\AzureFastStart\DocumentDB\Demo\Apollo\IndexDemoConsole\bin\Debug\Data\68.json
+D:\Workshops\AzureFastStart\DocumentDB\Demo\Apollo\IndexDemoConsole\bin\Debug\Data\69.json
+D:\Workshops\AzureFastStart\DocumentDB\Demo\Apollo\IndexDemoConsole\bin\Debug\Data\7.json
+D:\Workshops\AzureFastStart\DocumentDB\Demo\Apollo\IndexDemoConsole\bin\Debug\Data\70.json
+D:\Workshops\AzureFastStart\DocumentDB\Demo\Apollo\IndexDemoConsole\bin\Debug\Data\71.json
+D:\Workshops\AzureFastStart\DocumentDB\Demo\Apollo\IndexDemoConsole\bin\Debug\Data\72.json
+D:\Workshops\AzureFastStart\DocumentDB\Demo\Apollo\IndexDemoConsole\bin\Debug\Data\73.json
+D:\Workshops\AzureFastStart\DocumentDB\Demo\Apollo\IndexDemoConsole\bin\Debug\Data\74.json
+D:\Workshops\AzureFastStart\DocumentDB\Demo\Apollo\IndexDemoConsole\bin\Debug\Data\75.json
+D:\Workshops\AzureFastStart\DocumentDB\Demo\Apollo\IndexDemoConsole\bin\Debug\Data\76.json
+D:\Workshops\AzureFastStart\DocumentDB\Demo\Apollo\IndexDemoConsole\bin\Debug\Data\77.json
+D:\Workshops\AzureFastStart\DocumentDB\Demo\Apollo\IndexDemoConsole\bin\Debug\Data\78.json
+D:\Workshops\AzureFastStart\DocumentDB\Demo\Apollo\IndexDemoConsole\bin\Debug\Data\79.json
+D:\Workshops\AzureFastStart\DocumentDB\Demo\Apollo\IndexDemoConsole\bin\Debug\Data\8.json
+D:\Workshops\AzureFastStart\DocumentDB\Demo\Apollo\IndexDemoConsole\bin\Debug\Data\80.json
+D:\Workshops\AzureFastStart\DocumentDB\Demo\Apollo\IndexDemoConsole\bin\Debug\Data\81.json
+D:\Workshops\AzureFastStart\DocumentDB\Demo\Apollo\IndexDemoConsole\bin\Debug\Data\82.json
+D:\Workshops\AzureFastStart\DocumentDB\Demo\Apollo\IndexDemoConsole\bin\Debug\Data\83.json
+D:\Workshops\AzureFastStart\DocumentDB\Demo\Apollo\IndexDemoConsole\bin\Debug\Data\84.json
+D:\Workshops\AzureFastStart\DocumentDB\Demo\Apollo\IndexDemoConsole\bin\Debug\Data\85.json
+D:\Workshops\AzureFastStart\DocumentDB\Demo\Apollo\IndexDemoConsole\bin\Debug\Data\86.json
+D:\Workshops\AzureFastStart\DocumentDB\Demo\Apollo\IndexDemoConsole\bin\Debug\Data\87.json
+D:\Workshops\AzureFastStart\DocumentDB\Demo\Apollo\IndexDemoConsole\bin\Debug\Data\88.json
+D:\Workshops\AzureFastStart\DocumentDB\Demo\Apollo\IndexDemoConsole\bin\Debug\Data\89.json
+D:\Workshops\AzureFastStart\DocumentDB\Demo\Apollo\IndexDemoConsole\bin\Debug\Data\9.json
+D:\Workshops\AzureFastStart\DocumentDB\Demo\Apollo\IndexDemoConsole\bin\Debug\Data\90.json
+D:\Workshops\AzureFastStart\DocumentDB\Demo\Apollo\IndexDemoConsole\bin\Debug\Data\91.json
+D:\Workshops\AzureFastStart\DocumentDB\Demo\Apollo\IndexDemoConsole\bin\Debug\Data\92.json
+D:\Workshops\AzureFastStart\DocumentDB\Demo\Apollo\IndexDemoConsole\bin\Debug\Data\93.json
+D:\Workshops\AzureFastStart\DocumentDB\Demo\Apollo\IndexDemoConsole\bin\Debug\Data\94.json
+D:\Workshops\AzureFastStart\DocumentDB\Demo\Apollo\IndexDemoConsole\bin\Debug\Data\95.json
+D:\Workshops\AzureFastStart\DocumentDB\Demo\Apollo\IndexDemoConsole\bin\Debug\Data\96.json
+D:\Workshops\AzureFastStart\DocumentDB\Demo\Apollo\IndexDemoConsole\bin\Debug\Data\97.json
+D:\Workshops\AzureFastStart\DocumentDB\Demo\Apollo\IndexDemoConsole\bin\Debug\Data\98.json
+D:\Workshops\AzureFastStart\DocumentDB\Demo\Apollo\IndexDemoConsole\bin\Debug\Data\99.json
+D:\Workshops\AzureFastStart\DocumentDB\Demo\Apollo\IndexDemoConsole\bin\Debug\JS\bulkImport.js
+D:\Workshops\AzureFastStart\_MyEdition\WebSites\All\U0X DocumentDB\Demo\Demo\Democonsole\IndexDemoConsole\bin\Debug\IndexDemoConsole.exe.config
+D:\Workshops\AzureFastStart\_MyEdition\WebSites\All\U0X DocumentDB\Demo\Demo\Democonsole\IndexDemoConsole\obj\Debug\IndexDemoConsole.exe
+D:\Workshops\AzureFastStart\_MyEdition\WebSites\All\U0X DocumentDB\Demo\Demo\Democonsole\IndexDemoConsole\obj\Debug\IndexDemoConsole.pdb
+D:\Workshops\AzureFastStart\_MyEdition\WebSites\All\U0X DocumentDB\Demo\Demo\Democonsole\IndexDemoConsole\bin\Debug\Microsoft.Azure.Documents.ServiceInterop.dll
+D:\Workshops\AzureFastStart\_MyEdition\WebSites\All\U0X DocumentDB\Demo\Demo\Democonsole\IndexDemoConsole\bin\Debug\DocumentDB.Spatial.Sql.dll
+D:\Workshops\AzureFastStart\_MyEdition\WebSites\All\U0X DocumentDB\Demo\Demo\Democonsole\IndexDemoConsole\bin\Debug\Data\0.json
+D:\Workshops\AzureFastStart\_MyEdition\WebSites\All\U0X DocumentDB\Demo\Demo\Democonsole\IndexDemoConsole\bin\Debug\Data\1.json
+D:\Workshops\AzureFastStart\_MyEdition\WebSites\All\U0X DocumentDB\Demo\Demo\Democonsole\IndexDemoConsole\bin\Debug\Data\10.json
+D:\Workshops\AzureFastStart\_MyEdition\WebSites\All\U0X DocumentDB\Demo\Demo\Democonsole\IndexDemoConsole\bin\Debug\Data\11.json
+D:\Workshops\AzureFastStart\_MyEdition\WebSites\All\U0X DocumentDB\Demo\Demo\Democonsole\IndexDemoConsole\bin\Debug\Data\12.json
+D:\Workshops\AzureFastStart\_MyEdition\WebSites\All\U0X DocumentDB\Demo\Demo\Democonsole\IndexDemoConsole\bin\Debug\Data\13.json
+D:\Workshops\AzureFastStart\_MyEdition\WebSites\All\U0X DocumentDB\Demo\Demo\Democonsole\IndexDemoConsole\bin\Debug\Data\14.json
+D:\Workshops\AzureFastStart\_MyEdition\WebSites\All\U0X DocumentDB\Demo\Demo\Democonsole\IndexDemoConsole\bin\Debug\Data\15.json
+D:\Workshops\AzureFastStart\_MyEdition\WebSites\All\U0X DocumentDB\Demo\Demo\Democonsole\IndexDemoConsole\bin\Debug\Data\16.json
+D:\Workshops\AzureFastStart\_MyEdition\WebSites\All\U0X DocumentDB\Demo\Demo\Democonsole\IndexDemoConsole\bin\Debug\Data\17.json
+D:\Workshops\AzureFastStart\_MyEdition\WebSites\All\U0X DocumentDB\Demo\Demo\Democonsole\IndexDemoConsole\bin\Debug\Data\18.json
+D:\Workshops\AzureFastStart\_MyEdition\WebSites\All\U0X DocumentDB\Demo\Demo\Democonsole\IndexDemoConsole\bin\Debug\Data\19.json
+D:\Workshops\AzureFastStart\_MyEdition\WebSites\All\U0X DocumentDB\Demo\Demo\Democonsole\IndexDemoConsole\bin\Debug\Data\2.json
+D:\Workshops\AzureFastStart\_MyEdition\WebSites\All\U0X DocumentDB\Demo\Demo\Democonsole\IndexDemoConsole\bin\Debug\Data\20.json
+D:\Workshops\AzureFastStart\_MyEdition\WebSites\All\U0X DocumentDB\Demo\Demo\Democonsole\IndexDemoConsole\bin\Debug\Data\21.json
+D:\Workshops\AzureFastStart\_MyEdition\WebSites\All\U0X DocumentDB\Demo\Demo\Democonsole\IndexDemoConsole\bin\Debug\Data\22.json
+D:\Workshops\AzureFastStart\_MyEdition\WebSites\All\U0X DocumentDB\Demo\Demo\Democonsole\IndexDemoConsole\bin\Debug\Data\23.json
+D:\Workshops\AzureFastStart\_MyEdition\WebSites\All\U0X DocumentDB\Demo\Demo\Democonsole\IndexDemoConsole\bin\Debug\Data\24.json
+D:\Workshops\AzureFastStart\_MyEdition\WebSites\All\U0X DocumentDB\Demo\Demo\Democonsole\IndexDemoConsole\bin\Debug\Data\25.json
+D:\Workshops\AzureFastStart\_MyEdition\WebSites\All\U0X DocumentDB\Demo\Demo\Democonsole\IndexDemoConsole\bin\Debug\Data\26.json
+D:\Workshops\AzureFastStart\_MyEdition\WebSites\All\U0X DocumentDB\Demo\Demo\Democonsole\IndexDemoConsole\bin\Debug\Data\27.json
+D:\Workshops\AzureFastStart\_MyEdition\WebSites\All\U0X DocumentDB\Demo\Demo\Democonsole\IndexDemoConsole\bin\Debug\Data\28.json
+D:\Workshops\AzureFastStart\_MyEdition\WebSites\All\U0X DocumentDB\Demo\Demo\Democonsole\IndexDemoConsole\bin\Debug\Data\29.json
+D:\Workshops\AzureFastStart\_MyEdition\WebSites\All\U0X DocumentDB\Demo\Demo\Democonsole\IndexDemoConsole\bin\Debug\Data\3.json
+D:\Workshops\AzureFastStart\_MyEdition\WebSites\All\U0X DocumentDB\Demo\Demo\Democonsole\IndexDemoConsole\bin\Debug\Data\30.json
+D:\Workshops\AzureFastStart\_MyEdition\WebSites\All\U0X DocumentDB\Demo\Demo\Democonsole\IndexDemoConsole\bin\Debug\Data\31.json
+D:\Workshops\AzureFastStart\_MyEdition\WebSites\All\U0X DocumentDB\Demo\Demo\Democonsole\IndexDemoConsole\bin\Debug\Data\32.json
+D:\Workshops\AzureFastStart\_MyEdition\WebSites\All\U0X DocumentDB\Demo\Demo\Democonsole\IndexDemoConsole\bin\Debug\Data\33.json
+D:\Workshops\AzureFastStart\_MyEdition\WebSites\All\U0X DocumentDB\Demo\Demo\Democonsole\IndexDemoConsole\bin\Debug\Data\34.json
+D:\Workshops\AzureFastStart\_MyEdition\WebSites\All\U0X DocumentDB\Demo\Demo\Democonsole\IndexDemoConsole\bin\Debug\Data\35.json
+D:\Workshops\AzureFastStart\_MyEdition\WebSites\All\U0X DocumentDB\Demo\Demo\Democonsole\IndexDemoConsole\bin\Debug\Data\36.json
+D:\Workshops\AzureFastStart\_MyEdition\WebSites\All\U0X DocumentDB\Demo\Demo\Democonsole\IndexDemoConsole\bin\Debug\Data\37.json
+D:\Workshops\AzureFastStart\_MyEdition\WebSites\All\U0X DocumentDB\Demo\Demo\Democonsole\IndexDemoConsole\bin\Debug\Data\38.json
+D:\Workshops\AzureFastStart\_MyEdition\WebSites\All\U0X DocumentDB\Demo\Demo\Democonsole\IndexDemoConsole\bin\Debug\Data\39.json
+D:\Workshops\AzureFastStart\_MyEdition\WebSites\All\U0X DocumentDB\Demo\Demo\Democonsole\IndexDemoConsole\bin\Debug\Data\4.json
+D:\Workshops\AzureFastStart\_MyEdition\WebSites\All\U0X DocumentDB\Demo\Demo\Democonsole\IndexDemoConsole\bin\Debug\Data\40.json
+D:\Workshops\AzureFastStart\_MyEdition\WebSites\All\U0X DocumentDB\Demo\Demo\Democonsole\IndexDemoConsole\bin\Debug\Data\41.json
+D:\Workshops\AzureFastStart\_MyEdition\WebSites\All\U0X DocumentDB\Demo\Demo\Democonsole\IndexDemoConsole\bin\Debug\Data\42.json
+D:\Workshops\AzureFastStart\_MyEdition\WebSites\All\U0X DocumentDB\Demo\Demo\Democonsole\IndexDemoConsole\bin\Debug\Data\43.json
+D:\Workshops\AzureFastStart\_MyEdition\WebSites\All\U0X DocumentDB\Demo\Demo\Democonsole\IndexDemoConsole\bin\Debug\Data\44.json
+D:\Workshops\AzureFastStart\_MyEdition\WebSites\All\U0X DocumentDB\Demo\Demo\Democonsole\IndexDemoConsole\bin\Debug\Data\45.json
+D:\Workshops\AzureFastStart\_MyEdition\WebSites\All\U0X DocumentDB\Demo\Demo\Democonsole\IndexDemoConsole\bin\Debug\Data\46.json
+D:\Workshops\AzureFastStart\_MyEdition\WebSites\All\U0X DocumentDB\Demo\Demo\Democonsole\IndexDemoConsole\bin\Debug\Data\47.json
+D:\Workshops\AzureFastStart\_MyEdition\WebSites\All\U0X DocumentDB\Demo\Demo\Democonsole\IndexDemoConsole\bin\Debug\Data\48.json
+D:\Workshops\AzureFastStart\_MyEdition\WebSites\All\U0X DocumentDB\Demo\Demo\Democonsole\IndexDemoConsole\bin\Debug\Data\49.json
+D:\Workshops\AzureFastStart\_MyEdition\WebSites\All\U0X DocumentDB\Demo\Demo\Democonsole\IndexDemoConsole\bin\Debug\Data\5.json
+D:\Workshops\AzureFastStart\_MyEdition\WebSites\All\U0X DocumentDB\Demo\Demo\Democonsole\IndexDemoConsole\bin\Debug\Data\50.json
+D:\Workshops\AzureFastStart\_MyEdition\WebSites\All\U0X DocumentDB\Demo\Demo\Democonsole\IndexDemoConsole\bin\Debug\Data\51.json
+D:\Workshops\AzureFastStart\_MyEdition\WebSites\All\U0X DocumentDB\Demo\Demo\Democonsole\IndexDemoConsole\bin\Debug\Data\52.json
+D:\Workshops\AzureFastStart\_MyEdition\WebSites\All\U0X DocumentDB\Demo\Demo\Democonsole\IndexDemoConsole\bin\Debug\Data\53.json
+D:\Workshops\AzureFastStart\_MyEdition\WebSites\All\U0X DocumentDB\Demo\Demo\Democonsole\IndexDemoConsole\bin\Debug\Data\54.json
+D:\Workshops\AzureFastStart\_MyEdition\WebSites\All\U0X DocumentDB\Demo\Demo\Democonsole\IndexDemoConsole\bin\Debug\Data\55.json
+D:\Workshops\AzureFastStart\_MyEdition\WebSites\All\U0X DocumentDB\Demo\Demo\Democonsole\IndexDemoConsole\bin\Debug\Data\56.json
+D:\Workshops\AzureFastStart\_MyEdition\WebSites\All\U0X DocumentDB\Demo\Demo\Democonsole\IndexDemoConsole\bin\Debug\Data\57.json
+D:\Workshops\AzureFastStart\_MyEdition\WebSites\All\U0X DocumentDB\Demo\Demo\Democonsole\IndexDemoConsole\bin\Debug\Data\58.json
+D:\Workshops\AzureFastStart\_MyEdition\WebSites\All\U0X DocumentDB\Demo\Demo\Democonsole\IndexDemoConsole\bin\Debug\Data\59.json
+D:\Workshops\AzureFastStart\_MyEdition\WebSites\All\U0X DocumentDB\Demo\Demo\Democonsole\IndexDemoConsole\bin\Debug\Data\6.json
+D:\Workshops\AzureFastStart\_MyEdition\WebSites\All\U0X DocumentDB\Demo\Demo\Democonsole\IndexDemoConsole\bin\Debug\Data\60.json
+D:\Workshops\AzureFastStart\_MyEdition\WebSites\All\U0X DocumentDB\Demo\Demo\Democonsole\IndexDemoConsole\bin\Debug\Data\61.json
+D:\Workshops\AzureFastStart\_MyEdition\WebSites\All\U0X DocumentDB\Demo\Demo\Democonsole\IndexDemoConsole\bin\Debug\Data\62.json
+D:\Workshops\AzureFastStart\_MyEdition\WebSites\All\U0X DocumentDB\Demo\Demo\Democonsole\IndexDemoConsole\bin\Debug\Data\63.json
+D:\Workshops\AzureFastStart\_MyEdition\WebSites\All\U0X DocumentDB\Demo\Demo\Democonsole\IndexDemoConsole\bin\Debug\Data\64.json
+D:\Workshops\AzureFastStart\_MyEdition\WebSites\All\U0X DocumentDB\Demo\Demo\Democonsole\IndexDemoConsole\bin\Debug\Data\65.json
+D:\Workshops\AzureFastStart\_MyEdition\WebSites\All\U0X DocumentDB\Demo\Demo\Democonsole\IndexDemoConsole\bin\Debug\Data\66.json
+D:\Workshops\AzureFastStart\_MyEdition\WebSites\All\U0X DocumentDB\Demo\Demo\Democonsole\IndexDemoConsole\bin\Debug\Data\67.json
+D:\Workshops\AzureFastStart\_MyEdition\WebSites\All\U0X DocumentDB\Demo\Demo\Democonsole\IndexDemoConsole\bin\Debug\Data\68.json
+D:\Workshops\AzureFastStart\_MyEdition\WebSites\All\U0X DocumentDB\Demo\Demo\Democonsole\IndexDemoConsole\bin\Debug\Data\69.json
+D:\Workshops\AzureFastStart\_MyEdition\WebSites\All\U0X DocumentDB\Demo\Demo\Democonsole\IndexDemoConsole\bin\Debug\Data\7.json
+D:\Workshops\AzureFastStart\_MyEdition\WebSites\All\U0X DocumentDB\Demo\Demo\Democonsole\IndexDemoConsole\bin\Debug\Data\70.json
+D:\Workshops\AzureFastStart\_MyEdition\WebSites\All\U0X DocumentDB\Demo\Demo\Democonsole\IndexDemoConsole\bin\Debug\Data\71.json
+D:\Workshops\AzureFastStart\_MyEdition\WebSites\All\U0X DocumentDB\Demo\Demo\Democonsole\IndexDemoConsole\bin\Debug\Data\72.json
+D:\Workshops\AzureFastStart\_MyEdition\WebSites\All\U0X DocumentDB\Demo\Demo\Democonsole\IndexDemoConsole\bin\Debug\Data\73.json
+D:\Workshops\AzureFastStart\_MyEdition\WebSites\All\U0X DocumentDB\Demo\Demo\Democonsole\IndexDemoConsole\bin\Debug\Data\74.json
+D:\Workshops\AzureFastStart\_MyEdition\WebSites\All\U0X DocumentDB\Demo\Demo\Democonsole\IndexDemoConsole\bin\Debug\Data\75.json
+D:\Workshops\AzureFastStart\_MyEdition\WebSites\All\U0X DocumentDB\Demo\Demo\Democonsole\IndexDemoConsole\bin\Debug\Data\76.json
+D:\Workshops\AzureFastStart\_MyEdition\WebSites\All\U0X DocumentDB\Demo\Demo\Democonsole\IndexDemoConsole\bin\Debug\Data\77.json
+D:\Workshops\AzureFastStart\_MyEdition\WebSites\All\U0X DocumentDB\Demo\Demo\Democonsole\IndexDemoConsole\bin\Debug\Data\78.json
+D:\Workshops\AzureFastStart\_MyEdition\WebSites\All\U0X DocumentDB\Demo\Demo\Democonsole\IndexDemoConsole\bin\Debug\Data\79.json
+D:\Workshops\AzureFastStart\_MyEdition\WebSites\All\U0X DocumentDB\Demo\Demo\Democonsole\IndexDemoConsole\bin\Debug\Data\8.json
+D:\Workshops\AzureFastStart\_MyEdition\WebSites\All\U0X DocumentDB\Demo\Demo\Democonsole\IndexDemoConsole\bin\Debug\Data\80.json
+D:\Workshops\AzureFastStart\_MyEdition\WebSites\All\U0X DocumentDB\Demo\Demo\Democonsole\IndexDemoConsole\bin\Debug\Data\81.json
+D:\Workshops\AzureFastStart\_MyEdition\WebSites\All\U0X DocumentDB\Demo\Demo\Democonsole\IndexDemoConsole\bin\Debug\Data\82.json
+D:\Workshops\AzureFastStart\_MyEdition\WebSites\All\U0X DocumentDB\Demo\Demo\Democonsole\IndexDemoConsole\bin\Debug\Data\83.json
+D:\Workshops\AzureFastStart\_MyEdition\WebSites\All\U0X DocumentDB\Demo\Demo\Democonsole\IndexDemoConsole\bin\Debug\Data\84.json
+D:\Workshops\AzureFastStart\_MyEdition\WebSites\All\U0X DocumentDB\Demo\Demo\Democonsole\IndexDemoConsole\bin\Debug\Data\85.json
+D:\Workshops\AzureFastStart\_MyEdition\WebSites\All\U0X DocumentDB\Demo\Demo\Democonsole\IndexDemoConsole\bin\Debug\Data\86.json
+D:\Workshops\AzureFastStart\_MyEdition\WebSites\All\U0X DocumentDB\Demo\Demo\Democonsole\IndexDemoConsole\bin\Debug\Data\87.json
+D:\Workshops\AzureFastStart\_MyEdition\WebSites\All\U0X DocumentDB\Demo\Demo\Democonsole\IndexDemoConsole\bin\Debug\Data\88.json
+D:\Workshops\AzureFastStart\_MyEdition\WebSites\All\U0X DocumentDB\Demo\Demo\Democonsole\IndexDemoConsole\bin\Debug\Data\89.json
+D:\Workshops\AzureFastStart\_MyEdition\WebSites\All\U0X DocumentDB\Demo\Demo\Democonsole\IndexDemoConsole\bin\Debug\Data\9.json
+D:\Workshops\AzureFastStart\_MyEdition\WebSites\All\U0X DocumentDB\Demo\Demo\Democonsole\IndexDemoConsole\bin\Debug\Data\90.json
+D:\Workshops\AzureFastStart\_MyEdition\WebSites\All\U0X DocumentDB\Demo\Demo\Democonsole\IndexDemoConsole\bin\Debug\Data\91.json
+D:\Workshops\AzureFastStart\_MyEdition\WebSites\All\U0X DocumentDB\Demo\Demo\Democonsole\IndexDemoConsole\bin\Debug\Data\92.json
+D:\Workshops\AzureFastStart\_MyEdition\WebSites\All\U0X DocumentDB\Demo\Demo\Democonsole\IndexDemoConsole\bin\Debug\Data\93.json
+D:\Workshops\AzureFastStart\_MyEdition\WebSites\All\U0X DocumentDB\Demo\Demo\Democonsole\IndexDemoConsole\bin\Debug\Data\94.json
+D:\Workshops\AzureFastStart\_MyEdition\WebSites\All\U0X DocumentDB\Demo\Demo\Democonsole\IndexDemoConsole\bin\Debug\Data\95.json
+D:\Workshops\AzureFastStart\_MyEdition\WebSites\All\U0X DocumentDB\Demo\Demo\Democonsole\IndexDemoConsole\bin\Debug\Data\96.json
+D:\Workshops\AzureFastStart\_MyEdition\WebSites\All\U0X DocumentDB\Demo\Demo\Democonsole\IndexDemoConsole\bin\Debug\Data\97.json
+D:\Workshops\AzureFastStart\_MyEdition\WebSites\All\U0X DocumentDB\Demo\Demo\Democonsole\IndexDemoConsole\bin\Debug\Data\98.json
+D:\Workshops\AzureFastStart\_MyEdition\WebSites\All\U0X DocumentDB\Demo\Demo\Democonsole\IndexDemoConsole\bin\Debug\Data\99.json
+D:\Workshops\AzureFastStart\_MyEdition\WebSites\All\U0X DocumentDB\Demo\Demo\Democonsole\IndexDemoConsole\bin\Debug\JS\bulkImport.js
+D:\Workshops\AzureFastStart\_MyEdition\WebSites\All\U0X DocumentDB\Demo\Demo\Democonsole\IndexDemoConsole\bin\Debug\IndexDemoConsole.exe
+D:\Workshops\AzureFastStart\_MyEdition\WebSites\All\U0X DocumentDB\Demo\Demo\Democonsole\IndexDemoConsole\bin\Debug\IndexDemoConsole.pdb
+D:\Workshops\AzureFastStart\_MyEdition\WebSites\All\U0X DocumentDB\Demo\Demo\Democonsole\IndexDemoConsole\bin\Debug\Microsoft.Azure.Documents.Client.dll
+D:\Workshops\AzureFastStart\_MyEdition\WebSites\All\U0X DocumentDB\Demo\Demo\Democonsole\IndexDemoConsole\bin\Debug\Newtonsoft.Json.dll
+D:\Workshops\AzureFastStart\_MyEdition\WebSites\All\U0X DocumentDB\Demo\Demo\Democonsole\IndexDemoConsole\bin\Debug\Microsoft.Azure.Documents.Client.xml
+D:\Workshops\AzureFastStart\_MyEdition\WebSites\All\U0X DocumentDB\Demo\Demo\Democonsole\IndexDemoConsole\bin\Debug\Newtonsoft.Json.xml
+D:\Workshops\AzureFastStart\_MyEdition\WebSites\All\U0X DocumentDB\Demo\Demo\Democonsole\IndexDemoConsole\obj\Debug\IndexDemoConsole.csprojResolveAssemblyReference.cache
+D:\Workshops\AzureFastStart\_MyEdition\WebSites\All\U0X DocumentDB\Demo\Demo\Democonsole\IndexDemoConsole\obj\Debug\IndexDemoConsole.csproj.CoreCompileInputs.cache
+D:\MOC\AZ203\AZ203-Slides\AZ-203T03A\Slides\Demo#6\IndexDemoConsole\bin\Debug\Microsoft.Azure.Documents.ServiceInterop.dll
+D:\MOC\AZ203\AZ203-Slides\AZ-203T03A\Slides\Demo#6\IndexDemoConsole\bin\Debug\Data\0.json
+D:\MOC\AZ203\AZ203-Slides\AZ-203T03A\Slides\Demo#6\IndexDemoConsole\bin\Debug\Data\1.json
+D:\MOC\AZ203\AZ203-Slides\AZ-203T03A\Slides\Demo#6\IndexDemoConsole\bin\Debug\Data\10.json
+D:\MOC\AZ203\AZ203-Slides\AZ-203T03A\Slides\Demo#6\IndexDemoConsole\bin\Debug\Data\11.json
+D:\MOC\AZ203\AZ203-Slides\AZ-203T03A\Slides\Demo#6\IndexDemoConsole\bin\Debug\Data\12.json
+D:\MOC\AZ203\AZ203-Slides\AZ-203T03A\Slides\Demo#6\IndexDemoConsole\bin\Debug\Data\13.json
+D:\MOC\AZ203\AZ203-Slides\AZ-203T03A\Slides\Demo#6\IndexDemoConsole\bin\Debug\Data\14.json
+D:\MOC\AZ203\AZ203-Slides\AZ-203T03A\Slides\Demo#6\IndexDemoConsole\bin\Debug\Data\15.json
+D:\MOC\AZ203\AZ203-Slides\AZ-203T03A\Slides\Demo#6\IndexDemoConsole\bin\Debug\Data\16.json
+D:\MOC\AZ203\AZ203-Slides\AZ-203T03A\Slides\Demo#6\IndexDemoConsole\bin\Debug\Data\17.json
+D:\MOC\AZ203\AZ203-Slides\AZ-203T03A\Slides\Demo#6\IndexDemoConsole\bin\Debug\Data\18.json
+D:\MOC\AZ203\AZ203-Slides\AZ-203T03A\Slides\Demo#6\IndexDemoConsole\bin\Debug\Data\19.json
+D:\MOC\AZ203\AZ203-Slides\AZ-203T03A\Slides\Demo#6\IndexDemoConsole\bin\Debug\Data\2.json
+D:\MOC\AZ203\AZ203-Slides\AZ-203T03A\Slides\Demo#6\IndexDemoConsole\bin\Debug\Data\20.json
+D:\MOC\AZ203\AZ203-Slides\AZ-203T03A\Slides\Demo#6\IndexDemoConsole\bin\Debug\Data\21.json
+D:\MOC\AZ203\AZ203-Slides\AZ-203T03A\Slides\Demo#6\IndexDemoConsole\bin\Debug\Data\22.json
+D:\MOC\AZ203\AZ203-Slides\AZ-203T03A\Slides\Demo#6\IndexDemoConsole\bin\Debug\Data\23.json
+D:\MOC\AZ203\AZ203-Slides\AZ-203T03A\Slides\Demo#6\IndexDemoConsole\bin\Debug\Data\24.json
+D:\MOC\AZ203\AZ203-Slides\AZ-203T03A\Slides\Demo#6\IndexDemoConsole\bin\Debug\Data\25.json
+D:\MOC\AZ203\AZ203-Slides\AZ-203T03A\Slides\Demo#6\IndexDemoConsole\bin\Debug\Data\26.json
+D:\MOC\AZ203\AZ203-Slides\AZ-203T03A\Slides\Demo#6\IndexDemoConsole\bin\Debug\Data\27.json
+D:\MOC\AZ203\AZ203-Slides\AZ-203T03A\Slides\Demo#6\IndexDemoConsole\bin\Debug\Data\28.json
+D:\MOC\AZ203\AZ203-Slides\AZ-203T03A\Slides\Demo#6\IndexDemoConsole\bin\Debug\Data\29.json
+D:\MOC\AZ203\AZ203-Slides\AZ-203T03A\Slides\Demo#6\IndexDemoConsole\bin\Debug\Data\3.json
+D:\MOC\AZ203\AZ203-Slides\AZ-203T03A\Slides\Demo#6\IndexDemoConsole\bin\Debug\Data\30.json
+D:\MOC\AZ203\AZ203-Slides\AZ-203T03A\Slides\Demo#6\IndexDemoConsole\bin\Debug\Data\31.json
+D:\MOC\AZ203\AZ203-Slides\AZ-203T03A\Slides\Demo#6\IndexDemoConsole\bin\Debug\Data\32.json
+D:\MOC\AZ203\AZ203-Slides\AZ-203T03A\Slides\Demo#6\IndexDemoConsole\bin\Debug\Data\33.json
+D:\MOC\AZ203\AZ203-Slides\AZ-203T03A\Slides\Demo#6\IndexDemoConsole\bin\Debug\Data\34.json
+D:\MOC\AZ203\AZ203-Slides\AZ-203T03A\Slides\Demo#6\IndexDemoConsole\bin\Debug\Data\35.json
+D:\MOC\AZ203\AZ203-Slides\AZ-203T03A\Slides\Demo#6\IndexDemoConsole\bin\Debug\Data\36.json
+D:\MOC\AZ203\AZ203-Slides\AZ-203T03A\Slides\Demo#6\IndexDemoConsole\bin\Debug\Data\37.json
+D:\MOC\AZ203\AZ203-Slides\AZ-203T03A\Slides\Demo#6\IndexDemoConsole\bin\Debug\Data\38.json
+D:\MOC\AZ203\AZ203-Slides\AZ-203T03A\Slides\Demo#6\IndexDemoConsole\bin\Debug\Data\39.json
+D:\MOC\AZ203\AZ203-Slides\AZ-203T03A\Slides\Demo#6\IndexDemoConsole\bin\Debug\Data\4.json
+D:\MOC\AZ203\AZ203-Slides\AZ-203T03A\Slides\Demo#6\IndexDemoConsole\bin\Debug\Data\40.json
+D:\MOC\AZ203\AZ203-Slides\AZ-203T03A\Slides\Demo#6\IndexDemoConsole\bin\Debug\Data\41.json
+D:\MOC\AZ203\AZ203-Slides\AZ-203T03A\Slides\Demo#6\IndexDemoConsole\bin\Debug\Data\42.json
+D:\MOC\AZ203\AZ203-Slides\AZ-203T03A\Slides\Demo#6\IndexDemoConsole\bin\Debug\Data\43.json
+D:\MOC\AZ203\AZ203-Slides\AZ-203T03A\Slides\Demo#6\IndexDemoConsole\bin\Debug\Data\44.json
+D:\MOC\AZ203\AZ203-Slides\AZ-203T03A\Slides\Demo#6\IndexDemoConsole\bin\Debug\Data\45.json
+D:\MOC\AZ203\AZ203-Slides\AZ-203T03A\Slides\Demo#6\IndexDemoConsole\bin\Debug\Data\46.json
+D:\MOC\AZ203\AZ203-Slides\AZ-203T03A\Slides\Demo#6\IndexDemoConsole\bin\Debug\Data\47.json
+D:\MOC\AZ203\AZ203-Slides\AZ-203T03A\Slides\Demo#6\IndexDemoConsole\bin\Debug\Data\48.json
+D:\MOC\AZ203\AZ203-Slides\AZ-203T03A\Slides\Demo#6\IndexDemoConsole\bin\Debug\Data\49.json
+D:\MOC\AZ203\AZ203-Slides\AZ-203T03A\Slides\Demo#6\IndexDemoConsole\bin\Debug\Data\5.json
+D:\MOC\AZ203\AZ203-Slides\AZ-203T03A\Slides\Demo#6\IndexDemoConsole\bin\Debug\Data\50.json
+D:\MOC\AZ203\AZ203-Slides\AZ-203T03A\Slides\Demo#6\IndexDemoConsole\bin\Debug\Data\51.json
+D:\MOC\AZ203\AZ203-Slides\AZ-203T03A\Slides\Demo#6\IndexDemoConsole\bin\Debug\Data\52.json
+D:\MOC\AZ203\AZ203-Slides\AZ-203T03A\Slides\Demo#6\IndexDemoConsole\bin\Debug\Data\53.json
+D:\MOC\AZ203\AZ203-Slides\AZ-203T03A\Slides\Demo#6\IndexDemoConsole\bin\Debug\Data\54.json
+D:\MOC\AZ203\AZ203-Slides\AZ-203T03A\Slides\Demo#6\IndexDemoConsole\bin\Debug\Data\55.json
+D:\MOC\AZ203\AZ203-Slides\AZ-203T03A\Slides\Demo#6\IndexDemoConsole\bin\Debug\Data\56.json
+D:\MOC\AZ203\AZ203-Slides\AZ-203T03A\Slides\Demo#6\IndexDemoConsole\bin\Debug\Data\57.json
+D:\MOC\AZ203\AZ203-Slides\AZ-203T03A\Slides\Demo#6\IndexDemoConsole\bin\Debug\Data\58.json
+D:\MOC\AZ203\AZ203-Slides\AZ-203T03A\Slides\Demo#6\IndexDemoConsole\bin\Debug\Data\59.json
+D:\MOC\AZ203\AZ203-Slides\AZ-203T03A\Slides\Demo#6\IndexDemoConsole\bin\Debug\Data\6.json
+D:\MOC\AZ203\AZ203-Slides\AZ-203T03A\Slides\Demo#6\IndexDemoConsole\bin\Debug\Data\60.json
+D:\MOC\AZ203\AZ203-Slides\AZ-203T03A\Slides\Demo#6\IndexDemoConsole\bin\Debug\Data\61.json
+D:\MOC\AZ203\AZ203-Slides\AZ-203T03A\Slides\Demo#6\IndexDemoConsole\bin\Debug\Data\62.json
+D:\MOC\AZ203\AZ203-Slides\AZ-203T03A\Slides\Demo#6\IndexDemoConsole\bin\Debug\Data\63.json
+D:\MOC\AZ203\AZ203-Slides\AZ-203T03A\Slides\Demo#6\IndexDemoConsole\bin\Debug\Data\64.json
+D:\MOC\AZ203\AZ203-Slides\AZ-203T03A\Slides\Demo#6\IndexDemoConsole\bin\Debug\Data\65.json
+D:\MOC\AZ203\AZ203-Slides\AZ-203T03A\Slides\Demo#6\IndexDemoConsole\bin\Debug\Data\66.json
+D:\MOC\AZ203\AZ203-Slides\AZ-203T03A\Slides\Demo#6\IndexDemoConsole\bin\Debug\Data\67.json
+D:\MOC\AZ203\AZ203-Slides\AZ-203T03A\Slides\Demo#6\IndexDemoConsole\bin\Debug\Data\68.json
+D:\MOC\AZ203\AZ203-Slides\AZ-203T03A\Slides\Demo#6\IndexDemoConsole\bin\Debug\Data\69.json
+D:\MOC\AZ203\AZ203-Slides\AZ-203T03A\Slides\Demo#6\IndexDemoConsole\bin\Debug\Data\7.json
+D:\MOC\AZ203\AZ203-Slides\AZ-203T03A\Slides\Demo#6\IndexDemoConsole\bin\Debug\Data\70.json
+D:\MOC\AZ203\AZ203-Slides\AZ-203T03A\Slides\Demo#6\IndexDemoConsole\bin\Debug\Data\71.json
+D:\MOC\AZ203\AZ203-Slides\AZ-203T03A\Slides\Demo#6\IndexDemoConsole\bin\Debug\Data\72.json
+D:\MOC\AZ203\AZ203-Slides\AZ-203T03A\Slides\Demo#6\IndexDemoConsole\bin\Debug\Data\73.json
+D:\MOC\AZ203\AZ203-Slides\AZ-203T03A\Slides\Demo#6\IndexDemoConsole\bin\Debug\Data\74.json
+D:\MOC\AZ203\AZ203-Slides\AZ-203T03A\Slides\Demo#6\IndexDemoConsole\bin\Debug\Data\75.json
+D:\MOC\AZ203\AZ203-Slides\AZ-203T03A\Slides\Demo#6\IndexDemoConsole\bin\Debug\Data\76.json
+D:\MOC\AZ203\AZ203-Slides\AZ-203T03A\Slides\Demo#6\IndexDemoConsole\bin\Debug\Data\77.json
+D:\MOC\AZ203\AZ203-Slides\AZ-203T03A\Slides\Demo#6\IndexDemoConsole\bin\Debug\Data\78.json
+D:\MOC\AZ203\AZ203-Slides\AZ-203T03A\Slides\Demo#6\IndexDemoConsole\bin\Debug\Data\79.json
+D:\MOC\AZ203\AZ203-Slides\AZ-203T03A\Slides\Demo#6\IndexDemoConsole\bin\Debug\Data\8.json
+D:\MOC\AZ203\AZ203-Slides\AZ-203T03A\Slides\Demo#6\IndexDemoConsole\bin\Debug\Data\80.json
+D:\MOC\AZ203\AZ203-Slides\AZ-203T03A\Slides\Demo#6\IndexDemoConsole\bin\Debug\Data\81.json
+D:\MOC\AZ203\AZ203-Slides\AZ-203T03A\Slides\Demo#6\IndexDemoConsole\bin\Debug\Data\82.json
+D:\MOC\AZ203\AZ203-Slides\AZ-203T03A\Slides\Demo#6\IndexDemoConsole\bin\Debug\Data\83.json
+D:\MOC\AZ203\AZ203-Slides\AZ-203T03A\Slides\Demo#6\IndexDemoConsole\bin\Debug\Data\84.json
+D:\MOC\AZ203\AZ203-Slides\AZ-203T03A\Slides\Demo#6\IndexDemoConsole\bin\Debug\Data\85.json
+D:\MOC\AZ203\AZ203-Slides\AZ-203T03A\Slides\Demo#6\IndexDemoConsole\bin\Debug\Data\86.json
+D:\MOC\AZ203\AZ203-Slides\AZ-203T03A\Slides\Demo#6\IndexDemoConsole\bin\Debug\Data\87.json
+D:\MOC\AZ203\AZ203-Slides\AZ-203T03A\Slides\Demo#6\IndexDemoConsole\bin\Debug\Data\88.json
+D:\MOC\AZ203\AZ203-Slides\AZ-203T03A\Slides\Demo#6\IndexDemoConsole\bin\Debug\Data\89.json
+D:\MOC\AZ203\AZ203-Slides\AZ-203T03A\Slides\Demo#6\IndexDemoConsole\bin\Debug\Data\9.json
+D:\MOC\AZ203\AZ203-Slides\AZ-203T03A\Slides\Demo#6\IndexDemoConsole\bin\Debug\Data\90.json
+D:\MOC\AZ203\AZ203-Slides\AZ-203T03A\Slides\Demo#6\IndexDemoConsole\bin\Debug\Data\91.json
+D:\MOC\AZ203\AZ203-Slides\AZ-203T03A\Slides\Demo#6\IndexDemoConsole\bin\Debug\Data\92.json
+D:\MOC\AZ203\AZ203-Slides\AZ-203T03A\Slides\Demo#6\IndexDemoConsole\bin\Debug\Data\93.json
+D:\MOC\AZ203\AZ203-Slides\AZ-203T03A\Slides\Demo#6\IndexDemoConsole\bin\Debug\Data\94.json
+D:\MOC\AZ203\AZ203-Slides\AZ-203T03A\Slides\Demo#6\IndexDemoConsole\bin\Debug\Data\95.json
+D:\MOC\AZ203\AZ203-Slides\AZ-203T03A\Slides\Demo#6\IndexDemoConsole\bin\Debug\Data\96.json
+D:\MOC\AZ203\AZ203-Slides\AZ-203T03A\Slides\Demo#6\IndexDemoConsole\bin\Debug\Data\97.json
+D:\MOC\AZ203\AZ203-Slides\AZ-203T03A\Slides\Demo#6\IndexDemoConsole\bin\Debug\Data\98.json
+D:\MOC\AZ203\AZ203-Slides\AZ-203T03A\Slides\Demo#6\IndexDemoConsole\bin\Debug\Data\99.json
+D:\MOC\AZ203\AZ203-Slides\AZ-203T03A\Slides\Demo#6\IndexDemoConsole\bin\Debug\JS\bulkImport.js
+D:\MOC\AZ203\AZ203-Slides\AZ-203T03A\Slides\Demo#6\IndexDemoConsole\bin\Debug\IndexDemoConsole.exe.config
+D:\MOC\AZ203\AZ203-Slides\AZ-203T03A\Slides\Demo#6\IndexDemoConsole\bin\Debug\IndexDemoConsole.exe
+D:\MOC\AZ203\AZ203-Slides\AZ-203T03A\Slides\Demo#6\IndexDemoConsole\bin\Debug\IndexDemoConsole.pdb
+D:\MOC\AZ203\AZ203-Slides\AZ-203T03A\Slides\Demo#6\IndexDemoConsole\bin\Debug\Microsoft.Azure.Documents.Client.dll
+D:\MOC\AZ203\AZ203-Slides\AZ-203T03A\Slides\Demo#6\IndexDemoConsole\bin\Debug\Newtonsoft.Json.dll
+D:\MOC\AZ203\AZ203-Slides\AZ-203T03A\Slides\Demo#6\IndexDemoConsole\bin\Debug\Microsoft.Azure.Documents.Client.xml
+D:\MOC\AZ203\AZ203-Slides\AZ-203T03A\Slides\Demo#6\IndexDemoConsole\bin\Debug\Newtonsoft.Json.xml
+D:\MOC\AZ203\AZ203-Slides\AZ-203T03A\Slides\Demo#6\IndexDemoConsole\obj\Debug\IndexDemoConsole.csprojAssemblyReference.cache
+D:\MOC\AZ203\AZ203-Slides\AZ-203T03A\Slides\Demo#6\IndexDemoConsole\obj\Debug\IndexDemoConsole.csproj.CoreCompileInputs.cache
+D:\MOC\AZ203\AZ203-Slides\AZ-203T03A\Slides\Demo#6\IndexDemoConsole\obj\Debug\IndexDemoConsole.csproj.CopyComplete
+D:\MOC\AZ203\AZ203-Slides\AZ-203T03A\Slides\Demo#6\IndexDemoConsole\obj\Debug\IndexDemoConsole.exe
+D:\MOC\AZ203\AZ203-Slides\AZ-203T03A\Slides\Demo#6\IndexDemoConsole\obj\Debug\IndexDemoConsole.pdb
+D:\MOC\AZ203\AZ203-Slides\AZ-203T03A\Slides\Demo#6\IndexDemoConsole\bin\Debug\Cosmos.CRTCompat.dll
+D:\MOC\AZ203\AZ203-Slides\AZ-203T03A\Slides\Demo#6\IndexDemoConsole\bin\Debug\System.Net.Http.dll
+D:\MOC\AZ203\AZ203-Slides\AZ-203T03A\Slides\Demo#6\IndexDemoConsole\bin\Debug\System.Security.Cryptography.Algorithms.dll
+D:\MOC\AZ203\AZ203-Slides\AZ-203T03A\Slides\Demo#6\IndexDemoConsole\bin\Debug\System.Security.Cryptography.Encoding.dll
+D:\MOC\AZ203\AZ203-Slides\AZ-203T03A\Slides\Demo#6\IndexDemoConsole\bin\Debug\System.Security.Cryptography.Primitives.dll
+D:\MOC\AZ203\AZ203-Slides\AZ-203T03A\Slides\Demo#6\IndexDemoConsole\bin\Debug\System.Security.Cryptography.X509Certificates.dll

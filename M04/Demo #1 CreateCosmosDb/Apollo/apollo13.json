@@ -1,0 +1,52 @@
+{
+    "id": "Apollo 13",
+    "Description": "The Apollo 13 crew photographed the Moon out of the Lunar Module overhead rendezvous window as they passed by. The deactivated Command Module is visible.",
+    "Mission type": "Manned lunar landing attempt",
+    "Operator": "NASA",
+    "COSPAR ID": "1970-029A",
+    "SATCAT ": "4371",
+    "Mission duration": "5 days, 22 hours, 54 minutes, 41 seconds",
+    "Spacecraft properties": {
+        "Spacecraft": [
+            "Apollo CSM-109",
+            "Apollo LM-7"
+        ],
+        "Manufacturer": [ "CSM: North American Rockwell", "LM: Grumman" ],
+        "Launch mass": "101,261 pounds (45,931 kg)",
+        "Landing mass": "11,133 pounds (5,050 kg)"
+    },
+    "Crew": {
+        "Crew size": 3,
+        "Callsign": [ "CM: Odyssey", "LM: Aquarius" ],
+        "Members": [
+            "L. Gordon Cooper",
+            "Donn F. Eisele",
+            "Edgar D. Mitchell"
+        ]
+    },
+    "Start of mission": {
+        "Launch date": "April 11, 1970, 19:13:00 (1970-04-11UTC19:13Z) UTC",
+        "Rocket": "Saturn V SA-508",
+        "Launch site": "Kennedy LC-39A"
+    },
+    "End of mission": {
+        "Recovered by": "USS Iwo Jima",
+        "Landing date": "April 17, 1970, 18:07:41 (1970-04-17UTC18:07:42Z) UTC",
+        "Landing site": [
+            "South Pacific Ocean",
+            "21°3824S 165°2142W / 21.64000°S 165.36167°W / -21.64000; -165.36167 (Apollo 13 splashdown)"
+        ]
+    },
+    "Orbital parameters": {
+        "Reference system": "Geocentric",
+        "Regime": "Cislunar"
+    },
+    "Flyby of Moon (orbit and landing aborted)": {
+        "Closest approach": "April 15, 1970, 00:21:00 UTC",
+        "Distance": "254 kilometers (137 nmi)"
+    },
+    "Docking with LM": {
+        "Docking date": "April 11, 1970, 22:32:08 UTC",
+        "Undocking date": "April 17, 1970, 16:43:00 UTC"
+    }
+}

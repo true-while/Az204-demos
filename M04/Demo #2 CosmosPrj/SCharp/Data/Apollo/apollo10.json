@@ -1,0 +1,55 @@
+{
+  "id": "Apollo 10",
+  "Description": "Apollo 10's Lunar Module, Snoopy, approaches the Command/Service Module Charlie Brown for redocking",
+  "Operator": "NASA",
+  "Crew": {
+    "Crew size": 3,
+    "Members": [
+      "Thomas P. Stafford",
+      "John W. Young",
+      "Eugene A. Cernan"
+    ],
+    "Callsign": [
+      "CSM: Charlie Brown",
+      "LM: Snoopy"
+    ]
+  },
+  "Start of mission": {
+    "Launch date": "May 18, 1969, 16:49:00 (1969-05-18UTC16:49Z) UTC",
+    "Rocket": "Saturn V SA-505",
+    "Launch site": "Kennedy LC-39B"
+  },
+  "End of mission": {
+    "Recovered by": "USS Princeton",
+    "Landing date": "May 26, 1969, 16:52:23 (1969-05-26UTC16:52:24Z) UTC",
+    "Landing site": "15°2S 164°39W / 15.033°S 164.650°W / -15.033; -164.650 (Apollo 10 splashdown)"
+  },
+  "Orbital parameters": {
+    "Reference system": "Selenocentric",
+    "Periselene": "109.6 kilometers (59.2 nmi)",
+    "Aposelene": "113.0 kilometers (61.0 nmi)",
+    "Inclination": "1.2 degrees",
+    "Period": "2 hours"
+  },
+  "Lunar orbiter": {
+    "Spacecraft component": "Command/Service Module",
+    "Orbital insertion": "May 21, 1969, 20:44:54 UTC",
+    "Departed orbit": "May 24, 1969, 10:25:38 UTC",
+    "Orbits": 31
+  },
+  "Lunar orbiter": {
+    "Spacecraft component": "Lunar Module",
+    "Orbits": "4"
+  },
+  "Orbit parameters": {
+    "Periselene": "14.4 kilometers (7.8 nmi)"
+  },
+  "Docking with LM": {
+    "Docking date": "May 18, 1969, 20:06:36 UTC",
+    "Undocking date": "May 22, 1969, 19:00:57 UTC"
+  },
+  "Docking with LM Ascent Stage": {
+    "Docking date": "May 23, 1969, 03:11:02 UTC",
+    "Undocking date": "May 23, 1969, 05:13:36 UTC"
+  }
+}
