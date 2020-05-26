@@ -1,0 +1,26 @@
+#update names!
+
+# Scale Web app
+az appservice plan update --name ScaleDemo --resource-group ScaleDemo --sku S1
+
+# test web app
+#https://slot-demo.azurewebsites.net   # should be with "fix me"
+
+# create stage slot
+az webapp deployment slot create --name slot-demo --resource-group ScaleDemo --slot staging
+#https://slot-demo-staging.azurewebsites.net  #should be just empty page
+
+# deploy to slot from ZIP
+az webapp deployment source config-zip --resource-group "ScaleDemo" --name slot-demo --slot staging --src web.zip
+#https://slot-demo-staging.azurewebsites.net
+
+#swap slots
+az webapp deployment slot swap --name slot-demo --resource-group ScaleDemo --slot staging --action swap
+#https://slot-demo-staging.azurewebsites.net
+#https://slot-demo.azurewebsites.net
+
+#delete slot
+az webapp deployment slot delete --name slot-demo --resource-group ScaleDemo --slot staging
+
+#scale down app
+az appservice plan update --name ScaleDemo --resource-group ScaleDemo --sku B1

@@ -1,0 +1,12 @@
+#create resourece group
+az group create --name "DemoAZ20001" --location "eastus"
+
+#create app service plan
+az appservice plan create --name "DemoAZ20001-appplan" --resource-group "DemoAZ20001" --sku FREE
+
+#create web app
+az webapp create --name "DemoAZ20001-webappa"  --resource-group "DemoAZ20001" --plan "DemoAZ20001-appplan" 
+# https://demoaz20001-webappa.azurewebsites.net/
+
+#deploy web app from zip
+az webapp deployment source config-zip --resource-group "DemoAZ20001" --name "DemoAZ20001-webappa" --src webapp.zip

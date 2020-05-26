@@ -1,0 +1,19 @@
+# Following sript will help you scale up for demo and down enviroment. 
+# get RG
+$rg = "TrafficManagerDemo"
+az group show --name $rg
+
+# get web app
+#az webapp list -g $rg  --output table
+#az appservice plan list -g $rg  --output table
+
+$ids = $(az appservice plan list --query "[?resourceGroup=='$rg'].id" --output tsv) 
+az appservice plan update --sku S1 --ids $ids
+
+$ids = $(az webapp list --query "[?resourceGroup=='$rg'].id" --output tsv) 
+az webapp start --ids $ids
+
+
+#clean up
+$ids = $(az appservice plan list --query "[?resourceGroup=='$rg'].id" --output tsv) 
+az appservice plan update --sku F1 --ids $ids

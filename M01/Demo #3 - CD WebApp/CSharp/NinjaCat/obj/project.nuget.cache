@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "FUl4MRja3Y8xwAD0rhkvSdJYJTqeO6mzStE6/oc0wfY4JfYnwk6qxw3j604S/KqSzN49rYdUzFqwdl5+01ibqg==",
+  "success": true,
+  "projectFilePath": "C:\\MOC\\AZ204\\Slides\\M1\\Demo #3 - CD WebApp\\CSharp\\NinjaCat\\NinjaCat.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\aivanov\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.4.10\\microsoft.visualstudio.azure.containers.tools.targets.1.4.10.nupkg.sha512"
+  ],
+  "logs": []
+}
