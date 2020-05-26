@@ -1,0 +1,7 @@
+Upload files  
+
+AzCopy copy img "https://YOURNAME.blob.core.windows.net/azcopyimg?sv=2019-02-02&ss=b&srt=co&sp=rwdlac&se=2025-11-01T04:50:06Z&st=2019-10-31T20:50:06Z&spr=https&sig=YOURSAS" --recursive=true
+
+Download files
+
+AzCopy copy "https://YOURNAME.blob.core.windows.net/azcopyimg?sv=2019-02-02&ss=b&srt=co&sp=rwdlac&se=2025-11-01T04:50:06Z&st=2019-10-31T20:50:06Z&spr=https&sig=YOURSAS" img_new --recursive=true

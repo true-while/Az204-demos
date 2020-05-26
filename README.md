@@ -1,6 +1,6 @@
 # AZ-204 Demo materials
 
-## Module 01: 
+## Module 01: Creating Azure App Service Web Apps
 
 - Demo #1: Create new Web App 
   - [Portal](/M01/Demo%20%231%20-%20Just%20WebApp/Demo.md)
@@ -27,3 +27,18 @@
   - [C# FunIN-FunOut](/M02/Demo%20%233%20DurableFunction/Demo-csharp.md)
   - [NodeJS Chain](/M02/Demo%20%233%20DurableFunction/Demo-nodejs1.md) 
   - [NodeJS FunIN-FunOut](/M02/Demo%20%233%20DurableFunction/Demo-nodejs2.md)
+
+
+  ## Module 03: Develop solutions that use blob storage
+
+- Demo #1: Azure Blob
+  - [Portal](/M03/Demo%20%231%20New%20Blob/Demo.md)
+- Demo #2: Adding a policy to Azure Blob storage
+  - [Portal](/M03/Demo%20%232%20BlobPolicy/Demo.md)
+- Demo #3: Managing Azure Blob from code 
+  - [CSharp](/M03/Demo%20%233%20BobProj/Demo-CSharp.md)
+  - [NodeJS](/M03/Demo%20%233%20BobProj/Demo-Nodejs.md)
+- Demo #4: Using AzCopy in the Cloud Shell
+  - [CMD+AzCopy](/M03/Demo%20%234%20-%20AzCopy/Demo.md)
+
+
