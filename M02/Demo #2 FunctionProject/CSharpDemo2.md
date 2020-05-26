@@ -22,7 +22,7 @@
 ```
 4. Response should looks like: 
 
-![Processing file](\CSharp\HttpIntegration\screen.png)
+![Processing file](CSharp/HttpIntegration/screen.png)
 
 
 > Note the external API is **limited by 5 calls** in hour!

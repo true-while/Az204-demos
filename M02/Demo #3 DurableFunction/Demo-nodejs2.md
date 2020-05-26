@@ -2,7 +2,7 @@
 
 ### in this demo you will run durable function FunIn-FunOut locally:
 
-![FunIn-FunOut](Nodejs\FunIn-FunOut\schema.png)
+![FunIn-FunOut](Nodejs/FunIn-FunOut/schema.png)
 
 ## Before delivery:
 
@@ -15,9 +15,9 @@
 1. Open the folder in VS Code and run function locally by use play button.
 1. Use postman to send GET request to  **http://localhost:7071/orchestrators/HelloSequence** 
 
-![First request](Nodejs\FunIn-FunOut\start.png)
+![First request](Nodejs/FunIn-FunOut/start.png)
 
 1. Send additional request to provided url by use postman to obtain the results.
 
-![Second request](Nodejs\FunIn-FunOut\screen2.png)
+![Second request](Nodejs/FunIn-FunOut/screen2.png)
 

@@ -2,7 +2,7 @@
 
 ### In the demo you will start Azure Function locally and will reach out the external API with text provided in request. Text will be translated to the Yoddish language.
 
-![Talk like Yoda!](\Nodejs\yodish.png)
+![Talk like Yoda!](Nodejs/yodish.png)
 
 ## Before delivery:
 
@@ -24,10 +24,10 @@
 ```
 1. Response should looks like: 
 
-![Response](\Nodejs\screen2.png)
+![Response](Nodejs/screen2.png)
 
 1. You also can publish and run function from Azure Portal: 
 
-![Response](\Nodejs\screen.png)
+![Response](Nodejs/screen.png)
 
 > Note the external API is **limited by 5 calls** in hour!

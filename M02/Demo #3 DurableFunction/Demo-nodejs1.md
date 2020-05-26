@@ -2,7 +2,7 @@
 
 ### in this demo you will run durable function FunIn-FunOut locally:
 
-![FunIn-FunOut](Nodejs\ChainFunExample\schema.png)
+![FunIn-FunOut](Nodejs/ChainFunExample/schema.png)
 
 ## Before delivery:
 
@@ -15,9 +15,9 @@
 1. Open the folder in VS Code and run function locally by use play button.
 1. Use postman to send GET request to  **http://localhost:7071/orchestrators/ChainFunction** 
 
-![First request](Nodejs\ChainFunExample\start.png)
+![First request](Nodejs/ChainFunExample/start.png)
 
 1. Send additional request to provided url by use postman to obtain the results.
 
-![Second request](Nodejs\ChainFunExample\screen.png)
+![Second request](Nodejs/ChainFunExample/screen.png)
 

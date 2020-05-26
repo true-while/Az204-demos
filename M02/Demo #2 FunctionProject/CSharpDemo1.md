@@ -8,7 +8,7 @@
 2. Create a target container in storage account. Name: flightdata
 3. Cosmos DB collection Docs with DBName Docs should be created
 
-![Container](/CSharp/StorageIntegration/container.png)
+![Container](CSharp/StorageIntegration/container.png)
 
 1. Install VS 2017/19 or VSCode
 2. Install extensions for Azure Function to run locally.
@@ -22,8 +22,8 @@
 1. Run the project.
 2. Upload file from _ **DataSample** _ folder to monitored container in Azure
 
-![Processing file](/CSharp/StorageIntegration/processed.png)
+![Processing file](CSharp/StorageIntegration/processed.png)
 
 1. Demonstrate the result in Cosmos DB. Documents has TTL – 5min
 
-![Result in cosmos](/CSharp/StorageIntegration/cosmos.png)
+![Result in cosmos](CSharp/StorageIntegration/cosmos.png)
