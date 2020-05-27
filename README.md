@@ -79,15 +79,15 @@
 ## Module 06: Implement user authentication and authorization
 
 - Demo #1: Identities in Azure AD
-  - [Portal](/M05/Demo%20%231%20-%20Identities/Demo.md)
+  - [Portal](/M06/Demo%20%231%20-%20Identities/Demo.md)
 - Demo #2: OAuth in Action
-  - [Csharp](/M05/Demo%20%232%20-%20PS%20OAuthADAL/Demo-scharp.md)
-  - [Nodejs](/M05/Demo%20%232%20-%20PS%20OAuthADAL/Demo-nodejs.md)
+  - [Csharp](/M06/Demo%20%232%20-%20PS%20OAuthADAL/Demo-scharp.md)
+  - [Nodejs](/M06/Demo%20%232%20-%20PS%20OAuthADAL/Demo-nodejs.md)
 - Demo #3: Interactive authentication by using MSAL
-  - [CSharp](/M05/Demo%20%233%20-%20Template%20MSAL/Demo-csharp1.md)
-  - [CSharp](/M05/Demo%20%233%20-%20Template%20MSAL/Demo-csharp2.md)
-  - [Nodejs](/M05/Demo%20%233%20-%20Template%20MSAL/Demo-nodejs.md)
+  - [CSharp](/M06/Demo%20%233%20-%20Template%20MSAL/Demo-csharp1.md)
+  - [CSharp](/M06/Demo%20%233%20-%20Template%20MSAL/Demo-csharp2.md)
+  - [Nodejs](/M06/Demo%20%233%20-%20Template%20MSAL/Demo-nodejs.md)
 - Demo #4: Microsoft Graph Web API
-  - [Web](/M05/Demo%20%234%20-%20Template%20Graph/Demo.md)
+  - [Web](/M06/Demo%20%234%20-%20Template%20Graph/Demo.md)
 - Demo #5: Use SAS token to access Storage Account
-  - [Portal](/M05/Demo%20%235%20-%20Docker%20SAS/Demo.md)
+  - [Portal](/M06/Demo%20%235%20-%20Docker%20SAS/Demo.md)
