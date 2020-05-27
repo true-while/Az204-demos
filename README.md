@@ -131,7 +131,7 @@
 - Demo #4: Notification Hub
   - [Portal](/M10/Demo%20%234%20-%20NHub/Demo.md)
 
-  ## Module 11: Develop Logic Apps
+## Module 11: Develop Logic Apps
 
 - Demo #1: Send and receive messages from a Service Bus Queue
   - [CSharp](/M11/Demo%20%231%20-%20ServiceBus/Demo-csharp.md)
