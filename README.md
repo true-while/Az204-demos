@@ -101,4 +101,4 @@
   - [Csharp](/M07/Demo%20%232%20-%20ReadSecreet/Demo-csharp.md)
   - [Nodejs](/M07/Demo%20%232%20-%20ReadSecreet/Demo-nodejs.md)
 - Demo #3: Data Encryption in Azure
-  - [SSMS](/M07/Demo%20%233%20-%20MSAL/Demo.md)
+  - [SSMS](/M07/Demo%20%233%20-%20AlwaysEncrypt/Demo.md)
