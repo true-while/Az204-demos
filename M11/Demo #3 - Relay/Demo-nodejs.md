@@ -18,4 +18,4 @@ In the demo you will use Azure Relay to send messages between server and client
 1. Open folder `Nodejs\client` from VS Code
 1. Run the following command to send message **node .\index.js**
 
-![Sub](Nodejs/screen.png)
+![Sub](NodeJs/screen.png)
