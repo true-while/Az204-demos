@@ -42,7 +42,7 @@ namespace DataExporter
 
             try
             {
-                string ConnectionString = "DefaultEndpointsProtocol=https;AccountName=aquotedevaf3aalex;AccountKey=ohX+mzxtV5gcjUAAtfOZERJZJY2ZHGm/5v/TlPjRgUi+jLCe6FPvYKI5UuPlOrQbRwCIbr4P0W+b3Di4t7huEw==;EndpointSuffix=core.windows.net";
+                string ConnectionString = "your storage db connection string";
                 CloudStorageAccount storageAccount = CloudStorageAccount.Parse(ConnectionString);
                 CloudTableClient tableClient = storageAccount.CreateCloudTableClient();
                 
