@@ -54,7 +54,7 @@
 - Demo #4: Graph API
   - [Portal+Nodejs](/M04/Demo%20%234%20Graph/Demo.md)
 
-## Module 05: Creating Azure App Service Web Apps
+## Module 05: Implement IaaS solutions
 
 - Demo #1: Create an Azure VM by using the Azure portal
   - [Portal](/M05/Demo%20%231%20-%20VM/Demo.md)
