@@ -102,3 +102,12 @@
   - [Nodejs](/M07/Demo%20%232%20-%20ReadSecreet/Demo-nodejs.md)
 - Demo #3: Data Encryption in Azure
   - [SSMS](/M07/Demo%20%233%20-%20AlwaysEncrypt/Demo.md)
+
+## Module 08: Implement API Management
+
+- Demo #1: Azure API Management
+  - [Portal](/M08/Demo%20%231%20-%20APIM/Demo.md)
+- Demo #2: Setting and editing Azure API Management policies
+  - [Portal](/M08/Demo%20%232%20-%20API%20Policy/Demo.md)
+
+
