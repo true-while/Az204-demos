@@ -14,5 +14,5 @@ In the demo you will deploy container you build before
 1. Execute line by line
 1. Demonstrate ACR with the image
 
-![ACR](ACR-extra.png)
+![ACR](acr-extra.png)
 
