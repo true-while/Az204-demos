@@ -1,0 +1,19 @@
+#create resource group
+az group create --name TheKeyVaultDemo --location eastus2
+
+#create key vault
+az keyvault create --name keyVaultDemo-alex --resource-group TheKeyVaultDemo --location eastus2
+
+#set secret
+az keyvault secret set --vault-name keyVaultDemo-alex --name topsecret --value "Hello World"
+
+#retrive secret
+az keyvault secret show --name "topsecret" --vault-name "keyVaultDemo-alex"
+
+$appID="<your application ID>"
+
+#assign permision
+az keyvault set-policy --name "keyVaultDemo-alex" --spn $appID --secret-permissions get list set
+
+#clean up
+az group delete --name TheKeyVaultDemo

@@ -91,3 +91,14 @@
   - [Web](/M06/Demo%20%234%20-%20Graph/Demo.md)
 - Demo #5: Use SAS token to access Storage Account
   - [Portal](/M06/Demo%20%235%20-%20SAS/Demo.md)
+
+
+## Module 07: Implement secure cloud solutions
+
+- Demo #1: Create Azure Key Vault  with CLI
+  - [Portal](/M07/Demo%20%231%20-%20Keyvault/Demo.md)
+- Demo #2: Retrieving a secret from Azure Key Vault 
+  - [Csharp](/M07/Demo%20%232%20-%20OReadSecreet/Demo-scharp.md)
+  - [Nodejs](/M07/Demo%20%232%20-%20OReadSecreet/Demo-nodejs.md)
+- Demo #3: Data Encryption in Azure
+  - [SSMS](/M07/Demo%20%233%20-%20MSAL/Demo.md)
