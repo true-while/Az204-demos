@@ -14,7 +14,7 @@ namespace SampleEphReceiver
         private const string EventHubName = "DemoEventHub";
         private const string StorageContainerName = "messages";
         private const string StorageAccountName = "servicebusdemo";
-        private const string StorageAccountKey = "wVNHA7eNm5zhlZt/7hMUwAq/AxghOylytmX2hP+6EnQFlbjWxxAdXxgJ1mnBDSgiRvCcgmtej4W6Tybah+Ii3g==";
+        private const string StorageAccountKey = "<your storage account key>";
 
         private static readonly string StorageConnectionString = string.Format("DefaultEndpointsProtocol=https;AccountName={0};AccountKey={1}", StorageAccountName, StorageAccountKey);
 
