@@ -81,8 +81,8 @@
 - Demo #1: Identities in Azure AD
   - [Portal](/M06/Demo%20%231%20-%20Identities/Demo.md)
 - Demo #2: OAuth in Action
-  - [Csharp](/M06/Demo%20%232%20-%20PS%20OAuthADAL/Demo-scharp.md)
-  - [Nodejs](/M06/Demo%20%232%20-%20PS%20OAuthADAL/Demo-nodejs.md)
+  - [Csharp](/M06/Demo%20%232%20-%20OAuthADAL/Demo-scharp.md)
+  - [Nodejs](/M06/Demo%20%232%20-%20OAuthADAL/Demo-nodejs.md)
 - Demo #3: Interactive authentication by using MSAL
   - [CSharp](/M06/Demo%20%233%20-%20Template%20MSAL/Demo-csharp1.md)
   - [CSharp](/M06/Demo%20%233%20-%20Template%20MSAL/Demo-csharp2.md)
