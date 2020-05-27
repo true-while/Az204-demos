@@ -98,7 +98,7 @@
 - Demo #1: Create Azure Key Vault  with CLI
   - [Portal](/M07/Demo%20%231%20-%20Keyvault/Demo.md)
 - Demo #2: Retrieving a secret from Azure Key Vault 
-  - [Csharp](/M07/Demo%20%232%20-%20OReadSecreet/Demo-scharp.md)
-  - [Nodejs](/M07/Demo%20%232%20-%20OReadSecreet/Demo-nodejs.md)
+  - [Csharp](/M07/Demo%20%232%20-%20ReadSecreet/Demo-csharp.md)
+  - [Nodejs](/M07/Demo%20%232%20-%20ReadSecreet/Demo-nodejs.md)
 - Demo #3: Data Encryption in Azure
   - [SSMS](/M07/Demo%20%233%20-%20MSAL/Demo.md)
