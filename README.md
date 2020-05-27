@@ -110,4 +110,12 @@
 - Demo #2: Setting and editing Azure API Management policies
   - [Portal](/M08/Demo%20%232%20-%20API%20Policy/Demo.md)
 
+## Module 09: Develop Logic Apps
+
+- Demo #1: Creating logic apps
+  - [Portal](/M09/Demo%20%231%20-%20Logic%20App/Demo.md)
+- Demo #2: Create a custom connector in Logic Apps
+  - [Portal](/M09/Demo%20%232%20-%20CustomConnector/Demo.md)
+- Demo #3: Deploy Logic app from Template
+  - [Portal](/M09/Demo%20%233%20-%20Deploying%20Logic%20App/Demo.md)
 

@@ -5,7 +5,7 @@ In the demo you will create a new instance of APIM
 ## Before delivery:
 
 - Create new instance of APIM with `consumption` SKU. 
-- You can create your custom Web API. Following web [service](https://azure.microsoft.com/en-us/try/app-service/web/) will help you build new Web API from scratch. You also can use `echo API` for testing.
+- You can create your custom Web API. Following web [service](https://azure.microsoft.com/en-us/try/app-service/web/) or [Basic API sample](https://docs.microsoft.com/en-us/samples/microsoft/powerapps-samples/web-api-basic-operations-sample/) will help you build new Web API from scratch. You also can use `echo API` for testing.
 - You can follow the instruction to prepare for demo:
   - [Create new APIM](https://docs.microsoft.com/en-us/azure/api-management/get-started-create-service-instance)
   - [Import API](https://docs.microsoft.com/en-us/azure/api-management/import-and-publish)
