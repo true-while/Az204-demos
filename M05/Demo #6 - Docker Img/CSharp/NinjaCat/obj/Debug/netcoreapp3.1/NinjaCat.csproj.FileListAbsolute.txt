@@ -1,0 +1,71 @@
+C:\MOC\Az400\DAY2\Demo #6 Docker\src\NinjaCat\NinjaCat\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\MOC\Az400\DAY2\Demo #6 Docker\src\NinjaCat\NinjaCat\bin\Debug\netcoreapp3.1\appsettings.json
+C:\MOC\Az400\DAY2\Demo #6 Docker\src\NinjaCat\NinjaCat\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\MOC\Az400\DAY2\Demo #6 Docker\src\NinjaCat\NinjaCat\bin\Debug\netcoreapp3.1\NinjaCat.exe
+C:\MOC\Az400\DAY2\Demo #6 Docker\src\NinjaCat\NinjaCat\bin\Debug\netcoreapp3.1\NinjaCat.deps.json
+C:\MOC\Az400\DAY2\Demo #6 Docker\src\NinjaCat\NinjaCat\bin\Debug\netcoreapp3.1\NinjaCat.runtimeconfig.json
+C:\MOC\Az400\DAY2\Demo #6 Docker\src\NinjaCat\NinjaCat\bin\Debug\netcoreapp3.1\NinjaCat.runtimeconfig.dev.json
+C:\MOC\Az400\DAY2\Demo #6 Docker\src\NinjaCat\NinjaCat\bin\Debug\netcoreapp3.1\NinjaCat.dll
+C:\MOC\Az400\DAY2\Demo #6 Docker\src\NinjaCat\NinjaCat\bin\Debug\netcoreapp3.1\NinjaCat.pdb
+C:\MOC\Az400\DAY2\Demo #6 Docker\src\NinjaCat\NinjaCat\bin\Debug\netcoreapp3.1\NinjaCat.Views.dll
+C:\MOC\Az400\DAY2\Demo #6 Docker\src\NinjaCat\NinjaCat\bin\Debug\netcoreapp3.1\NinjaCat.Views.pdb
+C:\MOC\Az400\DAY2\Demo #6 Docker\src\NinjaCat\NinjaCat\obj\Debug\netcoreapp3.1\NinjaCat.csprojAssemblyReference.cache
+C:\MOC\Az400\DAY2\Demo #6 Docker\src\NinjaCat\NinjaCat\obj\Debug\netcoreapp3.1\staticwebassets\NinjaCat.StaticWebAssets.Manifest.cache
+C:\MOC\Az400\DAY2\Demo #6 Docker\src\NinjaCat\NinjaCat\obj\Debug\netcoreapp3.1\staticwebassets\NinjaCat.StaticWebAssets.xml
+C:\MOC\Az400\DAY2\Demo #6 Docker\src\NinjaCat\NinjaCat\obj\Debug\netcoreapp3.1\NinjaCat.MvcApplicationPartsAssemblyInfo.cache
+C:\MOC\Az400\DAY2\Demo #6 Docker\src\NinjaCat\NinjaCat\obj\Debug\netcoreapp3.1\NinjaCat.RazorAssemblyInfo.cache
+C:\MOC\Az400\DAY2\Demo #6 Docker\src\NinjaCat\NinjaCat\obj\Debug\netcoreapp3.1\NinjaCat.RazorAssemblyInfo.cs
+C:\MOC\Az400\DAY2\Demo #6 Docker\src\NinjaCat\NinjaCat\obj\Debug\netcoreapp3.1\NinjaCat.AssemblyInfoInputs.cache
+C:\MOC\Az400\DAY2\Demo #6 Docker\src\NinjaCat\NinjaCat\obj\Debug\netcoreapp3.1\NinjaCat.AssemblyInfo.cs
+C:\MOC\Az400\DAY2\Demo #6 Docker\src\NinjaCat\NinjaCat\obj\Debug\netcoreapp3.1\NinjaCat.TagHelpers.input.cache
+C:\MOC\Az400\DAY2\Demo #6 Docker\src\NinjaCat\NinjaCat\obj\Debug\netcoreapp3.1\NinjaCat.TagHelpers.output.cache
+C:\MOC\Az400\DAY2\Demo #6 Docker\src\NinjaCat\NinjaCat\obj\Debug\netcoreapp3.1\NinjaCat.RazorCoreGenerate.cache
+C:\MOC\Az400\DAY2\Demo #6 Docker\src\NinjaCat\NinjaCat\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+C:\MOC\Az400\DAY2\Demo #6 Docker\src\NinjaCat\NinjaCat\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+C:\MOC\Az400\DAY2\Demo #6 Docker\src\NinjaCat\NinjaCat\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+C:\MOC\Az400\DAY2\Demo #6 Docker\src\NinjaCat\NinjaCat\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\MOC\Az400\DAY2\Demo #6 Docker\src\NinjaCat\NinjaCat\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\MOC\Az400\DAY2\Demo #6 Docker\src\NinjaCat\NinjaCat\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\MOC\Az400\DAY2\Demo #6 Docker\src\NinjaCat\NinjaCat\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\MOC\Az400\DAY2\Demo #6 Docker\src\NinjaCat\NinjaCat\obj\Debug\netcoreapp3.1\NinjaCat.RazorTargetAssemblyInfo.cache
+C:\MOC\Az400\DAY2\Demo #6 Docker\src\NinjaCat\NinjaCat\obj\Debug\netcoreapp3.1\NinjaCat.RazorTargetAssemblyInfo.cs
+C:\MOC\Az400\DAY2\Demo #6 Docker\src\NinjaCat\NinjaCat\obj\Debug\netcoreapp3.1\NinjaCat.Views.pdb
+C:\MOC\Az400\DAY2\Demo #6 Docker\src\NinjaCat\NinjaCat\obj\Debug\netcoreapp3.1\NinjaCat.dll
+C:\MOC\Az400\DAY2\Demo #6 Docker\src\NinjaCat\NinjaCat\obj\Debug\netcoreapp3.1\NinjaCat.pdb
+C:\MOC\Az400\DAY2\Demo #6 Docker\src\NinjaCat\NinjaCat\obj\Debug\netcoreapp3.1\NinjaCat.csproj.CopyComplete
+C:\MOC\AZ204\Slides\M5\Demo #6 - Docker Img\CSharp\NinjaCat\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\MOC\AZ204\Slides\M5\Demo #6 - Docker Img\CSharp\NinjaCat\bin\Debug\netcoreapp3.1\appsettings.json
+C:\MOC\AZ204\Slides\M5\Demo #6 - Docker Img\CSharp\NinjaCat\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\MOC\AZ204\Slides\M5\Demo #6 - Docker Img\CSharp\NinjaCat\bin\Debug\netcoreapp3.1\NinjaCat.exe
+C:\MOC\AZ204\Slides\M5\Demo #6 - Docker Img\CSharp\NinjaCat\bin\Debug\netcoreapp3.1\NinjaCat.deps.json
+C:\MOC\AZ204\Slides\M5\Demo #6 - Docker Img\CSharp\NinjaCat\bin\Debug\netcoreapp3.1\NinjaCat.runtimeconfig.json
+C:\MOC\AZ204\Slides\M5\Demo #6 - Docker Img\CSharp\NinjaCat\bin\Debug\netcoreapp3.1\NinjaCat.runtimeconfig.dev.json
+C:\MOC\AZ204\Slides\M5\Demo #6 - Docker Img\CSharp\NinjaCat\bin\Debug\netcoreapp3.1\NinjaCat.dll
+C:\MOC\AZ204\Slides\M5\Demo #6 - Docker Img\CSharp\NinjaCat\bin\Debug\netcoreapp3.1\NinjaCat.pdb
+C:\MOC\AZ204\Slides\M5\Demo #6 - Docker Img\CSharp\NinjaCat\bin\Debug\netcoreapp3.1\NinjaCat.Views.dll
+C:\MOC\AZ204\Slides\M5\Demo #6 - Docker Img\CSharp\NinjaCat\bin\Debug\netcoreapp3.1\NinjaCat.Views.pdb
+C:\MOC\AZ204\Slides\M5\Demo #6 - Docker Img\CSharp\NinjaCat\obj\Debug\netcoreapp3.1\NinjaCat.csproj.CoreCompileInputs.cache
+C:\MOC\AZ204\Slides\M5\Demo #6 - Docker Img\CSharp\NinjaCat\obj\Debug\netcoreapp3.1\NinjaCat.MvcApplicationPartsAssemblyInfo.cache
+C:\MOC\AZ204\Slides\M5\Demo #6 - Docker Img\CSharp\NinjaCat\obj\Debug\netcoreapp3.1\NinjaCat.RazorAssemblyInfo.cache
+C:\MOC\AZ204\Slides\M5\Demo #6 - Docker Img\CSharp\NinjaCat\obj\Debug\netcoreapp3.1\NinjaCat.RazorAssemblyInfo.cs
+C:\MOC\AZ204\Slides\M5\Demo #6 - Docker Img\CSharp\NinjaCat\obj\Debug\netcoreapp3.1\NinjaCat.AssemblyInfoInputs.cache
+C:\MOC\AZ204\Slides\M5\Demo #6 - Docker Img\CSharp\NinjaCat\obj\Debug\netcoreapp3.1\NinjaCat.AssemblyInfo.cs
+C:\MOC\AZ204\Slides\M5\Demo #6 - Docker Img\CSharp\NinjaCat\obj\Debug\netcoreapp3.1\NinjaCat.TagHelpers.input.cache
+C:\MOC\AZ204\Slides\M5\Demo #6 - Docker Img\CSharp\NinjaCat\obj\Debug\netcoreapp3.1\NinjaCat.TagHelpers.output.cache
+C:\MOC\AZ204\Slides\M5\Demo #6 - Docker Img\CSharp\NinjaCat\obj\Debug\netcoreapp3.1\NinjaCat.RazorCoreGenerate.cache
+C:\MOC\AZ204\Slides\M5\Demo #6 - Docker Img\CSharp\NinjaCat\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+C:\MOC\AZ204\Slides\M5\Demo #6 - Docker Img\CSharp\NinjaCat\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+C:\MOC\AZ204\Slides\M5\Demo #6 - Docker Img\CSharp\NinjaCat\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+C:\MOC\AZ204\Slides\M5\Demo #6 - Docker Img\CSharp\NinjaCat\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\MOC\AZ204\Slides\M5\Demo #6 - Docker Img\CSharp\NinjaCat\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\MOC\AZ204\Slides\M5\Demo #6 - Docker Img\CSharp\NinjaCat\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\MOC\AZ204\Slides\M5\Demo #6 - Docker Img\CSharp\NinjaCat\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\MOC\AZ204\Slides\M5\Demo #6 - Docker Img\CSharp\NinjaCat\obj\Debug\netcoreapp3.1\NinjaCat.RazorTargetAssemblyInfo.cache
+C:\MOC\AZ204\Slides\M5\Demo #6 - Docker Img\CSharp\NinjaCat\obj\Debug\netcoreapp3.1\NinjaCat.RazorTargetAssemblyInfo.cs
+C:\MOC\AZ204\Slides\M5\Demo #6 - Docker Img\CSharp\NinjaCat\obj\Debug\netcoreapp3.1\NinjaCat.Views.pdb
+C:\MOC\AZ204\Slides\M5\Demo #6 - Docker Img\CSharp\NinjaCat\obj\Debug\netcoreapp3.1\staticwebassets\NinjaCat.StaticWebAssets.Manifest.cache
+C:\MOC\AZ204\Slides\M5\Demo #6 - Docker Img\CSharp\NinjaCat\obj\Debug\netcoreapp3.1\staticwebassets\NinjaCat.StaticWebAssets.xml
+C:\MOC\AZ204\Slides\M5\Demo #6 - Docker Img\CSharp\NinjaCat\obj\Debug\netcoreapp3.1\NinjaCat.dll
+C:\MOC\AZ204\Slides\M5\Demo #6 - Docker Img\CSharp\NinjaCat\obj\Debug\netcoreapp3.1\NinjaCat.pdb
+C:\MOC\AZ204\Slides\M5\Demo #6 - Docker Img\CSharp\NinjaCat\obj\Debug\netcoreapp3.1\NinjaCat.genruntimeconfig.cache
+C:\MOC\AZ204\Slides\M5\Demo #6 - Docker Img\CSharp\NinjaCat\obj\Debug\netcoreapp3.1\NinjaCat.csproj.CopyComplete

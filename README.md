@@ -53,3 +53,24 @@
   - [Portal](/M04/Demo%20%233%20SP,Triggers/Demo.md)
 - Demo #4: Graph API
   - [Portal+Nodejs](/M04/Demo%20%234%20Graph/Demo.md)
+
+## Module 05: Creating Azure App Service Web Apps
+
+- Demo #1: Create an Azure VM by using the Azure portal
+  - [Portal](/M05/Demo%20%231%20-%20VM/Demo.md)
+- Demo #2: Create an Azure VM by using PowerShell
+  - [PowerShell](/M05/Demo%20%232%20-%20PS%20VM/Demo.md)
+- Demo #3: Create Resource Manager templates by using the Azure portal
+  - [Portal](/M05/Demo%20%233%20-%20Template%20Portal/Demo.md)
+- Demo #4: Create Resource Manager templates by using Visual Studio Code
+  - [VS](/M05/Demo%20%234%20-%20Template%20VSCode/Demo.md)
+- Demo #5: Run Docker image locally
+  - [Docker](/M05/Demo%20%235%20-%20Docker%20Local/Demo.md)
+- Demo #6: Creating a container image
+  - [NodeJS](/M05/Demo%20%236%20-%20Docker%20Img/Demo-Nodejs.md)
+  - [CSharp](/M05/Demo%20%236%20-%20Docker%20Img/Demo-CSharp.md)
+- Demo #7: Deploy an image to ACR by using Azure CLI
+  - [Portal](/M05/Demo%20%237%20-%20ACR/Demo.md)
+  - [Portal+Nodejs](/M05/Demo%20%237%20-%20ACR/Demo-extra.md)
+- Demo #8: Deploy a container to ACI
+  - [Portal](/M05/Demo%20%238%20-%20ACI/Demo.md)

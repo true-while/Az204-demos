@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "txVdr0FGZVV2dffMp0t+GEf8DY1JIj6tTPL9f69ktuzWgfoBPsUzmhnjhRH6MAt4W9vhZexlf34kNml7E2m1QQ==",
+  "success": true,
+  "projectFilePath": "C:\\MOC\\AZ204\\Slides\\M5\\Demo #6 - Docker Img\\CSharp\\NinjaCat\\NinjaCat.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\aivanov\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.4.10\\microsoft.visualstudio.azure.containers.tools.targets.1.4.10.nupkg.sha512"
+  ],
+  "logs": []
+}
