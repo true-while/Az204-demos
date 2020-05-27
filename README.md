@@ -130,3 +130,15 @@
   - [Portal](/M10/Demo%20%233%20-%20IoTHub/Demo.md)
 - Demo #4: Notification Hub
   - [Portal](/M10/Demo%20%234%20-%20NHub/Demo.md)
+
+  ## Module 11: Develop Logic Apps
+
+- Demo #1: Send and receive messages from a Service Bus Queue
+  - [CSharp](/M11/Demo%20%231%20-%20ServiceBus/Demo-csharp.md)
+  - [Nodejs](/M11/Demo%20%231%20-%20ServiceBus/Demo-nodejs.md)
+- Demo #2: Processing Images with WebJob
+  - [CSharp](/M11/Demo%20%232%20-%20Queue/Demo-csharp.md)
+  - [Nodejs](/M11/Demo%20%232%20-%20Queue/Demo-nodejs.md)
+- Demo #3: Azure Relay In Action
+  - [CSharp](/M11/Demo%20%233%20-%20Relay/Demo-csharp.md)
+  - [Nodejs](/M11/Demo%20%233%20-%20Relay/Demo-nodejs.md)

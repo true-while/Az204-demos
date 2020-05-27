@@ -1,0 +1,2 @@
+cd myQueuesGettingStarted
+dotnet run
