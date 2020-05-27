@@ -10,7 +10,7 @@ In the demo you will design new logic app from portal and run the test.
 
 1. By using following command deploy your web app from template:
 
-```json
+```cmd
 az deployment group create \
 --resource-group [sandbox resource group name] \
 --template-file template-new.json\
