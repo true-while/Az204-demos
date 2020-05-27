@@ -15,4 +15,4 @@ In the demo you will send and receive events from the EventGrid in Nodejs code.
 2. Open project `SampleEphReceiver` and run by paly button.
 1. Demonstrate output and explain eg. Why the receiving done by partition while sending does not?
 
-![Sub](CSharp\screen.png)
+![Sub](CSharp/screen.png)

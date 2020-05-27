@@ -14,4 +14,4 @@ In the demo you will send and receive events from the EventGrid in Nodejs code.
 1. Run the command **node .\receive.js**
 1. Demonstrate output and explain eg. Why the receiving done by partition while sending does not?
 
-![Sub](Nodejs\Nodejs.png)
+![Sub](Nodejs/Nodejs.png)
