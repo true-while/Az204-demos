@@ -12,5 +12,5 @@ In the demo you will retrieve the secret from key vault you build on previous de
 2. Run the project by use play button.
 3. Observe the value of the secret you created on previous demo.
 
-![SAS](CSharp\screen.png)
+![Seecret](CSharp/screen.png)
 

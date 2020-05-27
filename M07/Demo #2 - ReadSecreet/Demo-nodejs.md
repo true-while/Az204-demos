@@ -13,5 +13,5 @@ In the demo you will retrieve the secret from key vault you build on previous de
 1. The Web App will be started on port 1337
 1. Brows the page and observe the value of the secret you created on previous demo.
 
-![SAS](Nodejs\screen.png)
+![Seecret](Nodejs/screen.png)
 
