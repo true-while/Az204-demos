@@ -17,7 +17,7 @@ In the demo you will download and run Docker image locally.
 
 ![WebApp](webapp.png)
 
-1. Send the Cat 
+1. Send the Cat to the Moon
 
 ![Cat](cat.png)
 
