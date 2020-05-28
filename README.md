@@ -119,7 +119,7 @@
 - Demo #3: Deploy Logic app from Template
   - [Portal](/M09/Demo%20%233%20-%20Deploying%20Logic%20App/Demo.md)
 
-## Module 10: Develop Logic Apps
+## Module 10: Develop event-based solutions
 
 - Demo #1: Route custom Event Grid events to a storage account
   - [Portal](/M10/Demo%20%231%20-%20EventGrid/Demo.md)
@@ -131,7 +131,7 @@
 - Demo #4: Notification Hub
   - [Portal](/M10/Demo%20%234%20-%20NHub/Demo.md)
 
-## Module 11: Develop Logic Apps
+## Module 11: Develop message-based solutions
 
 - Demo #1: Send and receive messages from a Service Bus Queue
   - [CSharp](/M11/Demo%20%231%20-%20ServiceBus/Demo-csharp.md)
@@ -142,3 +142,22 @@
 - Demo #3: Azure Relay In Action
   - [CSharp](/M11/Demo%20%233%20-%20Relay/Demo-csharp.md)
   - [Nodejs](/M11/Demo%20%233%20-%20Relay/Demo-nodejs.md)
+
+
+## Module 12: Instrument solutions to support monitoring and logging
+
+- Demo #1: Azure Monitor
+  - [Portal](/M12/Demo%20%231%20-%20Monitor/Demo.md)
+- Demo #2: Create an alert
+  - [Portal](/M12/Demo%20%232%20-%20Alert/Demo.md)
+- Demo #3: Application Insights in action
+  - [CSharp](/M12/Demo%20%233%20-%20AI%20Action/Demo-csharp.md)
+  - [Nodejs](/M12/Demo%20%233%20-%20AI%20Action/Demo-nodejs.md)
+- Demo #4: Application Insights Advanced features
+  - [CSharp](/M12/Demo%20%234%20-%20AI%20Advanced/Demo.md)
+  - [Nodejs](/M12/Demo%20%234%20-%20AI%20Advanced/Demo.md)
+- Demo #5: Retry Policy
+  - [CSharp](/M12/Demo%20%235%20-%20Retry/Demo-scharp.md)
+  - [Nodejs](/M12/Demo%20%235%20-%20Retry/Demo-nodejs.md)
+
+  
