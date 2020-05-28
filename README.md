@@ -149,13 +149,13 @@
 - Demo #1: Azure Monitor
   - [Portal](/M12/Demo%20%231%20-%20Monitor/Demo.md)
 - Demo #2: Create an alert
-  - [Portal](/M12/Demo%20%232%20-%20Alert/Demo.md)
+  - [Portal](/M12/Demo%20%232%20-%20Alerts/Demo.md)
 - Demo #3: Application Insights in action
   - [CSharp](/M12/Demo%20%233%20-%20AI%20Action/Demo-csharp.md)
   - [Nodejs](/M12/Demo%20%233%20-%20AI%20Action/Demo-nodejs.md)
 - Demo #4: Application Insights Advanced features
   - [CSharp](/M12/Demo%20%234%20-%20AI%20Advanced/Demo.md)
-  - [Nodejs](/M12/Demo%20%234%20-%20AI%20Advanced/Demo.md)
+  - [Portal](/M12/Demo%20%234%20-%20AI%20Advanced/Demo-map.md)
 - Demo #5: Retry Policy
   - [CSharp](/M12/Demo%20%235%20-%20Retry/Demo-scharp.md)
   - [Nodejs](/M12/Demo%20%235%20-%20Retry/Demo-nodejs.md)
