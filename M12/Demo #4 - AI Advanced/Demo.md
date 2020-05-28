@@ -1,4 +1,4 @@
-# AZ-203T05A-01 Demo: Application Insights Advanced features
+# AZ-204 Demo: Application Insights Advanced features
 
 In this demo you will demonstrate who to track the metrics, events and errors from app code.
 

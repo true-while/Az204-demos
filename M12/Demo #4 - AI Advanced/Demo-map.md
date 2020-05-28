@@ -1,4 +1,4 @@
-# AZ-203 Demo : Application Map
+# AZ-204 Demo : Application Map
 
 In this demo you will find out how to set up and use Application Insights Map
 
