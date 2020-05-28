@@ -1,0 +1,1 @@
+cmd /c "C:\Program Files\Redis\redis-cli.exe" -h <yourname>.redis.cache.windows.net -a <yourkey>

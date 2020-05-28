@@ -160,4 +160,14 @@
   - [CSharp](/M12/Demo%20%235%20-%20Retry/Demo-scharp.md)
   - [Nodejs](/M12/Demo%20%235%20-%20Retry/Demo-nodejs.md)
 
-  
+
+## Module 13: Integrate caching and content delivery within solutions
+
+- Demo #1: Connecting to Redis Cache
+  - [Portal](/M13/Demo%20%231%20-%20Redis/Demo.md)
+- Demo #2: Azure Cache for Redis in Action
+  - [CSharp](/M13/Demo%20%232%20-%20Redis%20Code/Demo-csharp.md)
+  - [CSharp](/M13/Demo%20%232%20-%20Redis%20Code/Demo-session.md)
+  - [Nodejs](/M13/Demo%20%232%20-%20Redis%20Code/Demo-nodejs.md)
+- Demo #3: Create an Configure an Azure CDN resource
+  - [Portal](/M13/Demo%20%233%20-%20CDN/Demo.md)
