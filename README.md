@@ -129,7 +129,7 @@
 - Demo #3: IoT Hubs in Action
   - [Portal](/M10/Demo%20%233%20-%20IoTHub/Demo.md)
 - Demo #4: Notification Hub
-  - [CSharp](/M10/Demo%20%234%20-%20NHub/Demo-Csharp.md)
+  - [CSharp](/M10/Demo%20%234%20-%20NHub/Demo-CSharp.md)
   - [Nodejs](/M10/Demo%20%234%20-%20NHub/Demo-Nodejs.md)
 
 ## Module 11: Develop message-based solutions
