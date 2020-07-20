@@ -1,42 +1,59 @@
 var apikey='<your key>';
-var appInsights = require("applicationinsights");
-//contosoadsweb
-appInsights.setup(apikey).setInternalLogging(true, true).start(); 
+var appInsights = require('applicationinsights');
+// contosoadsweb
+appInsights.setup(apikey).setInternalLogging(true, true).start();
 appInsights.defaultClient.config.maxBatchSize = 0;
 var client = appInsights.defaultClient;
 
-//track custom event 
-client.trackEvent({name: "Market performance", properties: { CowsSold: 5, HorsSold: 12 }});
+// track custom event
+client.trackEvent({
+    name: 'Market performance', properties: { CowsSold: 5, HorsSold: 12 }
+});
 
-//tack metric
-client.trackMetric({name: "Cows sold", value: 3});
+// tack metric
+client.trackMetric({
+    name: 'Cows sold', value: 3
+});
 
-//Track exception
-client.trackException({exception: new Error("handled exceptions can be logged with this method")});
+// Track exception
+client.trackException({
+    exception: new Error('handled exceptions can be logged with this method')
+});
 
-//trace message
-client.trackTrace({message: "trace the message"});
+// trace message
+client.trackTrace({
+    message: 'trace the message'
+});
 
-//track dependency
-client.trackDependency({target:"http://dbname", name:"select customers", 
-          data:"SELECT * FROM Customers", duration:231, 
-              resultCode:0, success: true, dependencyTypeName: "ZSQL"});
+// track dependency
+client.trackDependency({
+    target: 'http://dbname',
+    name: 'select customers',
+    data: 'SELECT * FROM Customers',
+    duration: 231,
+    resultCode: 0,
+    success: true,
+    dependencyTypeName: 'ZSQL'
+});
 
-//track request
-client.trackRequest({name:"GET /customers", 
-          url:"http://myserver/customers", 
-              duration:309, resultCode:200, success:true});
+// track request
+client.trackRequest({
+    name: 'GET /customers',
+    url:'http://myserver/customers',
+    duration: 309,
+    resultCode: 200,
+    success: true
+});
 
-
-let http = require("http");
-console.log("Check your the server on http://localhost:8080")
-http.createServer( (req, res) => {
-  res.writeHead(200, {'Content-Type': 'text/html'});
-  res.write(`<!DOCTYPE html>
+const http = require('http');
+console.log('Check your the server on http://localhost:8080');
+http.createServer((req, res) => {
+    res.writeHead(200, { 'Content-Type': 'text/html' });
+    res.write(`<!DOCTYPE html>
   <html>
   <head>
-      <meta charset="utf-8" />
-      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <meta charset='utf-8' />
+      <meta name='viewport' content='width=device-width, initial-scale=1.0'>
       <title>The Web Server Test</title>
       <script type = 'text/javascript' >
           var appInsights=window.appInsights||function(config)
@@ -54,9 +71,8 @@ http.createServer( (req, res) => {
   <body>Hello World!</body>
 </html>
   `);
-  res.end();
-  client.trackNodeHttpRequest({request: req, response: res}); 
+    res.end();
+    client.trackNodeHttpRequest({
+        request: req, response: res
+    });
 }).listen(8080);
-
-
-
