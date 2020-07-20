@@ -10,7 +10,7 @@ Windows 10 and VS 2019 is required.
 
 >NOTE: On the step `Create an app in Windows Store`. UWP application must be updated with parameters in package exactly as recommended in AppManifest.xml:
 
-![pakcage](CSharp\package.png)
+![pakcage](CSharp/package.png)
 
 - Code fo the UWP with schema could be find in "AlexNotificaitonDemo" folder. Load **AlexNotificationDemo.sln** project.
 
@@ -39,15 +39,15 @@ Windows 10 and VS 2019 is required.
 
 1. Run the UWP Application to get successful registration message:
 
-![uwp](CSharp\uwp.png)
+![uwp](CSharp/uwp.png)
 
 1. From the Azure portal select your Notification hub and run the test. You should select windows and tost notification. The Notification should appears on your host in right bottom corner:
 
-![toast](CSharp\toast.png)
+![toast](CSharp/toast.png)
 
 
 1. Run the "Sender". 
 
 1. The notification should arrive and appearers in your right bottom corner.
 
-![cat](CSharp\cat.png)
+![cat](CSharp/cat.png)
