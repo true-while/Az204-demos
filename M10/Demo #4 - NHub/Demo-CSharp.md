@@ -33,7 +33,14 @@ Windows 10 and VS 2019 is required.
         static string ConnectionString = "<your string>";
         static string HubName = "<your hub name>";
 ```
+>Do not forget to enable receiving notification during presenting desktop in MS Teams
+Open `Windows > Settings > Focus assistance` enable `Priority only`
 
+![pakcage](CSharp/dnd.png)
+
+Then add your application in priority list.
+
+![pakcage](CSharp/dnd_focusapp.png)
 
 ## In Class
 

@@ -34,6 +34,14 @@ const connectionstring = '<your string>';
 
 ```
 
+>Do not forget to enable receiving notification during presenting desktop in MS Teams
+Open `Windows > Settings > Focus assistance` enable `Priority only`
+
+![pakcage](NodeJs/dnd.png)
+
+Then add your application in priority list.
+
+![pakcage](NodeJs/dnd_focusapp.png)
 
 ## In Class
 
