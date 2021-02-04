@@ -102,7 +102,8 @@
   - [Nodejs](/M07/Demo%20%232%20-%20ReadSecreet/Demo-nodejs.md)
 - Demo #3: Data Encryption in Azure
   - [SSMS](/M07/Demo%20%233%20-%20AlwaysEncrypt/Demo.md)
-
+- Demo #4: Feature flag
+  - [Csharp](/M07/Demo%20%232%20-%20Feature%20Flag/Demo-csharp.md)
 ## Module 08: Implement API Management
 
 - Demo #1: Azure API Management
