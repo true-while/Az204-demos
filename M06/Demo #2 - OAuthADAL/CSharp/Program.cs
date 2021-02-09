@@ -21,7 +21,7 @@ namespace OAuthBasic
             .AddJsonFile("appsettings.json", false)
             .Build();
 
-            string resourceUri = "https://datacatalog.azure.com";
+            string resourceUri = "https://management.core.windows.net/";
             string authorityUri = "https://login.windows.net/common/oauth2/" + configuration.GetSection("tenant").Value;
 
             AuthenticationContext authContext = new AuthenticationContext(authorityUri);

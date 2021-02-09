@@ -81,6 +81,7 @@ app.get('/getAToken', function(req, res) {
             if (err) {
                 message = 'error: ' + err.message + '\n';
             }
+            message += '<b>'+response.accessToken +'</b><br\>';
             message += 'response: ' + JSON.stringify(response);
 
             if (err) {
