@@ -111,65 +111,65 @@
 - Demo #2: Setting and editing Azure API Management policies
   - [Portal](/M08/Demo%20%232%20-%20API%20Policy/Demo.md)
 
-## Module 09: Develop Logic Apps
-
-- Demo #1: Creating logic apps
-  - [Portal](/M09/Demo%20%231%20-%20Logic%20App/Demo.md)
-- Demo #2: Create a custom connector in Logic Apps
-  - [Portal](/M09/Demo%20%232%20-%20CustomConnector/Demo.md)
-- Demo #3: Deploy Logic app from Template
-  - [Portal](/M09/Demo%20%233%20-%20Deploying%20Logic%20App/Demo.md)
-
-## Module 10: Develop event-based solutions
+## Module 9: Develop event-based solutions
 
 - Demo #1: Route custom Event Grid events to a storage account
-  - [Portal](/M10/Demo%20%231%20-%20EventGrid/Demo.md)
+  - [Portal](/M9/Demo%20%231%20-%20EventGrid/Demo.md)
 - Demo #2: Event Hubs in Action
-  - [CSharp](/M10/Demo%20%232%20-%20EventHub/Demo-csharp.md)
-  - [Nodejs](/M10/Demo%20%232%20-%20EventHub/Demo-nodejs.md)
+  - [CSharp](/M9/Demo%20%232%20-%20EventHub/Demo-csharp.md)
+  - [Nodejs](/M9/Demo%20%232%20-%20EventHub/Demo-nodejs.md)
 - Demo #3: IoT Hubs in Action
-  - [Portal](/M10/Demo%20%233%20-%20IoTHub/Demo.md)
+  - [Portal](/M9/Demo%20%233%20-%20IoTHub/Demo.md)
 - Demo #4: Notification Hub
-  - [CSharp](/M10/Demo%20%234%20-%20NHub/Demo-CSharp.md)
-  - [Nodejs](/M10/Demo%20%234%20-%20NHub/Demo-Nodejs.md)
+  - [CSharp](/M9/Demo%20%234%20-%20NHub/Demo-CSharp.md)
+  - [Nodejs](/M9/Demo%20%234%20-%20NHub/Demo-Nodejs.md)
 
-## Module 11: Develop message-based solutions
+## Module 10: Develop message-based solutions
 
 - Demo #1: Send and receive messages from a Service Bus Queue
-  - [CSharp](/M11/Demo%20%231%20-%20ServiceBus/Demo-csharp.md)
-  - [Nodejs](/M11/Demo%20%231%20-%20ServiceBus/Demo-nodejs.md)
+  - [CSharp](/M10/Demo%20%231%20-%20ServiceBus/Demo-csharp.md)
+  - [Nodejs](/M10/Demo%20%231%20-%20ServiceBus/Demo-nodejs.md)
 - Demo #2: Processing Images with WebJob
-  - [CSharp](/M11/Demo%20%232%20-%20Queue/Demo-csharp.md)
-  - [Nodejs](/M11/Demo%20%232%20-%20Queue/Demo-nodejs.md)
+  - [CSharp](/M10/Demo%20%232%20-%20Queue/Demo-csharp.md)
+  - [Nodejs](/M10/Demo%20%232%20-%20Queue/Demo-nodejs.md)
 - Demo #3: Azure Relay In Action
-  - [CSharp](/M11/Demo%20%233%20-%20Relay/Demo-csharp.md)
-  - [Nodejs](/M11/Demo%20%233%20-%20Relay/Demo-nodejs.md)
+  - [CSharp](/M10/Demo%20%233%20-%20Relay/Demo-csharp.md)
+  - [Nodejs](/M10/Demo%20%233%20-%20Relay/Demo-nodejs.md)
 
 
-## Module 12: Instrument solutions to support monitoring and logging
+## Module 11: Instrument solutions to support monitoring and logging
 
 - Demo #1: Azure Monitor
-  - [Portal](/M12/Demo%20%231%20-%20Monitor/Demo.md)
+  - [Portal](/M11/Demo%20%231%20-%20Monitor/Demo.md)
 - Demo #2: Create an alert
-  - [Portal](/M12/Demo%20%232%20-%20Alerts/Demo.md)
+  - [Portal](/M11/Demo%20%232%20-%20Alerts/Demo.md)
 - Demo #3: Application Insights in action
-  - [CSharp](/M12/Demo%20%233%20-%20AI%20Action/Demo-csharp.md)
-  - [Nodejs](/M12/Demo%20%233%20-%20AI%20Action/Demo-nodejs.md)
+  - [CSharp](/M11/Demo%20%233%20-%20AI%20Action/Demo-csharp.md)
+  - [Nodejs](/M11/Demo%20%233%20-%20AI%20Action/Demo-nodejs.md)
 - Demo #4: Application Insights Advanced features
-  - [CSharp](/M12/Demo%20%234%20-%20AI%20Advanced/Demo.md)
-  - [Portal](/M12/Demo%20%234%20-%20AI%20Advanced/Demo-map.md)
+  - [CSharp](/M11/Demo%20%234%20-%20AI%20Advanced/Demo.md)
+  - [Portal](/M11/Demo%20%234%20-%20AI%20Advanced/Demo-map.md)
 - Demo #5: Retry Policy
-  - [CSharp](/M12/Demo%20%235%20-%20Retry/Demo-scharp.md)
-  - [Nodejs](/M12/Demo%20%235%20-%20Retry/Demo-nodejs.md)
+  - [CSharp](/M11/Demo%20%235%20-%20Retry/Demo-scharp.md)
+  - [Nodejs](/M11/Demo%20%235%20-%20Retry/Demo-nodejs.md)
 
 
-## Module 13: Integrate caching and content delivery within solutions
+## Module 12: Integrate caching and content delivery within solutions
 
 - Demo #1: Connecting to Redis Cache
-  - [Portal](/M13/Demo%20%231%20-%20Redis/Demo.md)
+  - [Portal](/M12/Demo%20%231%20-%20Redis/Demo.md)
 - Demo #2: Azure Cache for Redis in Action
-  - [CSharp](/M13/Demo%20%232%20-%20Redis%20Code/Demo-csharp.md)
-  - [CSharp](/M13/Demo%20%232%20-%20Redis%20Code/Demo-session.md)
-  - [Nodejs](/M13/Demo%20%232%20-%20Redis%20Code/Demo-nodejs.md)
+  - [CSharp](/M12/Demo%20%232%20-%20Redis%20Code/Demo-csharp.md)
+  - [CSharp](/M12/Demo%20%232%20-%20Redis%20Code/Demo-session.md)
+  - [Nodejs](/M12/Demo%20%232%20-%20Redis%20Code/Demo-nodejs.md)
 - Demo #3: Create an Configure an Azure CDN resource
-  - [Portal](/M13/Demo%20%233%20-%20CDN/Demo.md)
+  - [Portal](/M12/Demo%20%233%20-%20CDN/Demo.md)
+
+## Module 09-old: Develop Logic Apps
+
+- Demo #1: Creating logic apps
+  - [Portal](/M09-old/Demo%20%231%20-%20Logic%20App/Demo.md)
+- Demo #2: Create a custom connector in Logic Apps
+  - [Portal](/M09-old/Demo%20%232%20-%20CustomConnector/Demo.md)
+- Demo #3: Deploy Logic app from Template
+  - [Portal](/M09-old/Demo%20%233%20-%20Deploying%20Logic%20App/Demo.md)
