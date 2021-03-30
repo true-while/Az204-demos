@@ -111,18 +111,18 @@
 - Demo #2: Setting and editing Azure API Management policies
   - [Portal](/M08/Demo%20%232%20-%20API%20Policy/Demo.md)
 
-## Module 9: Develop event-based solutions
+## Module 09: Develop event-based solutions
 
 - Demo #1: Route custom Event Grid events to a storage account
-  - [Portal](/M9/Demo%20%231%20-%20EventGrid/Demo.md)
+  - [Portal](/M09/Demo%20%231%20-%20EventGrid/Demo.md)
 - Demo #2: Event Hubs in Action
-  - [CSharp](/M9/Demo%20%232%20-%20EventHub/Demo-csharp.md)
-  - [Nodejs](/M9/Demo%20%232%20-%20EventHub/Demo-nodejs.md)
+  - [CSharp](/M09/Demo%20%232%20-%20EventHub/Demo-csharp.md)
+  - [Nodejs](/M09/Demo%20%232%20-%20EventHub/Demo-nodejs.md)
 - Demo #3: IoT Hubs in Action
-  - [Portal](/M9/Demo%20%233%20-%20IoTHub/Demo.md)
+  - [Portal](/M09/Demo%20%233%20-%20IoTHub/Demo.md)
 - Demo #4: Notification Hub
-  - [CSharp](/M9/Demo%20%234%20-%20NHub/Demo-CSharp.md)
-  - [Nodejs](/M9/Demo%20%234%20-%20NHub/Demo-Nodejs.md)
+  - [CSharp](/M09/Demo%20%234%20-%20NHub/Demo-CSharp.md)
+  - [Nodejs](/M09/Demo%20%234%20-%20NHub/Demo-Nodejs.md)
 
 ## Module 10: Develop message-based solutions
 
