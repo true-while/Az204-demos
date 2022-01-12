@@ -9,7 +9,7 @@ In the demo you will use MSAL libraries to request token and access to Microsoft
 ![WebApp](Nodejs/settings.png)
 
 - Open **Nodejs** folder in VSCode.
-- Update `.env` file  with values from your tenant and App you registered in previous demo.
+- Update `authConfig.js` file  with values from your tenant and App you registered in previous demo.
 - Run local website command:  **node .\server.js**
 
 ## In class:
