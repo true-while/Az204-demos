@@ -42,7 +42,7 @@
   - [CMD+AzCopy](/M03/Demo%20%234%20AzCopy/Demo.md)
 
 
-## Module 04: Develop solutions that use blob storage
+## Module 04: Develop solutions for Cosmos DB
 
 - Demo #1: Creating and Query Azure Cosmos DB
   - [Portal](/M04/Demo%20%231%20CreateCosmosDb/Demo.md)
