@@ -1,0 +1,7 @@
+{
+    "IsEncrypted": false,
+    "Values": {
+        "AzureWebJobsStorage": "DefaultEndpointsProtocol=....",
+        "FUNCTIONS_WORKER_RUNTIME": "dotnet"
+    }
+}
