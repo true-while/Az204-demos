@@ -7,7 +7,7 @@
 ## Before delivery:
 
 - Open project _ **DurFunDemo.sln** _
-- Update _ **settings.json** _with your storage account connection string
+- Update _ **local.settings.json** _with your storage account connection string
 - Make sure that application started without errors.
 - Request the localhost from Postman.
 
