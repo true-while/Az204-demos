@@ -3,6 +3,6 @@
   "Values": {
     "FUNCTIONS_WORKER_RUNTIME": "node",
     "FUNCTIONS_V2_COMPATIBILITY_MODE": true,
-    "AzureWebJobsStorage": "DefaultEndpointsProtocol=https;AccountName=storageaccountfunctb141;AccountKey=fbBIt2AijwWzD9446ArXkywgfi4Th36IPA1rMVMtfAlUDbFQU0K7BtPk0z/E+PBkJskYlXS5BO0xSsMfMA8yxQ==;EndpointSuffix=core.windows.net"
+    "AzureWebJobsStorage": "DefaultEndpointsProtocol=....."
   }
 }
