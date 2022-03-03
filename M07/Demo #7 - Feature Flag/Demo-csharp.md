@@ -3,6 +3,7 @@
 In the demo you will deploy contos-cars Web  with App settling instance to enable/disable Black Friday Deals.
 
 ## Before delivery:
+Update `appsettings.json` with connection sring coppied from your App Configiguration instance in Azure.
 
 Create new App Settings instance and Feature Flag "BlackFridayDeals"
 
