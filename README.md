@@ -7,9 +7,9 @@
 - Demo #2: Azure Web App Deployment
   - [AzureCLI+CSharp](/M01/Demo%20%232%20-%20Deployment/Demo.md)
 - Demo #3: Autoscale by using performance metrics
-  - [Linux+Py](/M01/Demo%20%235%20-%20Autoscale/Demo.md)
+  - [Linux+Py](/M01/Demo%20%233%20-%20Autoscale/Demo.md)
 - Demo #6: Web App Slots and Canary deployment
-  - [Linux+NodeJS](/M01/Demo%20%236%20-%20Slot/Demo.md)
+  - [Linux+NodeJS](/M01/Demo%20%234%20-%20Slot/Demo.md)
 
 ## Module 02: Implement Azure Functions
 
