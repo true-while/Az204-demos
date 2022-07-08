@@ -1,12 +1,8 @@
-# AZ-204 Demo: Creating an Azure Function
+# AZ-204 Demo: Provision an Azure Function
 
-### In the demo you will create new Azure function from portal and test it.
+In the demo new Azure Function will be provisioned and tested from portal.
 
-## Before delivery:
-
-- No requirements.
-
-## In class:
+## Demonstration:
 
 1. Create new Azure Function Application from Portal. Use Azure Market Place
 2. Add new **HttpTriggered** Azure Function.
