@@ -14,7 +14,7 @@
 ## Module 02: Implement Azure Functions
 
 - Demo 1: Provision an Azure Function 
-  - [Portal](/M2/1-provision/Demo.md)
+  - [AzureCLI](/M2/1-provision/Demo.md)
 - Demo 2: Explore Azure Function project 
   - [C# HttpTriggered](/M2/2-project/CSharpDemo.md) 
 - Demo 3: Create a Durable Function 
@@ -26,80 +26,70 @@
 ## Module 03: Develop solutions that use blob storage
 
 - Demo #1: Provision Azure Blob from Azure CLI
-  - [Portal](M3/1-provision/Demo.md)
+  - [AzureCLI](M3/1-provision/Demo.md)
 - Demo #2: Adding a policy to Azure Blob storage
   - [Portal](/M3/2-policy/Demo.md)
 - Demo #3: Managing Azure Blob from code 
   - [CSharp](/M3/3-sdk/Demo.md)
 - Demo #4: Managing blob’s metadata from code
-  - [CMD+AzCopy](/M3/4-metadata/Demo.md)
-
-# coming soon
+  - [CSharp](/M3/4-metadata/Demo.md)
 
 ## Module 04: Develop solutions for Cosmos DB
 
-- Demo #1: Creating and Query Azure Cosmos DB
-  - [Portal](/M04/Demo%20%231%20CreateCosmosDb/Demo.md)
-- Demo #2: Document insertion and Consistency in Cosmos DB by using code
-  - [CSharp](/M04/Demo%20%232%20CosmosPrj/Demo-CSharp.md)
-  - [Nodejs](/M04/Demo%20%232%20CosmosPrj/Demo-Nodejs.md)
-- Demo #3: Stored proc, Trigger and Transaction support in Cosmos DB
-  - [Portal](/M04/Demo%20%233%20SP,Triggers/Demo.md)
-- Demo #4: Graph API
-  - [Portal+Nodejs](/M04/Demo%20%234%20Graph/Demo.md)
+- Demo #1: Provision Azure Cosmos DB from Azure CLI
+  - [AzureCLI](/M4/1-provision/Demo.md)
+- Demo #2: Querying Cosmos DB (SQL)
+  - [Portal](/M4/2-query/Demo.md)
+- Demo #3: Querying Cosmos DB from SDK
+  - [CSharp](/M4/3-sdk/Demo.md)
+- Demo #4: Stored Proc and Triggers
+  - [Portal+CSharp](/M4/4-trigger/Demo.md)
 
 ## Module 05: Implement IaaS solutions
 
-- Demo #1: Create an Azure VM by using the Azure portal
-  - [Portal](/M05/Demo%20%231%20-%20VM/Demo.md)
-- Demo #2: Create an Azure VM by using PowerShell
-  - [PowerShell](/M05/Demo%20%232%20-%20PS%20VM/Demo.md)
-- Demo #3: Create Resource Manager templates by using the Azure portal
-  - [Portal](/M05/Demo%20%233%20-%20Template%20Portal/Demo.md)
-- Demo #4: Create Resource Manager templates by using Visual Studio Code
-  - [VS](/M05/Demo%20%234%20-%20Template%20VSCode/Demo.md)
-- Demo #5: Run Docker image locally
-  - [Docker](/M05/Demo%20%235%20-%20Docker%20Local/Demo.md)
-- Demo #6: Creating a container image
-  - [NodeJS](/M05/Demo%20%236%20-%20Docker%20Img/Demo-Nodejs.md)
-  - [CSharp](/M05/Demo%20%236%20-%20Docker%20Img/Demo-CSharp.md)
-- Demo #7: Deploy an image to ACR by using Azure CLI
-  - [Portal](/M05/Demo%20%237%20-%20ACR/Demo.md)
-  - [Portal+Nodejs](/M05/Demo%20%237%20-%20ACR/Demo-extra.md)
-- Demo #8: Deploy a container to ACI
-  - [Portal](/M05/Demo%20%238%20-%20ACI/Demo.md)
+- Demo #1: Provision of an Azure VM (CLI)
+  - [AzureCLI](/M5/1-provision/readme.md)
+- Demo #2: ARM Templates (Quick start)
+  - [Portal+AzureCLI](/M5/2-templates/readme.md)
+- Demo #3: Run Docker image locally
+  - [Docker](/M5/3-docker/readme.md)
+- Demo #4: Provision of Azure Container Registry
+  - [AzureCLI](/M5/4-acr/Demo.md)
+- Demo #5: Dockerfile and a building docker image.
+  - [CSharp](/M5/5-docker/Demo-CSharp.md)
+  - [Nodejs](/M5/5-docker/Demo-Nodejs.md)
+- Demo #6: Azure Container Instance
+  - [AzureCLI](/M5/6-aci/Demo.md)
 
 
 ## Module 06: Implement user authentication and authorization
 
 - Demo #1: Identities in Azure AD
-  - [Portal](/M06/Demo%20%231%20-%20Identities/Demo.md)
-- Demo #2: OAuth in Action
-  - [Csharp](/M06/Demo%20%232%20-%20OAuthADAL/Demo-scharp.md)
-  - [Nodejs](/M06/Demo%20%232%20-%20OAuthADAL/Demo-nodejs.md)
-- Demo #3: Interactive authentication by using MSAL
-  - [CSharp](/M06/Demo%20%233%20-%20MSAL/Demo-csharp1.md)
-  - [CSharp](/M06/Demo%20%233%20-%20MSAL/Demo-csharp2.md)
-  - [Nodejs](/M06/Demo%20%233%20-%20MSAL/Demo-nodejs.md)
-- Demo #4: Microsoft Graph Web API
-  - [Web](/M06/Demo%20%234%20-%20Graph/Demo.md)
-- Demo #5: Use SAS token to access Storage Account
-  - [Portal](/M06/Demo%20%235%20-%20SAS/Demo.md)
-
+  - [AzureCLI](/M6/1-identities/Demo.md)
+- Demo #2: Interactive authentication by using MSAL
+  - [CSharp](/M6/2-msal/Demo-console.md)
+  - [CSharp+WPF](/M6/2-msal/Demo-windows.md)
+- Demo #4: Exploring Microsoft Graph Web API
+  - [CSharp](/M6/4-graph/Demo-csharp.md)
+  - [Nodejs](/M6/4-graph/Demo-nodejs.md)
+  - [Portal](/M6/4-graph/Demo-exp.md)
 
 ## Module 07: Implement secure cloud solutions
 
-- Demo #1: Create Azure Key Vault  with CLI
-  - [Portal](/M07/Demo%20%231%20-%20Keyvault/Demo.md)
-- Demo #2: Retrieving a secret from Azure Key Vault 
-  - [Csharp](/M07/Demo%20%232%20-%20ReadSecreet/Demo-csharp.md)
-  - [Nodejs](/M07/Demo%20%232%20-%20ReadSecreet/Demo-nodejs.md)
-- Demo #3: Data Encryption in Azure
-  - [SSMS](/M07/Demo%20%233%20-%20AlwaysEncrypt/Demo.md)
-- Demo #4: Feature flag
-  - [Csharp](/M07/Demo%20%237%20-%20Feature%20Flag/Demo-csharp.md)
+- Demo #1: Provision of Azure KeyVault from CLI
+  - [AzureCLI](/M7/1-provision/Demo.md)
+- Demo #2: Retrieving a secret from Azure Key Vault from SDK 
+  - [CSharp](/M7/2-sdk/Demo-csharp.md)
+  - [Nodejs](/M7/2-sdk/Demo-nodejs.md)
+- Demo #3: Provision Managed Identities.
+  - [AzureCLI](/M7/3-managed-identity/Demo-identity.md)
+- Demo #4: Explore App Configuration service
+  - [CSharp+AzureCLI](/M7/4-app-config/Demo-csharp.md)
 
-## Module 09-old: Develop Logic Apps
+
+# Retired content
+
+## Module 09X: Develop Logic Apps
 
 - Demo #1: Creating logic apps
   - [Portal](/M09-old/Demo%20%231%20-%20Logic%20App/Demo.md)
