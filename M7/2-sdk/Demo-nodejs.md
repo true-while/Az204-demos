@@ -17,5 +17,5 @@ In the demo you will retrieve the secret value from key vault you build on previ
 1. The Web App will be started on http://localhost:1337
 1. Observe the value of the secret you created on previous demo.
 
-    ![topsecret](Nodejs\screen.png)
+    ![topsecret](./Nodejs/screen.png)
 
