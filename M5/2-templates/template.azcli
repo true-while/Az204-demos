@@ -1,0 +1,8 @@
+#group to deploy template
+az group create --name "Demo-AZ204-ARM" --location "eastus"
+
+#start template deployment
+az group deployment create --name "newdeployment" --resource-group "Demo-AZ204-ARM" --template-file "template.json" --parameters "parameters.json"
+
+#pull the accounts from the RG
+az storage account list --resource-group "Demo-AZ204-ARM"

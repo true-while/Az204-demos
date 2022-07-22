@@ -1,0 +1,17 @@
+# Pull existing Docker image from docker hub
+docker pull microsoft/aci-helloworld   
+docker pull wernight/funbox            
+docker pull nginx:latest
+
+
+#run simple web site locally
+docker run -d -p 8081:80 nginx:latest
+
+#check out
+http://localhost:8081
+
+#send cat to the space
+docker run --rm -it wernight/funbox nyancat
+
+#watch underwater live in aquarium
+docker run --rm -it wernight/funbox asciiquarium

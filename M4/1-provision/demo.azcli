@@ -1,0 +1,17 @@
+#create resource group
+az group create -l canadacentral -n Demo-AZ204-Cosmos
+# to avoid name collisions generate unique name for your DB
+account=cosmosdb-$RANDOM
+#create Cosmos DB account 
+az cosmosdb create --name $account --resource-group Demo-AZ204-Cosmos
+#create Cosmos DB database with SQL API
+az cosmosdb sql database create --account-name $account --resource-group Demo-AZ204-Cosmos --name AZ204Demo 
+#create Cosmos DB container
+az cosmosdb sql container create -g Demo-AZ204-Cosmos  -a $account -d AZ204Demo -n DemoShops --partition-key-path "/OrderAddress/City" --throughput "400"
+
+#pull connection info
+endpoint=$(az cosmosdb show --name $account --resource-group Demo-AZ204-Cosmos   --query documentEndpoint -o tsv)
+echo $endpoint
+
+key=$(az cosmosdb keys list --name $account --resource-group Demo-AZ204-Cosmos  --query primaryMasterKey -o tsv)
+echo $key

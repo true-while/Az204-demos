@@ -1,0 +1,22 @@
+#generate unique name
+account=keyvlt$RANDOM
+
+#your app id regestered in previous demo M#6 or new one.
+appID="<your app id>" 
+
+#create resource group
+az group create --name Demo-AZ204-KV --location eastus2
+
+#create key vault
+az keyvault create --name $account --resource-group Demo-AZ204-KV --location eastus2
+
+#set secret
+az keyvault secret set --vault-name $account --name TheTopSecret --value "Hello, world!"
+
+#retrive secret
+az keyvault secret show --name TheTopSecret --vault-name $account
+
+#assign permision
+az keyvault set-policy --name $account --spn $appID --secret-permissions get list set
+
+#keep the resource for next demo to connect from SDK

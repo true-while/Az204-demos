@@ -1,0 +1,1372 @@
+{
+    "id": "Apollo 14",
+    "Description": "Shepard poses next to the American flag on the Moon during Apollo 14",
+    "Mission type": "Manned lunar landing",
+    "Operator": "NASA",
+    "COSPAR ID": [
+        "CSM: 1971-008A",
+        "LM: 1971-008C"
+    ],
+    "SATCAT": [ "CSM: 4900", "LM: 4905" ],
+    "Mission duration": "9 days, 1 minute, 58 seconds",
+    "Spacecraft properties": {
+        "Spacecraft": [ "Apollo CSM-110", "Apollo LM-8" ],
+        "Manufacturer": [ "CSM: North American Rockwell", "LM: Grumman" ],
+        "Launch mass": "102,084 pounds (46,305 kg)",
+        "Landing mass": "11,481 pounds (5,208 kg)"
+    },
+    "Crew": {
+        "Crew size": 3,
+        "Members": [
+            "Alan B. Shepard, Jr.",
+            "Stuart A. Roosa",
+            "Edgar D. Mitchell"
+        ],
+        "Callsign": [ "CSM: Kitty Hawk", "LM: Antares" ]
+    },
+    "Start of mission": {
+        "Launch date": "January 31, 1971, 21:03:02 (1971-01-31UTC21:03:02Z) UTC",
+        "Rocket": "Saturn V SA-509",
+        "Launch site": "Kennedy LC-39A"
+    },
+    "End of mission": {
+        "Recovered by": "USS New Orleans",
+        "Landing date": "February 9, 1971, 21:05:00 (1971-02-09UTC21:06Z) UTC",
+        "Landing site": [
+            "South Pacific Ocean",
+            "27°1S 172°39W / 27.017°S 172.650°W / -27.017; -172.650"
+        ]
+    },
+    "Orbital parameters": {
+        "Reference system": "Selenocentric",
+        "Periselene": "16.9 kilometers (9.1 nmi)",
+        "Aposelene": "108.9 kilometers (58.8 nmi)",
+        "Period": "120 minutes"
+    },
+    "Lunar orbiter": {
+        "Spacecraft component": "Command/Service Module",
+        "Orbital insertion": "February 4, 1971, 06:59:42 UTC",
+        "Departed orbit": "February 7, 1971, 01:39:04 UTC",
+        "Orbits": 34
+    },
+    "Lunar lander": {
+        "Spacecraft component": "Lunar Module",
+        "Landing date": "February 5, 1971, 09:18:11 UTC",
+        "Return launch": "February 6, 1971, 18:48:42 UTC",
+        "Landing site": [
+            "Fra Mauro",
+            "3°3843S 17°2817W / 3.64530°S 17.47136°W / -3.64530; -17.47136"
+        ],
+         "Sample mass": "42.80 kilograms (94.35 lb)",
+        "Surface EVAs": "2",
+        "EVA duration": "Total: 9 hours, 22 minutes, 31 seconds",
+        "First": "4 hours, 47 minutes, 50 seconds",
+        "Second": "4 hours, 34 minutes, 41 seconds"
+    },
+    "Docking with LM": {
+        "Docking date": "February 1, 1971, 01:57:58 UTC",
+        "Undocking date": "February 5, 1971, 04:50:43 UTC"
+    },
+    "Docking with LM Ascent Stage": {
+        "Docking date": "February 6, 1971, 20:35:52 UTC",
+        "Undocking date": "February 6, 1971, 22:48:00 UTC"
+    },
+    "Artefacts": [
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2014&sample=14230",
+            "Sample Number": 14230,
+            "Mission": "Apollo 14",
+            "Sample Type": "core",
+            "Lithology": "soil",
+            "Description": "Intended to be a triple core tube, but driving became hard after a tube and a quarter, and material in the top tube fell out. Area generally level and free of large blocks. This sample from the top of three stratigraphic units of core."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2014&sample=14006",
+            "Sample Number": 14006,
+            "Mission": "Apollo 14",
+            "Sample Type": "rock",
+            "Lithology": "breccia",
+            "Description": "Sample 14006 was collected as part of the contingency sample during the first EVA in the vicinity of the lunar module. It was returned in weigh bag 1039 along with the rest of the contingency sample;"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2014&sample=14008",
+            "Sample Number": 14008,
+            "Mission": "Apollo 14",
+            "Sample Type": "rock",
+            "Lithology": "",
+            "Description": "Sample 14008 was collected from the LM vicinity during the first EVA as part of the contingency sample. It was returned in weigh bag 1039 along with the rest of the contingency samples (14001-14012); sample is fine graned fragmental rock with avg grain size less than 0.1 mm; texturally and mineralogically homogeneous."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2014&sample=14042",
+            "Sample Number": 14042,
+            "Mission": "Apollo 14",
+            "Sample Type": "rock",
+            "Lithology": "breccia",
+            "Description": "Samples 14041-14046 are fragments from a fractured clod tht broke apart when it was collected by Astronaut Mitchell, collected from Station A, 150 m NW of LM and 90 m N of North Triplet Crater; samples 14041, 14042, 14043, and 14045 are large enough to be considered rocks; sample 14044 is residue and sample 14046 is composed of chips and fines; placed in documented bag 3N and returned in ALSRC 1006."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2014&sample=14047",
+            "Sample Number": 14047,
+            "Mission": "Apollo 14",
+            "Sample Type": "rock",
+            "Lithology": "breccia",
+            "Description": "Sample 14047 was collected at Station B, 330 m NE of LM and 65 m NNW of the rim of Weird Crater. It was placed in documented bag 5N and returned in ALSRC 1006."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2014&sample=14049",
+            "Sample Number": 14049,
+            "Mission": "Apollo 14",
+            "Sample Type": "rock",
+            "Lithology": "breccia",
+            "Description": "Sample 14049 was collected during the second EVA from Station Bg; placed in bag 6N by the astronauts who said they collected it from a crater rim. The lunar location and orientation are not documented by lunar surface photographs. It is a fragmental rock and is extremely friable and soft."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2014&sample=14051",
+            "Sample Number": 14051,
+            "Mission": "Apollo 14",
+            "Sample Type": "rock",
+            "Lithology": "breccia",
+            "Description": "Sample 14051 was collected at station C' which was located 1.29 km ENE of LM and approximately 95 m SE of the rim of Cone Crater. The sample was collected on a gentle southward slope and was partly buried. The area was characterized by abundant fragments ranging from the limit of resolution up to 1.5 m blocks. The sample was returned in documented bag 7N in ALSRC 1006."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2014&sample=14053",
+            "Sample Number": 14053,
+            "Mission": "Apollo 14",
+            "Sample Type": "rock",
+            "Lithology": "basalt",
+            "Description": "holocrystalline, fine-grained, equigranular mare basalt (Carlson and Walton 1978); basalt (Wilshire and Jackson 1972) and (Quaide and Wrigley 1972); and mare basalt (Simonds et al 1977)"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2014&sample=14055",
+            "Sample Number": 14055,
+            "Mission": "Apollo 14",
+            "Sample Type": "rock",
+            "Lithology": "regolith breccia",
+            "Description": "F1 Breccia, friable with light clasts (Wilshire and Jackson 1972); porous unshocked regolith microbreccia (Chao et al. 1972); glass rich regolith with breccia (von Engelhardt et al. 1972); and vitric matrix breccia (VMB) (Simonds et al. 1977)"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2014&sample=14058",
+            "Sample Number": 14058,
+            "Mission": "Apollo 14",
+            "Sample Type": "rock",
+            "Lithology": "",
+            "Description": "Sample 14058 was collected from station E during the second EVA. It was placed in bag 15N and returned in ALSRC 1006 along with 14055-14062. Sample is subangular, elongate rock tapered at one end. It is olive gray in color and is fine-grained with fragments larger than 1 mm comprising 15% of the rock."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2014&sample=14060",
+            "Sample Number": 14060,
+            "Mission": "Apollo 14",
+            "Sample Type": "rock",
+            "Lithology": "breccia",
+            "Description": "Sample 14060 was collected from station E during the second EVA. It was placed in bag 15N by the astronauts and returned in ALSRC 1006 along with 14055-14062. Sample is well rounded (almost spherical), friable, fragmental rock and is medium gray in color."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2014&sample=14063",
+            "Sample Number": 14063,
+            "Mission": "Apollo 14",
+            "Sample Type": "rock",
+            "Lithology": "breccia",
+            "Description": "So-Called \"White Rocks\"; friable with dark clasts (Wilshire and Jackson 1972); annealed or slightly annealed, feldspathic Fra Mauro breccia (Chao et al 1972); \"white rock breccia\" (Quaide and Wrigley 1972);"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2014&sample=14064",
+            "Sample Number": 14064,
+            "Mission": "Apollo 14",
+            "Sample Type": "rock",
+            "Lithology": "breccia",
+            "Description": "Sample 14064 was collected in the White Rocks area at Station C1 and was returned in bag 16 along with 14063 and 14065 (residue) in ALSRC 1006. There was a strong feeling at the LRL that 14064 and 14063 are parts of the same rock because not only do they look very much alike, but 14064 has a protruding 1 cm clast, while 14063 has a 1 cm clast mold. Shepard stated that he had put \"a couple\" of hand specimens into bag 16, which is what was found. Sample 14064 is one of those studied by the Imbrium Consortium. Sample is pale gray with leucocratic matrix and contains approximately 40% clasts and 60% matrix. The sample is friable \"white rock\"."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2014&sample=14066",
+            "Sample Number": 14066,
+            "Mission": "Apollo 14",
+            "Sample Type": "rock",
+            "Lithology": "breccia",
+            "Description": "Sample 14066 was collected at Station F on the second EVA. The sample was found in the vicinity of Weird Crater. Sample was returned in documented bay 17N in ALSRC 1006. It is essentally a grab sample and is moderately friable with a blocky subround to subangular surface. It is very light gray in color with some large, darker gray clasts."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2014&sample=14068",
+            "Sample Number": 14068,
+            "Mission": "Apollo 14",
+            "Sample Type": "rock",
+            "Lithology": "breccia",
+            "Description": "Sample 14068 was collected during the second EVA from station C1 and placed in bag number 10. It is one of the surface rocks collected while a gray layer, just under the surface, was samples 14140-14143; blocky, gray, coherent, holocrystalline, melt rock with less than 5% clasts."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2014&sample=14069",
+            "Sample Number": 14069,
+            "Mission": "Apollo 14",
+            "Sample Type": "rock",
+            "Lithology": "breccia",
+            "Description": "Sample 14069 was collected at Station C1, 1.28 km ENE of the LM and 100 m SE of the rim of Cone Crater during the second EVA. The material at C1 appears to be material originally ejected from Cone Crater and re-ejected from a 30 m crater just south of Station C1 (Swann et al., 1977). Sample is block, gray, finely crystalline breccia with a sugary texture."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2014&sample=14070",
+            "Sample Number": 14070,
+            "Mission": "Apollo 14",
+            "Sample Type": "rock",
+            "Lithology": "breccia",
+            "Description": "Sample 14070 was collected from Station C1, 1.28 km ENE of the LM, and 100 m SE of the rim of Cone Crater during the second EVA. It appears to have been ejected from Cone Crater that was later re-ejected from a 30 m crater in the vicinity (Swann et. al., 1977). This is a blocky, subangular, coherent, light gray, crystalline breccia that is similar to 14069."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2014&sample=14072",
+            "Sample Number": 14072,
+            "Mission": "Apollo 14",
+            "Sample Type": "rock",
+            "Lithology": "basalt",
+            "Description": "Sample 14072 was collected at Station C1 approximately 1.28 km ENE of LM and 100 m SE of Cone Crater. The area is locally flat but generally slopes slightly to the south. The area is strewn with debris which ranges in size from the limit of resoution up to 75 cm. The debris is mainly angular to subrounded. The entire area of photo documentation is too disturbed to see any intact craters. The sample was returned in documented bag 10N in ALSRC 1006. Sample is medium light gray basalt and is somewhat smooth in appearance. The shape is blocky to subrounded and the rock is extremely coherent."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2014&sample=14073",
+            "Sample Number": 14073,
+            "Mission": "Apollo 14",
+            "Sample Type": "rock",
+            "Lithology": "basalt",
+            "Description": "Samples 14073, 14074, 14078, and 14079 came from the bottome of a trench taken at Station G, 230 m ESE of LM and 50 m E of North Triplet Rim Crust. The are is marked by a nearly level terrain with sparse amount of debris scattered throughout. The debris ranges in size from the limit of resolution up to 60 cm. There is a moderate abundance of subdued 20 to 50 cm craters in the area. All samples were returned in documented bag 20N in ALSRC 1006 and are very light gray, very coherent, holocrystalline, melt rocks."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2014&sample=14074",
+            "Sample Number": 14074,
+            "Mission": "Apollo 14",
+            "Sample Type": "rock",
+            "Lithology": "basalt",
+            "Description": "Samples 14073, 14074, 14078, and 14079 came from the bottome of a trench taken at Station G, 230 m ESE of LM and 50 m E of North Triplet Rim Crust. The are is marked by a nearly level terrain with sparse amount of debris scattered throughout. The debris ranges in size from the limit of resolution up to 60 cm. There is a moderate abundance of subdued 20 to 50 cm craters in the area. All samples were returned in documented bag 20N in ALSRC 1006 and are very light gray, very coherent, holocrystalline, melt rocks."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2014&sample=14075",
+            "Sample Number": 14075,
+            "Mission": "Apollo 14",
+            "Sample Type": "rock",
+            "Lithology": "",
+            "Description": "Sample 14075 was collected at the bottom of the trench at Station G 230 m ESE of LM and 50 m E of North Triplet rim crust. The area is characterized by a nearly level regolith surface which is sparsely strewn by fragmental debris. The size of the debris varies from the limit of resolution to 60 cm. It is small, subangular, blocky rock chip of a moderately coherent fragmental rock with a moderately smooth surface. The color is a ight gray. The sample was returned I documented bag 20N in ALSRC 1006."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2014&sample=14076",
+            "Sample Number": 14076,
+            "Mission": "Apollo 14",
+            "Sample Type": "rock",
+            "Lithology": "breccia",
+            "Description": "Sample 14076 was collected at the bottom of the trench at Station G, 230 m ESE of LM and 50 m E of North Triplet rim crest. Area in general is nearly level and lightly strewn with debris. The size of the debris ranges from the limit of resolution up to 60 cm. There is a moderate amount of subhedral 20 to 50 cm craters. The sample was returned in documented bag 20N in ALSRC 1006 and is medium light gray in color."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2014&sample=14077",
+            "Sample Number": 14077,
+            "Mission": "Apollo 14",
+            "Sample Type": "rock",
+            "Lithology": "basalt",
+            "Description": "Sample 14077 was collected at Station G locted 230 m ESE of LM and 50 m E of North Triplet rim crust. It was collected from the bottom of the trench sample. The general area is more or less level and sparsely covered with debris. The size of the debris ranges from limit of resolution of 60 cm. The area has a moderate abundance of 20 to 50 cm craters mot of which are subdued. It was returned in documented bag 20N in ALSRC 1006 and is a very light gray holocrystalline plagioclase-rich rock and is fine-grained and inequigranular."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2014&sample=14078",
+            "Sample Number": 14078,
+            "Mission": "Apollo 14",
+            "Sample Type": "rock",
+            "Lithology": "basalt",
+            "Description": "Samples 14073, 14074, 14078, and 14079 came from the bottome of a trench taken at Station G, 230 m ESE of LM and 50 m E of North Triplet Rim Crust. The are is marked by a nearly level terrain with sparse amount of debris scattered throughout. The debris ranges in size from the limit of resolution up to 60 cm. There is a moderate abundance of subdued 20 to 50 cm craters in the area. All samples were returned in documented bag 20N in ALSRC 1006 and are very light gray, very coherent, holocrystalline, melt rocks."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2014&sample=14079",
+            "Sample Number": 14079,
+            "Mission": "Apollo 14",
+            "Sample Type": "rock",
+            "Lithology": "basalt",
+            "Description": "Samples 14073, 14074, 14078, and 14079 came from the bottome of a trench taken at Station G, 230 m ESE of LM and 50 m E of North Triplet Rim Crust. The are is marked by a nearly level terrain with sparse amount of debris scattered throughout. The debris ranges in size from the limit of resolution up to 60 cm. There is a moderate abundance of subdued 20 to 50 cm craters in the area. All samples were returned in documented bag 20N in ALSRC 1006 and are very light gray, very coherent, holocrystalline, melt rocks."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2014&sample=14080",
+            "Sample Number": 14080,
+            "Mission": "Apollo 14",
+            "Sample Type": "rock",
+            "Lithology": "",
+            "Description": "Samples 14080 and 14081 were taken from the middle of the trench at Station G 230 m ESE of LM and 50 m E of the Triplet rim crust. The general area from where the sample was taken is characterized by a nearly level terrain sparsely scattered with debris. The size of the debris varies from the limit of resolution up to 60 cm. The area is also characterized by a moderate abundance of subdued 20 to 50 cm craters and were returned in documented bay 21N in ALSRC 1006. Both are light gray in color and very fine grained. The are both polymicts and contain abundant glass. Both are friable being made up of < 1 mm rock/soil fragments bonded by glass. They could be pieces of the sample but in their present state, they cannot be fitted together."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2014&sample=14081",
+            "Sample Number": 14081,
+            "Mission": "Apollo 14",
+            "Sample Type": "rock",
+            "Lithology": "",
+            "Description": "Samples 14080 and 14081 were taken from the middle of the trench at Station G 230 m ESE of LM and 50 m E of the Triplet rim crust. The general area from where the sample was taken is characterized by a nearly level terrain sparsely scattered with debris. The size of the debris varies from the limit of resolution up to 60 cm. The area is also characterized by a moderate abundance of subdued 20 to 50 cm craters and were returned in documented bay 21N in ALSRC 1006. Both are light gray in color and very fine grained. The are both polymicts and contain abundant glass. Both are friable being made up of < 1 mm rock/soil fragments bonded by glass. They could be pieces of the sample but in their present state, they cannot be fitted together."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2014&sample=14082",
+            "Sample Number": 14082,
+            "Mission": "Apollo 14",
+            "Sample Type": "rock",
+            "Lithology": "breccia",
+            "Description": "Samples 14082/14083 are white rocks collected at Station C1, 1.24 km ENE of the LM and 17 m SE of the rim of Cone Crater. They are representative of one of the major rock types as seen in lunar photo documentation. The sample was chipped from the top of White Rock, a 1 m breccia boulder with consipicous 1 cm dark and light clasts in a very light gray matrix. This sample was placed in bag 13N and returned in ALSRC 1006. By the time it had arrived at the LRL, it had broken into two pieces and these were numbered 14082 and 14083. Sample 14082 was studied extensively by the Ibrium Consortium, from which much of this information is derived. Sample 14082/14083 is one of the white rocks. It is a polymict breccia with a very light gray matrix and darker lithic clasts."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2014&sample=14083",
+            "Sample Number": 14083,
+            "Mission": "Apollo 14",
+            "Sample Type": "rock",
+            "Lithology": "breccia",
+            "Description": "Samples 14082/14083 are white rocks collected at Station C1, 1.24 km ENE of the LM and 17 m SE of the rim of Cone Crater. They are representative of one of the major rock types as seen in lunar photo documentation. The sample was chipped from the top of White Rock, a 1 m breccia boulder with consipicous 1 cm dark and light clasts in a very light gray matrix. This sample was placed in bag 13N and returned in ALSRC 1006. By the time it had arrived at the LRL, it had broken into two pieces and these were numbered 14082 and 14083. Sample 14082 was studied extensively by the Ibrium Consortium, from which much of this information is derived. Sample 14082/14083 is one of the white rocks. It is a polymict breccia with a very light gray matrix and darker lithic clasts."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2014&sample=14194",
+            "Sample Number": 14194,
+            "Mission": "Apollo 14",
+            "Sample Type": "rock",
+            "Lithology": "breccia",
+            "Description": "Weigh bag 1031 was used on the traverse during the second EVA. Samples 14194-14201 are small rock fragments that were left in weight bag 1031 after samples 14306-14311 were removed. Their lunar location and orientation are unknown and there are no lunar surface photographs of these samples. Some of these are probably pieces broken off the larger rocks during transit. This sample is a light gray, moderately friable, polymict breccia which appears to be bounded by freshly broken surface."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2014&sample=14195",
+            "Sample Number": 14195,
+            "Mission": "Apollo 14",
+            "Sample Type": "rock",
+            "Lithology": "",
+            "Description": "Weigh bag 1031 was used on the traverse during the second EVA. Samples 14194-14201 are small rock fragments that were left in weight bag 1031 after samples 14306-14311 were removed. Their lunar location and orientation are unknown and there are no lunar surface photographs of these samples. Some of these are probably pieces broken off the larger rocks during transit. This sample is a coherent, medium to dark gray, fragmental rock."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2014&sample=14196",
+            "Sample Number": 14196,
+            "Mission": "Apollo 14",
+            "Sample Type": "rock",
+            "Lithology": "",
+            "Description": "Weigh bag 1031 was used on the traverse during the second EVA. Samples 14194-14201 are small rock fragments that were left in weight bag 1031 after samples 14306-14311 were removed. Their lunar location and orientation are unknown and there are no lunar surface photographs of these samples. Some of these are probably pieces broken off the larger rocks during transit. This sample is a friable, polymict breccia similar to 14051 or 14066."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2014&sample=14199",
+            "Sample Number": 14199,
+            "Mission": "Apollo 14",
+            "Sample Type": "rock",
+            "Lithology": "basalt",
+            "Description": "Weigh bag 1031 was used on the traverse during the second EVA. Samples 14194-14201 are small rock fragments that were left in weight bag 1031 after samples 14306-14311 were removed. Their lunar location and orientation are unknown and there are no lunar surface photographs of these samples. Some of these are probably pieces broken off the larger rocks during transit. This sample is a freshly fractured, polymict breccia."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2014&sample=14200",
+            "Sample Number": 14200,
+            "Mission": "Apollo 14",
+            "Sample Type": "rock",
+            "Lithology": "basalt",
+            "Description": "Weigh bag 1031 was used on the traverse during the second EVA. Samples 14194-14201 are small rock fragments that were left in weight bag 1031 after samples 14306-14311 were removed. Their lunar location and orientation are unknown and there are no lunar surface photographs of these samples. Some of these are probably pieces broken off the larger rocks during transit. This sample is a fragment of very fine grained basaltic crystalline rock."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2014&sample=14201",
+            "Sample Number": 14201,
+            "Mission": "Apollo 14",
+            "Sample Type": "rock",
+            "Lithology": "breccia",
+            "Description": "Weigh bag 1031 was used on the traverse during the second EVA. Samples 14194-14201 are small rock fragments that were left in weight bag 1031 after samples 14306-14311 were removed. Their lunar location and orientation are unknown and there are no lunar surface photographs of these samples. Some of these are probably pieces broken off the larger rocks during transit. This sample is a fine grained polymict breccia similar to 14042."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2014&sample=14252",
+            "Sample Number": 14252,
+            "Mission": "Apollo 14",
+            "Sample Type": "rock",
+            "Lithology": "",
+            "Description": "The purpose of the Comprehensive Sample (14169-14188; 14250-14299) was to acquire a statistically significant set of small rock samples to petrographically characterize the distribution of rock types in the lunar regolith. The sample location was selected 100 to 125 m west of the LM. A two to three meter diameter circle was marked and all of the walnut sized rocks on the surface within the circle were collected with tongs. Sample 14252 is a medium gray, friable, fragmental rock. It is subround to angular, appearing to be 1/4 of a sphere."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2014&sample=14253",
+            "Sample Number": 14253,
+            "Mission": "Apollo 14",
+            "Sample Type": "rock",
+            "Lithology": "breccia",
+            "Description": "The purpose of the Comprehensive Sample (14169-14188; 14250-14299) was to acquire a statistically significant set of small rock samples to petrographically characterize the distribution of rock types in the lunar regolith. The sample location was selected 100 to 125 m west of the LM. A two to three meter diameter circle was marked and all of the walnut sized rocks on the surface within the circle were collected with tongs. Sample 14253 is a gray, angular, block, homogeneous, crystalline breccia."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2014&sample=14254",
+            "Sample Number": 14254,
+            "Mission": "Apollo 14",
+            "Sample Type": "rock",
+            "Lithology": "soil",
+            "Description": "The purpose of the Comprehensive Sample (14169-14188; 14250-14299) was to acquire a statistically significant set of small rock samples to petrographically characterize the distribution of rock types in the lunar regolith. The sample location was selected 100 to 125 m west of the LM. A two to three meter diameter circle was marked and all of the walnut sized rocks on the surface within the circle were collected with tongs. Sample 14254 is gray soil, adhering to frothy black glass and is highly irregular in shape."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2014&sample=14255",
+            "Sample Number": 14255,
+            "Mission": "Apollo 14",
+            "Sample Type": "rock",
+            "Lithology": "breccia",
+            "Description": "The purpose of the Comprehensive Sample (14169-14188; 14250-14299) was to acquire a statistically significant set of small rock samples to petrographically characterize the distribution of rock types in the lunar regolith. The sample location was selected 100 to 125 m west of the LM. A two to three meter diameter circle was marked and all of the walnut sized rocks on the surface within the circle were collected with tongs. Sample 14255 is a medium gray, subangular, blocky, friable fragmental rock."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2014&sample=14264",
+            "Sample Number": 14264,
+            "Mission": "Apollo 14",
+            "Sample Type": "rock",
+            "Lithology": "breccia",
+            "Description": "The purpose of the Comprehensive Sample (14169-14188; 14250-14299) was to acquire a statistically significant set of small rock samples to petrographically characterize the distribution of rock types in the lunar regolith. The sample location was selected 100 to 125 m west of the LM. A two to three meter diameter circle was marked and all of the walnut sized rocks on the surface within the circle were collected with tongs. Sample 14264 is a dark gray, blocky, tough fragmental rock, described by Phinney et al. (1975) as a vitric (matrix) breccia."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2014&sample=14265",
+            "Sample Number": 14265,
+            "Mission": "Apollo 14",
+            "Sample Type": "rock",
+            "Lithology": "breccia",
+            "Description": "The purpose of the Comprehensive Sample (14169-14188; 14250-14299) was to acquire a statistically significant set of small rock samples to petrographically characterize the distribution of rock types in the lunar regolith. The sample location was selected 100 to 125 m west of the LM. A two to three meter diameter circle was marked and all of the walnut sized rocks on the surface within the circle were collected with tongs. Sample 14265 is angular, with half the surface coated with dark greenish gray to black glass. The rock is a medium dark gray, coherent fragmental rock."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2014&sample=14266",
+            "Sample Number": 14266,
+            "Mission": "Apollo 14",
+            "Sample Type": "rock",
+            "Lithology": "breccia",
+            "Description": "The purpose of the Comprehensive Sample (14169-14188; 14250-14299) was to acquire a statistically significant set of small rock samples to petrographically characterize the distribution of rock types in the lunar regolith. The sample location was selected 100 to 125 m west of the LM. A two to three meter diameter circle was marked and all of the walnut sized rocks on the surface within the circle were collected with tongs. Sample 14266 is a light medium gray, rounded, slabby, tough, fragmental matrix, polymict breccia."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2014&sample=14267",
+            "Sample Number": 14267,
+            "Mission": "Apollo 14",
+            "Sample Type": "rock",
+            "Lithology": "breccia",
+            "Description": "The purpose of the Comprehensive Sample (14169-14188; 14250-14299) was to acquire a statistically significant set of small rock samples to petrographically characterize the distribution of rock types in the lunar regolith. The sample location was selected 100 to 125 m west of the LM. A two to three meter diameter circle was marked and all of the walnut sized rocks on the surface within the circle were collected with tongs. Sample 14267 is a blocky, angular, dark gray, tough, vitric (matrix) breccia."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2014&sample=14268",
+            "Sample Number": 14268,
+            "Mission": "Apollo 14",
+            "Sample Type": "rock",
+            "Lithology": "breccia",
+            "Description": "The purpose of the Comprehensive Sample (14169-14188; 14250-14299) was to acquire a statistically significant set of small rock samples to petrographically characterize the distribution of rock types in the lunar regolith. The sample location was selected 100 to 125 m west of the LM. A two to three meter diameter circle was marked and all of the walnut sized rocks on the surface within the circle were collected with tongs. Sample 14268 is described by Phinney et al. (1975) as a blocky, medium dark gray, vitric (matrix) breccia."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2014&sample=14269",
+            "Sample Number": 14269,
+            "Mission": "Apollo 14",
+            "Sample Type": "rock",
+            "Lithology": "breccia",
+            "Description": "The purpose of the Comprehensive Sample (14169-14188; 14250-14299) was to acquire a statistically significant set of small rock samples to petrographically characterize the distribution of rock types in the lunar regolith. The sample location was selected 100 to 125 m west of the LM. A two to three meter diameter circle was marked and all of the walnut sized rocks on the surface within the circle were collected with tongs. Sample 14269 is a dark medium gray, frgmental microbreccia with one rounded side."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2014&sample=14270",
+            "Sample Number": 14270,
+            "Mission": "Apollo 14",
+            "Sample Type": "rock",
+            "Lithology": "breccia",
+            "Description": "The purpose of the Comprehensive Sample (14169-14188; 14250-14299) was to acquire a statistically significant set of small rock samples to petrographically characterize the distribution of rock types in the lunar regolith. The sample location was selected 100 to 125 m west of the LM. A two to three meter diameter circle was marked and all of the walnut sized rocks on the surface within the circle were collected with tongs. Sample 14270 is a blocky, medium greenish gray fine-grained crystalline breccia."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2014&sample=14271",
+            "Sample Number": 14271,
+            "Mission": "Apollo 14",
+            "Sample Type": "rock",
+            "Lithology": "breccia",
+            "Description": "The purpose of the Comprehensive Sample (14169-14188; 14250-14299) was to acquire a statistically significant set of small rock samples to petrographically characterize the distribution of rock types in the lunar regolith. The sample location was selected 100 to 125 m west of the LM. A two to three meter diameter circle was marked and all of the walnut sized rocks on the surface within the circle were collected with tongs. Sample 14271 is a blocky, dark medium vitric (matrix) breccia with light gray clasts."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2014&sample=14272",
+            "Sample Number": 14272,
+            "Mission": "Apollo 14",
+            "Sample Type": "rock",
+            "Lithology": "breccia",
+            "Description": "The purpose of the Comprehensive Sample (14169-14188; 14250-14299) was to acquire a statistically significant set of small rock samples to petrographically characterize the distribution of rock types in the lunar regolith. The sample location was selected 100 to 125 m west of the LM. A two to three meter diameter circle was marked and all of the walnut sized rocks on the surface within the circle were collected with tongs. Sample 14272 is a blocky medium dark gray coherent vitric (matrix) breccia."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2014&sample=14273",
+            "Sample Number": 14273,
+            "Mission": "Apollo 14",
+            "Sample Type": "rock",
+            "Lithology": "breccia",
+            "Description": "The purpose of the Comprehensive Sample (14169-14188; 14250-14299) was to acquire a statistically significant set of small rock samples to petrographically characterize the distribution of rock types in the lunar regolith. The sample location was selected 100 to 125 m west of the LM. A two to three meter diameter circle was marked and all of the walnut sized rocks on the surface within the circle were collected with tongs. Sample 14273 is a medium dark gray, vitric (matrix) breccia."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2014&sample=14274",
+            "Sample Number": 14274,
+            "Mission": "Apollo 14",
+            "Sample Type": "rock",
+            "Lithology": "breccia",
+            "Description": "The purpose of the Comprehensive Sample (14169-14188; 14250-14299) was to acquire a statistically significant set of small rock samples to petrographically characterize the distribution of rock types in the lunar regolith. The sample location was selected 100 to 125 m west of the LM. A two to three meter diameter circle was marked and all of the walnut sized rocks on the surface within the circle were collected with tongs. Sample 14274 is a light medium gray, blocky, tough, crystalline, polymict breccia."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2014&sample=14275",
+            "Sample Number": 14275,
+            "Mission": "Apollo 14",
+            "Sample Type": "rock",
+            "Lithology": "breccia",
+            "Description": "The purpose of the Comprehensive Sample (14169-14188; 14250-14299) was to acquire a statistically significant set of small rock samples to petrographically characterize the distribution of rock types in the lunar regolith. The sample location was selected 100 to 125 m west of the LM. A two to three meter diameter circle was marked and all of the walnut sized rocks on the surface within the circle were collected with tongs. Sample 14275 is a medium light gray, blocky, polymict breccia."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2014&sample=14276",
+            "Sample Number": 14276,
+            "Mission": "Apollo 14",
+            "Sample Type": "rock",
+            "Lithology": "basalt",
+            "Description": "The purpose of the Comprehensive Sample (14169-14188; 14250-14299) was to acquire a statistically significant set of small rock samples to petrographically characterize the distribution of rock types in the lunar regolith. The sample location was selected 100 to 125 m west of the LM. A two to three meter diameter circle was marked and all of the walnut sized rocks on the surface within the circle were collected with tongs. Sample 14276 is a brownish-gray, blocky, coherent, medium-grained, crystalline rock."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2014&sample=14277",
+            "Sample Number": 14277,
+            "Mission": "Apollo 14",
+            "Sample Type": "rock",
+            "Lithology": "breccia",
+            "Description": "The purpose of the Comprehensive Sample (14169-14188; 14250-14299) was to acquire a statistically significant set of small rock samples to petrographically characterize the distribution of rock types in the lunar regolith. The sample location was selected 100 to 125 m west of the LM. A two to three meter diameter circle was marked and all of the walnut sized rocks on the surface within the circle were collected with tongs. Sample 14277 is a dark gray, blocky, coherent vitric (matrix) breccia."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2014&sample=14278",
+            "Sample Number": 14278,
+            "Mission": "Apollo 14",
+            "Sample Type": "rock",
+            "Lithology": "breccia",
+            "Description": "The purpose of the Comprehensive Sample (14169-14188; 14250-14299) was to acquire a statistically significant set of small rock samples to petrographically characterize the distribution of rock types in the lunar regolith. The sample location was selected 100 to 125 m west of the LM. A two to three meter diameter circle was marked and all of the walnut sized rocks on the surface within the circle were collected with tongs. Sample 14278 is a medium light gray, subrounded, coherent, low-grade, polymict breccia."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2014&sample=14279",
+            "Sample Number": 14279,
+            "Mission": "Apollo 14",
+            "Sample Type": "rock",
+            "Lithology": "breccia",
+            "Description": "The purpose of the Comprehensive Sample (14169-14188; 14250-14299) was to acquire a statistically significant set of small rock samples to petrographically characterize the distribution of rock types in the lunar regolith. The sample location was selected 100 to 125 m west of the LM. A two to three meter diameter circle was marked and all of the walnut sized rocks on the surface within the circle were collected with tongs. Sample 14279 is medium light gray in color, blocky, rounded to subrounded in shape, and is a coherent, polymict breccia with a fragmented matrix."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2014&sample=14280",
+            "Sample Number": 14280,
+            "Mission": "Apollo 14",
+            "Sample Type": "rock",
+            "Lithology": "breccia",
+            "Description": "The purpose of the Comprehensive Sample (14169-14188; 14250-14299) was to acquire a statistically significant set of small rock samples to petrographically characterize the distribution of rock types in the lunar regolith. The sample location was selected 100 to 125 m west of the LM. A two to three meter diameter circle was marked and all of the walnut sized rocks on the surface within the circle were collected with tongs. Sample 14280 is a medium dark gray, angular block of vitric (matrix) breccia."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2014&sample=14281",
+            "Sample Number": 14281,
+            "Mission": "Apollo 14",
+            "Sample Type": "rock",
+            "Lithology": "breccia",
+            "Description": "The purpose of the Comprehensive Sample (14169-14188; 14250-14299) was to acquire a statistically significant set of small rock samples to petrographically characterize the distribution of rock types in the lunar regolith. The sample location was selected 100 to 125 m west of the LM. A two to three meter diameter circle was marked and all of the walnut sized rocks on the surface within the circle were collected with tongs. Sample 14281 is a medium dark gray, subrounded to angular block of coherent, vitric (matrix) breccia."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2014&sample=14282",
+            "Sample Number": 14282,
+            "Mission": "Apollo 14",
+            "Sample Type": "rock",
+            "Lithology": "breccia",
+            "Description": "The purpose of the Comprehensive Sample (14169-14188; 14250-14299) was to acquire a statistically significant set of small rock samples to petrographically characterize the distribution of rock types in the lunar regolith. The sample location was selected 100 to 125 m west of the LM. A two to three meter diameter circle was marked and all of the walnut sized rocks on the surface within the circle were collected with tongs. Sample 14282 is a medium gray, friable, fragmental rock (soil breccia)."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2014&sample=14283",
+            "Sample Number": 14283,
+            "Mission": "Apollo 14",
+            "Sample Type": "rock",
+            "Lithology": "breccia",
+            "Description": "The purpose of the Comprehensive Sample (14169-14188; 14250-14299) was to acquire a statistically significant set of small rock samples to petrographically characterize the distribution of rock types in the lunar regolith. The sample location was selected 100 to 125 m west of the LM. A two to three meter diameter circle was marked and all of the walnut sized rocks on the surface within the circle were collected with tongs. Sample 14283 is a light gray, slabby, angular, coherent, crystalline, polymict breccia."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2014&sample=14284",
+            "Sample Number": 14284,
+            "Mission": "Apollo 14",
+            "Sample Type": "rock",
+            "Lithology": "",
+            "Description": "The purpose of the Comprehensive Sample (14169-14188; 14250-14299) was to acquire a statistically significant set of small rock samples to petrographically characterize the distribution of rock types in the lunar regolith. The sample location was selected 100 to 125 m west of the LM. A two to three meter diameter circle was marked and all of the walnut sized rocks on the surface within the circle were collected with tongs. Sample 14284 is a subrounded, medium gray, coherent, fragmental rock."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2014&sample=14285",
+            "Sample Number": 14285,
+            "Mission": "Apollo 14",
+            "Sample Type": "rock",
+            "Lithology": "breccia",
+            "Description": "The purpose of the Comprehensive Sample (14169-14188; 14250-14299) was to acquire a statistically significant set of small rock samples to petrographically characterize the distribution of rock types in the lunar regolith. The sample location was selected 100 to 125 m west of the LM. A two to three meter diameter circle was marked and all of the walnut sized rocks on the surface within the circle were collected with tongs. Sample 14285 is a light medium gray, coherent, polymict breccia."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2014&sample=14286",
+            "Sample Number": 14286,
+            "Mission": "Apollo 14",
+            "Sample Type": "rock",
+            "Lithology": "",
+            "Description": "The purpose of the Comprehensive Sample (14169-14188; 14250-14299) was to acquire a statistically significant set of small rock samples to petrographically characterize the distribution of rock types in the lunar regolith. The sample location was selected 100 to 125 m west of the LM. A two to three meter diameter circle was marked and all of the walnut sized rocks on the surface within the circle were collected with tongs. Sample 14286 is a medium brownish-gray fragmental rock."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2014&sample=14287",
+            "Sample Number": 14287,
+            "Mission": "Apollo 14",
+            "Sample Type": "rock",
+            "Lithology": "",
+            "Description": "The purpose of the Comprehensive Sample (14169-14188; 14250-14299) was to acquire a statistically significant set of small rock samples to petrographically characterize the distribution of rock types in the lunar regolith. The sample location was selected 100 to 125 m west of the LM. A two to three meter diameter circle was marked and all of the walnut sized rocks on the surface within the circle were collected with tongs. Sample 14287 is a medium brownish gray, coherent, fragmental rock that is blocky and angular in shape."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2014&sample=14288",
+            "Sample Number": 14288,
+            "Mission": "Apollo 14",
+            "Sample Type": "rock",
+            "Lithology": "breccia",
+            "Description": "The purpose of the Comprehensive Sample (14169-14188; 14250-14299) was to acquire a statistically significant set of small rock samples to petrographically characterize the distribution of rock types in the lunar regolith. The sample location was selected 100 to 125 m west of the LM. A two to three meter diameter circle was marked and all of the walnut sized rocks on the surface within the circle were collected with tongs. Sample 14288 is a medium dark gray, vitric (matrix) breccia. It is blocky and angular in shpe and is coherent."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2014&sample=14295",
+            "Sample Number": 14295,
+            "Mission": "Apollo 14",
+            "Sample Type": "rock",
+            "Lithology": "breccia",
+            "Description": "The purpose of the Comprehensive Sample (14169-14188; 14250-14299) was to acquire a statistically significant set of small rock samples to petrographically characterize the distribution of rock types in the lunar regolith. The sample location was selected 100 to 125 m west of the LM. A two to three meter diameter circle was marked and all of the walnut sized rocks on the surface within the circle were collected with tongs. Weigh bag 1038 was used to hold rocks and fragments from Station H, EVA-2. The largest samples are numbered 14312-14320 and the residue is 14290-14297. Samples 14294-14297 are the largest fragments of the residue. Sample 14295 is a fine grained, polymict breccia with 5% clasts larger than 1 mm and 95% matrix grains smaller than 1 mm in size."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2014&sample=14296",
+            "Sample Number": 14296,
+            "Mission": "Apollo 14",
+            "Sample Type": "rock",
+            "Lithology": "breccia",
+            "Description": "The purpose of the Comprehensive Sample (14169-14188; 14250-14299) was to acquire a statistically significant set of small rock samples to petrographically characterize the distribution of rock types in the lunar regolith. The sample location was selected 100 to 125 m west of the LM. A two to three meter diameter circle was marked and all of the walnut sized rocks on the surface within the circle were collected with tongs. Weigh bag 1038 was used to hold rocks and fragments from Station H, EVA-2. The largest samples are numbered 14312-14320 and the residue is 14290-14297. Samples 14294-14297 are the largest fragments of the residue. Sample 14296 is a light ray, angular, flat, polymict breccia chip."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2014&sample=14297",
+            "Sample Number": 14297,
+            "Mission": "Apollo 14",
+            "Sample Type": "rock",
+            "Lithology": "breccia",
+            "Description": "The purpose of the Comprehensive Sample (14169-14188; 14250-14299) was to acquire a statistically significant set of small rock samples to petrographically characterize the distribution of rock types in the lunar regolith. The sample location was selected 100 to 125 m west of the LM. A two to three meter diameter circle was marked and all of the walnut sized rocks on the surface within the circle were collected with tongs. Weigh bag 1038 was used to hold rocks and fragments from Station H, EVA-2. The largest samples are numbered 14312-14320 and the residue is 14290-14297. Samples 14294-14297 are the largest fragments of the residue. Sample 14297 is a polymict breccia with an unusual clast mineralogy."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2014&sample=14301",
+            "Sample Number": 14301,
+            "Mission": "Apollo 14",
+            "Sample Type": "rock",
+            "Lithology": "breccia",
+            "Description": "Sample 14301 is one of two samples (14301 and 14313) collected at Station G1, 150 m east of the LM on the north rim crest of North Triplet Crater during the second EVA. According to the astronauts, the rock appeared to be similar to the other rocks in the area; these appear to be ejecta from North Triplet Crater. Except for samples dug from trenches, 14301 was the most deeply buried rock returned during the Apollo 14 mission (Swann et al., 1977). This sample was larger then anticipated, and was placed directly in weigh bag 1031 (?) by the astronauts. Sample 14301 is a moderately coherent, light medium gray, polymict breccia. It consists of at least 20% clasts larger than 1mm."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2014&sample=14303",
+            "Sample Number": 14303,
+            "Mission": "Apollo 14",
+            "Sample Type": "rock",
+            "Lithology": "breccia",
+            "Description": "These samples (14303 and 14304) are pieces of a football-size rock collected from a location 80 m NNW of the LM during EVA 1. This rock was almost completely buried in the regolith and its orientation is unknown. Both of these samples have freshly broken surfaces. They were first identified as pieces of the same rock in March, 1977, when the models of the rock were found to fit together along their freshly broken surfaces. They share a common lithology which is especially evident along the broken surfaces. These samples were returned together in weigh bag 1027 which also contained samples 14305/302 and various smaller chips (see Phinney et al., 1975). These samples were examined in the CRA and NNPL by the PET< and 14303 was extensively distributed for scientific experimentation. Sample 14304 has been designated a posterity sample. This rock (14303) is a coherent, gray, block to subrounded breccia."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2014&sample=14304",
+            "Sample Number": 14304,
+            "Mission": "Apollo 14",
+            "Sample Type": "rock",
+            "Lithology": "breccia",
+            "Description": "These samples (14303 and 14304) are pieces of a football-size rock collected from a location 80 m NNW of the LM during EVA 1. This rock was almost completely buried in the regolith and its orientation is unknown. Both of these samples have freshly broken surfaces. They were first identified as pieces of the same rock in March, 1977, when the models of the rock were found to fit together along their freshly broken surfaces. They share a common lithology which is especially evident along the broken surfaces. These samples were returned together in weigh bag 1027 which also contained samples 14305/302 and various smaller chips (see Phinney et al., 1975). These samples were examined in the CRA and NNPL by the PET, and 14303 was extensively distributed for scientific experimentation. Sample 14304 has been designated a posterity sample."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2014&sample=14305",
+            "Sample Number": 14305,
+            "Mission": "Apollo 14",
+            "Sample Type": "rock",
+            "Lithology": "breccia",
+            "Description": "broken apart during transit to LRL and numberd 14305 / 14302 and 14303 / 14304; sample 14302 was later renumbered 14305,18. The sample is a medium gray, holocrystalline, clast rich breccia which has been well-sintered together."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2014&sample=14306",
+            "Sample Number": 14306,
+            "Mission": "Apollo 14",
+            "Sample Type": "rock",
+            "Lithology": "breccia",
+            "Description": "Sample 14306 is a fragmental rock collected at station G, 230 meters ESE of the lunar module (LM), and 50 meters E of the rrim crest of North Triplet Crater. It is said to be somewhat more tabular and less irregular than 60 cm boulder but similar to it in color and albedo. The lunar location and orientation are well documented. This sample is gray with ~25% white clasts and is blocky in shape. The rock is a coherent breccia."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2014&sample=14307",
+            "Sample Number": 14307,
+            "Mission": "Apollo 14",
+            "Sample Type": "rock",
+            "Lithology": "breccia",
+            "Description": "Breccia sample 14307 was collected during the second EVA at station G. This sample was not well-documented because its position had already been changed by the time it was collected. There are no lunar surface photographs of 14307, and its lunar orientation is only known through surface pitting. The rock was placed in documented bag 25N and returned to weigh bag 1031. This is a block, subrounded rock with an irregular surface. The color varies from white to dark gray. The rock is friable, but suffieciently strong to prevent clasts from falling out."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2014&sample=14309",
+            "Sample Number": 14309,
+            "Mission": "Apollo 14",
+            "Sample Type": "rock",
+            "Lithology": "breccia",
+            "Description": "Sample 14309 was collected sometime during the second EVA. No lunar-surface photographs were made, nor are the location and orientation known. The sample was returned in weight bag 1031 with other grap samples from EVA 2. Sample 14309 is a moderately friable, vitric matrix breccia."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2014&sample=14310",
+            "Sample Number": 14310,
+            "Mission": "Apollo 14",
+            "Sample Type": "rock",
+            "Lithology": "basalt",
+            "Description": "Crystalline Sample 14310 was collected during the second EVA at Station G. The collection was not well documented -- no lunar-surface photographs were made, and the orientation is known only from surface pitting. This rock is a medium, gray, blocky melt rock, which is subrounded on the pitted sides. It is fine grained and homogeneous in mineralogy."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2014&sample=14311",
+            "Sample Number": 14311,
+            "Mission": "Apollo 14",
+            "Sample Type": "rock",
+            "Lithology": "breccia",
+            "Description": "Breccia sample 14311 was collected during EVA 2 at station Dg. Lunar surface photographs were not taken and the orientation is estimated from surface pitting. Sample 14308 consisted of 3 pieces which PET found to have been part of 14311 and are included herein. These three pieces were renumbered 14311,26; 14311,64; and 14311,65. This sample is a gray coherent breccia which is broken into pieces along fractures. There are only a few fragments >1 mm (<5%) and the rock is mostly (95%) crystalline matrix."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2014&sample=14312",
+            "Sample Number": 14312,
+            "Mission": "Apollo 14",
+            "Sample Type": "rock",
+            "Lithology": "breccia",
+            "Description": "Sample 14312 is a breccia collected from the top of Turtle Rock during EVA 2 at Station H. Its lunar orientation and location were well documented. Turkle Rock is the largest of several boulders at Station H, and the two rocks on it were nicknamed \"turtle eggs\", and collected as samples 14312 and 14319; rock is medium gray, coherent breccia which is partly covered with glass."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2014&sample=14313",
+            "Sample Number": 14313,
+            "Mission": "Apollo 14",
+            "Sample Type": "rock",
+            "Lithology": "breccia",
+            "Description": "Breccia sample 14313 was collected during the second EVA at Station G1, 150 m east of LM, on north rim crest of North Triplet Crater. It was placed in documented bag 27N. Its lunar location and orientation are well documented. This is a medium light gray, coherent, fragmental breccia with a distrinctive shape due to a prominent notch produced by spalling along two sets of fractures intersecting at an angle of 150 degrees."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2014&sample=14314",
+            "Sample Number": 14314,
+            "Mission": "Apollo 14",
+            "Sample Type": "rock",
+            "Lithology": "breccia",
+            "Description": "Sample 14314 is a breccia sample collected during the second EVA at Station H. It was collected from the fillet below Turtle Rock, 80 meters NW of the LM. The fillet slopes 2-3 degrees to the flat regolith and has abundant rocks up to 30 cm in size distributed in it. The rock is a friable breccia, medium to light gray on its fresh surface and dark brownish gray elsewhere. Approximately 40% of the surface is glass covered."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2014&sample=14316",
+            "Sample Number": 14316,
+            "Mission": "Apollo 14",
+            "Sample Type": "rock",
+            "Lithology": "breccia",
+            "Description": "Sample 14316 is a breccia collected at Station H during EVA 2. It has not been identified in lunar surface photographs, so its exact lunar location and orientation are unknown. It was returned in weigh bag 1038. This rock is a medium gray, inhomogeneous, fragmental breccia with one flat face. There is a predominance of leucocratic clasts."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2014&sample=14317",
+            "Sample Number": 14317,
+            "Mission": "Apollo 14",
+            "Sample Type": "rock",
+            "Lithology": "breccia",
+            "Description": "Breccia sample 14317 was collected at Station H during the second EVA but has not been identified in the North Boulder Field photographs, so its lunar location is tentative, and lunar orientation, unknown. It was returned in weigh bag 1038. This rock is a medium gray, coherent breccia."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2014&sample=14318",
+            "Sample Number": 14318,
+            "Mission": "Apollo 14",
+            "Sample Type": "rock",
+            "Lithology": "breccia",
+            "Description": "Breccia sample 14318 was collected from the regolith near the south end of North Boulder Field at Station H during the second EVA. It was returned in weigh bag 1038. Sample 14318 is one of the specimens chosen for study by the Imbrium Consortium, who received 14318,0. A complete set of matched thin sections, across the entire specimen was made by the Consortium (1976); This sample is a very coherent, gray, polymict breccia consisting of light gray clasts in a medium gray matrix."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2014&sample=14319",
+            "Sample Number": 14319,
+            "Mission": "Apollo 14",
+            "Sample Type": "rock",
+            "Lithology": "breccia",
+            "Description": "Breccia sample 14319 is the western rock from the top of Turtle Rock (\"turtle eggs\"). This sample as well as 14312 were collected from Turtle Rock at Station H during the second EVA and returned in weigh bag 1038. Its lunar orientation and location have been well documented. It appears to be similar to Turtle Rock and the other rocks in the area. This is alight-medium gray coherent breccia which is flat on one side and rounded on the other side."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2014&sample=14321",
+            "Sample Number": 14321,
+            "Mission": "Apollo 14",
+            "Sample Type": "rock",
+            "Lithology": "breccia",
+            "Description": "largest sample returned during Apollo 14 mission; also known as \"Big Bertha\". This sample is the third largest sample returned by any Apollo mission. This breccia was collected during the second EVA at Station C1, near the rim of Cone Crater. A voice transcript made during the collection, as well as a more detailed discussion of the lunar environment can be found in Geological Survey Professional Paper 880 (Swann et al., 1977). The sample was returned in bag 1038. This large sample is typical of the apparently dominent rock type in the Cone Crater ejecta blanket. It is a moderately well-indurated breccia, in which predominately dark clasts are set in a lighter matrix. The relative abundance of this rock type suggests that it is probalby representative of the Fra Mauro Formation. This rock, 14321, is a partly annealed, moderately coherent polymict breccia. The blocky surface is gray with patches of black and white."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2014&sample=14426",
+            "Sample Number": 14426,
+            "Mission": "Apollo 14",
+            "Sample Type": "rock",
+            "Lithology": "breccia",
+            "Description": "This sample is a polymict breccia which is broken into two pieces which are similar. The sample is a friable, fine grained, polymict breccia with textural and mineralogic homogeniety."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2014&sample=14427",
+            "Sample Number": 14427,
+            "Mission": "Apollo 14",
+            "Sample Type": "rock",
+            "Lithology": "",
+            "Description": "This sample is a fine grained clastic rock composed of white feldspar and black glass."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2014&sample=14428",
+            "Sample Number": 14428,
+            "Mission": "Apollo 14",
+            "Sample Type": "rock",
+            "Lithology": "breccia",
+            "Description": "Sample 14428 is a vesicular breccia with a crystalline matrix."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2014&sample=14429",
+            "Sample Number": 14429,
+            "Mission": "Apollo 14",
+            "Sample Type": "rock",
+            "Lithology": "breccia",
+            "Description": "Sample 14429 is a slightly vesicular polymict breccia similar to 14428."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2014&sample=14431",
+            "Sample Number": 14431,
+            "Mission": "Apollo 14",
+            "Sample Type": "rock",
+            "Lithology": "",
+            "Description": "Sample 14431 is a light gray, crystalline rock"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2014&sample=14435",
+            "Sample Number": 14435,
+            "Mission": "Apollo 14",
+            "Sample Type": "rock",
+            "Lithology": "",
+            "Description": "Sample 14435 is a holocrystalline, equigranular, coherent rock which appears to have been freshly broken."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2014&sample=14436",
+            "Sample Number": 14436,
+            "Mission": "Apollo 14",
+            "Sample Type": "rock",
+            "Lithology": "",
+            "Description": "Sample 14436 is a brownish gray sample which may be either an igneous rock or a dense, fine grained, fragmental rock."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2014&sample=14437",
+            "Sample Number": 14437,
+            "Mission": "Apollo 14",
+            "Sample Type": "rock",
+            "Lithology": "",
+            "Description": "Sample 14437 is a fragmental rock with all grains smaller than 1 mm and no lithic fragments."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2014&sample=14438",
+            "Sample Number": 14438,
+            "Mission": "Apollo 14",
+            "Sample Type": "rock",
+            "Lithology": "",
+            "Description": "Sample 141438 is a medium to light brownish gray, fragmental rock."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2014&sample=14439",
+            "Sample Number": 14439,
+            "Mission": "Apollo 14",
+            "Sample Type": "rock",
+            "Lithology": "",
+            "Description": "This sample consists of two, small, subequal pieces of a fragmental rock."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2014&sample=14440",
+            "Sample Number": 14440,
+            "Mission": "Apollo 14",
+            "Sample Type": "rock",
+            "Lithology": "",
+            "Description": "This sample is a blocky, angular, medium gray, holocrystalline rock with smooth, unpitted surfaces."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2014&sample=14441",
+            "Sample Number": 14441,
+            "Mission": "Apollo 14",
+            "Sample Type": "rock",
+            "Lithology": "",
+            "Description": "This is a medium to dark gray, coherent, fragmental rock with a pronounced conical shape."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2014&sample=14442",
+            "Sample Number": 14442,
+            "Mission": "Apollo 14",
+            "Sample Type": "rock",
+            "Lithology": "",
+            "Description": "Sample 14442 is a small, blocky, friable, medium gray fragment which resembles siltstone in appearance."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2014&sample=14443",
+            "Sample Number": 14443,
+            "Mission": "Apollo 14",
+            "Sample Type": "rock",
+            "Lithology": "",
+            "Description": "The sample is a dust covered, slightly elongated, holocrystalline rock."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2014&sample=14444",
+            "Sample Number": 14444,
+            "Mission": "Apollo 14",
+            "Sample Type": "rock",
+            "Lithology": "",
+            "Description": "This is a very light gray, coherent, holocrystalline rock with 4% megacrysts."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2014&sample=14445",
+            "Sample Number": 14445,
+            "Mission": "Apollo 14",
+            "Sample Type": "rock",
+            "Lithology": "breccia",
+            "Description": "Sample 14445 is a blocky, subangular, medium gray, hackly, polymict breccia with moderate cohesiveness."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2014&sample=14446",
+            "Sample Number": 14446,
+            "Mission": "Apollo 14",
+            "Sample Type": "rock",
+            "Lithology": "",
+            "Description": "This sample consists of four small chips of plagioclase-rich rock."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2014&sample=14447",
+            "Sample Number": 14447,
+            "Mission": "Apollo 14",
+            "Sample Type": "rock",
+            "Lithology": "",
+            "Description": "This small sample is blocky and angular in shape, it has a very hackly surface. It appears to be an agglometation of fine grained clastics that is held together with glass."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2014&sample=14448",
+            "Sample Number": 14448,
+            "Mission": "Apollo 14",
+            "Sample Type": "rock",
+            "Lithology": "",
+            "Description": "This sample is an agglomerate of fine grained, clastic rocks held together by spatter glass."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2014&sample=14449",
+            "Sample Number": 14449,
+            "Mission": "Apollo 14",
+            "Sample Type": "rock",
+            "Lithology": "",
+            "Description": "Sample 14449 is a gray, friable, freshly broken chip of clastic rock."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2014&sample=14450",
+            "Sample Number": 14450,
+            "Mission": "Apollo 14",
+            "Sample Type": "rock",
+            "Lithology": "",
+            "Description": "The sample is an agglomerate of friable, clastic clods bonded by dark gray to honey brown vesicular glass."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2014&sample=14451",
+            "Sample Number": 14451,
+            "Mission": "Apollo 14",
+            "Sample Type": "rock",
+            "Lithology": "",
+            "Description": "This sample is a very light gray, coherent, massive, inequigranular, holocrystalline rock."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2014&sample=14452",
+            "Sample Number": 14452,
+            "Mission": "Apollo 14",
+            "Sample Type": "rock",
+            "Lithology": "",
+            "Description": "Sample is a fine grained, gray, clastic rock."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2014&sample=14453",
+            "Sample Number": 14453,
+            "Mission": "Apollo 14",
+            "Sample Type": "rock",
+            "Lithology": "breccia",
+            "Description": "This is a banded, light gray, slightly flattened, breccia chip."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2014&sample=14056",
+            "Sample Number": 14056,
+            "Mission": "Apollo 14",
+            "Sample Type": "soil-general",
+            "Lithology": "breccia",
+            "Description": "Sample 14056 was collected from station E during the second EVA. It was returned in bag 15N along with samples 14055-14062; sample is extremely friable and appears to be coherent soil clod, medium brownish in color."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2014&sample=14141",
+            "Sample Number": 14141,
+            "Mission": "Apollo 14",
+            "Sample Type": "soil-general",
+            "Lithology": "soil",
+            "Description": "Samples 14140, 14141, 14142, 14143, 14144 and 14068, 14069, 14070, 14071, and 14072 were collected 3 meters from the rim of a 15 meter crater just south of Cone crater. 14141 is a surface soil identified by crew as a light gray layer, 14068 through 14072 is a sample of some surface rocks in the area. The area near the rim of Cone crater is strewn with boulders up to 3 meters."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2014&sample=14041",
+            "Sample Number": 14041,
+            "Mission": "Apollo 14",
+            "Sample Type": "",
+            "Lithology": "breccia",
+            "Description": "Samples 14041-14046 are fragments from a fractured clod tht broke apart when it was collected by Astronaut Mitchell, collected from Station A, 150 m NW of LM and 90 m N of North Triplet Crater; samples 14041, 14042, 14043, and 14045 are large enough to be considered rocks; sample 14044 is residue and sample 14046 is composed of chips and fines; placed in documented bag 3N and returned in ALSRC 1006."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2014&sample=14045",
+            "Sample Number": 14045,
+            "Mission": "Apollo 14",
+            "Sample Type": "",
+            "Lithology": "breccia",
+            "Description": "Samples 14041-14046 are fragments from a fractured clod tht broke apart when it was collected by Astronaut Mitchell, collected from Station A, 150 m NW of LM and 90 m N of North Triplet Crater; samples 14041, 14042, 14043, and 14045 are large enough to be considered rocks; sample 14044 is residue and sample 14046 is composed of chips and fines; placed in documented bag 3N and returned in ALSRC 1006."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2014&sample=14057",
+            "Sample Number": 14057,
+            "Mission": "Apollo 14",
+            "Sample Type": "",
+            "Lithology": "soil",
+            "Description": "Sample 14057 was collected from Station E during the second EVA. It was returned in bag 15N in ALSRC 1006 along with samples 14055-14062. Sample is very friable and is brownish gray in color."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2014&sample=14059",
+            "Sample Number": 14059,
+            "Mission": "Apollo 14",
+            "Sample Type": "",
+            "Lithology": "breccia",
+            "Description": "Sample 14059 was collected during the second EVA from station E. It was placed in bag 15N by the astronauts, and returned in ALSRC 1006 along with samples 14055-14062. Sample consists of two pieces, larger being irregular in shap and smaller being subrounded."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2014&sample=14061",
+            "Sample Number": 14061,
+            "Mission": "Apollo 14",
+            "Sample Type": "",
+            "Lithology": "breccia",
+            "Description": "Sample 14061 was collected druing the second EVA from station E. It was placed in bag 15N by the astronauts and returned in ALSRC 1006 along with 14055-14062. (Sample 14062 is residue). Sample is friable and appears grayish brown in color. It is an equidimensional, subrounded block."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2014&sample=14071",
+            "Sample Number": 14071,
+            "Mission": "Apollo 14",
+            "Sample Type": "",
+            "Lithology": "breccia",
+            "Description": "Sample 14071 was collected at Station C1 approximately 1.28 km ENE of LM and 100 m SE of Cone Crater. The area is locally flat with a slight southerly slope. The sample was collected amongst abundant debris ranging in size from the limit of resoution up to 75 cm. The photo-documented area was too disturbed to be able to see any intact craters. The sample was returned in documented bay 10N in ALSRC 1006. All the samples collected in the vicinity of 14071 are blocky and angular to subrounded with very rough surfaces."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2014&sample=14148",
+            "Sample Number": 14148,
+            "Mission": "Apollo 14",
+            "Sample Type": "",
+            "Lithology": "soil",
+            "Description": "14145, 14146, 14147, and 14148 collected from the top of the trench; 14153, 14154, 14155, and 14156 is mixed material from the middle two layers, 14080 and 14081 below that, and 14073, 14074, 14075, 14076, 14077, 14078, and 14079 and 14149, 14150, 14151, and 14152 from the bottom of a 40 cm trench. Astronaut Shepard reports the surface fines were so loose the trench walls kept falling in and layered materials were mixed. Bottom layers have pebble in it."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2014&sample=14149",
+            "Sample Number": 14149,
+            "Mission": "Apollo 14",
+            "Sample Type": "",
+            "Lithology": "soil",
+            "Description": "14145, 14146, 14147, and 14148 collected from the top of the trench; 14153, 14154, 14155, and 14156 is mixed material from the middle two layers, 14080 and 14081 below that, and 14073, 14074, 14075, 14076, 14077, 14078, and 14079 and 14149, 14150, 14151, and 14152 from the bottom of a 40 cm trench. Astronaut Shepard reports the surface fines were so loose the trench walls kept falling in and layered materials were mixed. Bottom layers have pebble in it."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2014&sample=14156",
+            "Sample Number": 14156,
+            "Mission": "Apollo 14",
+            "Sample Type": "",
+            "Lithology": "soil",
+            "Description": "Trench sample collected at Station G 30 m NE of North Triplet crater. 14145, 14146, 14147, and 14148 collected from the top of the rench, 14153, 14154, 14155, 14156 is mixed material from the middle two layers including a thin layer of glassy pebbles, 14080 and 14081 below that, and 14073, 14074, 14075, 14076, 14077, 14078, 14079, 14149, 14150, 14151, and 14152 from the bottom of the 40 cm trench. Astronaut Shepard reports the surface fines were so loose the trench walls kept falling in the layered materials mixed."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2014&sample=14163",
+            "Sample Number": 14163,
+            "Mission": "Apollo 14",
+            "Sample Type": "",
+            "Lithology": "soil",
+            "Description": "14160, 14161, 14162, 14163, 14402, 14422, 14425 through 14453 collected 15 m NW of LM. Samples collected from the bottom of a 1 m crater with glass in the bottom; Astronaut Shepard identifies the crater as secondary. Sample area is level and free of large blocks."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2014&sample=14169",
+            "Sample Number": 14169,
+            "Mission": "Apollo 14",
+            "Sample Type": "",
+            "Lithology": "breccia",
+            "Description": "The purpose of the Comprehensive Sample (14169-14188; 14250-14299) was to acquire a statistically significant set of small rock samples to petrographically characterize the distribution of rock types in the lunar regolith. The sample location was selected 100 to 125 m west of the LM. A two to three meter diameter circle was marked and all of the walnut sized rocks on the surface within the circle were collected with tongs. These samples (14169 - 14188) contain a seriate distribution of clasts as large as two centimeters across. The samples are all polymict breccias with fragmental matrices."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2014&sample=14170",
+            "Sample Number": 14170,
+            "Mission": "Apollo 14",
+            "Sample Type": "",
+            "Lithology": "breccia",
+            "Description": "The purpose of the Comprehensive Sample (14169-14188; 14250-14299) was to acquire a statistically significant set of small rock samples to petrographically characterize the distribution of rock types in the lunar regolith. The sample location was selected 100 to 125 m west of the LM. A two to three meter diameter circle was marked and all of the walnut sized rocks on the surface within the circle were collected with tongs. These samples (14169 - 14188) contain a seriate distribution of clasts as large as two centimeters across. The samples are all polymict breccias with fragmental matrices."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2014&sample=14171",
+            "Sample Number": 14171,
+            "Mission": "Apollo 14",
+            "Sample Type": "",
+            "Lithology": "breccia",
+            "Description": "The purpose of the Comprehensive Sample (14169-14188; 14250-14299) was to acquire a statistically significant set of small rock samples to petrographically characterize the distribution of rock types in the lunar regolith. The sample location was selected 100 to 125 m west of the LM. A two to three meter diameter circle was marked and all of the walnut sized rocks on the surface within the circle were collected with tongs. These samples (14169 - 14188) contain a seriate distribution of clasts as large as two centimeters across. The samples are all polymict breccias with fragmental matrices."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2014&sample=14172",
+            "Sample Number": 14172,
+            "Mission": "Apollo 14",
+            "Sample Type": "",
+            "Lithology": "breccia",
+            "Description": "The purpose of the Comprehensive Sample (14169-14188; 14250-14299) was to acquire a statistically significant set of small rock samples to petrographically characterize the distribution of rock types in the lunar regolith. The sample location was selected 100 to 125 m west of the LM. A two to three meter diameter circle was marked and all of the walnut sized rocks on the surface within the circle were collected with tongs. These samples (14169 - 14188) contain a seriate distribution of clasts as large as two centimeters across. The samples are all polymict breccias with fragmental matrices."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2014&sample=14173",
+            "Sample Number": 14173,
+            "Mission": "Apollo 14",
+            "Sample Type": "",
+            "Lithology": "breccia",
+            "Description": "The purpose of the Comprehensive Sample (14169-14188; 14250-14299) was to acquire a statistically significant set of small rock samples to petrographically characterize the distribution of rock types in the lunar regolith. The sample location was selected 100 to 125 m west of the LM. A two to three meter diameter circle was marked and all of the walnut sized rocks on the surface within the circle were collected with tongs. These samples (14169 - 14188) contain a seriate distribution of clasts as large as two centimeters across. The samples are all polymict breccias with fragmental matrices."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2014&sample=14174",
+            "Sample Number": 14174,
+            "Mission": "Apollo 14",
+            "Sample Type": "",
+            "Lithology": "breccia",
+            "Description": "The purpose of the Comprehensive Sample (14169-14188; 14250-14299) was to acquire a statistically significant set of small rock samples to petrographically characterize the distribution of rock types in the lunar regolith. The sample location was selected 100 to 125 m west of the LM. A two to three meter diameter circle was marked and all of the walnut sized rocks on the surface within the circle were collected with tongs. These samples (14169 - 14188) contain a seriate distribution of clasts as large as two centimeters across. The samples are all polymict breccias with fragmental matrices."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2014&sample=14175",
+            "Sample Number": 14175,
+            "Mission": "Apollo 14",
+            "Sample Type": "",
+            "Lithology": "breccia",
+            "Description": "The purpose of the Comprehensive Sample (14169-14188; 14250-14299) was to acquire a statistically significant set of small rock samples to petrographically characterize the distribution of rock types in the lunar regolith. The sample location was selected 100 to 125 m west of the LM. A two to three meter diameter circle was marked and all of the walnut sized rocks on the surface within the circle were collected with tongs. These samples (14169 - 14188) contain a seriate distribution of clasts as large as two centimeters across. The samples are all polymict breccias with fragmental matrices."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2014&sample=14176",
+            "Sample Number": 14176,
+            "Mission": "Apollo 14",
+            "Sample Type": "",
+            "Lithology": "",
+            "Description": "The purpose of the Comprehensive Sample (14169-14188; 14250-14299) was to acquire a statistically significant set of small rock samples to petrographically characterize the distribution of rock types in the lunar regolith. The sample location was selected 100 to 125 m west of the LM. A two to three meter diameter circle was marked and all of the walnut sized rocks on the surface within the circle were collected with tongs. These samples (14169 - 14188) contain a seriate distribution of clasts as large as two centimeters across. The samples are all polymict breccias with fragmental matrices."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2014&sample=14177",
+            "Sample Number": 14177,
+            "Mission": "Apollo 14",
+            "Sample Type": "",
+            "Lithology": "",
+            "Description": "The purpose of the Comprehensive Sample (14169-14188; 14250-14299) was to acquire a statistically significant set of small rock samples to petrographically characterize the distribution of rock types in the lunar regolith. The sample location was selected 100 to 125 m west of the LM. A two to three meter diameter circle was marked and all of the walnut sized rocks on the surface within the circle were collected with tongs. These samples (14169 - 14188) contain a seriate distribution of clasts as large as two centimeters across. The samples are all polymict breccias with fragmental matrices."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2014&sample=14178",
+            "Sample Number": 14178,
+            "Mission": "Apollo 14",
+            "Sample Type": "",
+            "Lithology": "",
+            "Description": "The purpose of the Comprehensive Sample (14169-14188; 14250-14299) was to acquire a statistically significant set of small rock samples to petrographically characterize the distribution of rock types in the lunar regolith. The sample location was selected 100 to 125 m west of the LM. A two to three meter diameter circle was marked and all of the walnut sized rocks on the surface within the circle were collected with tongs. These samples (14169 - 14188) contain a seriate distribution of clasts as large as two centimeters across. The samples are all polymict breccias with fragmental matrices."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2014&sample=14179",
+            "Sample Number": 14179,
+            "Mission": "Apollo 14",
+            "Sample Type": "",
+            "Lithology": "breccia",
+            "Description": "The purpose of the Comprehensive Sample (14169-14188; 14250-14299) was to acquire a statistically significant set of small rock samples to petrographically characterize the distribution of rock types in the lunar regolith. The sample location was selected 100 to 125 m west of the LM. A two to three meter diameter circle was marked and all of the walnut sized rocks on the surface within the circle were collected with tongs. These samples (14169 - 14188) contain a seriate distribution of clasts as large as two centimeters across. The samples are all polymict breccias with fragmental matrices."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2014&sample=14180",
+            "Sample Number": 14180,
+            "Mission": "Apollo 14",
+            "Sample Type": "",
+            "Lithology": "",
+            "Description": "The purpose of the Comprehensive Sample (14169-14188; 14250-14299) was to acquire a statistically significant set of small rock samples to petrographically characterize the distribution of rock types in the lunar regolith. The sample location was selected 100 to 125 m west of the LM. A two to three meter diameter circle was marked and all of the walnut sized rocks on the surface within the circle were collected with tongs. These samples (14169 - 14188) contain a seriate distribution of clasts as large as two centimeters across. The samples are all polymict breccias with fragmental matrices."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2014&sample=14181",
+            "Sample Number": 14181,
+            "Mission": "Apollo 14",
+            "Sample Type": "",
+            "Lithology": "basalt",
+            "Description": "The purpose of the Comprehensive Sample (14169-14188; 14250-14299) was to acquire a statistically significant set of small rock samples to petrographically characterize the distribution of rock types in the lunar regolith. The sample location was selected 100 to 125 m west of the LM. A two to three meter diameter circle was marked and all of the walnut sized rocks on the surface within the circle were collected with tongs. These samples (14169 - 14188) contain a seriate distribution of clasts as large as two centimeters across. The samples are all polymict breccias with fragmental matrices."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2014&sample=14182",
+            "Sample Number": 14182,
+            "Mission": "Apollo 14",
+            "Sample Type": "",
+            "Lithology": "",
+            "Description": "The purpose of the Comprehensive Sample (14169-14188; 14250-14299) was to acquire a statistically significant set of small rock samples to petrographically characterize the distribution of rock types in the lunar regolith. The sample location was selected 100 to 125 m west of the LM. A two to three meter diameter circle was marked and all of the walnut sized rocks on the surface within the circle were collected with tongs. These samples (14169 - 14188) contain a seriate distribution of clasts as large as two centimeters across. The samples are all polymict breccias with fragmental matrices."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2014&sample=14183",
+            "Sample Number": 14183,
+            "Mission": "Apollo 14",
+            "Sample Type": "",
+            "Lithology": "",
+            "Description": "The purpose of the Comprehensive Sample (14169-14188; 14250-14299) was to acquire a statistically significant set of small rock samples to petrographically characterize the distribution of rock types in the lunar regolith. The sample location was selected 100 to 125 m west of the LM. A two to three meter diameter circle was marked and all of the walnut sized rocks on the surface within the circle were collected with tongs. These samples (14169 - 14188) contain a seriate distribution of clasts as large as two centimeters across. The samples are all polymict breccias with fragmental matrices."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2014&sample=14184",
+            "Sample Number": 14184,
+            "Mission": "Apollo 14",
+            "Sample Type": "",
+            "Lithology": "",
+            "Description": "The purpose of the Comprehensive Sample (14169-14188; 14250-14299) was to acquire a statistically significant set of small rock samples to petrographically characterize the distribution of rock types in the lunar regolith. The sample location was selected 100 to 125 m west of the LM. A two to three meter diameter circle was marked and all of the walnut sized rocks on the surface within the circle were collected with tongs. These samples (14169 - 14188) contain a seriate distribution of clasts as large as two centimeters across. The samples are all polymict breccias with fragmental matrices."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2014&sample=14185",
+            "Sample Number": 14185,
+            "Mission": "Apollo 14",
+            "Sample Type": "",
+            "Lithology": "",
+            "Description": "The purpose of the Comprehensive Sample (14169-14188; 14250-14299) was to acquire a statistically significant set of small rock samples to petrographically characterize the distribution of rock types in the lunar regolith. The sample location was selected 100 to 125 m west of the LM. A two to three meter diameter circle was marked and all of the walnut sized rocks on the surface within the circle were collected with tongs. These samples (14169-14188) contain a seriate distribution of clasts as large as two centimeters across. The samples are all polymict breccias with fragmental matrices."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2014&sample=14186",
+            "Sample Number": 14186,
+            "Mission": "Apollo 14",
+            "Sample Type": "",
+            "Lithology": "",
+            "Description": "The purpose of the Comprehensive Sample (14169-14188; 14250-14299) was to acquire a statistically significant set of small rock samples to petrographically characterize the distribution of rock types in the lunar regolith. The sample location was selected 100 to 125 m west of the LM. A two to three meter diameter circle was marked and all of the walnut sized rocks on the surface within the circle were collected with tongs. These samples (14169-14188) contain a seriate distribution of clasts as large as two centimeters across. The samples are all polymict breccias with fragmental matrices."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2014&sample=14187",
+            "Sample Number": 14187,
+            "Mission": "Apollo 14",
+            "Sample Type": "",
+            "Lithology": "",
+            "Description": "The purpose of the Comprehensive Sample (14169-14188; 14250-14299) was to acquire a statistically significant set of small rock samples to petrographically characterize the distribution of rock types in the lunar regolith. The sample location was selected 100 to 125 m west of the LM. A two to three meter diameter circle was marked and all of the walnut sized rocks on the surface within the circle were collected with tongs. These samples ( 14169-14188) contain a seriate distribution of clasts as large as two centimeters across. The samples are all polymict breccias with fragmental matrices."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2014&sample=14188",
+            "Sample Number": 14188,
+            "Mission": "Apollo 14",
+            "Sample Type": "",
+            "Lithology": "",
+            "Description": "The purpose of the Comprehensive Sample (14169-14188; 14250-14299) was to acquire a statistically significant set of small rock samples to petrographically characterize the distribution of rock types in the lunar regolith. The sample location was selected 100 to 125 m west of the LM. A two to three meter diameter circle was marked and all of the walnut sized rocks on the surface within the circle were collected with tongs. These samples (14169-14188) contain a seriate distribution of clasts as large as two centimeters across. The samples are all polymict breccias with fragmental matrices."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2014&sample=14197",
+            "Sample Number": 14197,
+            "Mission": "Apollo 14",
+            "Sample Type": "",
+            "Lithology": "",
+            "Description": "Weigh bag 1031 was used on the traverse during the second EVA. Samples 14194-14201 are small rock fragments that were left in weight bag 1031 after samples 14306-14311 were removed. Their lunar location and orientation are unknown and there are no lunar surface photographs of these samples. Some of these are probably pieces broken off the larger rocks during transit. This sample is very fine grained and appears to be completely recrystallized."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2014&sample=14198",
+            "Sample Number": 14198,
+            "Mission": "Apollo 14",
+            "Sample Type": "",
+            "Lithology": "",
+            "Description": "Weigh bag 1031 was used on the traverse during the second EVA. Samples 14194-14201 are small rock fragments that were left in weight bag 1031 after samples 14306-14311 were removed. Their lunar location and orientation are unknown and there are no lunar surface photographs of these samples. Some of these are probably pieces broken off the larger rocks during transit. This sample is a crystalline rock."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2014&sample=14250",
+            "Sample Number": 14250,
+            "Mission": "Apollo 14",
+            "Sample Type": "",
+            "Lithology": "",
+            "Description": "The purpose of the Comprehensive Sample (14169-14188; 14250-14299) was to acquire a statistically significant set of small rock samples to petrographically characterize the distribution of rock types in the lunar regolith. The sample location was selected 100 to 125 m west of the LM. A two to three meter diameter circle was marked and all of the walnut sized rocks on the surface within the circle were collected with tongs. Sample 14250 is a medium gray, blocky, subangular, moderately friable, seriate fragmental rock."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2014&sample=14251",
+            "Sample Number": 14251,
+            "Mission": "Apollo 14",
+            "Sample Type": "",
+            "Lithology": "",
+            "Description": "The purpose of the Comprehensive Sample (14169-14188; 14250-14299) was to acquire a statistically significant set of small rock samples to petrographically characterize the distribution of rock types in the lunar regolith. The sample location was selected 100 to 125 m west of the LM. A two to three meter diameter circle was marked and all of the walnut sized rocks on the surface within the circle were collected with tongs. Sample 14251 is a medium gray, blocky, friable, fragmental rock."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2014&sample=14256",
+            "Sample Number": 14256,
+            "Mission": "Apollo 14",
+            "Sample Type": "",
+            "Lithology": "",
+            "Description": "The purpose of the Comprehensive Sample (14169-14188; 14250-14299) was to acquire a statistically significant set of small rock samples to petrographically characterize the distribution of rock types in the lunar regolith. The sample location was selected 100 to 125 m west of the LM. A two to three meter diameter circle was marked and all of the walnut sized rocks on the surface within the circle were collected with tongs."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2014&sample=14257",
+            "Sample Number": 14257,
+            "Mission": "Apollo 14",
+            "Sample Type": "",
+            "Lithology": "",
+            "Description": "The purpose of the Comprehensive Sample (14169-14188; 14250-14299) was to acquire a statistically significant set of small rock samples to petrographically characterize the distribution of rock types in the lunar regolith. The sample location was selected 100 to 125 m west of the LM. A two to three meter diameter circle was marked and all of the walnut sized rocks on the surface within the circle were collected with tongs."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2014&sample=14258",
+            "Sample Number": 14258,
+            "Mission": "Apollo 14",
+            "Sample Type": "",
+            "Lithology": "",
+            "Description": "The purpose of the Comprehensive Sample (14169-14188; 14250-14299) was to acquire a statistically significant set of small rock samples to petrographically characterize the distribution of rock types in the lunar regolith. The sample location was selected 100 to 125 m west of the LM. A two to three meter diameter circle was marked and all of the walnut sized rocks on the surface within the circle were collected with tongs."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2014&sample=14259",
+            "Sample Number": 14259,
+            "Mission": "Apollo 14",
+            "Sample Type": "",
+            "Lithology": "soil",
+            "Description": "This scoop sample is part of the comprehensive sample collected 110 m WNW of LM along with 14165 through 14189, 14250 through 14289, 14298 through 14300, and 14420. All samples were collected from within a 4 m circle drawn by Astronaut Shepard. Astronaut Mitchell reports, \"The number of surface rocks, or rocks compared with the number of surface fines is very small Houston. There's a few boulders lying around and there's a few blocks around some of the craters, but by and large, it's a powdery surface.\""
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2014&sample=14260",
+            "Sample Number": 14260,
+            "Mission": "Apollo 14",
+            "Sample Type": "",
+            "Lithology": "soil",
+            "Description": "Surface soil sample is part of comprehensive sample collected 110 WNW of LM with 14165 through 14189, 14250 through 14289, 14298 through 14300 and 14421. All samples, including many walnut sized rocks were collected within a 4 m circle drawn by Astronaut Shepard. 14260 was collected from the top 1 cm of an undisturbed region with this circle. Area is generally level and free of boulders."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2014&sample=14261",
+            "Sample Number": 14261,
+            "Mission": "Apollo 14",
+            "Sample Type": "",
+            "Lithology": "",
+            "Description": "The purpose of the Comprehensive Sample (14169-14188; 14250-14299) was to acquire a statistically significant set of small rock samples to petrographically characterize the distribution of rock types in the lunar regolith. The sample location was selected 100 to 125 m west of the LM. A two to three meter diameter circle was marked and all of the walnut sized rocks on the surface within the circle were collected with tongs."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2014&sample=14263",
+            "Sample Number": 14263,
+            "Mission": "Apollo 14",
+            "Sample Type": "",
+            "Lithology": "",
+            "Description": "The purpose of the Comprehensive Sample (14169-14188; 14250-14299) was to acquire a statistically significant set of small rock samples to petrographically characterize the distribution of rock types in the lunar regolith. The sample location was selected 100 to 125 m west of the LM. A two to three meter diameter circle was marked and all of the walnut sized rocks on the surface within the circle were collected with tongs."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2014&sample=14289",
+            "Sample Number": 14289,
+            "Mission": "Apollo 14",
+            "Sample Type": "",
+            "Lithology": "",
+            "Description": "The purpose of the Comprehensive Sample (14169-14188; 14250-14299) was to acquire a statistically significant set of small rock samples to petrographically characterize the distribution of rock types in the lunar regolith. The sample location was selected 100 to 125 m west of the LM. A two to three meter diameter circle was marked and all of the walnut sized rocks on the surface within the circle were collected with tongs. Sample 14288 is a medium dark gray, vitric (matrix) breccia. It is blocky and angular in shpe and is coherent."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2014&sample=14290",
+            "Sample Number": 14290,
+            "Mission": "Apollo 14",
+            "Sample Type": "",
+            "Lithology": "soil",
+            "Description": "The purpose of the Comprehensive Sample (14169-14188; 14250-14299) was to acquire a statistically significant set of small rock samples to petrographically characterize the distribution of rock types in the lunar regolith. The sample location was selected 100 to 125 m west of the LM. A two to three meter diameter circle was marked and all of the walnut sized rocks on the surface within the circle were collected with tongs."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2014&sample=14291",
+            "Sample Number": 14291,
+            "Mission": "Apollo 14",
+            "Sample Type": "",
+            "Lithology": "soil",
+            "Description": "The purpose of the Comprehensive Sample (14169-14188; 14250-14299) was to acquire a statistically significant set of small rock samples to petrographically characterize the distribution of rock types in the lunar regolith. The sample location was selected 100 to 125 m west of the LM. A two to three meter diameter circle was marked and all of the walnut sized rocks on the surface within the circle were collected with tongs."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2014&sample=14292",
+            "Sample Number": 14292,
+            "Mission": "Apollo 14",
+            "Sample Type": "",
+            "Lithology": "soil",
+            "Description": "The purpose of the Comprehensive Sample (14169-14188; 14250-14299) was to acquire a statistically significant set of small rock samples to petrographically characterize the distribution of rock types in the lunar regolith. The sample location was selected 100 to 125 m west of the LM. A two to three meter diameter circle was marked and all of the walnut sized rocks on the surface within the circle were collected with tongs."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2014&sample=14293",
+            "Sample Number": 14293,
+            "Mission": "Apollo 14",
+            "Sample Type": "",
+            "Lithology": "soil",
+            "Description": "The purpose of the Comprehensive Sample (14169-14188; 14250-14299) was to acquire a statistically significant set of small rock samples to petrographically characterize the distribution of rock types in the lunar regolith. The sample location was selected 100 to 125 m west of the LM. A two to three meter diameter circle was marked and all of the walnut sized rocks on the surface within the circle were collected with tongs."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2014&sample=14294",
+            "Sample Number": 14294,
+            "Mission": "Apollo 14",
+            "Sample Type": "",
+            "Lithology": "breccia",
+            "Description": "The purpose of the Comprehensive Sample (14169-14188; 14250-14299) was to acquire a statistically significant set of small rock samples to petrographically characterize the distribution of rock types in the lunar regolith. The sample location was selected 100 to 125 m west of the LM. A two to three meter diameter circle was marked and all of the walnut sized rocks on the surface within the circle were collected with tongs. Weigh bag 1038 was used to hold rocks and fragments from Station H, EVA-2. The largest samples are numbered 14312-14320 and the residue is 14290-14297. Samples 14294-14297 are the largest fragments of the residue. Sample 14294 is a breccia with one rounded side and one angular side. It is grayish brown on the rounded surface and light to medium gray on the fresh surface."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2014&sample=14298",
+            "Sample Number": 14298,
+            "Mission": "Apollo 14",
+            "Sample Type": "",
+            "Lithology": "",
+            "Description": "The purpose of the Comprehensive Sample (14169-14188; 14250-14299) was to acquire a statistically significant set of small rock samples to petrographically characterize the distribution of rock types in the lunar regolith. The sample location was selected 100 to 125 m west of the LM. A two to three meter diameter circle was marked and all of the walnut sized rocks on the surface within the circle were collected with tongs."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2014&sample=14299",
+            "Sample Number": 14299,
+            "Mission": "Apollo 14",
+            "Sample Type": "",
+            "Lithology": "",
+            "Description": "The purpose of the Comprehensive Sample (14169-14188; 14250-14299) was to acquire a statistically significant set of small rock samples to petrographically characterize the distribution of rock types in the lunar regolith. The sample location was selected 100 to 125 m west of the LM. A two to three meter diameter circle was marked and all of the walnut sized rocks on the surface within the circle were collected with tongs."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2014&sample=14315",
+            "Sample Number": 14315,
+            "Mission": "Apollo 14",
+            "Sample Type": "",
+            "Lithology": "breccia",
+            "Description": "Sample 14315 is a breccia collected from Station H (North Boulder Field) during EVA 2. Its lunar location is documented as bieing 15 m SE of Turtle Rock and 70 m NW of the LM, but the lunar orientation is tentative. It was returned in weight bag 1038. This coherent, gray breccia has a rounded surface and an angular flat underside."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2014&sample=14320",
+            "Sample Number": 14320,
+            "Mission": "Apollo 14",
+            "Sample Type": "",
+            "Lithology": "breccia",
+            "Description": "This breccia was collected from North Boulder Field from Station h during EVA 2. The sample has not been identified in lunar surface photographs so the lunar location is only tentative and the lunar orientation is unknown. Sample 14320 was returned in weight bag 1038. This is a medium gray, coherent, polymict breccia."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2014&sample=14430",
+            "Sample Number": 14430,
+            "Mission": "Apollo 14",
+            "Sample Type": "",
+            "Lithology": "breccia",
+            "Description": "Sample 14430 is a medium to light gray, polymict breccia"
+        }
+    ]
+}

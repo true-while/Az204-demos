@@ -1,0 +1,3433 @@
+{
+    "id": "Apollo 16",
+    "Description": "John Young on the Moon, with the Lunar Module and Lunar Rover in the background",
+    "Mission type": "Manned lunar landing",
+    "Operator": "NASA1",
+    "COSPAR ID": [
+        "CSM: 1972-031A",
+        "LM: 1972-031C"
+    ],
+    "SATCAT ": [
+        "CSM: 6000",
+        "LM: 6005"
+    ],
+    "Mission duration": "11 days, 1 hour, 51 minutes, 5 seconds",
+    "Spacecraft properties": {
+        "Spacecraft": [
+            "Apollo CSM-113",
+            "Apollo LM-11"
+        ],
+        "Manufacturer": [
+            "CSM: North American Rockwell",
+            "LM: Grumman"
+        ],
+        "Launch mass": "107,226 pounds (48,637 kg)",
+        "Landing mass": "11,995 pounds (5,441 kg)"
+    },
+    "Crew": {
+        "Crew size": 3,
+        "Members": [
+            "John W. Young",
+            "Thomas K. Mattingly II",
+            "Charles M. Duke, Jr."
+        ],
+        "Callsign": [
+            "CSM: Casper",
+            "LM: Orion"
+        ],
+        "EVAs": [
+            "1 in cislunar space",
+            "Plus 4 on the lunar surface"
+        ],
+        "EVA duration": [
+            "1 hours, 23 minutes, 42 seconds",
+            "Spacewalk to retrieve film cassettes"
+        ]
+    },
+    "Start of mission": {
+        "Launch date": "April 16, 1972, 17:54:00 (1972-04-16UTC17:54Z) UTC",
+        "Rocket": "Saturn V SA-511",
+        "Launch site": "Kennedy LC-39A"
+    },
+    "End of mission": {
+        "Recovered by": "USS Ticonderoga",
+        "Landing date": "April 27, 1972, 19:45:05 (1972-04-27UTC19:45:06Z) UTC",
+        "Landing site": [
+            "South Pacific Ocean",
+            "0°43S 156°13W / 0.717°S 156.217°W / -0.717; -156.217 (Apollo 16 splashdown)"
+        ]
+    },
+    "Orbital parameters": {
+        "Reference system": "Selenocentric",
+        "Periselene": "20.2 kilometers (10.9 nmi)",
+        "Aposelene": "108.3 kilometers (58.5 nmi)",
+        "Epoch": "April 20, 1972, 00:27 UTC"
+    },
+    "Lunar orbiter": {
+        "Spacecraft component": "Command/Service Module",
+        "Orbital insertion": "April 19, 1972, 20:22:27 UTC",
+        "Departed orbit": "April 25, 1972, 02:15:33 UTC",
+        "Orbits": "64"
+    },
+    "Lunar lander": {
+        "Spacecraft component": "Lunar Module",
+        "Landing date": "April 21, 1972, 02:23:35 UTC",
+        "Return launch": "April 24, 1972, 01:25:47 UTC",
+        "Landing site": [
+            "Descartes Highlands",
+            "8°5823S 15°3001E / 8.97301°S 15.50019°E / -8.97301; 15.50019"
+        ],
+        "Sample mass": "95.71 kilograms (211.0 lb)",
+        "Surface EVAs": "3",
+        "EVA duration": {
+            "Total": "20 hours, 14 minutes, 14 seconds",
+            "First": "07 hours, 11 minutes, 02 seconds",
+            "Second": "07 hours, 23 minutes, 09 seconds",
+            "Third": "05 hours, 40 minutes, 03 seconds"
+        },
+        "Lunar rover": {
+            "Distance covered": "26.7 kilometers (16.6 mi)"
+        }
+    },
+    "Docking with LM": {
+        "Docking date": "April 16, 1972, 21:15:53 UTC",
+        "Undocking date": "April 20, 1972, 18:07:31 UTC"
+    },
+    "Docking with LM Ascent Stage": {
+        "Docking date": "April 24, 1972, 03:35:18 UTC",
+        "Undocking date": "April 24, 1972, 20:54:12 UTC"
+    },
+    "Payload": {
+        "Scientific Instrument Module": {
+            "Lunar Roving Vehicle": {
+                "Mass": [
+                    "SIM:",
+                    "LRV: 463 pounds (210 kg)"
+                ]
+
+            }
+        }
+    },
+    "Artifacts": [
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=60001",
+            "Sample Number": 60001,
+            "Mission": "Apollo 16",
+            "Sample Type": "core",
+            "Lithology": "",
+            "Description": "The deep drill string was separated into two sections of three stems each on the lunar surface (60007, 60006 and 60005) and (60004, 60003, 60002 and 60001bit)."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=60002",
+            "Sample Number": 60002,
+            "Mission": "Apollo 16",
+            "Sample Type": "core",
+            "Lithology": "",
+            "Description": "The deep drill string was separated into two sections of three stems each on the lunar surface (60007, 60006 and 60005) and (60004, 60003, 60002 and 60001bit)."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=60003",
+            "Sample Number": 60003,
+            "Mission": "Apollo 16",
+            "Sample Type": "core",
+            "Lithology": "",
+            "Description": "The deep drill string was separated into two sections of three stems each on the lunar surface (60007, 60006 and 60005) and (60004, 60003, 60002 and 60001bit)."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=60004",
+            "Sample Number": 60004,
+            "Mission": "Apollo 16",
+            "Sample Type": "core",
+            "Lithology": "",
+            "Description": "The deep drill string was separated into two sections of three stems each on the lunar surface (60007, 60006 and 60005) and (60004, 60003, 60002 and 60001bit)."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=60005",
+            "Sample Number": 60005,
+            "Mission": "Apollo 16",
+            "Sample Type": "core",
+            "Lithology": "",
+            "Description": "The deep drill string was separated into two sections of three stems each on the lunar surface (60007, 60006 and 60005) and (60004, 60003, 60002 and 60001bit)."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=60006",
+            "Sample Number": 60006,
+            "Mission": "Apollo 16",
+            "Sample Type": "core",
+            "Lithology": "soil",
+            "Description": "Deep core contining samples 60001 through 60007 was drilled at the ALSEP site about 175 m southwest of the LM and 25 m south of the ALSEP central station. The sample area is generally flat with blocks up to 10-15 cm abundant. Deep drill area has the least compacted soil and the highest density of craters in the area. Core stems went easily into the surface."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=60007",
+            "Sample Number": 60007,
+            "Mission": "Apollo 16",
+            "Sample Type": "core",
+            "Lithology": "",
+            "Description": "Deep core contining samples 60001 through 60007 was drilled at the ALSEP site about 175 m southwest of the LM and 25 m south of the ALSEP central station. The sample area is generally flat with blocks up to 10-15 cm abundant. Deep drill area has the least compacted soil and the highest density of craters in the area. Core stems went easily into the surface."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=60009",
+            "Sample Number": 60009,
+            "Mission": "Apollo 16",
+            "Sample Type": "core",
+            "Lithology": "soil",
+            "Description": "Drive Tube 60009/60010 was taken at Station 10 bout 100 meters southwest of the LM. Samples were taken from the rim of a subdued 60 cm crater. Fragments on the surface are mostly pear sized; none are larger than a few cm. Grain sizes >1mm may have been handled less so friable fragments would be less likely to break apart."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=60010",
+            "Sample Number": 60010,
+            "Mission": "Apollo 16",
+            "Sample Type": "core",
+            "Lithology": "soil",
+            "Description": "Drive Tube 60009/60010 was taken at Station 10 bout 100 meters southwest of the LM. Samples were taken from the rim of a subdued 60 cm crater. Fragments on the surface are mostly pear sized; none are larger than a few cm. Grain sizes >1mm may have been handled less so friable fragments would be less likely to break apart."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=60014",
+            "Sample Number": 60014,
+            "Mission": "Apollo 16",
+            "Sample Type": "core",
+            "Lithology": "",
+            "Description": "60014 - 60013 is one of the three cores that were collected close to one another (about 50 m apart) at the ALSEP site at Apollo 16"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=64001",
+            "Sample Number": 64001,
+            "Mission": "Apollo 16",
+            "Sample Type": "core",
+            "Lithology": "soil",
+            "Description": "Core drilled on Stone Mountain at Station 4, within one crater diameter of a 15 meter subdued doublet crater. The deep sections of the core may contain the best samples of typical Descartes material. The sample area has a 10-15 degree slope to the northwest. There are a few scattered cobbles 5-10 cm. Scattered craters .5 to several meters in diameter are common in the general area, there is a .5 meter crater just southwest of the drive tube."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=64002",
+            "Sample Number": 64002,
+            "Mission": "Apollo 16",
+            "Sample Type": "core",
+            "Lithology": "soil",
+            "Description": "Drive tube 64001 / 64002 collected on Stone Mountain at Station 4, within one crater diameter of a 15 meter subdued doublet crater. The deep sections of the core may contain the best samples of typical Descartes material. The sample area has a 10-15 degree slope to the northwest. There are a few scattered cobbles 5-10 cm. Scattered craters .5 to several meters in diameter are common in the general area, there is a .5 meter crater just southwest of the drive tube."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=68001",
+            "Sample Number": 68001,
+            "Mission": "Apollo 16",
+            "Sample Type": "core",
+            "Lithology": "",
+            "Description": "very coarse grained; speculated that \"the top of this zone may represent a buried topographic surface\". However, this study was based on an interpretation of the Xradiograph, and was not confirmed by the study of the core after extrusion. Schwarz (1994) described the samples during dissection."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=60050",
+            "Sample Number": 60050,
+            "Mission": "Apollo 16",
+            "Sample Type": "rake",
+            "Lithology": "soil",
+            "Description": "contains friable white breccias described by the crew as \"caliche - like\", and contains abundant fragments <15cm."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=60055",
+            "Sample Number": 60055,
+            "Mission": "Apollo 16",
+            "Sample Type": "rake",
+            "Lithology": "soil",
+            "Description": "walnut-sized particles from soil sample 60050 are what gave the soil a \"white\" appearance on the lunar surface."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=60056",
+            "Sample Number": 60056,
+            "Mission": "Apollo 16",
+            "Sample Type": "rake",
+            "Lithology": "soil",
+            "Description": "walnut-sized particles from soil sample 60050 are what gave the soil a \"white\" appearance on the lunar surface."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=60057",
+            "Sample Number": 60057,
+            "Mission": "Apollo 16",
+            "Sample Type": "rake",
+            "Lithology": "soil",
+            "Description": "walnut-sized particles from soil sample 60050 are what gave the soil a \"white\" appearance on the lunar surface."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=60058",
+            "Sample Number": 60058,
+            "Mission": "Apollo 16",
+            "Sample Type": "rake",
+            "Lithology": "soil",
+            "Description": "walnut-sized particles from soil sample 60050 are what gave the soil a \"white\" appearance on the lunar surface."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=60059",
+            "Sample Number": 60059,
+            "Mission": "Apollo 16",
+            "Sample Type": "rake",
+            "Lithology": "soil",
+            "Description": "walnut-sized particles from soil sample 60050 are what gave the soil a \"white\" appearance on the lunar surface."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=60500",
+            "Sample Number": 60500,
+            "Mission": "Apollo 16",
+            "Sample Type": "rake",
+            "Lithology": "soil",
+            "Description": "The sample accompanies rake sample 60510. The sieved portion of 60500 did not include any walnut sized rocks (> 1 cm), however, a large portion remains unsieved."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=60515",
+            "Sample Number": 60515,
+            "Mission": "Apollo 16",
+            "Sample Type": "rake",
+            "Lithology": "",
+            "Description": "the surface is mostly coated with micrometeorite craters and is cataclastic anorthosite - of the ferroan variety."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=60516",
+            "Sample Number": 60516,
+            "Mission": "Apollo 16",
+            "Sample Type": "rake",
+            "Lithology": "",
+            "Description": "the surface is mostly coated with micrometeorite craters and is cataclastic anorthosite - of the ferroan variety."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=60517",
+            "Sample Number": 60517,
+            "Mission": "Apollo 16",
+            "Sample Type": "rake",
+            "Lithology": "",
+            "Description": "the surface is mostly coated with micrometeorite craters and is cataclastic anorthosite - of the ferroan variety."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=60518",
+            "Sample Number": 60518,
+            "Mission": "Apollo 16",
+            "Sample Type": "rake",
+            "Lithology": "",
+            "Description": "the surface is mostly coated with micrometeorite craters and is cataclastic anorthosite - of the ferroan variety."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=60519",
+            "Sample Number": 60519,
+            "Mission": "Apollo 16",
+            "Sample Type": "rake",
+            "Lithology": "",
+            "Description": "the surface is mostly coated with micrometeorite craters and is cataclastic anorthosite - of the ferroan variety."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=60525",
+            "Sample Number": 60525,
+            "Mission": "Apollo 16",
+            "Sample Type": "rake",
+            "Lithology": "impact melt breccia",
+            "Description": "Warner et al. (1976) described 60525 as heterogeneous, with half of matrix with poikilitic texture and half with subophitic texture."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=60526",
+            "Sample Number": 60526,
+            "Mission": "Apollo 16",
+            "Sample Type": "rake",
+            "Lithology": "",
+            "Description": "dense, aphanitic, coherent rock fragment. It has a high rare-earth-element and major element content characteristic of KREEP (Meyer 1974)."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=60535",
+            "Sample Number": 60535,
+            "Mission": "Apollo 16",
+            "Sample Type": "rake",
+            "Lithology": "breccia",
+            "Description": "typical glass matrix regolith breccias"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=60600",
+            "Sample Number": 60600,
+            "Mission": "Apollo 16",
+            "Sample Type": "rake",
+            "Lithology": "soil",
+            "Description": "typical Apollo 16 soil; coarse-fine particles"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=60610",
+            "Sample Number": 60610,
+            "Mission": "Apollo 16",
+            "Sample Type": "rake",
+            "Lithology": "soil",
+            "Description": "coarse-fine particles, contained 33 fragments larger than 1 cm"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=60615",
+            "Sample Number": 60615,
+            "Mission": "Apollo 16",
+            "Sample Type": "rake",
+            "Lithology": "breccia",
+            "Description": "basaltic impact melt with one large vesicle; coherent, mostly intergranular with olivine and pyroxene confined to intersticies between fine plagioclase laths"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=60618",
+            "Sample Number": 60618,
+            "Mission": "Apollo 16",
+            "Sample Type": "rake",
+            "Lithology": "breccia",
+            "Description": "tough, light gray rake sample consisting of basaltic impact melt and cataclastic anorthosite; found to be highly aluminous with an age about 4 b.y."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=60619",
+            "Sample Number": 60619,
+            "Mission": "Apollo 16",
+            "Sample Type": "rake",
+            "Lithology": "breccia",
+            "Description": "light gray anorthosite, coherent, recrystallized, plagioclaserich rock with minor glass-splash and a few micrometeorite craters. It has not been well studied."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=60625",
+            "Sample Number": 60625,
+            "Mission": "Apollo 16",
+            "Sample Type": "rake",
+            "Lithology": "impact melt breccia",
+            "Description": "plagioclase-rich, white rock, but it also has high content of REE"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=60626",
+            "Sample Number": 60626,
+            "Mission": "Apollo 16",
+            "Sample Type": "rake",
+            "Lithology": "impact melt breccia",
+            "Description": "poikilitic texture, but the plagioclase chadocrysts have indistinct boundaries."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=60627",
+            "Sample Number": 60627,
+            "Mission": "Apollo 16",
+            "Sample Type": "rake",
+            "Lithology": "breccia",
+            "Description": "light colored and must be mostly plagioclase, because it seems large for its weight (low density) and has zap pits with transparent glass linings."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=60629",
+            "Sample Number": 60629,
+            "Mission": "Apollo 16",
+            "Sample Type": "rake",
+            "Lithology": "",
+            "Description": "an anorthosite with attached black glass, cataclastic texture and the pyroxenes indicate that this sample is ferroan anorthosite"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=60635",
+            "Sample Number": 60635,
+            "Mission": "Apollo 16",
+            "Sample Type": "rake",
+            "Lithology": "breccia",
+            "Description": "igneous rock, basaltic texture."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=60636",
+            "Sample Number": 60636,
+            "Mission": "Apollo 16",
+            "Sample Type": "rake",
+            "Lithology": "breccia",
+            "Description": "clast-rich impact melt, has one of the highest contents of trace elements in the Apollo 16 collection, and has been dated at 3.94 b.y."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=60637",
+            "Sample Number": 60637,
+            "Mission": "Apollo 16",
+            "Sample Type": "rake",
+            "Lithology": "breccia",
+            "Description": "typical glass matrix regolith breccias, glass shards, lithic fragments and mineral fragments in a seriate grain size distribution"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=60639",
+            "Sample Number": 60639,
+            "Mission": "Apollo 16",
+            "Sample Type": "rake",
+            "Lithology": "breccia",
+            "Description": "fragmental polymict breccia with a low porosity. A wide variety of clasts is present, a mare basalt and a pristine anorthosite being of particular significance. One side of the subangular rock is covered with a smooth dark glass"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=60645",
+            "Sample Number": 60645,
+            "Mission": "Apollo 16",
+            "Sample Type": "rake",
+            "Lithology": "impact melt breccia",
+            "Description": "vesicular fine-grained impact melt with an unusual coloration"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=60659",
+            "Sample Number": 60659,
+            "Mission": "Apollo 16",
+            "Sample Type": "rake",
+            "Lithology": "breccia",
+            "Description": "small polymict breccias, contains a number of feldspar-rich clasts in a coherent matrix"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=60665",
+            "Sample Number": 60665,
+            "Mission": "Apollo 16",
+            "Sample Type": "rake",
+            "Lithology": "breccia",
+            "Description": "contains chalky white clasts loosely held by black vesicular glass; cataclastic anorthosite"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=60666",
+            "Sample Number": 60666,
+            "Mission": "Apollo 16",
+            "Sample Type": "rake",
+            "Lithology": "glassy impact melt breccia",
+            "Description": "glass-coated impact-melt breccias"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=61155",
+            "Sample Number": 61155,
+            "Mission": "Apollo 16",
+            "Sample Type": "rake",
+            "Lithology": "breccia",
+            "Description": "clastrich \"glassy impact melt\"; has abundant white clasts, thin glass veins and glassy mesostasis"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=61220",
+            "Sample Number": 61220,
+            "Mission": "Apollo 16",
+            "Sample Type": "rake",
+            "Lithology": "soil",
+            "Description": "Soil color is listed as light olive gray but mission transcripts state, \"I just had a good scoopful, and I lost it. Let me dig out a little - another little trench. There she be. Coming up all white. That's all that's in there John.\""
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=61224",
+            "Sample Number": 61224,
+            "Mission": "Apollo 16",
+            "Sample Type": "rake",
+            "Lithology": "basalt",
+            "Description": "contained several white and off-white particles as well as 3 peppered black and white rock fragments that appeared to fit together as one"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=61500",
+            "Sample Number": 61500,
+            "Mission": "Apollo 16",
+            "Sample Type": "rake",
+            "Lithology": "soil",
+            "Description": "This is part of a radial sample sequence with 61180, 61160, and 61140. The site is level with fragments 1-10 cm sparse and none larger in the area. Craters <3 m are common; most are subdued but one has a sharp rim."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=61510",
+            "Sample Number": 61510,
+            "Mission": "Apollo 16",
+            "Sample Type": "rake",
+            "Lithology": "",
+            "Description": "This is part of a radial sample sequence with 61180, 61160, and 61140. The site is level with fragments 1-10 cm sparse and none larger in the area. Craters <3 m are common; most are subdued but one has a sharp rim."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=61515",
+            "Sample Number": 61515,
+            "Mission": "Apollo 16",
+            "Sample Type": "rake",
+            "Lithology": "breccia",
+            "Description": "friable, clastic, seriate and \"very light-grey\""
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=61516",
+            "Sample Number": 61516,
+            "Mission": "Apollo 16",
+            "Sample Type": "rake",
+            "Lithology": "breccia",
+            "Description": "friable, clastic, seriate and \"very light-grey\""
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=61517",
+            "Sample Number": 61517,
+            "Mission": "Apollo 16",
+            "Sample Type": "rake",
+            "Lithology": "breccia",
+            "Description": "friable, clastic, seriate and \"very light-grey\""
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=61518",
+            "Sample Number": 61518,
+            "Mission": "Apollo 16",
+            "Sample Type": "rake",
+            "Lithology": "breccia",
+            "Description": "friable, clastic, seriate and \"very light-grey\""
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=61519",
+            "Sample Number": 61519,
+            "Mission": "Apollo 16",
+            "Sample Type": "rake",
+            "Lithology": "breccia",
+            "Description": "friable, clastic, seriate and \"very light-grey\""
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=61526",
+            "Sample Number": 61526,
+            "Mission": "Apollo 16",
+            "Sample Type": "rake",
+            "Lithology": "breccia",
+            "Description": "As sorted and described by Phinney et al. (1973) they may all be the same material. Only 61525 has been studied."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=61527",
+            "Sample Number": 61527,
+            "Mission": "Apollo 16",
+            "Sample Type": "rake",
+            "Lithology": "breccia",
+            "Description": "As sorted and described by Phinney et al. (1973) they may all be the same material. Only 61525 has been studied."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=61528",
+            "Sample Number": 61528,
+            "Mission": "Apollo 16",
+            "Sample Type": "rake",
+            "Lithology": "breccia",
+            "Description": "As sorted and described by Phinney et al. (1973) they may all be the same material. Only 61525 has been studied."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=61529",
+            "Sample Number": 61529,
+            "Mission": "Apollo 16",
+            "Sample Type": "rake",
+            "Lithology": "breccia",
+            "Description": "As sorted and described by Phinney et al. (1973) they may all be the same material. Only 61525 has been studied."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=61536",
+            "Sample Number": 61536,
+            "Mission": "Apollo 16",
+            "Sample Type": "rake",
+            "Lithology": "breccia",
+            "Description": "contains a large white clast held within a glass matrix, and has a thin glass coating on surface"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=61546",
+            "Sample Number": 61546,
+            "Mission": "Apollo 16",
+            "Sample Type": "rake",
+            "Lithology": "breccia",
+            "Description": "vesicular chunk of glass with numerous small white clast and micrometeorite craters on one side only."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=61547",
+            "Sample Number": 61547,
+            "Mission": "Apollo 16",
+            "Sample Type": "rake",
+            "Lithology": "breccia",
+            "Description": "devitrified glass containing small clasts of plagioclase and feldspathic impact melt breccia"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=61548",
+            "Sample Number": 61548,
+            "Mission": "Apollo 16",
+            "Sample Type": "rake",
+            "Lithology": "breccia",
+            "Description": "devitrified glass containing small clasts of plagioclase and feldspathic impact melt breccia"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=61549",
+            "Sample Number": 61549,
+            "Mission": "Apollo 16",
+            "Sample Type": "rake",
+            "Lithology": "breccia",
+            "Description": "coherent dense impact melt with microlites of mafic minerals in aphanitic matrix"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=61568",
+            "Sample Number": 61568,
+            "Mission": "Apollo 16",
+            "Sample Type": "rake",
+            "Lithology": "impact melt breccia",
+            "Description": "has two distinct textures (basalt and poikilitic), separated by a sharp boundary"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=61569",
+            "Sample Number": 61569,
+            "Mission": "Apollo 16",
+            "Sample Type": "rake",
+            "Lithology": "impact melt breccia",
+            "Description": "coherent impact melt breccia; appears to be different from most pokilitic melt rocks at Apollo 16 because the dominant oikocryst is olivine, rather than pyroxene"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=62235",
+            "Sample Number": 62235,
+            "Mission": "Apollo 16",
+            "Sample Type": "rake",
+            "Lithology": "breccia",
+            "Description": "apparently homogeneous, coherent, hollocrystaline impact melt rock with classic poikilitic texture highly enriched in trace elements and siderophile elements and has been dated at 3.88 b.y., with an exposure history of 153 m.y."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=62236",
+            "Sample Number": 62236,
+            "Mission": "Apollo 16",
+            "Sample Type": "rake",
+            "Lithology": "soil",
+            "Description": "found to be a slowly-cooled plutonic rock (Takeda et al. 1979) with an age of ~4.3 b.y. (Borg et al. 1999)."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=62295",
+            "Sample Number": 62295,
+            "Mission": "Apollo 16",
+            "Sample Type": "rake",
+            "Lithology": "impact melt breccia",
+            "Description": "blocky coherent impact melt rock with numerous micrometeorite pits on one side and none on the other"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=63335",
+            "Sample Number": 63335,
+            "Mission": "Apollo 16",
+            "Sample Type": "rake",
+            "Lithology": "impact melt breccia",
+            "Description": "dark grey microbreccia, cut by a light vein of devitrified glass"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=63355",
+            "Sample Number": 63355,
+            "Mission": "Apollo 16",
+            "Sample Type": "rake",
+            "Lithology": "breccia",
+            "Description": "Pieces of 63355 have patina and micrometeorite craters"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=63500",
+            "Sample Number": 63500,
+            "Mission": "Apollo 16",
+            "Sample Type": "rake",
+            "Lithology": "soil",
+            "Description": "area contains small rocks (2-10 cm) which cover 5% of the surface, fines are less compacted than soil at North Ray crater. Random 1-2 meter fresh to subdued craters are found in the local area. No crater is recognizable in the immediate sample area."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=63506",
+            "Sample Number": 63506,
+            "Mission": "Apollo 16",
+            "Sample Type": "rake",
+            "Lithology": "breccia",
+            "Description": "round particle is coherent and appears to be mostly plagioclase"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=63507",
+            "Sample Number": 63507,
+            "Mission": "Apollo 16",
+            "Sample Type": "rake",
+            "Lithology": "regolith breccia",
+            "Description": "friable breccias with a light brown color and is partially coated with black glass"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=63525",
+            "Sample Number": 63525,
+            "Mission": "Apollo 16",
+            "Sample Type": "rake",
+            "Lithology": "breccia",
+            "Description": "Phinney et al. (1976) describe these samples together as \"tough crystalline breccia\"."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=63526",
+            "Sample Number": 63526,
+            "Mission": "Apollo 16",
+            "Sample Type": "rake",
+            "Lithology": "breccia",
+            "Description": "Phinney et al. (1976) describe these samples together as \"tough crystalline breccia\"."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=63528",
+            "Sample Number": 63528,
+            "Mission": "Apollo 16",
+            "Sample Type": "rake",
+            "Lithology": "breccia",
+            "Description": "Phinney et al. (1976) describe these samples together as \"tough crystalline breccia\"."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=63529",
+            "Sample Number": 63529,
+            "Mission": "Apollo 16",
+            "Sample Type": "rake",
+            "Lithology": "breccia",
+            "Description": "dark, homogeneous, coherent finegrained impact melt breccias"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=63535",
+            "Sample Number": 63535,
+            "Mission": "Apollo 16",
+            "Sample Type": "rake",
+            "Lithology": "breccia",
+            "Description": "small fragments of Impact Melt Rock - some with finegrained basaltic texture; there are numerous small relic clasts that are incorporated in the matrix"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=63536",
+            "Sample Number": 63536,
+            "Mission": "Apollo 16",
+            "Sample Type": "rake",
+            "Lithology": "breccia",
+            "Description": "small fragments of Impact Melt Rock - some with finegrained basaltic texture; there are numerous small relic clasts that are incorporated in the matrix"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=63537",
+            "Sample Number": 63537,
+            "Mission": "Apollo 16",
+            "Sample Type": "rake",
+            "Lithology": "breccia",
+            "Description": "small fragments of Impact Melt Rock - some with finegrained basaltic texture; there are numerous small relic clasts that are incorporated in the matrix"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=63538",
+            "Sample Number": 63538,
+            "Mission": "Apollo 16",
+            "Sample Type": "rake",
+            "Lithology": "breccia",
+            "Description": "glass-matrix breccia with abundant small clasts"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=63539",
+            "Sample Number": 63539,
+            "Mission": "Apollo 16",
+            "Sample Type": "rake",
+            "Lithology": "breccia",
+            "Description": "Rake Sample 63548 contains 63539 and 63586 are fragments of fine-grained, coherent impact melt"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=63545",
+            "Sample Number": 63545,
+            "Mission": "Apollo 16",
+            "Sample Type": "rake",
+            "Lithology": "breccia",
+            "Description": "coherent impact melt rock with numerous zap pits; has been dated at 3.9 b.y."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=63548",
+            "Sample Number": 63548,
+            "Mission": "Apollo 16",
+            "Sample Type": "rake",
+            "Lithology": "breccia",
+            "Description": "Rake Sample 63548 contains 63539 and 63586 are fragments of fine-grained, coherent impact melt"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=63549",
+            "Sample Number": 63549,
+            "Mission": "Apollo 16",
+            "Sample Type": "rake",
+            "Lithology": "breccia",
+            "Description": "rake sample with numerous micrometeorite cratrers; is coherent and appears to be a homogeneous impact melt rock. It has been dated at 3.84 b.y."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=63555",
+            "Sample Number": 63555,
+            "Mission": "Apollo 16",
+            "Sample Type": "rake",
+            "Lithology": "breccia",
+            "Description": "Phinney et al. (1976) describe these samples together as \"tough crystalline breccia\"."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=63556",
+            "Sample Number": 63556,
+            "Mission": "Apollo 16",
+            "Sample Type": "rake",
+            "Lithology": "breccia",
+            "Description": "poikilitic impact melt with the bulk composition of KREEP. It has a few micrometeorite zap pits"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=63557",
+            "Sample Number": 63557,
+            "Mission": "Apollo 16",
+            "Sample Type": "rake",
+            "Lithology": "breccia",
+            "Description": "dark, homogeneous, coherent finegrained impact melt breccias"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=63559",
+            "Sample Number": 63559,
+            "Mission": "Apollo 16",
+            "Sample Type": "rake",
+            "Lithology": "breccia",
+            "Description": "chunks of dark, vesicular glass with white inclusions"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=63565",
+            "Sample Number": 63565,
+            "Mission": "Apollo 16",
+            "Sample Type": "rake",
+            "Lithology": "breccia",
+            "Description": "chunks of dark, vesicular glass with white inclusions"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=63566",
+            "Sample Number": 63566,
+            "Mission": "Apollo 16",
+            "Sample Type": "rake",
+            "Lithology": "breccia",
+            "Description": "small glass sample has relatively large white inclusions"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=63567",
+            "Sample Number": 63567,
+            "Mission": "Apollo 16",
+            "Sample Type": "rake",
+            "Lithology": "breccia",
+            "Description": "chunks of dark, vesicular glass with white inclusions"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=63568",
+            "Sample Number": 63568,
+            "Mission": "Apollo 16",
+            "Sample Type": "rake",
+            "Lithology": "breccia",
+            "Description": "chunks of dark, vesicular glass with white inclusions"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=63575",
+            "Sample Number": 63575,
+            "Mission": "Apollo 16",
+            "Sample Type": "rake",
+            "Lithology": "breccia",
+            "Description": "small glass sample has relatively large white inclusions"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=63576",
+            "Sample Number": 63576,
+            "Mission": "Apollo 16",
+            "Sample Type": "rake",
+            "Lithology": "breccia",
+            "Description": "chunks of dark, vesicular glass with white inclusions"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=63578",
+            "Sample Number": 63578,
+            "Mission": "Apollo 16",
+            "Sample Type": "rake",
+            "Lithology": "breccia",
+            "Description": "a fragmental breccia with at least some glass in the matrix"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=63585",
+            "Sample Number": 63585,
+            "Mission": "Apollo 16",
+            "Sample Type": "rake",
+            "Lithology": "breccia",
+            "Description": "impact melt breccia with regions that have basaltic texture and other areas that are poikilitic, and has numerous micrometeorite craters on the surface"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=63586",
+            "Sample Number": 63586,
+            "Mission": "Apollo 16",
+            "Sample Type": "rake",
+            "Lithology": "breccia",
+            "Description": "Rake Sample 63548 contains 63539 and 63586 are fragments of fine-grained, coherent impact melt"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=63587",
+            "Sample Number": 63587,
+            "Mission": "Apollo 16",
+            "Sample Type": "rake",
+            "Lithology": "breccia",
+            "Description": "a coherent impact melt breccia with a poikilitic texture and numerous clasts and has numerous micrometeorite craters on its surface"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=63588",
+            "Sample Number": 63588,
+            "Mission": "Apollo 16",
+            "Sample Type": "rake",
+            "Lithology": "breccia",
+            "Description": "polymict fragmental breccias, with angular clasts of plagioclase, brown glassy breccias, aphanitic melts and feldspathic granulite."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=63595",
+            "Sample Number": 63595,
+            "Mission": "Apollo 16",
+            "Sample Type": "rake",
+            "Lithology": "breccia",
+            "Description": "polymict fragmental breccias, with angular clasts of plagioclase, brown glassy breccias, aphanitic melts and feldspathic granulite."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=63596",
+            "Sample Number": 63596,
+            "Mission": "Apollo 16",
+            "Sample Type": "rake",
+            "Lithology": "breccia",
+            "Description": "fine-grained poikilitic texture where pyroxene oikocrysts surround laths of plagioclase. It is clastic and vesicular."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=63597",
+            "Sample Number": 63597,
+            "Mission": "Apollo 16",
+            "Sample Type": "rake",
+            "Lithology": "breccia",
+            "Description": "63597 and 63598 are extremely porous poikilitic impact melt breccias"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=63598",
+            "Sample Number": 63598,
+            "Mission": "Apollo 16",
+            "Sample Type": "rake",
+            "Lithology": "breccia",
+            "Description": "63597 and 63598 are extremely porous poikilitic impact melt breccias"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=64420",
+            "Sample Number": 64420,
+            "Mission": "Apollo 16",
+            "Sample Type": "rake",
+            "Lithology": "soil",
+            "Description": "Soil 64420 was collected with breccia 64475 at Station 4A near Cinco B crater, 5 meters from the LRV on the floor of a subdued 15 meter crater. The soil was taken from the bottom of a 25 cm trench. At the sample area, 5-10 cm pebbles are abundant, 20-40 cm cobbles are common and meter size blocks are sparsely scattered. Scattered craters up to several meters in size are common in the general area. This regolith is probably South Ray ejecta mixed with underlying Descartes material."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=64475",
+            "Sample Number": 64475,
+            "Mission": "Apollo 16",
+            "Sample Type": "rake",
+            "Lithology": "breccia",
+            "Description": "numerous micrometeorite craters; \"black and white\" rocks with veins of dark impact melt rock intruding white cataclastic anorthosite"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=64476",
+            "Sample Number": 64476,
+            "Mission": "Apollo 16",
+            "Sample Type": "rake",
+            "Lithology": "breccia",
+            "Description": "numerous micrometeorite craters; \"black and white\" rocks with veins of dark impact melt rock intruding white cataclastic anorthosite"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=64477",
+            "Sample Number": 64477,
+            "Mission": "Apollo 16",
+            "Sample Type": "rake",
+            "Lithology": "breccia",
+            "Description": "Warner et al. (1973) termed 64477 \"cataclastic anorthosite to light matrix breccia plus mesostasis-rich basalt\"."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=64478",
+            "Sample Number": 64478,
+            "Mission": "Apollo 16",
+            "Sample Type": "rake",
+            "Lithology": "breccia",
+            "Description": "Ryder and Norman (1980) term 64478 a \"glass-coated impact melt\". The interior has a poikilitic texture in places"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=64500",
+            "Sample Number": 64500,
+            "Mission": "Apollo 16",
+            "Sample Type": "rake",
+            "Lithology": "soil",
+            "Description": "Soil 64500 and rake 64510 were collected at Station 4A in the vicinity of Cinco B crater,. The sample area slopes 10-15 degrees to the northwest off Stone Mountain, surface fragments up to 10 cm are abundant, up to 40 cm are common, up to 1 meter sparse. Scattered craters .5 to several meters are in the general area, very subdued and barely visible smaller craters are in the local area. The gray surface is underlain by a white layer."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=64501",
+            "Sample Number": 64501,
+            "Mission": "Apollo 16",
+            "Sample Type": "rake",
+            "Lithology": "soil",
+            "Description": "large number of glass particles"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=64535",
+            "Sample Number": 64535,
+            "Mission": "Apollo 16",
+            "Sample Type": "rake",
+            "Lithology": "breccia",
+            "Description": "has a cosmic ray exposure age of 1.9 m.y; a mix of cataclastic ferroan anorthosite with impact melt. In some cases they also have a thick black glass coating"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=64536",
+            "Sample Number": 64536,
+            "Mission": "Apollo 16",
+            "Sample Type": "rake",
+            "Lithology": "breccia",
+            "Description": "a mix of cataclastic ferroan anorthosite with impact melt. In some cases they also have a thick black glass coating"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=64537",
+            "Sample Number": 64537,
+            "Mission": "Apollo 16",
+            "Sample Type": "rake",
+            "Lithology": "breccia",
+            "Description": "has zap pits on all surfaces; a mix of cataclastic ferroan anorthosite with impact melt. In some cases they also have a thick black glass coating"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=64538",
+            "Sample Number": 64538,
+            "Mission": "Apollo 16",
+            "Sample Type": "rake",
+            "Lithology": "breccia",
+            "Description": "micrometeorite craters on all surfaces; majority of the sample is a coherent, medium grey, glassy matrix lithology"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=64539",
+            "Sample Number": 64539,
+            "Mission": "Apollo 16",
+            "Sample Type": "rake",
+            "Lithology": "breccia",
+            "Description": "chalky white portion and a dark aphanitic portion characteristic of the light and dark lithologies"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=64545",
+            "Sample Number": 64545,
+            "Mission": "Apollo 16",
+            "Sample Type": "rake",
+            "Lithology": "breccia",
+            "Description": "chalky white portion and a dark aphanitic portion characteristic of the light and dark lithologies"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=64546",
+            "Sample Number": 64546,
+            "Mission": "Apollo 16",
+            "Sample Type": "rake",
+            "Lithology": "breccia",
+            "Description": "chalky white portion and a dark aphanitic portion characteristic of the light and dark lithologies"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=64547",
+            "Sample Number": 64547,
+            "Mission": "Apollo 16",
+            "Sample Type": "rake",
+            "Lithology": "breccia",
+            "Description": "chalky white portion and a dark aphanitic portion characteristic of the light and dark lithologies"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=64548",
+            "Sample Number": 64548,
+            "Mission": "Apollo 16",
+            "Sample Type": "rake",
+            "Lithology": "breccia",
+            "Description": "fine grain mix of chalky white anorthite and dark aphanitic impact melt"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=64549",
+            "Sample Number": 64549,
+            "Mission": "Apollo 16",
+            "Sample Type": "rake",
+            "Lithology": "breccia",
+            "Description": "chalky white portion and a dark aphanitic portion characteristic of the light and dark lithologies"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=64555",
+            "Sample Number": 64555,
+            "Mission": "Apollo 16",
+            "Sample Type": "rake",
+            "Lithology": "breccia",
+            "Description": "chalky white portion and a dark aphanitic portion characteristic of the light and dark lithologies"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=64556",
+            "Sample Number": 64556,
+            "Mission": "Apollo 16",
+            "Sample Type": "rake",
+            "Lithology": "breccia",
+            "Description": "chalky white portion and a dark aphanitic portion characteristic of the light and dark lithologies"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=64557",
+            "Sample Number": 64557,
+            "Mission": "Apollo 16",
+            "Sample Type": "rake",
+            "Lithology": "breccia",
+            "Description": "chalky white portion and a dark aphanitic portion characteristic of the light and dark lithologies"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=64558",
+            "Sample Number": 64558,
+            "Mission": "Apollo 16",
+            "Sample Type": "rake",
+            "Lithology": "breccia",
+            "Description": "chalky white portion and a dark aphanitic portion characteristic of the light and dark lithologies"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=64559",
+            "Sample Number": 64559,
+            "Mission": "Apollo 16",
+            "Sample Type": "rake",
+            "Lithology": "breccia",
+            "Description": "piece of the dark lithology that is part of the abundant dimict breccias from that location; texture is that of a basalt, but since it includes clasts of anorthite, it is an impact melt breccia"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=64566",
+            "Sample Number": 64566,
+            "Mission": "Apollo 16",
+            "Sample Type": "rake",
+            "Lithology": "breccia",
+            "Description": "complex mix of glass and impact melt"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=64567",
+            "Sample Number": 64567,
+            "Mission": "Apollo 16",
+            "Sample Type": "rake",
+            "Lithology": "breccia",
+            "Description": "dark coherent aphanitic sample with a few vesicles with abundant olivine oikocrysts and is relatively mafic"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=64568",
+            "Sample Number": 64568,
+            "Mission": "Apollo 16",
+            "Sample Type": "rake",
+            "Lithology": "breccia",
+            "Description": "poikilitic texture with a network of pyroxene phenocrysts surrounding small laths of plagioclase with zap pits"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=64569",
+            "Sample Number": 64569,
+            "Mission": "Apollo 16",
+            "Sample Type": "rake",
+            "Lithology": "breccia",
+            "Description": "dark coherent aphanitic sample with a few vesicles with abundant olivine oikocrysts and is relatively mafic"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=64576",
+            "Sample Number": 64576,
+            "Mission": "Apollo 16",
+            "Sample Type": "rake",
+            "Lithology": "breccia",
+            "Description": "fine-grained irregular basaltic texture with inclusions"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=64585",
+            "Sample Number": 64585,
+            "Mission": "Apollo 16",
+            "Sample Type": "rake",
+            "Lithology": "breccia",
+            "Description": "old impact melt with unique texture, brownish color and a devitrified glass matrix"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=64801",
+            "Sample Number": 64801,
+            "Mission": "Apollo 16",
+            "Sample Type": "rake",
+            "Lithology": "soil",
+            "Description": "relatively mature soil with average grain size 80 microns"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=64810",
+            "Sample Number": 64810,
+            "Mission": "Apollo 16",
+            "Sample Type": "rake",
+            "Lithology": "",
+            "Description": "relatively mature soil with average grain size 80 microns"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=64815",
+            "Sample Number": 64815,
+            "Mission": "Apollo 16",
+            "Sample Type": "rake",
+            "Lithology": "breccia",
+            "Description": "impact melt breccia with a coarse poikilitic texture and KREEP-like composition. The age has been determined to be 3.89 � 0.01 b.y."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=64816",
+            "Sample Number": 64816,
+            "Mission": "Apollo 16",
+            "Sample Type": "rake",
+            "Lithology": "breccia",
+            "Description": "holocrystalline poikilitic impact melt with a crystallization age of 3.85 b.y."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=64817",
+            "Sample Number": 64817,
+            "Mission": "Apollo 16",
+            "Sample Type": "rake",
+            "Lithology": "basalt",
+            "Description": "aluminous basalt with prominent plagioclase laths and an age of 3.84 b.y."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=64818",
+            "Sample Number": 64818,
+            "Mission": "Apollo 16",
+            "Sample Type": "rake",
+            "Lithology": "breccia",
+            "Description": "Phinney et al. (1976) refer to 64818 as a \"tough crystalline breccia\" with 5% vugs and vesicles"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=64825",
+            "Sample Number": 64825,
+            "Mission": "Apollo 16",
+            "Sample Type": "rake",
+            "Lithology": "breccia",
+            "Description": "friable rake fragment"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=64826",
+            "Sample Number": 64826,
+            "Mission": "Apollo 16",
+            "Sample Type": "rake",
+            "Lithology": "breccia",
+            "Description": "friable rake fragment"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=64827",
+            "Sample Number": 64827,
+            "Mission": "Apollo 16",
+            "Sample Type": "rake",
+            "Lithology": "breccia",
+            "Description": "friable rake fragment"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=64828",
+            "Sample Number": 64828,
+            "Mission": "Apollo 16",
+            "Sample Type": "rake",
+            "Lithology": "breccia",
+            "Description": "friable rake fragment"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=64829",
+            "Sample Number": 64829,
+            "Mission": "Apollo 16",
+            "Sample Type": "rake",
+            "Lithology": "breccia",
+            "Description": "friable rake fragment"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=64835",
+            "Sample Number": 64835,
+            "Mission": "Apollo 16",
+            "Sample Type": "rake",
+            "Lithology": "breccia",
+            "Description": "friable rake fragment"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=64836",
+            "Sample Number": 64836,
+            "Mission": "Apollo 16",
+            "Sample Type": "rake",
+            "Lithology": "breccia",
+            "Description": "friable rake fragment"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=64837",
+            "Sample Number": 64837,
+            "Mission": "Apollo 16",
+            "Sample Type": "rake",
+            "Lithology": "breccia",
+            "Description": "friable rake fragment"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=65056",
+            "Sample Number": 65056,
+            "Mission": "Apollo 16",
+            "Sample Type": "rake",
+            "Lithology": "breccia",
+            "Description": "large glass object that contains interesting white clasts"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=65075",
+            "Sample Number": 65075,
+            "Mission": "Apollo 16",
+            "Sample Type": "rake",
+            "Lithology": "breccia",
+            "Description": "greenish gray breccia with a black glass coating"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=65315",
+            "Sample Number": 65315,
+            "Mission": "Apollo 16",
+            "Sample Type": "rake",
+            "Lithology": "anorthite",
+            "Description": "about 8 cm across; abundant micrometeorite pits and patina on this surface;"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=65325",
+            "Sample Number": 65325,
+            "Mission": "Apollo 16",
+            "Sample Type": "rake",
+            "Lithology": "anorthite",
+            "Description": "white rocks with a thin coat of black glass; zap pits on the white surfaces where the black glass has apparently been eroded off"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=65326",
+            "Sample Number": 65326,
+            "Mission": "Apollo 16",
+            "Sample Type": "rake",
+            "Lithology": "anorthite",
+            "Description": "Moderately coherent cataclastic anorthosite; has a \"bronze colored\" streak"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=65327",
+            "Sample Number": 65327,
+            "Mission": "Apollo 16",
+            "Sample Type": "rake",
+            "Lithology": "",
+            "Description": "white rocks with a thin coat of black glass; zap pits on the white surfaces where the black glass has apparently been eroded off"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=65357",
+            "Sample Number": 65357,
+            "Mission": "Apollo 16",
+            "Sample Type": "rake",
+            "Lithology": "impact melt breccia",
+            "Description": "Light gray, coherent, poikilitic impact melt , and is rounded and covered with micrometeorite craters"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=65358",
+            "Sample Number": 65358,
+            "Mission": "Apollo 16",
+            "Sample Type": "rake",
+            "Lithology": "breccia",
+            "Description": "coherent, but it is angular and more aluminous"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=65501",
+            "Sample Number": 65501,
+            "Mission": "Apollo 16",
+            "Sample Type": "rake",
+            "Lithology": "soil",
+            "Description": "soil clods"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=65510",
+            "Sample Number": 65510,
+            "Mission": "Apollo 16",
+            "Sample Type": "rake",
+            "Lithology": "soil",
+            "Description": "soil clods"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=65515",
+            "Sample Number": 65515,
+            "Mission": "Apollo 16",
+            "Sample Type": "rake",
+            "Lithology": "breccia",
+            "Description": "65515 to 65574 are a collection of very friable, rounded, brown-colored soil breccias, and have never been studied."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=65516",
+            "Sample Number": 65516,
+            "Mission": "Apollo 16",
+            "Sample Type": "rake",
+            "Lithology": "breccia",
+            "Description": "65515 to 65574 are a collection of very friable, rounded, brown-colored soil breccias, and have never been studied."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=65517",
+            "Sample Number": 65517,
+            "Mission": "Apollo 16",
+            "Sample Type": "rake",
+            "Lithology": "breccia",
+            "Description": "65515 to 65574 are a collection of very friable, rounded, brown-colored soil breccias, and have never been studied."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=65518",
+            "Sample Number": 65518,
+            "Mission": "Apollo 16",
+            "Sample Type": "rake",
+            "Lithology": "breccia",
+            "Description": "65515 to 65574 are a collection of very friable, rounded, brown-colored soil breccias, and have never been studied."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=65519",
+            "Sample Number": 65519,
+            "Mission": "Apollo 16",
+            "Sample Type": "rake",
+            "Lithology": "breccia",
+            "Description": "65515 to 65574 are a collection of very friable, rounded, brown-colored soil breccias, and have never been studied."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=65520",
+            "Sample Number": 65520,
+            "Mission": "Apollo 16",
+            "Sample Type": "rake",
+            "Lithology": "",
+            "Description": "65515 to 65574 are a collection of very friable, rounded, brown-colored soil breccias, and have never been studied."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=65521",
+            "Sample Number": 65521,
+            "Mission": "Apollo 16",
+            "Sample Type": "rake",
+            "Lithology": "",
+            "Description": "65515 to 65574 are a collection of very friable, rounded, brown-colored soil breccias, and have never been studied."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=65522",
+            "Sample Number": 65522,
+            "Mission": "Apollo 16",
+            "Sample Type": "rake",
+            "Lithology": "",
+            "Description": "65515 to 65574 are a collection of very friable, rounded, brown-colored soil breccias, and have never been studied."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=65523",
+            "Sample Number": 65523,
+            "Mission": "Apollo 16",
+            "Sample Type": "rake",
+            "Lithology": "",
+            "Description": "65515 to 65574 are a collection of very friable, rounded, brown-colored soil breccias, and have never been studied."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=65524",
+            "Sample Number": 65524,
+            "Mission": "Apollo 16",
+            "Sample Type": "rake",
+            "Lithology": "",
+            "Description": "65515 to 65574 are a collection of very friable, rounded, brown-colored soil breccias, and have never been studied."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=65525",
+            "Sample Number": 65525,
+            "Mission": "Apollo 16",
+            "Sample Type": "rake",
+            "Lithology": "breccia",
+            "Description": "65515 to 65574 are a collection of very friable, rounded, brown-colored soil breccias, and have never been studied."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=65526",
+            "Sample Number": 65526,
+            "Mission": "Apollo 16",
+            "Sample Type": "rake",
+            "Lithology": "",
+            "Description": "65515 to 65574 are a collection of very friable, rounded, brown-colored soil breccias, and have never been studied."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=65527",
+            "Sample Number": 65527,
+            "Mission": "Apollo 16",
+            "Sample Type": "rake",
+            "Lithology": "",
+            "Description": "65515 to 65574 are a collection of very friable, rounded, brown-colored soil breccias, and have never been studied."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=65528",
+            "Sample Number": 65528,
+            "Mission": "Apollo 16",
+            "Sample Type": "rake",
+            "Lithology": "",
+            "Description": "65515 to 65574 are a collection of very friable, rounded, brown-colored soil breccias, and have never been studied."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=65529",
+            "Sample Number": 65529,
+            "Mission": "Apollo 16",
+            "Sample Type": "rake",
+            "Lithology": "",
+            "Description": "65515 to 65574 are a collection of very friable, rounded, brown-colored soil breccias, and have never been studied."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=65530",
+            "Sample Number": 65530,
+            "Mission": "Apollo 16",
+            "Sample Type": "rake",
+            "Lithology": "",
+            "Description": "65515 to 65574 are a collection of very friable, rounded, brown-colored soil breccias, and have never been studied."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=65531",
+            "Sample Number": 65531,
+            "Mission": "Apollo 16",
+            "Sample Type": "rake",
+            "Lithology": "",
+            "Description": "65515 to 65574 are a collection of very friable, rounded, brown-colored soil breccias, and have never been studied."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=65532",
+            "Sample Number": 65532,
+            "Mission": "Apollo 16",
+            "Sample Type": "rake",
+            "Lithology": "",
+            "Description": "65515 to 65574 are a collection of very friable, rounded, brown-colored soil breccias, and have never been studied."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=65533",
+            "Sample Number": 65533,
+            "Mission": "Apollo 16",
+            "Sample Type": "rake",
+            "Lithology": "",
+            "Description": "65515 to 65574 are a collection of very friable, rounded, brown-colored soil breccias, and have never been studied."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=65534",
+            "Sample Number": 65534,
+            "Mission": "Apollo 16",
+            "Sample Type": "rake",
+            "Lithology": "",
+            "Description": "65515 to 65574 are a collection of very friable, rounded, brown-colored soil breccias, and have never been studied."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=65535",
+            "Sample Number": 65535,
+            "Mission": "Apollo 16",
+            "Sample Type": "rake",
+            "Lithology": "",
+            "Description": "65515 to 65574 are a collection of very friable, rounded, brown-colored soil breccias, and have never been studied."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=65536",
+            "Sample Number": 65536,
+            "Mission": "Apollo 16",
+            "Sample Type": "rake",
+            "Lithology": "",
+            "Description": "65515 to 65574 are a collection of very friable, rounded, brown-colored soil breccias, and have never been studied."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=65537",
+            "Sample Number": 65537,
+            "Mission": "Apollo 16",
+            "Sample Type": "rake",
+            "Lithology": "",
+            "Description": "65515 to 65574 are a collection of very friable, rounded, brown-colored soil breccias, and have never been studied."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=65538",
+            "Sample Number": 65538,
+            "Mission": "Apollo 16",
+            "Sample Type": "rake",
+            "Lithology": "",
+            "Description": "65515 to 65574 are a collection of very friable, rounded, brown-colored soil breccias, and have never been studied."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=65539",
+            "Sample Number": 65539,
+            "Mission": "Apollo 16",
+            "Sample Type": "rake",
+            "Lithology": "",
+            "Description": "65515 to 65574 are a collection of very friable, rounded, brown-colored soil breccias, and have never been studied."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=65540",
+            "Sample Number": 65540,
+            "Mission": "Apollo 16",
+            "Sample Type": "rake",
+            "Lithology": "",
+            "Description": "65515 to 65574 are a collection of very friable, rounded, brown-colored soil breccias, and have never been studied."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=65541",
+            "Sample Number": 65541,
+            "Mission": "Apollo 16",
+            "Sample Type": "rake",
+            "Lithology": "",
+            "Description": "65515 to 65574 are a collection of very friable, rounded, brown-colored soil breccias, and have never been studied."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=65542",
+            "Sample Number": 65542,
+            "Mission": "Apollo 16",
+            "Sample Type": "rake",
+            "Lithology": "",
+            "Description": "65515 to 65574 are a collection of very friable, rounded, brown-colored soil breccias, and have never been studied."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=65543",
+            "Sample Number": 65543,
+            "Mission": "Apollo 16",
+            "Sample Type": "rake",
+            "Lithology": "",
+            "Description": "65515 to 65574 are a collection of very friable, rounded, brown-colored soil breccias, and have never been studied."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=65544",
+            "Sample Number": 65544,
+            "Mission": "Apollo 16",
+            "Sample Type": "rake",
+            "Lithology": "",
+            "Description": "65515 to 65574 are a collection of very friable, rounded, brown-colored soil breccias, and have never been studied."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=65545",
+            "Sample Number": 65545,
+            "Mission": "Apollo 16",
+            "Sample Type": "rake",
+            "Lithology": "",
+            "Description": "65515 to 65574 are a collection of very friable, rounded, brown-colored soil breccias, and have never been studied."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=65546",
+            "Sample Number": 65546,
+            "Mission": "Apollo 16",
+            "Sample Type": "rake",
+            "Lithology": "",
+            "Description": "65515 to 65574 are a collection of very friable, rounded, brown-colored soil breccias, and have never been studied."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=65547",
+            "Sample Number": 65547,
+            "Mission": "Apollo 16",
+            "Sample Type": "rake",
+            "Lithology": "",
+            "Description": "65515 to 65574 are a collection of very friable, rounded, brown-colored soil breccias, and have never been studied."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=65548",
+            "Sample Number": 65548,
+            "Mission": "Apollo 16",
+            "Sample Type": "rake",
+            "Lithology": "",
+            "Description": "65515 to 65574 are a collection of very friable, rounded, brown-colored soil breccias, and have never been studied."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=65549",
+            "Sample Number": 65549,
+            "Mission": "Apollo 16",
+            "Sample Type": "rake",
+            "Lithology": "",
+            "Description": "65515 to 65574 are a collection of very friable, rounded, brown-colored soil breccias, and have never been studied."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=65550",
+            "Sample Number": 65550,
+            "Mission": "Apollo 16",
+            "Sample Type": "rake",
+            "Lithology": "",
+            "Description": "65515 to 65574 are a collection of very friable, rounded, brown-colored soil breccias, and have never been studied."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=65551",
+            "Sample Number": 65551,
+            "Mission": "Apollo 16",
+            "Sample Type": "rake",
+            "Lithology": "",
+            "Description": "65515 to 65574 are a collection of very friable, rounded, brown-colored soil breccias, and have never been studied."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=65552",
+            "Sample Number": 65552,
+            "Mission": "Apollo 16",
+            "Sample Type": "rake",
+            "Lithology": "",
+            "Description": "65515 to 65574 are a collection of very friable, rounded, brown-colored soil breccias, and have never been studied."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=65553",
+            "Sample Number": 65553,
+            "Mission": "Apollo 16",
+            "Sample Type": "rake",
+            "Lithology": "",
+            "Description": "65515 to 65574 are a collection of very friable, rounded, brown-colored soil breccias, and have never been studied."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=65554",
+            "Sample Number": 65554,
+            "Mission": "Apollo 16",
+            "Sample Type": "rake",
+            "Lithology": "",
+            "Description": "65515 to 65574 are a collection of very friable, rounded, brown-colored soil breccias, and have never been studied."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=65555",
+            "Sample Number": 65555,
+            "Mission": "Apollo 16",
+            "Sample Type": "rake",
+            "Lithology": "",
+            "Description": "65515 to 65574 are a collection of very friable, rounded, brown-colored soil breccias, and have never been studied."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=65556",
+            "Sample Number": 65556,
+            "Mission": "Apollo 16",
+            "Sample Type": "rake",
+            "Lithology": "",
+            "Description": "65515 to 65574 are a collection of very friable, rounded, brown-colored soil breccias, and have never been studied."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=65557",
+            "Sample Number": 65557,
+            "Mission": "Apollo 16",
+            "Sample Type": "rake",
+            "Lithology": "",
+            "Description": "65515 to 65574 are a collection of very friable, rounded, brown-colored soil breccias, and have never been studied."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=65558",
+            "Sample Number": 65558,
+            "Mission": "Apollo 16",
+            "Sample Type": "rake",
+            "Lithology": "",
+            "Description": "65515 to 65574 are a collection of very friable, rounded, brown-colored soil breccias, and have never been studied."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=65559",
+            "Sample Number": 65559,
+            "Mission": "Apollo 16",
+            "Sample Type": "rake",
+            "Lithology": "",
+            "Description": "65515 to 65574 are a collection of very friable, rounded, brown-colored soil breccias, and have never been studied."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=65560",
+            "Sample Number": 65560,
+            "Mission": "Apollo 16",
+            "Sample Type": "rake",
+            "Lithology": "",
+            "Description": "65515 to 65574 are a collection of very friable, rounded, brown-colored soil breccias, and have never been studied."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=65561",
+            "Sample Number": 65561,
+            "Mission": "Apollo 16",
+            "Sample Type": "rake",
+            "Lithology": "",
+            "Description": "65515 to 65574 are a collection of very friable, rounded, brown-colored soil breccias, and have never been studied."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=65562",
+            "Sample Number": 65562,
+            "Mission": "Apollo 16",
+            "Sample Type": "rake",
+            "Lithology": "",
+            "Description": "65515 to 65574 are a collection of very friable, rounded, brown-colored soil breccias, and have never been studied."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=65563",
+            "Sample Number": 65563,
+            "Mission": "Apollo 16",
+            "Sample Type": "rake",
+            "Lithology": "",
+            "Description": "65515 to 65574 are a collection of very friable, rounded, brown-colored soil breccias, and have never been studied."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=65564",
+            "Sample Number": 65564,
+            "Mission": "Apollo 16",
+            "Sample Type": "rake",
+            "Lithology": "",
+            "Description": "65515 to 65574 are a collection of very friable, rounded, brown-colored soil breccias, and have never been studied."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=65565",
+            "Sample Number": 65565,
+            "Mission": "Apollo 16",
+            "Sample Type": "rake",
+            "Lithology": "",
+            "Description": "65515 to 65574 are a collection of very friable, rounded, brown-colored soil breccias, and have never been studied."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=65566",
+            "Sample Number": 65566,
+            "Mission": "Apollo 16",
+            "Sample Type": "rake",
+            "Lithology": "",
+            "Description": "65515 to 65574 are a collection of very friable, rounded, brown-colored soil breccias, and have never been studied."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=65567",
+            "Sample Number": 65567,
+            "Mission": "Apollo 16",
+            "Sample Type": "rake",
+            "Lithology": "",
+            "Description": "65515 to 65574 are a collection of very friable, rounded, brown-colored soil breccias, and have never been studied."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=65568",
+            "Sample Number": 65568,
+            "Mission": "Apollo 16",
+            "Sample Type": "rake",
+            "Lithology": "",
+            "Description": "65515 to 65574 are a collection of very friable, rounded, brown-colored soil breccias, and have never been studied."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=65569",
+            "Sample Number": 65569,
+            "Mission": "Apollo 16",
+            "Sample Type": "rake",
+            "Lithology": "",
+            "Description": "65515 to 65574 are a collection of very friable, rounded, brown-colored soil breccias, and have never been studied."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=65570",
+            "Sample Number": 65570,
+            "Mission": "Apollo 16",
+            "Sample Type": "rake",
+            "Lithology": "",
+            "Description": "65515 to 65574 are a collection of very friable, rounded, brown-colored soil breccias, and have never been studied."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=65571",
+            "Sample Number": 65571,
+            "Mission": "Apollo 16",
+            "Sample Type": "rake",
+            "Lithology": "",
+            "Description": "65515 to 65574 are a collection of very friable, rounded, brown-colored soil breccias, and have never been studied."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=65572",
+            "Sample Number": 65572,
+            "Mission": "Apollo 16",
+            "Sample Type": "rake",
+            "Lithology": "",
+            "Description": "65515 to 65574 are a collection of very friable, rounded, brown-colored soil breccias, and have never been studied."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=65573",
+            "Sample Number": 65573,
+            "Mission": "Apollo 16",
+            "Sample Type": "rake",
+            "Lithology": "",
+            "Description": "65515 to 65574 are a collection of very friable, rounded, brown-colored soil breccias, and have never been studied."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=65574",
+            "Sample Number": 65574,
+            "Mission": "Apollo 16",
+            "Sample Type": "rake",
+            "Lithology": "",
+            "Description": "65515 to 65574 are a collection of very friable, rounded, brown-colored soil breccias, and have never been studied."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=65700",
+            "Sample Number": 65700,
+            "Mission": "Apollo 16",
+            "Sample Type": "rake",
+            "Lithology": "soil",
+            "Description": "65700 and 65900 are surface soils to accompany the rake samples at Station 5. The sample area has a mostly sandy surface with no large blocks nearby. Fines in the area are extremely loose."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=65710",
+            "Sample Number": 65710,
+            "Mission": "Apollo 16",
+            "Sample Type": "rake",
+            "Lithology": "soil",
+            "Description": "appears to be soil and rake residue from samples 65501, 65601 and 65701."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=65715",
+            "Sample Number": 65715,
+            "Mission": "Apollo 16",
+            "Sample Type": "rake",
+            "Lithology": "breccia",
+            "Description": "Keil et al. (1972) and Ryder and Norman (1981) describe the sample as a friable grey and white breccia with abundant comminuted plagioclase."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=65745",
+            "Sample Number": 65745,
+            "Mission": "Apollo 16",
+            "Sample Type": "rake",
+            "Lithology": "breccia",
+            "Description": "small brown soil breccia, seriate grain size distribution, with glass in the matrix"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=65746",
+            "Sample Number": 65746,
+            "Mission": "Apollo 16",
+            "Sample Type": "rake",
+            "Lithology": "",
+            "Description": "small brown soil breccia, seriate grain size distribution, with glass in the matrix"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=65747",
+            "Sample Number": 65747,
+            "Mission": "Apollo 16",
+            "Sample Type": "rake",
+            "Lithology": "",
+            "Description": "small brown soil breccia, seriate grain size distribution, with glass in the matrix"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=65748",
+            "Sample Number": 65748,
+            "Mission": "Apollo 16",
+            "Sample Type": "rake",
+            "Lithology": "",
+            "Description": "small brown soil breccia, seriate grain size distribution, with glass in the matrix"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=65749",
+            "Sample Number": 65749,
+            "Mission": "Apollo 16",
+            "Sample Type": "rake",
+            "Lithology": "",
+            "Description": "small brown soil breccia, seriate grain size distribution, with glass in the matrix"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=65755",
+            "Sample Number": 65755,
+            "Mission": "Apollo 16",
+            "Sample Type": "rake",
+            "Lithology": "",
+            "Description": "small brown soil breccia, seriate grain size distribution, with glass in the matrix"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=65756",
+            "Sample Number": 65756,
+            "Mission": "Apollo 16",
+            "Sample Type": "rake",
+            "Lithology": "",
+            "Description": "small brown soil breccia, seriate grain size distribution, with glass in the matrix"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=65757",
+            "Sample Number": 65757,
+            "Mission": "Apollo 16",
+            "Sample Type": "rake",
+            "Lithology": "breccia",
+            "Description": "glassy object contains relatively large white clasts"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=65767",
+            "Sample Number": 65767,
+            "Mission": "Apollo 16",
+            "Sample Type": "rake",
+            "Lithology": "breccia",
+            "Description": "glassy object contains relatively large white clasts"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=65777",
+            "Sample Number": 65777,
+            "Mission": "Apollo 16",
+            "Sample Type": "rake",
+            "Lithology": "breccia",
+            "Description": "coherent crystalline impact melt breccia with poikilitic texture; has be dated at 3.7 b.y."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=65778",
+            "Sample Number": 65778,
+            "Mission": "Apollo 16",
+            "Sample Type": "rake",
+            "Lithology": "breccia",
+            "Description": "coherent crystalline impact melt breccia with poikilitic texture"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=65779",
+            "Sample Number": 65779,
+            "Mission": "Apollo 16",
+            "Sample Type": "rake",
+            "Lithology": "breccia",
+            "Description": "has a texture described as basaltic, rather than poikilitic; contains clasts of plagioclase, so it was a breccia before it crystallized"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=65785",
+            "Sample Number": 65785,
+            "Mission": "Apollo 16",
+            "Sample Type": "rake",
+            "Lithology": "breccia",
+            "Description": "contains a coarse-grained pink spinel troctolite clast in a crystalline feldspathic impact melt rock; has been dated at 3.97 b.y. by one group and 3.83 b.y. by another."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=65786",
+            "Sample Number": 65786,
+            "Mission": "Apollo 16",
+            "Sample Type": "rake",
+            "Lithology": "breccia",
+            "Description": "a coherent, medium grey, polymict breccia with abundant glass in the matrix"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=65787",
+            "Sample Number": 65787,
+            "Mission": "Apollo 16",
+            "Sample Type": "rake",
+            "Lithology": "breccia",
+            "Description": "appears to have a ribbon of glass interior"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=65789",
+            "Sample Number": 65789,
+            "Mission": "Apollo 16",
+            "Sample Type": "rake",
+            "Lithology": "breccia",
+            "Description": "chalky white rake sample"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=65795",
+            "Sample Number": 65795,
+            "Mission": "Apollo 16",
+            "Sample Type": "rake",
+            "Lithology": "basalt",
+            "Description": "basaltic texture, is highly aluminous; has been dated at 3.81 b.y."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=65920",
+            "Sample Number": 65920,
+            "Mission": "Apollo 16",
+            "Sample Type": "rake",
+            "Lithology": "",
+            "Description": "65920 is the residue from a rake sample at the same location."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=65925",
+            "Sample Number": 65925,
+            "Mission": "Apollo 16",
+            "Sample Type": "rake",
+            "Lithology": "breccia",
+            "Description": "rounded, friable soil breccia"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=65926",
+            "Sample Number": 65926,
+            "Mission": "Apollo 16",
+            "Sample Type": "rake",
+            "Lithology": "breccia",
+            "Description": "rounded, friable soil breccias"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=65927",
+            "Sample Number": 65927,
+            "Mission": "Apollo 16",
+            "Sample Type": "rake",
+            "Lithology": "breccia",
+            "Description": "rounded, friable soil breccia"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=66031",
+            "Sample Number": 66031,
+            "Mission": "Apollo 16",
+            "Sample Type": "rake",
+            "Lithology": "soil",
+            "Description": "very mature soil with an average grain size of 121 microns"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=66035",
+            "Sample Number": 66035,
+            "Mission": "Apollo 16",
+            "Sample Type": "rake",
+            "Lithology": "breccia",
+            "Description": "regolith breccia, but has excess 40Ar and has been termed \"ancient regolith breccia\". 66035 has zap pits on all surfaces so it must have \"rolled or jumped\" on the regolith."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=66036",
+            "Sample Number": 66036,
+            "Mission": "Apollo 16",
+            "Sample Type": "rake",
+            "Lithology": "breccia",
+            "Description": "regolith breccia, but has excess 40Ar and has been termed \"ancient regolith breccia\"."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=66081",
+            "Sample Number": 66081,
+            "Mission": "Apollo 16",
+            "Sample Type": "rake",
+            "Lithology": "soil",
+            "Description": "collected from a small subdued crater on the Cayley Plain near Stone Mountain"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=67015",
+            "Sample Number": 67015,
+            "Mission": "Apollo 16",
+            "Sample Type": "rake",
+            "Lithology": "breccia",
+            "Description": "fragmental matrix breccia, mostly feldspar, but with a wide range of highland lithologies represented as loose clasts in the matrix; have been dated at 3.9 b.y. and the breccias, itself, has had an exposure to cosmic ray of 51 m.y."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=67025",
+            "Sample Number": 67025,
+            "Mission": "Apollo 16",
+            "Sample Type": "rake",
+            "Lithology": "breccia",
+            "Description": "glass-coated crystalline rock with basaltic melt surrounding xenoliths of plagioclase."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=67215",
+            "Sample Number": 67215,
+            "Mission": "Apollo 16",
+            "Sample Type": "rake",
+            "Lithology": "breccia",
+            "Description": "white polymict breccia made up of mostly calcic plagioclase and a few relict lithic clasts and has lots of zap pits on top and bottom"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=67415",
+            "Sample Number": 67415,
+            "Mission": "Apollo 16",
+            "Sample Type": "rake",
+            "Lithology": "breccia",
+            "Description": "According to Lindstrom and Lindstrom (1986), 67415 is a lightly-shocked, granulitic breccia with a cataclastic matrix."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=67455",
+            "Sample Number": 67455,
+            "Mission": "Apollo 16",
+            "Sample Type": "rake",
+            "Lithology": "breccia",
+            "Description": "very friable, white polymict feldspathic breccia"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=67475",
+            "Sample Number": 67475,
+            "Mission": "Apollo 16",
+            "Sample Type": "rake",
+            "Lithology": "breccia",
+            "Description": "a tough purplish-grey, glassy breccia"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=67480",
+            "Sample Number": 67480,
+            "Mission": "Apollo 16",
+            "Sample Type": "rake",
+            "Lithology": "soil",
+            "Description": "Reference soil 67840 accompanies rake sample 67510; sample area is in a local north-south swale, the surface is soft and fine; fragments greater than 10 cm are sparse and the crew reported \"sinking in on the slopes about 6 inches.\""
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=67485",
+            "Sample Number": 67485,
+            "Mission": "Apollo 16",
+            "Sample Type": "rake",
+            "Lithology": "impact melt breccia",
+            "Description": "crystalline impact melt"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=67488",
+            "Sample Number": 67488,
+            "Mission": "Apollo 16",
+            "Sample Type": "rake",
+            "Lithology": "impact melt breccia",
+            "Description": "crystalline impact melts"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=67510",
+            "Sample Number": 67510,
+            "Mission": "Apollo 16",
+            "Sample Type": "rake",
+            "Lithology": "soil",
+            "Description": "noticeably coarser grain size and less mature compared with other lunar soils probably due to the fact that NRC is only 50 m.y. old"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=67515",
+            "Sample Number": 67515,
+            "Mission": "Apollo 16",
+            "Sample Type": "rake",
+            "Lithology": "breccia",
+            "Description": "friable, chalky white rock containing lithic fragments of cataclastic anorthosite and feldspathic granulite"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=67516",
+            "Sample Number": 67516,
+            "Mission": "Apollo 16",
+            "Sample Type": "rake",
+            "Lithology": "breccia",
+            "Description": "friable, chalky white rock containing lithic fragments of cataclastic anorthosite and feldspathic granulite"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=67517",
+            "Sample Number": 67517,
+            "Mission": "Apollo 16",
+            "Sample Type": "rake",
+            "Lithology": "breccia",
+            "Description": "friable, chalky white rock containing lithic fragments of cataclastic anorthosite and feldspathic granulite"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=67518",
+            "Sample Number": 67518,
+            "Mission": "Apollo 16",
+            "Sample Type": "rake",
+            "Lithology": "breccia",
+            "Description": "friable, chalky white rock containing lithic fragments of cataclastic anorthosite and feldspathic granulite"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=67519",
+            "Sample Number": 67519,
+            "Mission": "Apollo 16",
+            "Sample Type": "rake",
+            "Lithology": "breccia",
+            "Description": "friable, chalky white rock containing lithic fragments of cataclastic anorthosite and feldspathic granulite"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=67529",
+            "Sample Number": 67529,
+            "Mission": "Apollo 16",
+            "Sample Type": "rake",
+            "Lithology": "",
+            "Description": "cataclastic anorthosite"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=67545",
+            "Sample Number": 67545,
+            "Mission": "Apollo 16",
+            "Sample Type": "rake",
+            "Lithology": "",
+            "Description": "contains unusual clasts, some with abundant melt, some with abundant Fe-rich olivine and ferro-augite; zap pits on the outer surfaces"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=67546",
+            "Sample Number": 67546,
+            "Mission": "Apollo 16",
+            "Sample Type": "rake",
+            "Lithology": "breccia",
+            "Description": "porous and rounded with a light matrix and both light and dark clasts."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=67549",
+            "Sample Number": 67549,
+            "Mission": "Apollo 16",
+            "Sample Type": "rake",
+            "Lithology": "breccia",
+            "Description": "porous and rounded with a light matrix and both light and dark clasts"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=67556",
+            "Sample Number": 67556,
+            "Mission": "Apollo 16",
+            "Sample Type": "rake",
+            "Lithology": "breccia",
+            "Description": "a friable micropoikilitic impact melt with intrusive glass veins. It has a micrometeorite crater."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=67559",
+            "Sample Number": 67559,
+            "Mission": "Apollo 16",
+            "Sample Type": "rake",
+            "Lithology": "basalt",
+            "Description": "igneous texture indicating that it cooled from a liquid, albeit, highly aluminous. It contains a trace of Ni, Ir and Au and has been dated at 3.76 � 0.04 b.y., which makes it a critical sample."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=67565",
+            "Sample Number": 67565,
+            "Mission": "Apollo 16",
+            "Sample Type": "rake",
+            "Lithology": "breccia",
+            "Description": "micropoikitiic texture with interlocking oikocrysts of pyroxene surrounding chadocrysts of plagioclase. Ilmenite is concentrated at the boundaries of the pyroxene oikocysts."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=67566",
+            "Sample Number": 67566,
+            "Mission": "Apollo 16",
+            "Sample Type": "rake",
+            "Lithology": "breccia",
+            "Description": "glass-laden fragments; Ryder and Norman (1980) reported that 67566 had a \"granoblastic\" texture. The protolith was clearly a breccia."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=67567",
+            "Sample Number": 67567,
+            "Mission": "Apollo 16",
+            "Sample Type": "rake",
+            "Lithology": "breccia",
+            "Description": "glass-laden fragments"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=67568",
+            "Sample Number": 67568,
+            "Mission": "Apollo 16",
+            "Sample Type": "rake",
+            "Lithology": "breccia",
+            "Description": "glass-laden fragments"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=67569",
+            "Sample Number": 67569,
+            "Mission": "Apollo 16",
+            "Sample Type": "rake",
+            "Lithology": "breccia",
+            "Description": "glass-laden fragments"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=67600",
+            "Sample Number": 67600,
+            "Mission": "Apollo 16",
+            "Sample Type": "rake",
+            "Lithology": "soil",
+            "Description": "The soil is probably derived from North Ray crater ejecta"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=67605",
+            "Sample Number": 67605,
+            "Mission": "Apollo 16",
+            "Sample Type": "rake",
+            "Lithology": "breccia",
+            "Description": "relatively large friable, white particle about the size, shape and color of a golf ball"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=67610",
+            "Sample Number": 67610,
+            "Mission": "Apollo 16",
+            "Sample Type": "rake",
+            "Lithology": "soil",
+            "Description": "coarse-fine particles"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=67615",
+            "Sample Number": 67615,
+            "Mission": "Apollo 16",
+            "Sample Type": "rake",
+            "Lithology": "breccia",
+            "Description": "has olivine as the main mafic mineral and it may have a high proportion of opaque phases, is rounded and has zap pits on all sides"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=67617",
+            "Sample Number": 67617,
+            "Mission": "Apollo 16",
+            "Sample Type": "rake",
+            "Lithology": "breccia",
+            "Description": "moderately coherent impact melt breccia with zap pits on one surface"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=67626",
+            "Sample Number": 67626,
+            "Mission": "Apollo 16",
+            "Sample Type": "rake",
+            "Lithology": "breccia",
+            "Description": "\"partly devitrified glass bomb\""
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=67627",
+            "Sample Number": 67627,
+            "Mission": "Apollo 16",
+            "Sample Type": "rake",
+            "Lithology": "breccia",
+            "Description": "glass-cemented aggregates"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=67628",
+            "Sample Number": 67628,
+            "Mission": "Apollo 16",
+            "Sample Type": "rake",
+            "Lithology": "breccia",
+            "Description": "\"glass bomb\""
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=67629",
+            "Sample Number": 67629,
+            "Mission": "Apollo 16",
+            "Sample Type": "rake",
+            "Lithology": "breccia",
+            "Description": "glass-cemented aggregates"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=67635",
+            "Sample Number": 67635,
+            "Mission": "Apollo 16",
+            "Sample Type": "rake",
+            "Lithology": "",
+            "Description": "relatively unshocked ferroan anorthosite, but have not been dated; angular, chalky white, very homogeneous sample with very finely granular sugary texture"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=67636",
+            "Sample Number": 67636,
+            "Mission": "Apollo 16",
+            "Sample Type": "rake",
+            "Lithology": "",
+            "Description": "Warren and Wasson (1980) describe 67635, 67636 and 67637 as mildly-shocked \"monomict breccia, perhaps slightly less cataclastic than is typical for ferroan anorthosite\"."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=67637",
+            "Sample Number": 67637,
+            "Mission": "Apollo 16",
+            "Sample Type": "rake",
+            "Lithology": "",
+            "Description": "subrounded, chalky-white, homogeneous sample with apparent cataclastic texture and appears to be a piece of 67635."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=67647",
+            "Sample Number": 67647,
+            "Mission": "Apollo 16",
+            "Sample Type": "rake",
+            "Lithology": "breccia",
+            "Description": "relatively coherent with lots of zap pits and has glass clasts, and glass in the matrix"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=67667",
+            "Sample Number": 67667,
+            "Mission": "Apollo 16",
+            "Sample Type": "rake",
+            "Lithology": "",
+            "Description": "is coherent and has a few micrometeorite craters on the surface, found to be chemically \"pristine\" and to have an old age (4.2 b.y.)."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=67668",
+            "Sample Number": 67668,
+            "Mission": "Apollo 16",
+            "Sample Type": "rake",
+            "Lithology": "breccia",
+            "Description": "has a micropoikitiic texture with interlocking oikocrysts of pyroxene surrounding chadocrysts of plagioclase"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=67700",
+            "Sample Number": 67700,
+            "Mission": "Apollo 16",
+            "Sample Type": "rake",
+            "Lithology": "soil",
+            "Description": "The soil samples from station 11 at North Ray Crater have noticeably coarser grain size and are less mature compared with other lunar soils probably due to the fact that NRC is only 50 m.y. old (Arvidson et al. 1975)."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=67710",
+            "Sample Number": 67710,
+            "Mission": "Apollo 16",
+            "Sample Type": "rake",
+            "Lithology": "soil",
+            "Description": "coarse-fine particles"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=67715",
+            "Sample Number": 67715,
+            "Mission": "Apollo 16",
+            "Sample Type": "rake",
+            "Lithology": "breccia",
+            "Description": "coherent, fine-grained impact melt rock"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=67716",
+            "Sample Number": 67716,
+            "Mission": "Apollo 16",
+            "Sample Type": "rake",
+            "Lithology": "breccia",
+            "Description": "coherent, fine-grained impact melt rock; reported to have pink spinel as a large clast and is probably more aluminous"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=67718",
+            "Sample Number": 67718,
+            "Mission": "Apollo 16",
+            "Sample Type": "rake",
+            "Lithology": "breccia",
+            "Description": "abundant clasts of plagioclase set in an aphanitic matrix"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=67719",
+            "Sample Number": 67719,
+            "Mission": "Apollo 16",
+            "Sample Type": "rake",
+            "Lithology": "breccia",
+            "Description": "abundant clasts of plagioclase set in an aphanitic matrix"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=67728",
+            "Sample Number": 67728,
+            "Mission": "Apollo 16",
+            "Sample Type": "rake",
+            "Lithology": "breccia",
+            "Description": "glass (?) particles with zaps"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=67729",
+            "Sample Number": 67729,
+            "Mission": "Apollo 16",
+            "Sample Type": "rake",
+            "Lithology": "breccia",
+            "Description": "vesicular glass breccia with significant clasts, and has the appearance of a \"glass bomb\". It has zap pits on all sides."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=67736",
+            "Sample Number": 67736,
+            "Mission": "Apollo 16",
+            "Sample Type": "rake",
+            "Lithology": "breccia",
+            "Description": "It has zap pits; Stoffler et al. (1981) describe the matrix as \"micropoikilitic\". Photos of the exterior show what appears to be pink spinel (?) grains (not confirmed)."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=67739",
+            "Sample Number": 67739,
+            "Mission": "Apollo 16",
+            "Sample Type": "rake",
+            "Lithology": "breccia",
+            "Description": "has a brown color, probably due to glass with abundant plagioclase (An98-90) and plagioclase-rich clasts."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=67746",
+            "Sample Number": 67746,
+            "Mission": "Apollo 16",
+            "Sample Type": "rake",
+            "Lithology": "",
+            "Description": "plagioclase with a granuliticpoikilitic texture, Large pyroxene grains completely surround rounded olivine and plagioclase with Ilmenite and metallic Ni-Fe grains found between pyroxene oikocrysts."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=67747",
+            "Sample Number": 67747,
+            "Mission": "Apollo 16",
+            "Sample Type": "rake",
+            "Lithology": "basalt",
+            "Description": "small aluminous basalt with measured age of 3.86 b.y. Elongate plagioclase and pyroxene laths are poikilitically enclosed in large olivine. Glassy mesostasis is found adjacent to pyroxene."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=67749",
+            "Sample Number": 67749,
+            "Mission": "Apollo 16",
+            "Sample Type": "rake",
+            "Lithology": "granulite or granulite breccia",
+            "Description": "Granulitic Breccia with clast of KREEP basalt"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=67756",
+            "Sample Number": 67756,
+            "Mission": "Apollo 16",
+            "Sample Type": "rake",
+            "Lithology": "breccia",
+            "Description": "small chalky white particle, plagioclase rich breccia, with minerals that seem to have equilibrated - hence it is called \"recrystallized\"."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=67757",
+            "Sample Number": 67757,
+            "Mission": "Apollo 16",
+            "Sample Type": "rake",
+            "Lithology": "breccia",
+            "Description": "impact melt with fine-grained subophitic and poikilitic textures, with glass veins"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=67759",
+            "Sample Number": 67759,
+            "Mission": "Apollo 16",
+            "Sample Type": "rake",
+            "Lithology": "breccia",
+            "Description": "impact melt with fine-grained subophitic and poikilitic textures, with glass veins"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=67766",
+            "Sample Number": 67766,
+            "Mission": "Apollo 16",
+            "Sample Type": "rake",
+            "Lithology": "breccia",
+            "Description": "a coherent, plagioclase-rich breccia with a granular matrix. It has a measured age of 3.82 b.y."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=67769",
+            "Sample Number": 67769,
+            "Mission": "Apollo 16",
+            "Sample Type": "rake",
+            "Lithology": "impact melt breccia",
+            "Description": "has a micropoikilitic texture indicating that it is an impact melt breccia"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=67775",
+            "Sample Number": 67775,
+            "Mission": "Apollo 16",
+            "Sample Type": "rake",
+            "Lithology": "breccia",
+            "Description": "has a KREEP like rare-earth-element pattern with micrometerorite craters. Reimold et al. (1985) noted it was rather unique among Apollo 16 samples in being the only sample with intergranular texture and containing a high amount of mafic mineral clasts."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=68035",
+            "Sample Number": 68035,
+            "Mission": "Apollo 16",
+            "Sample Type": "rake",
+            "Lithology": "",
+            "Description": "glass-coated white anorthosite with a blue-green sheen"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=68515",
+            "Sample Number": 68515,
+            "Mission": "Apollo 16",
+            "Sample Type": "rake",
+            "Lithology": "",
+            "Description": "Steele and Smith (1973) refer to it as a \"complex, black and white breccia with some devitrified glass\"."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=68516",
+            "Sample Number": 68516,
+            "Mission": "Apollo 16",
+            "Sample Type": "rake",
+            "Lithology": "breccia",
+            "Description": "mix of dark glass and grey impact melt clasts; age has been determined - 3.8 b.y."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=68518",
+            "Sample Number": 68518,
+            "Mission": "Apollo 16",
+            "Sample Type": "rake",
+            "Lithology": "breccia",
+            "Description": "described as a \"cinder\" by Smith and Steele (1972). Ryder and Norman (1980) noted that it may be a glass coated lithic fragment, but it has never been subdivided or studied."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=68519",
+            "Sample Number": 68519,
+            "Mission": "Apollo 16",
+            "Sample Type": "rake",
+            "Lithology": "breccia",
+            "Description": "small lithic fragment had a glass coat that has been partially chipped away by micrometeorite bombardment."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=68525",
+            "Sample Number": 68525,
+            "Mission": "Apollo 16",
+            "Sample Type": "rake",
+            "Lithology": "breccia",
+            "Description": "appears to be impact melt breccia, with poikilitic texture, but have not been studied."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=68526",
+            "Sample Number": 68526,
+            "Mission": "Apollo 16",
+            "Sample Type": "rake",
+            "Lithology": "breccia",
+            "Description": "appears to be impact melt breccia, with poikilitic texture, but have not been studied."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=68527",
+            "Sample Number": 68527,
+            "Mission": "Apollo 16",
+            "Sample Type": "rake",
+            "Lithology": "breccia",
+            "Description": "appears to be impact melt breccia, with poikilitic texture, but have not been studied."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=68535",
+            "Sample Number": 68535,
+            "Mission": "Apollo 16",
+            "Sample Type": "rake",
+            "Lithology": "breccia",
+            "Description": "impact melt fragments cemented by a black glass"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=68536",
+            "Sample Number": 68536,
+            "Mission": "Apollo 16",
+            "Sample Type": "rake",
+            "Lithology": "breccia",
+            "Description": "impact melt fragments cemented by a black glass"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=69920",
+            "Sample Number": 69920,
+            "Mission": "Apollo 16",
+            "Sample Type": "rake",
+            "Lithology": "soil",
+            "Description": "mature soil"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=60015",
+            "Sample Number": 60015,
+            "Mission": "Apollo 16",
+            "Sample Type": "rock",
+            "Lithology": "anorthite",
+            "Description": "Coherent, very light gray, shock-melted and cataclastic anorthosite; largely coated with vesicular glass up to 1 cm thick"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=60017",
+            "Sample Number": 60017,
+            "Mission": "Apollo 16",
+            "Sample Type": "rock",
+            "Lithology": "impact melt breccia",
+            "Description": "The outer surface has a thick patina, while the freshly broken surface is hackly"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=60018",
+            "Sample Number": 60018,
+            "Mission": "Apollo 16",
+            "Sample Type": "rock",
+            "Lithology": "breccia",
+            "Description": "relatively inhomogeneous and apparently not used for cosmic-ray-penetration studies. However, it was determined to have a cosmic ray exposure age of 2.1 m.y."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=60019",
+            "Sample Number": 60019,
+            "Mission": "Apollo 16",
+            "Sample Type": "rock",
+            "Lithology": "breccia",
+            "Description": "coherent, medium-gray glassy breccia containing several large, light colored clasts"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=60025",
+            "Sample Number": 60025,
+            "Mission": "Apollo 16",
+            "Sample Type": "rock",
+            "Lithology": "anorthite",
+            "Description": "Coarse-grained, moderately shocked, pristine cataclastic ferroan anorthosite"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=60095",
+            "Sample Number": 60095,
+            "Mission": "Apollo 16",
+            "Sample Type": "rock",
+            "Lithology": "green glass vitrophyres",
+            "Description": "Fractured spheroid of yellow-green to light brown glass"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=60115",
+            "Sample Number": 60115,
+            "Mission": "Apollo 16",
+            "Sample Type": "rock",
+            "Lithology": "breccia",
+            "Description": "Glass-bonded polymict breccia; It has not been studied."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=60235",
+            "Sample Number": 60235,
+            "Mission": "Apollo 16",
+            "Sample Type": "rock",
+            "Lithology": "basalt",
+            "Description": "coherent impact melt rock with a mostly basaltic texture; there are micrometeorite craters on all sides and some vesicles are obvious; otherwise, it has not been studied."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=60255",
+            "Sample Number": 60255,
+            "Mission": "Apollo 16",
+            "Sample Type": "rock",
+            "Lithology": "breccia",
+            "Description": "coherent, dark-matrix soil breccia with abundant white clasts, partially coated with a frothy black glass and has few micrometeorite craters."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=61156",
+            "Sample Number": 61156,
+            "Mission": "Apollo 16",
+            "Sample Type": "rock",
+            "Lithology": "impact melt breccia",
+            "Description": "Tough, medium gray, poikilitic impact melt that has been thermally metamorphosed"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=61175",
+            "Sample Number": 61175,
+            "Mission": "Apollo 16",
+            "Sample Type": "rock",
+            "Lithology": "fragmental breccia",
+            "Description": "contains a high percentage of glass, with some agglutinate. It also contains a small, but significant, mare component."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=62237",
+            "Sample Number": 62237,
+            "Mission": "Apollo 16",
+            "Sample Type": "rock",
+            "Lithology": "anorthite",
+            "Description": "chalky white rock"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=62255",
+            "Sample Number": 62255,
+            "Mission": "Apollo 16",
+            "Sample Type": "rock",
+            "Lithology": "breccia",
+            "Description": "has been crushed and granulated by shock and is penetrated with patches and veins of mafic melt"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=65015",
+            "Sample Number": 65015,
+            "Mission": "Apollo 16",
+            "Sample Type": "rock",
+            "Lithology": "impact melt breccia",
+            "Description": "Poikilitic Impact Melt"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=65035",
+            "Sample Number": 65035,
+            "Mission": "Apollo 16",
+            "Sample Type": "rock",
+            "Lithology": "breccia",
+            "Description": "large clasts of light-colored cataclastic anorthosite intermixed with dark-colored basaltic impact melt; covered or coated with a thick glass coat on one side. An age of 2.29 m.y. indicates that this rock was derived from South Ray Crater."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=65055",
+            "Sample Number": 65055,
+            "Mission": "Apollo 16",
+            "Sample Type": "rock",
+            "Lithology": "impact melt breccia",
+            "Description": "aluminous, basaltic impact melt, is coherent and appears to be homogeneous throughout, and has been determined to be 3.96 b.y old by the Ar/Ar plateau technique"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=66055",
+            "Sample Number": 66055,
+            "Mission": "Apollo 16",
+            "Sample Type": "rock",
+            "Lithology": "breccia",
+            "Description": "complex polymict feldspathic breccia that appears to be intermediate between fragmental breccias and glassy melt breccias, with included abundant rounded patches of brown glass; is ~3.9 b.y. old, with an exposure to cosmic rays for 55 m.y."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=66075",
+            "Sample Number": 66075,
+            "Mission": "Apollo 16",
+            "Sample Type": "rock",
+            "Lithology": "fragmental breccia",
+            "Description": "one of many coherent, light matrix breccias from Apollo 16 and has about equal amounts of both dark and light aphanitic clasts; has been dated at about 3.8 b.y."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=66095",
+            "Sample Number": 66095,
+            "Mission": "Apollo 16",
+            "Sample Type": "rock",
+            "Lithology": "breccia",
+            "Description": "labeled \"Rusty Rock\"; has abundant zap pits on one side, and is 3.8 b.y., and cosmic ray exposure is 40-80 m.y."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=67035",
+            "Sample Number": 67035,
+            "Mission": "Apollo 16",
+            "Sample Type": "rock",
+            "Lithology": "fragmental breccia",
+            "Description": "Very friable, light matrix breccia; was found to be 3.95 b.y."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=67055",
+            "Sample Number": 67055,
+            "Mission": "Apollo 16",
+            "Sample Type": "rock",
+            "Lithology": "breccia",
+            "Description": "black and white breccia; high trace element content, but has not been dated."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=67075",
+            "Sample Number": 67075,
+            "Mission": "Apollo 16",
+            "Sample Type": "rock",
+            "Lithology": "anorthite",
+            "Description": "Lunar sample 67075 is very friable. Detailed petrographic description showed that the sample may be a mixture of closely related anorthositic rocks from a layered igneous intrusion, and it has been shown to be 4.47 b.y. old, with about 50 m.y. exposure to cosmic rays"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=67915",
+            "Sample Number": 67915,
+            "Mission": "Apollo 16",
+            "Sample Type": "rock",
+            "Lithology": "breccia",
+            "Description": "composed of white and grey breccias; both are polymict (Taylor and Mosie 1979), cemented by shock-melted glass and is also cut with thin black glass veins."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=67935",
+            "Sample Number": 67935,
+            "Mission": "Apollo 16",
+            "Sample Type": "rock",
+            "Lithology": "basalt",
+            "Description": "thin veins of black glass, texture of fine-grained subophitic basalt"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=67936",
+            "Sample Number": 67936,
+            "Mission": "Apollo 16",
+            "Sample Type": "rock",
+            "Lithology": "basalt",
+            "Description": "thin veins of black glass, texture of fine-grained subophitic basalt"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=67937",
+            "Sample Number": 67937,
+            "Mission": "Apollo 16",
+            "Sample Type": "rock",
+            "Lithology": "basalt",
+            "Description": "thin veins of black glass, texture of fine-grained subophitic basalt"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=67955",
+            "Sample Number": 67955,
+            "Mission": "Apollo 16",
+            "Sample Type": "rock",
+            "Lithology": "breccia",
+            "Description": "exterior surface has a thin brown patina with micrometeorite pits; has been dated at 4.2 b.y. with exposure to cosmic rays for ~ 50 m.y. (age of North Ray Crater)."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=67975",
+            "Sample Number": 67975,
+            "Mission": "Apollo 16",
+            "Sample Type": "rock",
+            "Lithology": "fragmental breccia",
+            "Description": "Irregularly shaped rock with approximately equal amounts of pale gray, fragmental, friable breccia and a coating of frothy, clast-rich glass."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=68815",
+            "Sample Number": 68815,
+            "Mission": "Apollo 16",
+            "Sample Type": "rock",
+            "Lithology": "breccia",
+            "Description": "outer surface covered with zap pits; the broken surface contains large vugs and vesicles. 68815 is one of the samples that date the age of South Ray Crater (Drozd et al. 1974; Pepin et al. 1974) and is said to have had a simple exposure history."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=69955",
+            "Sample Number": 69955,
+            "Mission": "Apollo 16",
+            "Sample Type": "rock",
+            "Lithology": "anorthite",
+            "Description": "a rock that is relatively coarse-grained, shocked cataclastic anorthosite with a flat black glass vein running the length"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=60016",
+            "Sample Number": 60016,
+            "Mission": "Apollo 16",
+            "Sample Type": "",
+            "Lithology": "fragmental breccia",
+            "Description": "a friable breccia disaggregated with 1362 freeze - thaw cycles; surface is relatively unpitted and smooth."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=60035",
+            "Sample Number": 60035,
+            "Mission": "Apollo 16",
+            "Sample Type": "",
+            "Lithology": "breccia",
+            "Description": "fine-grained, clast-rich, polymict breccia made up of clasts of ferroan anorthosite, troctolite, troctolitic anorthosite and noritic anorthosite. To date, it remains poorly characterized, and requires further study. Recently, it was dated at 4.09 � 0.1 b.y. with an exposure to cosmic radiation for about 6 m.y."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=60075",
+            "Sample Number": 60075,
+            "Mission": "Apollo 16",
+            "Sample Type": "",
+            "Lithology": "fragmental breccia",
+            "Description": "a friable, porous, feldspathic breccia. It has not been well-studied."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=60135",
+            "Sample Number": 60135,
+            "Mission": "Apollo 16",
+            "Sample Type": "",
+            "Lithology": "breccia",
+            "Description": "glass covered, round object with a coarsegrained, highly shocked cumulate interior"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=60215",
+            "Sample Number": 60215,
+            "Mission": "Apollo 16",
+            "Sample Type": "",
+            "Lithology": "breccia",
+            "Description": "actually a polymict breccia, the largest portion is almost pure white and very plagioclase rich. The anorthositic portion is both highly shocked and cataclastic."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=60275",
+            "Sample Number": 60275,
+            "Mission": "Apollo 16",
+            "Sample Type": "",
+            "Lithology": "regolith breccia",
+            "Description": "glass coated regolith breccia. One side has had the glass coating chipped off by micrometeorite bombardment."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=60315",
+            "Sample Number": 60315,
+            "Mission": "Apollo 16",
+            "Sample Type": "",
+            "Lithology": "breccia",
+            "Description": "flat rock, about 4 cm thick, top exposed surface covered with micrometeorite craters, bottom surface is freshly broken and free of zap pits, is 3.87 b.y. old and has been exposed on the surface to cosmic rays for only ~ 4.5 m.y."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=60335",
+            "Sample Number": 60335,
+            "Mission": "Apollo 16",
+            "Sample Type": "",
+            "Lithology": "impact melt breccia",
+            "Description": "is aluminous in composition, with relative high trace element content; found to contain substantial Ni, Ir and Au. The Pb/Pb age of 60335 was determined to be 4.08 b.y."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=61015",
+            "Sample Number": 61015,
+            "Mission": "Apollo 16",
+            "Sample Type": "",
+            "Lithology": "breccia",
+            "Description": "coated with black glass on one side and is thought to be ejecta from South Ray Crater"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=61016",
+            "Sample Number": 61016,
+            "Mission": "Apollo 16",
+            "Sample Type": "",
+            "Lithology": "impact melt breccia",
+            "Description": "known as \"Big Muley\"; named after Bill Muehlberger, the leader of the Apollo 16 field geology team"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=61135",
+            "Sample Number": 61135,
+            "Mission": "Apollo 16",
+            "Sample Type": "",
+            "Lithology": "regolith breccia",
+            "Description": "an ancient regolith breccia that became a closed system about 3.9 b.y. ago; and has a few zap pits"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=61160",
+            "Sample Number": 61160,
+            "Mission": "Apollo 16",
+            "Sample Type": "",
+            "Lithology": "soil",
+            "Description": "This surface sample was collected 10 meters Northeast of the rim of Plum crater as part of a radial sample sequence (with 61180, 61500, and 61140). It was collected from a spot disturbed by a footprint. The site is level with fragments <2 cm common and >2 cm sparse. A .75 m boulder is 2 meters north of the sample."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=61180",
+            "Sample Number": 61180,
+            "Mission": "Apollo 16",
+            "Sample Type": "",
+            "Lithology": "soil",
+            "Description": "Innermost of a radial sample sequence with 61500, 61160, and 61140. The site is level until there is a break at Plum crater, fragments <2 cm are common, >10 cm are sparse. Craters <10 cm are dense and craters <1 meter are common. Some of the larger craters are subdued and some are sharp."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=61195",
+            "Sample Number": 61195,
+            "Mission": "Apollo 16",
+            "Sample Type": "",
+            "Lithology": "breccia",
+            "Description": "coherent, medium grey breccia with a glassy matrix and abundant clasts; zap pits are surrounded with wide spall zones"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=61225",
+            "Sample Number": 61225,
+            "Mission": "Apollo 16",
+            "Sample Type": "",
+            "Lithology": "impact melt breccia",
+            "Description": "small chip of white material covered with chalky-white dust on most sides"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=61240",
+            "Sample Number": 61240,
+            "Mission": "Apollo 16",
+            "Sample Type": "",
+            "Lithology": "soil",
+            "Description": "Soil color is listed as light olive gray but mission transcripts state, \"I just had a good scoopful, and I lost it. Let me dig out a little - another little trench. There she be. Coming up all white. That's all that's in there John.\""
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=61295",
+            "Sample Number": 61295,
+            "Mission": "Apollo 16",
+            "Sample Type": "",
+            "Lithology": "breccia",
+            "Description": "friable light matrix breccia with both light and dark clasts; rounded and has many zap pits"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=62275",
+            "Sample Number": 62275,
+            "Mission": "Apollo 16",
+            "Sample Type": "",
+            "Lithology": "anorthite",
+            "Description": "very friable, chalky white rock that broke up into powder during handling in curatorial labs and has not been adequately studied."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=62280",
+            "Sample Number": 62280,
+            "Mission": "Apollo 16",
+            "Sample Type": "",
+            "Lithology": "soil",
+            "Description": "The sample area is on the south slope of Buster crater, fragments are mostly 5 cm or less, and craters are mostly 5-10 cm. There was a light colored material on the surface of the soil, but none of this high albedo material was found below the surface."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=62290",
+            "Sample Number": 62290,
+            "Mission": "Apollo 16",
+            "Sample Type": "",
+            "Lithology": "soil",
+            "Description": "is the residue from the bag that was used to return rock sample 62295 and may or may not be a proper soil sample"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=63320",
+            "Sample Number": 63320,
+            "Mission": "Apollo 16",
+            "Sample Type": "",
+            "Lithology": "soil",
+            "Description": "63320 is probably the fine grained ejecta from North Ray crater. If Shadow Rock was ejected from North Ray crater, these samples have been virtually undisturbed since the North Ray event."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=64425",
+            "Sample Number": 64425,
+            "Mission": "Apollo 16",
+            "Sample Type": "",
+            "Lithology": "breccia",
+            "Description": "part anorthosite and part impact melt; most surfaces have micrometeorite craters, indicating it had once been a surface sample"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=64435",
+            "Sample Number": 64435,
+            "Mission": "Apollo 16",
+            "Sample Type": "",
+            "Lithology": "breccia",
+            "Description": "thick shiny black glass coat on one side and numerous micrometeorite pits on the other"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=64455",
+            "Sample Number": 64455,
+            "Mission": "Apollo 16",
+            "Sample Type": "",
+            "Lithology": "impact melt breccia",
+            "Description": "egg-shaped object about 5 cm long and 3 cm across almost completely covered with thick black glass"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=64800",
+            "Sample Number": 64800,
+            "Mission": "Apollo 16",
+            "Sample Type": "",
+            "Lithology": "soil",
+            "Description": "Surface soil 64800 accompanies rake 64810, collected at Station 4B . Blocks and cobbles cover 80-90% of the northeast wall of the main crater, elsewhere the surface is relatively smooth with scattered cobbles. The fines are loose, numerous small crates are found in the sample area."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=65016",
+            "Sample Number": 65016,
+            "Mission": "Apollo 16",
+            "Sample Type": "",
+            "Lithology": "breccia",
+            "Description": "hollow, broken sphere or glass bubble about 3 - 4 cm in size. The glass surface is smooth and without zap pits, and has a green color."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=65095",
+            "Sample Number": 65095,
+            "Mission": "Apollo 16",
+            "Sample Type": "",
+            "Lithology": "breccia",
+            "Description": "\"chalky white chunk\" neatly tucked between the regolith breccia and the black glass coat; friable white matrix with large grey breccia clasts"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=65500",
+            "Sample Number": 65500,
+            "Mission": "Apollo 16",
+            "Sample Type": "",
+            "Lithology": "soil",
+            "Description": "Soil 65500 accompanies rake sample 65510. The sample area has no blocks larger tha 30 cm, it is a mostly sandy surface. The fines are loose with a gray surface and whitish subsurface. Numerous small craters are superposed on the 20 meter crater. Friable clods are included in the sample."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=65900",
+            "Sample Number": 65900,
+            "Mission": "Apollo 16",
+            "Sample Type": "",
+            "Lithology": "soil",
+            "Description": "a very mature soil with average grain size of 85 microns"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=65901",
+            "Sample Number": 65901,
+            "Mission": "Apollo 16",
+            "Sample Type": "",
+            "Lithology": "",
+            "Description": "very mature soil and has an average grain size of 85 microns"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=65905",
+            "Sample Number": 65905,
+            "Mission": "Apollo 16",
+            "Sample Type": "",
+            "Lithology": "breccia",
+            "Description": "one of several dense particles found in soil sample 65901"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=66030",
+            "Sample Number": 66030,
+            "Mission": "Apollo 16",
+            "Sample Type": "",
+            "Lithology": "soil",
+            "Description": "66030 is a soil collected with an 8 cm breccia. It is supposed that the breccia is local ejecta, but the source crater is not obvious."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=66037",
+            "Sample Number": 66037,
+            "Mission": "Apollo 16",
+            "Sample Type": "",
+            "Lithology": "breccia",
+            "Description": "regolith breccia, but has excess 40Ar and has been termed \"ancient regolith breccia\"."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=66040",
+            "Sample Number": 66040,
+            "Mission": "Apollo 16",
+            "Sample Type": "",
+            "Lithology": "soil",
+            "Description": "Soils 66040 and 66030 and breccia 66055 were collected at the same location at Station 6. It is supposed that the breccia is local ejecta, but the source crater is not obvious. In the sample area 15-30 cm blocks are relatively common, soil is relatively firm compared to the looser regolith at Stations 4 and 5. Craters in the area are mostly <5 meters."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=66080",
+            "Sample Number": 66080,
+            "Mission": "Apollo 16",
+            "Sample Type": "",
+            "Lithology": "soil",
+            "Description": "an indurated clod of white impact ejecta; possibly from South Ray crater."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=67016",
+            "Sample Number": 67016,
+            "Mission": "Apollo 16",
+            "Sample Type": "",
+            "Lithology": "breccia",
+            "Description": "67016 is a feldspathic fragmental breccia with both light and dark clasts, and is 3.95 b.y. old with an exposure age of 50 m.y."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=67095",
+            "Sample Number": 67095,
+            "Mission": "Apollo 16",
+            "Sample Type": "",
+            "Lithology": "impact melt breccia",
+            "Description": "a glass-coated basaltic impact melt or \"bomb\" that has not been dated."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=67115",
+            "Sample Number": 67115,
+            "Mission": "Apollo 16",
+            "Sample Type": "",
+            "Lithology": "breccia",
+            "Description": "glass coat is rather thick, but has been fractured and broken off by micrometeorite bombardment"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=67235",
+            "Sample Number": 67235,
+            "Mission": "Apollo 16",
+            "Sample Type": "",
+            "Lithology": "impact melt breccia",
+            "Description": "67235 is a large special sample that was collected to study the outer surface of a lunar rock."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=67435",
+            "Sample Number": 67435,
+            "Mission": "Apollo 16",
+            "Sample Type": "",
+            "Lithology": "breccia",
+            "Description": "grey matrix breccias with both dark and light clasts"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=67461",
+            "Sample Number": 67461,
+            "Mission": "Apollo 16",
+            "Sample Type": "",
+            "Lithology": "soil",
+            "Description": "chosen as a \"reference soil\" for the \"lunar highland initiative\" and is not greatly different from other soil samples from North Ray Crater"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=67481",
+            "Sample Number": 67481,
+            "Mission": "Apollo 16",
+            "Sample Type": "",
+            "Lithology": "",
+            "Description": "noticeably coarser grain size and less mature compared with other lunar soils probably due to the fact that NRC is only 50 m.y. old"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=67685",
+            "Sample Number": 67685,
+            "Mission": "Apollo 16",
+            "Sample Type": "",
+            "Lithology": "breccia",
+            "Description": "67628 was renumbered by Ryder and Norman (1980) when they made the catalog. It is a collection of four \"glass bombs\" that were collected as rake samples from just inside the rim of North Ray Crater. 67628 was originally cataloged as 4 glass particles, but Ryder and Norman (1980) treated them as separate particles - so they were renumbered."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=67686",
+            "Sample Number": 67686,
+            "Mission": "Apollo 16",
+            "Sample Type": "",
+            "Lithology": "breccia",
+            "Description": "67628 was renumbered by Ryder and Norman (1980) when they made the catalog. It is a collection of four \"glass bombs\" that were collected as rake samples from just inside the rim of North Ray Crater. 67628 was originally cataloged as 4 glass particles, but Ryder and Norman (1980) treated them as separate particles - so they were renumbered."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=67687",
+            "Sample Number": 67687,
+            "Mission": "Apollo 16",
+            "Sample Type": "",
+            "Lithology": "breccia",
+            "Description": "67628 was renumbered by Ryder and Norman (1980) when they made the catalog. It is a collection of four \"glass bombs\" that were collected as rake samples from just inside the rim of North Ray Crater. 67628 was originally cataloged as 4 glass particles, but Ryder and Norman (1980) treated them as separate particles - so they were renumbered."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=67688",
+            "Sample Number": 67688,
+            "Mission": "Apollo 16",
+            "Sample Type": "",
+            "Lithology": "breccia",
+            "Description": "67628 was renumbered by Ryder and Norman (1980) when they made the catalog. It is a collection of four \"glass bombs\" that were collected as rake samples from just inside the rim of North Ray Crater. 67628 was originally cataloged as 4 glass particles, but Ryder and Norman (1980) treated them as separate particles - so they were renumbered."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=67695",
+            "Sample Number": 67695,
+            "Mission": "Apollo 16",
+            "Sample Type": "",
+            "Lithology": "breccia",
+            "Description": "Borchardt et al. (1985) and Stoffler et al. (1985) studied glass particles from North Ray Crater and labeled these particles \"glass bombs\". 67629 was originally 4 pieces, which have since been relabeled 67629, 67695, 67696 and 67697"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=67696",
+            "Sample Number": 67696,
+            "Mission": "Apollo 16",
+            "Sample Type": "",
+            "Lithology": "breccia",
+            "Description": "Borchardt et al. (1985) and Stoffler et al. (1985) studied glass particles from North Ray Crater and labeled these particles \"glass bombs\". 67629 was originally 4 pieces, which have since been relabeled 67629, 67695, 67696 and 67697"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=67697",
+            "Sample Number": 67697,
+            "Mission": "Apollo 16",
+            "Sample Type": "",
+            "Lithology": "breccia",
+            "Description": "Borchardt et al. (1985) and Stoffler et al. (1985) studied glass particles from North Ray Crater and labeled these particles \"glass bombs\". 67629 was originally 4 pieces, which have since been relabeled 67629, 67695, 67696 and 67697"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=67940",
+            "Sample Number": 67940,
+            "Mission": "Apollo 16",
+            "Sample Type": "",
+            "Lithology": "breccia",
+            "Description": "shielded soil from E-W split in House Rock"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=67941",
+            "Sample Number": 67941,
+            "Mission": "Apollo 16",
+            "Sample Type": "",
+            "Lithology": "soil",
+            "Description": "immature soils from the rim of fresh North Ray Crater. House Rock and other samples of North Ray Crater are breccias"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=67945",
+            "Sample Number": 67945,
+            "Mission": "Apollo 16",
+            "Sample Type": "",
+            "Lithology": "breccia",
+            "Description": "micropoikilitic impact breccia"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=67946",
+            "Sample Number": 67946,
+            "Mission": "Apollo 16",
+            "Sample Type": "",
+            "Lithology": "breccia",
+            "Description": "are glass (?) particles with zaps"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=67947",
+            "Sample Number": 67947,
+            "Mission": "Apollo 16",
+            "Sample Type": "",
+            "Lithology": "breccia",
+            "Description": "a \"walnut\" from soil 67941; Granulitic Breccia"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=67948",
+            "Sample Number": 67948,
+            "Mission": "Apollo 16",
+            "Sample Type": "",
+            "Lithology": "basalt",
+            "Description": "plagioclase-rich, ophitic basalt with igneous texture"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=68115",
+            "Sample Number": 68115,
+            "Mission": "Apollo 16",
+            "Sample Type": "",
+            "Lithology": "breccia",
+            "Description": "heterogeneous breccia which is welded together by flow-banded glass; appears to be an orange stain on the surface; unusual area of very vesicular melt on one end"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=68415",
+            "Sample Number": 68415,
+            "Mission": "Apollo 16",
+            "Sample Type": "",
+            "Lithology": "impact melt breccia",
+            "Description": "68415 and 68416 have an igneous has an intersertal texture characterized by a \"fret work\" of plagioclase laths with interstitial olivine and pyroxene and minor occurances of opaques, phosphates, residual glass and other minerals; is 3.76 b.y."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=68416",
+            "Sample Number": 68416,
+            "Mission": "Apollo 16",
+            "Sample Type": "",
+            "Lithology": "impact melt breccia",
+            "Description": "has an igneous has an intersertal texture characterized by a \"fret work\" of plagioclase laths with interstitial olivine and pyroxene and minor occurances of opaques, phosphates, residual glass and other minerals"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=68500",
+            "Sample Number": 68500,
+            "Mission": "Apollo 16",
+            "Sample Type": "",
+            "Lithology": "soil",
+            "Description": "Soil 68500 accompanied rake sample 68510 at Station 8, on the north rim of a 10-15 meter crater in the vicinity of visible rays from South Ray crater. Astronauts reported several glass fragments scattered over the surface in this area, some reflecting red and green in the sunlight. The sample area is generally free of large rocks."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=68821",
+            "Sample Number": 68821,
+            "Mission": "Apollo 16",
+            "Sample Type": "",
+            "Lithology": "soil",
+            "Description": "mature soil and should be compared with sample 68841, collected nearby."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=68841",
+            "Sample Number": 68841,
+            "Mission": "Apollo 16",
+            "Sample Type": "",
+            "Lithology": "soil",
+            "Description": "coarse fine"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=68845",
+            "Sample Number": 68845,
+            "Mission": "Apollo 16",
+            "Sample Type": "",
+            "Lithology": "breccia",
+            "Description": "coherent, grey, aphanitic rocks"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=68846",
+            "Sample Number": 68846,
+            "Mission": "Apollo 16",
+            "Sample Type": "",
+            "Lithology": "breccia",
+            "Description": "coherent, grey, aphanitic rocks"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=68847",
+            "Sample Number": 68847,
+            "Mission": "Apollo 16",
+            "Sample Type": "",
+            "Lithology": "breccia",
+            "Description": "coherent, grey, aphanitic rocks"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=69001",
+            "Sample Number": 69001,
+            "Mission": "Apollo 16",
+            "Sample Type": "",
+            "Lithology": "soil",
+            "Description": "Drive Tube is unopened and has been in vacuum since it was sealed in CSVC on the moon."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=69935",
+            "Sample Number": 69935,
+            "Mission": "Apollo 16",
+            "Sample Type": "",
+            "Lithology": "breccia",
+            "Description": "apparently a polymict breccia that is texturally inhomogeneous and has a large white clast"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=69940",
+            "Sample Number": 69940,
+            "Mission": "Apollo 16",
+            "Sample Type": "",
+            "Lithology": "soil",
+            "Description": "69940 is a \"scoop\" sample from several cm below the surface. Large fragments are relatively sparse at the sample site, surface is relatively firm, craters 5-30 cm are common but larger ones are sparse."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=69945",
+            "Sample Number": 69945,
+            "Mission": "Apollo 16",
+            "Sample Type": "",
+            "Lithology": "breccia",
+            "Description": "appears to be more mafic than most poikilitic Apollo 16 breccias and has only minor clasts"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2016&sample=69960",
+            "Sample Number": 69960,
+            "Mission": "Apollo 16",
+            "Sample Type": "",
+            "Lithology": "soil",
+            "Description": "69960 was collected at Station 9 from under a .5 meter boulder after it had been rolled over. It is part of a \"surface sampler\" including soils 69920, 69940, and 69960 and fragments 69003, 69004, and 66935. Large fragments are relatively sparse at the sample site, surface is relatively firm, craters 5-30 cm are common but larger ones are sparse."
+        }
+    ]
+}

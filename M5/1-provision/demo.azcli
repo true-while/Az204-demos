@@ -1,0 +1,16 @@
+#Create a resource group
+az group create --name Demo-AZ204-VM --location eastus2
+
+#Create virtual machine
+az vm create --resource-group Demo-AZ204-VM --admin-password  "Your@password@for@vm" --name web-server --image Win2022AzureEditionCore --public-ip-sku Standard --admin-username azureuser 
+
+
+#Install web server
+az vm run-command invoke -g Demo-AZ204-VM -n web-server --command-id RunPowerShellScript --scripts "Install-WindowsFeature -name Web-Server -IncludeManagementTools"
+
+#Open port 80 for web traffic
+az vm open-port --port 80 --resource-group Demo-AZ204-VM --name web-server
+
+#get ip
+ip=$(az vm list-ip-addresses --resource-group Demo-AZ204-VM --name web-server --query "[].virtualMachine.network.publicIpAddresses[0].ipAddress" --output tsv)
+echo "http://$ip"

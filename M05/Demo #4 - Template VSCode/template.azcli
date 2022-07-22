@@ -1,5 +1,0 @@
-az group create --name "Demo5" --location "eastus"
-
-az group deployment create --name "newdeployment" --resource-group "Demo5" --template-file "template.json" --parameters "parameters.json"
-
-az storage account show --resource-group "Demo5" --name "alextnewtempltest1"

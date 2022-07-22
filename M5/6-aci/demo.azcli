@@ -1,0 +1,31 @@
+#bring short name of your container from previous demo
+account=""  # from demo #4
+
+#create RG for ACI
+az group create --name Demo-AZ204-containers --location eastus
+
+#sign in
+az acr login --name $account
+
+# List container images
+az acr repository list --name $account --output table
+
+# List the tags on the alex-heloworld repository
+az acr repository show-tags --name $account --repository ninjacat-nodejs --output table
+
+
+# Enable admin user
+az acr update --name $account --admin-enabled true
+
+# Query for the password
+pass=$(az acr credential show --name $account --query "passwords[0].value" -o tsv)
+
+# Deploy container image
+az container create --resource-group Demo-AZ204-containers --name acr-ninjacat-node --image alexacrdemo.azurecr.io/ninjacat-nodejs:latest --cpu 1 --memory 1 --registry-username  $account --registry-password $pass  --dns-name-label catcontainer --ports 9090 
+
+# View container state
+ip=$(az container show --resource-group Demo-AZ204-containers --name acr-ninjacat-node --query ipAddress.ip -o tsv)
+echo http://$ip:9090
+
+
+

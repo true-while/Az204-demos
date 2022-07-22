@@ -1,0 +1,32 @@
+account=slot-$RANDOM
+
+#create app service plan
+az appservice plan create --name $account-plan --resource-group Demo-AZ204-Slots --sku S1
+
+#create web app
+az webapp create --name $account  --resource-group Demo-AZ204-Slots --plan $account-plan
+
+#deploy
+az webapp deploy --name $account  --resource-group Demo-AZ204-Slots --type zip --src-path 'web-broken.zip' 
+
+# test web app
+az webapp browse --name $account  --resource-group Demo-AZ204-Slots  # should be with "fix me"
+
+# create stage slot
+az webapp deployment slot create --name $account-demo --resource-group Demo-AZ204-Slots  --slot staging
+
+# deploy to slot from ZIP
+az webapp deployment source config-zip --name $account-demo --resource-group Demo-AZ204-Slots --slot staging --src web-fixed.zip
+
+az webapp browse --slot staging --name $account  --resource-group Demo-AZ204-Slots
+
+#swap slots
+az webapp deployment slot swap --name slot-demo --resource-group Demo-AZ204-Slots --slot staging --action swap
+#https://slot-demo-staging.azurewebsites.net
+#https://slot-demo.azurewebsites.net
+
+#check the slot 
+az webapp browse --slot staging --name $account  --resource-group Demo-AZ204-Slots
+
+#check the main app 
+az webapp browse --name $account  --resource-group Demo-AZ204-Slots

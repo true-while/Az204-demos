@@ -1,0 +1,29 @@
+{
+    "name": "key-vault-node-quickstart",
+    "description": "Simple Hello World Node.js sample for Azure Key Vault using Managed Service Identity",
+    "version": "0.0.1",
+    "private": true,
+    "license": "MIT",
+    "author": "Microsoft",
+    "engines": {
+        "node": ">=6.9.1"
+    },
+    "scripts": {
+        "start": "node index.js"
+    },
+    "dependencies": {
+        "@azure/keyvault-secrets": "4.0.0",
+        "@azure/identity": "1.0.0",
+        "dotenv": "^8.2.0",
+        "path": "^0.12.7"
+    },
+    "devDependencies": {
+        "eslint": "^6.6.0",
+        "eslint-config-standard": "^14.1.0",
+        "eslint-plugin-import": "^2.18.2",
+        "eslint-plugin-node": "^10.0.0",
+        "eslint-plugin-promise": "^4.2.1",
+        "eslint-plugin-standard": "^4.0.1",
+        "nodemon": "~1.19.4"
+    }
+}

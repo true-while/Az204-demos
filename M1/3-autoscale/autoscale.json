@@ -1,0 +1,70 @@
+{
+    "location": "eastus",
+    "tags": {
+        "hidden-link:/subscriptions/3601a77e-eda4-40f0-8a8e-d0d95e3fa1ec/resourceGroups/Blog/providers/Microsoft.Web/serverfarms/Blog": "Resource"
+    },
+    "properties": {
+        "name": "Blog",
+        "enabled": false,
+        "targetResourceUri": "/subscriptions/e52566ba-42d2-462a-903c-c28a503e8316/resourceGroups/Blog/providers/Microsoft.Web/serverfarms/Blog",
+        "profiles": [
+            {
+                "name": "Default",
+                "capacity": {
+                    "minimum": "1",
+                    "maximum": "10",
+                    "default": "1"
+                },
+                "rules": [
+                    {
+                        "scaleAction": {
+                            "direction": "Increase",
+                            "type": "ChangeCount",
+                            "value": "1",
+                            "cooldown": "PT5M"
+                        },
+                        "metricTrigger": {
+                            "metricName": "CpuPercentage",
+                            "metricNamespace": "microsoft.web/serverfarms",
+                            "metricResourceUri": "/subscriptions/e52566ba-42d2-462a-903c-c28a503e8316/resourceGroups/Blog/providers/Microsoft.Web/serverFarms/Blog",
+                            "operator": "GreaterThan",
+                            "statistic": "Average",
+                            "threshold": 70,
+                            "timeAggregation": "Average",
+                            "timeGrain": "PT1M",
+                            "timeWindow": "PT10M",
+                            "Dimensions": [],
+                            "dividePerInstance": false
+                        }
+                    },
+                    {
+                        "scaleAction": {
+                            "direction": "Decrease",
+                            "type": "ChangeCount",
+                            "value": "1",
+                            "cooldown": "PT5M"
+                        },
+                        "metricTrigger": {
+                            "metricName": "CpuPercentage",
+                            "metricNamespace": "microsoft.web/serverfarms",
+                            "metricResourceUri": "/subscriptions/e52566ba-42d2-462a-903c-c28a503e8316/resourceGroups/Blog/providers/Microsoft.Web/serverFarms/Blog",
+                            "operator": "LessThan",
+                            "statistic": "Average",
+                            "threshold": 40,
+                            "timeAggregation": "Average",
+                            "timeGrain": "PT1M",
+                            "timeWindow": "PT10M",
+                            "Dimensions": [],
+                            "dividePerInstance": false
+                        }
+                    }
+                ]
+            }
+        ],
+        "notifications": [],
+        "targetResourceLocation": "eastus"
+    },
+    "id": "/subscriptions/e52566ba-42d2-462a-903c-c28a503e8316/resourceGroups/Blog/providers/microsoft.insights/autoscalesettings/Blog",
+    "name": "Blog",
+    "type": "Microsoft.Insights/autoscaleSettings"
+}

@@ -1,0 +1,25 @@
+#keyvault name from previous demo
+keyvault="<your keyvault>"
+
+#webapp rsource name
+account=web-config-$RANDOM
+
+#Create new group
+az group create --name Demo-AZ204-AppConfig --location eastus
+
+#create web plan
+az appservice plan create -n $account-plan -g Demo-AZ204-AppConfig --sku B1
+
+#create web app and assign idenity
+az webapp create  -p $account-plan -n $account -g Demo-AZ204-AppConfig --assign-identity
+
+#observer identity 
+id=$(az webapp identity assign -g Demo-AZ204-AppConfig -n $account --query principalId -o tsv)
+
+echo "webapp identity: $id"
+
+#provide access to the secrets for app
+az keyvault set-policy --name $keyvault --object-id $id --secret-permissions get
+
+
+

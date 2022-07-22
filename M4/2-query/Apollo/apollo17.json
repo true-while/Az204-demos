@@ -1,0 +1,2851 @@
+{
+    "id": "Apollo 17",
+    "Description": "Gene Cernan aboard the Lunar Rover during the first EVA of Apollo 17",
+    "Mission type": "Manned lunar landing",
+    "Operator": "NASA",
+    "COSPAR ID": [
+        "CSM: 1972-096A",
+        "LM: 1972-096C"
+    ],
+    "SATCAT ": [
+        "CSM: 6300",
+        "LM: 6307"
+    ],
+    "Mission duration": "12 days, 13 hours, 51 minutes, 59 seconds",
+    "Spacecraft properties": {
+        "Spacecraft": [
+            "Apollo CSM-114",
+            "Apollo LM-12"
+        ],
+        "Manufacturer": [
+            "CSM: North American Rockwell",
+            "LM: Grumman"
+        ],
+        "Launch mass": "48,607 kilograms (107,161 lb)",
+        "Landing mass": "5,500 kilograms (12,120 lb)"
+    },
+    "Crew": {
+        "Crew size": 3,
+        "Members": [
+            "Eugene A. Cernan",
+            "Ronald E. Evans",
+            "Harrison H. Schmitt"
+        ],
+        "Callsign": [
+            "CSM: America",
+            "LM: Challenger"
+        ],
+        "EVAs": [
+            "1 in cislunar space",
+            "Plus 3 on the lunar surface"
+        ],
+        "EVA duration": [
+            "1 hour, 5 minutes, 44 seconds",
+            "Spacewalk to retrieve film cassettes"
+        ]
+    },
+    "Start of mission": {
+        "Launch date": "December 7, 1972, 05:33:00 (1972-12-07UTC05:33Z) UTC",
+        "Rocket": "Saturn V SA-512",
+        "Launch site": "Kennedy LC-39A"
+    },
+    "End of mission": {
+        "Recovered by": "USS Ticonderoga",
+        "Landing date": "December 19, 1972, 19:24:59 (1972-12-19UTC19:25:00Z) UTC",
+        "Landing site": [
+            "South Pacific Ocean",
+            "17°53S 166°07W / 17.88°S 166.11°W / -17.88; -166.11 (Apollo 17 splashdown)"
+        ]
+    },
+    "Orbital parameters": {
+        "Reference system": "Selenocentric",
+        "Periselene": "26.9 kilometers (14.5 nmi)",
+        "Aposelene": "109.3 kilometers (59.0 nmi)",
+        "Epoch": "December 11, 4:04 UTC"
+    },
+    "Lunar orbiter": {
+        "Spacecraft component": "Command/Service Module",
+        "Orbital insertion": "December 10, 1972, 19:47:22 UTC",
+        "Departed orbit": "December 16, 1972, 23:35:09 UTC",
+        "Orbits": 75
+    },
+    "Lunar lander": {
+        "Spacecraft component": "Lunar Module",
+        "Landing date": "December 11, 1972, 19:54:57 UTC",
+        "Return launch": "December 14, 1972, 22:54:37 UTC",
+        "Landing site": [
+            "Taurus–Littrow",
+            "20°1127N 30°4618E / 20.19080°N 30.77168°E / 20.19080; 30.77168 (Apollo 17 landing)"
+        ],
+
+        "Sample mass": "110.52 kilograms (243.7 lb)",
+        "Surface EVAs": "3",
+        "EVA duration": {
+
+            "Total": "22 hours, 3 minutes, 57 seconds",
+
+            "First": "7 hours, 11 minutes, 53 seconds",
+            "Second": "7 hours, 36 minutes, 56 seconds",
+            "Third": "7 hours, 15 minutes, 8 seconds"
+        },
+        "Lunar rover": {
+            "Distance covered": "35.74 kilometers (22.21 mi)"
+        }
+    },
+    "Docking with LM": {
+        "Docking date": "December 7, 1972, 09:30:10 UTC",
+        "Undocking date": "December 11, 1972, 17:20:56 UTC"
+    },
+    "Docking with LM Ascent Stage": {
+        "Docking date": "December 15, 1972, 01:10:15 UTC",
+        "Undocking date": "December 15, 1972, 04:51:31 UTC"
+    },
+    "Payload": {
+        "Scientific Instrument Module": {
+            "Apollo Lunar Surface Experiments Package": {
+                "Lunar Roving Vehicle": {
+                    "Mass": "SIM",
+                    "LRV": "463 pounds (210 kg)"
+                }
+            }
+        }
+    },
+    "Artifacts": [
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=70008",
+            "Sample Number": 70008,
+            "Mission": "Apollo 17",
+            "Sample Type": "core",
+            "Lithology": "soil",
+            "Description": "70001-70009 are the segments of the deep core drilled at the ALSEP site 180 meters west of the LM. The sample area is flat, level and has 2-3% block cover. Craters 10 cm to 1 meter in size are common, fines are coherent below 3-4 cm. Drill penetration to 3.2 meters alternated between easy and difficult. The bottom 20 cm were very difficult to drill. The base material is cohesive, fragmental."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=74001",
+            "Sample Number": 74001,
+            "Mission": "Apollo 17",
+            "Sample Type": "core",
+            "Lithology": "soil",
+            "Description": "Drive tube 74001/74002 was collected at the south rim of 120 meter Shorty crater, at Station 4. The cored material is unusually compact. The core contains orange and red colored soil with nearly vertical contacts. The site is near the low place in the crater rim crest. The fragment population is viable. Craters up to several meters in diameter are scattered near the sample site. The core is almost entirely without coarse fines."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=74002",
+            "Sample Number": 74002,
+            "Mission": "Apollo 17",
+            "Sample Type": "core",
+            "Lithology": "soil",
+            "Description": "Drive tube 74001/74002 was collected at the south rim of 120 meter Shorty crater, at Station 4. The cored material is unusually compact. The core contains orange and red colored soil with nearly vertical contacts. The site is near the low place in the crater rim crest. The fragment population is viable. Craters up to several meters in diameter are scattered near the sample site. The core is almost entirely without coarse fines."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=79001",
+            "Sample Number": 79001,
+            "Mission": "Apollo 17",
+            "Sample Type": "core",
+            "Lithology": "soil",
+            "Description": "Double drive tube 79001/79002 was taken 2 meters from two 1 meter craters on the southeast flank of the Van Serg crater ejecta blanket, at Station 9. The site has a gentle slope to the southeast away from Van Serg crater. Fragments 2-20 cm cover 3% of the surface. Astronauts report that driving the first core was easy. The second one was a little tougher, and then it got very hard at the end. >1mm particles were hand picked and not sieved, where they would have broken down, so there is a discontinuity in the size distribution caused by the lab procesures."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=79002",
+            "Sample Number": 79002,
+            "Mission": "Apollo 17",
+            "Sample Type": "core",
+            "Lithology": "soil",
+            "Description": "Double drive tube 79001/79002 was taken 2 meters from two 1 meter craters on the southeast flank of the Van Serg crater ejecta blanket, at Station 9. The site has a gentle slope to the southeast away from Van Serg crater. Fragments 2-20 cm cover 3% of the surface. Astronauts report that driving the first core was easy. The second one was a little tougher, and then it got very hard at the end. >1mm particles were hand picked and not sieved, where they would have broken down, so there is a discontinuity in the size distribution caused by the lab procesures."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=71596",
+            "Sample Number": 71596,
+            "Mission": "Apollo 17",
+            "Sample Type": "rake",
+            "Lithology": "high-Ti mare basalt",
+            "Description": "high-Ti mare basalt"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=76135",
+            "Sample Number": 76135,
+            "Mission": "Apollo 17",
+            "Sample Type": "rake",
+            "Lithology": "impact melt breccia",
+            "Description": "Vesicular Poikilitic Impact Melt Breccia"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=76238",
+            "Sample Number": 76238,
+            "Mission": "Apollo 17",
+            "Sample Type": "rake",
+            "Lithology": "other",
+            "Description": "Feldspathic Granulitic Impactite; part of 76235."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=76535",
+            "Sample Number": 76535,
+            "Mission": "Apollo 17",
+            "Sample Type": "rake",
+            "Lithology": "troctolite",
+            "Description": "Troctolite, random sample as part of rake sample at Station 6"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=76536",
+            "Sample Number": 76536,
+            "Mission": "Apollo 17",
+            "Sample Type": "rake",
+            "Lithology": "troctolite",
+            "Description": "Crushed Troctolite"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=76537",
+            "Sample Number": 76537,
+            "Mission": "Apollo 17",
+            "Sample Type": "rake",
+            "Lithology": "high-Ti mare basalt",
+            "Description": "High-Ti Mare Basalt"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=76538",
+            "Sample Number": 76538,
+            "Mission": "Apollo 17",
+            "Sample Type": "rake",
+            "Lithology": "high-Ti mare basalt",
+            "Description": "High-Ti Mare Basalt"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=76539",
+            "Sample Number": 76539,
+            "Mission": "Apollo 17",
+            "Sample Type": "rake",
+            "Lithology": "high-Ti mare basalt",
+            "Description": "Aphanitic High-Ti Mare Basalt"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=76545",
+            "Sample Number": 76545,
+            "Mission": "Apollo 17",
+            "Sample Type": "rake",
+            "Lithology": "regolith breccia",
+            "Description": "Dark Matrix Regolith Breccia"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=76548",
+            "Sample Number": 76548,
+            "Mission": "Apollo 17",
+            "Sample Type": "rake",
+            "Lithology": "regolith breccia",
+            "Description": "Dark Matrix Regolith Breccia"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=76555",
+            "Sample Number": 76555,
+            "Mission": "Apollo 17",
+            "Sample Type": "rake",
+            "Lithology": "impact melt breccia",
+            "Description": "Micropoikilitic Impact Melt Breccia"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=76556",
+            "Sample Number": 76556,
+            "Mission": "Apollo 17",
+            "Sample Type": "rake",
+            "Lithology": "impact melt breccia",
+            "Description": "Micropoikilitic Impact Melt Breccia"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=76557",
+            "Sample Number": 76557,
+            "Mission": "Apollo 17",
+            "Sample Type": "rake",
+            "Lithology": "impact melt breccia",
+            "Description": "Micropoikilitic Impact Melt Breccia"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=76558",
+            "Sample Number": 76558,
+            "Mission": "Apollo 17",
+            "Sample Type": "rake",
+            "Lithology": "impact melt breccia",
+            "Description": "Imact Melt Breccia"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=76559",
+            "Sample Number": 76559,
+            "Mission": "Apollo 17",
+            "Sample Type": "rake",
+            "Lithology": "impact melt breccia",
+            "Description": "Poikilitic Impact Melt Breccia"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=76565",
+            "Sample Number": 76565,
+            "Mission": "Apollo 17",
+            "Sample Type": "rake",
+            "Lithology": "regolith breccia",
+            "Description": "Dark Matrix Regolith Breccia"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=76566",
+            "Sample Number": 76566,
+            "Mission": "Apollo 17",
+            "Sample Type": "rake",
+            "Lithology": "regolith breccia",
+            "Description": "Dark Matrix Regolith Breccia"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=76567",
+            "Sample Number": 76567,
+            "Mission": "Apollo 17",
+            "Sample Type": "rake",
+            "Lithology": "regolith breccia",
+            "Description": "Light Matrix Regolith Breccia"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=76568",
+            "Sample Number": 76568,
+            "Mission": "Apollo 17",
+            "Sample Type": "rake",
+            "Lithology": "high-Ti mare basalt",
+            "Description": "Aphanitic High-Ti Mare Basalt"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=76569",
+            "Sample Number": 76569,
+            "Mission": "Apollo 17",
+            "Sample Type": "rake",
+            "Lithology": "impact melt breccia",
+            "Description": "Aphanitic Impact Melt Breccia"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=76575",
+            "Sample Number": 76575,
+            "Mission": "Apollo 17",
+            "Sample Type": "rake",
+            "Lithology": "impact melt breccia",
+            "Description": "Feldspathic Impact Melt Breccia"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=76576",
+            "Sample Number": 76576,
+            "Mission": "Apollo 17",
+            "Sample Type": "rake",
+            "Lithology": "impact melt breccia",
+            "Description": "Micropoikilitic Impact Melt Breccia"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=76577",
+            "Sample Number": 76577,
+            "Mission": "Apollo 17",
+            "Sample Type": "rake",
+            "Lithology": "impact melt breccia",
+            "Description": "Poikilitic Impact Melt Breccia"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=77515",
+            "Sample Number": 77515,
+            "Mission": "Apollo 17",
+            "Sample Type": "rake",
+            "Lithology": "impact melt breccia",
+            "Description": "Poikilitic Impact Melt Breccia"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=77516",
+            "Sample Number": 77516,
+            "Mission": "Apollo 17",
+            "Sample Type": "rake",
+            "Lithology": "high-Ti mare basalt",
+            "Description": "High-Ti Mare Basalt"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=77517",
+            "Sample Number": 77517,
+            "Mission": "Apollo 17",
+            "Sample Type": "rake",
+            "Lithology": "breccia",
+            "Description": "Unique Fragmental Breccia; sample 77517 is exotic to Apollo 17 site, contining mineral fragments of pink aluminous spinel, aluminous enstatite, and forsterite."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=77518",
+            "Sample Number": 77518,
+            "Mission": "Apollo 17",
+            "Sample Type": "rake",
+            "Lithology": "impact melt breccia",
+            "Description": "Micropoikilitic Impact Melt Breccia"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=77519",
+            "Sample Number": 77519,
+            "Mission": "Apollo 17",
+            "Sample Type": "rake",
+            "Lithology": "impact melt breccia",
+            "Description": "Micropoikilitic Impact Melt Breccia"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=77525",
+            "Sample Number": 77525,
+            "Mission": "Apollo 17",
+            "Sample Type": "rake",
+            "Lithology": "impact melt breccia",
+            "Description": "Impact Melt Breccia"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=77526",
+            "Sample Number": 77526,
+            "Mission": "Apollo 17",
+            "Sample Type": "rake",
+            "Lithology": "impact melt breccia",
+            "Description": "Impact Melt Breccia"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=77535",
+            "Sample Number": 77535,
+            "Mission": "Apollo 17",
+            "Sample Type": "rake",
+            "Lithology": "high-Ti mare basalt",
+            "Description": "High-Ti Mare Basalt"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=77536",
+            "Sample Number": 77536,
+            "Mission": "Apollo 17",
+            "Sample Type": "rake",
+            "Lithology": "high-Ti mare basalt",
+            "Description": "High-Ti Mare Basalt"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=77537",
+            "Sample Number": 77537,
+            "Mission": "Apollo 17",
+            "Sample Type": "rake",
+            "Lithology": "impact melt breccia",
+            "Description": "Impact Melt Breccia"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=77538",
+            "Sample Number": 77538,
+            "Mission": "Apollo 17",
+            "Sample Type": "rake",
+            "Lithology": "breccia",
+            "Description": "Unusual Fragmental Breccia"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=77539",
+            "Sample Number": 77539,
+            "Mission": "Apollo 17",
+            "Sample Type": "rake",
+            "Lithology": "impact melt breccia",
+            "Description": "Poikilitic Impact Melt Breccia"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=77545",
+            "Sample Number": 77545,
+            "Mission": "Apollo 17",
+            "Sample Type": "rake",
+            "Lithology": "impact melt breccia",
+            "Description": "Poikilitic Impact Melt Breccia"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=78525",
+            "Sample Number": 78525,
+            "Mission": "Apollo 17",
+            "Sample Type": "rake",
+            "Lithology": "other",
+            "Description": "Agglutinate"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=78526",
+            "Sample Number": 78526,
+            "Mission": "Apollo 17",
+            "Sample Type": "rake",
+            "Lithology": "green glass vitrophyres",
+            "Description": "Green Glass Vitrophyre"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=78527",
+            "Sample Number": 78527,
+            "Mission": "Apollo 17",
+            "Sample Type": "rake",
+            "Lithology": "breccia",
+            "Description": "Granulitic Noritic Breccia"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=78535",
+            "Sample Number": 78535,
+            "Mission": "Apollo 17",
+            "Sample Type": "rake",
+            "Lithology": "breccia",
+            "Description": "Dark Matrix Breccia"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=78536",
+            "Sample Number": 78536,
+            "Mission": "Apollo 17",
+            "Sample Type": "rake",
+            "Lithology": "breccia",
+            "Description": "Dark Matrix Breccia"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=78537",
+            "Sample Number": 78537,
+            "Mission": "Apollo 17",
+            "Sample Type": "rake",
+            "Lithology": "breccia",
+            "Description": "Dark Matrix Breccia"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=78538",
+            "Sample Number": 78538,
+            "Mission": "Apollo 17",
+            "Sample Type": "rake",
+            "Lithology": "breccia",
+            "Description": "Dark Matrix Breccia"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=78539",
+            "Sample Number": 78539,
+            "Mission": "Apollo 17",
+            "Sample Type": "rake",
+            "Lithology": "breccia",
+            "Description": "Dark Matrix Breccia"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=78545",
+            "Sample Number": 78545,
+            "Mission": "Apollo 17",
+            "Sample Type": "rake",
+            "Lithology": "breccia",
+            "Description": "Dark Matrix Breccia"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=78546",
+            "Sample Number": 78546,
+            "Mission": "Apollo 17",
+            "Sample Type": "rake",
+            "Lithology": "breccia",
+            "Description": "Dark Matrix Breccia"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=78547",
+            "Sample Number": 78547,
+            "Mission": "Apollo 17",
+            "Sample Type": "rake",
+            "Lithology": "breccia",
+            "Description": "Dark Matrix Soil Breccia"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=78548",
+            "Sample Number": 78548,
+            "Mission": "Apollo 17",
+            "Sample Type": "rake",
+            "Lithology": "other",
+            "Description": "Soil Clod, friable soil breccia"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=78549",
+            "Sample Number": 78549,
+            "Mission": "Apollo 17",
+            "Sample Type": "rake",
+            "Lithology": "other",
+            "Description": "Soil Clod, friable soil breccia"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=78555",
+            "Sample Number": 78555,
+            "Mission": "Apollo 17",
+            "Sample Type": "rake",
+            "Lithology": "breccia",
+            "Description": "Soil Breccia"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=78556",
+            "Sample Number": 78556,
+            "Mission": "Apollo 17",
+            "Sample Type": "rake",
+            "Lithology": "breccia",
+            "Description": "Dark Matrix Soil Breccia"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=78557",
+            "Sample Number": 78557,
+            "Mission": "Apollo 17",
+            "Sample Type": "rake",
+            "Lithology": "breccia",
+            "Description": "Dark Matrix Soil Breccia"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=78558",
+            "Sample Number": 78558,
+            "Mission": "Apollo 17",
+            "Sample Type": "rake",
+            "Lithology": "breccia",
+            "Description": "Dark Matrix Soil Breccia"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=78559",
+            "Sample Number": 78559,
+            "Mission": "Apollo 17",
+            "Sample Type": "rake",
+            "Lithology": "breccia",
+            "Description": "Dark Matrix Soil Breccia"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=78565",
+            "Sample Number": 78565,
+            "Mission": "Apollo 17",
+            "Sample Type": "rake",
+            "Lithology": "breccia",
+            "Description": "Dark Matrix Soil Breccia"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=78566",
+            "Sample Number": 78566,
+            "Mission": "Apollo 17",
+            "Sample Type": "rake",
+            "Lithology": "breccia",
+            "Description": "Dark Matrix Soil Breccia"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=78567",
+            "Sample Number": 78567,
+            "Mission": "Apollo 17",
+            "Sample Type": "rake",
+            "Lithology": "breccia",
+            "Description": "Dark Matrix Soil Breccia"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=78568",
+            "Sample Number": 78568,
+            "Mission": "Apollo 17",
+            "Sample Type": "rake",
+            "Lithology": "breccia",
+            "Description": "Breccia, coherent soil breccia"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=78569",
+            "Sample Number": 78569,
+            "Mission": "Apollo 17",
+            "Sample Type": "rake",
+            "Lithology": "high-Ti mare basalt",
+            "Description": "High-Ti Mare Basalt"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=78575",
+            "Sample Number": 78575,
+            "Mission": "Apollo 17",
+            "Sample Type": "rake",
+            "Lithology": "high-Ti mare basalt",
+            "Description": "High-Ti Mare Basalt"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=78576",
+            "Sample Number": 78576,
+            "Mission": "Apollo 17",
+            "Sample Type": "rake",
+            "Lithology": "high-Ti mare basalt",
+            "Description": "High-Ti Mare Basalt"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=78577",
+            "Sample Number": 78577,
+            "Mission": "Apollo 17",
+            "Sample Type": "rake",
+            "Lithology": "high-Ti mare basalt",
+            "Description": "High-Ti Mare Basalt"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=78578",
+            "Sample Number": 78578,
+            "Mission": "Apollo 17",
+            "Sample Type": "rake",
+            "Lithology": "high-Ti mare basalt",
+            "Description": "High-Ti Mare Basalt"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=78579",
+            "Sample Number": 78579,
+            "Mission": "Apollo 17",
+            "Sample Type": "rake",
+            "Lithology": "high-Ti mare basalt",
+            "Description": "High-Ti Mare Basalt"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=78585",
+            "Sample Number": 78585,
+            "Mission": "Apollo 17",
+            "Sample Type": "rake",
+            "Lithology": "high-Ti mare basalt",
+            "Description": "High-Ti Mare Basalt"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=78586",
+            "Sample Number": 78586,
+            "Mission": "Apollo 17",
+            "Sample Type": "rake",
+            "Lithology": "high-Ti mare basalt",
+            "Description": "High-Ti Mare Basalt"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=78587",
+            "Sample Number": 78587,
+            "Mission": "Apollo 17",
+            "Sample Type": "rake",
+            "Lithology": "high-Ti mare basalt",
+            "Description": "High-Ti Mare Basalt"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=78588",
+            "Sample Number": 78588,
+            "Mission": "Apollo 17",
+            "Sample Type": "rake",
+            "Lithology": "high-Ti mare basalt",
+            "Description": "High-Ti Mare Basalt"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=78589",
+            "Sample Number": 78589,
+            "Mission": "Apollo 17",
+            "Sample Type": "rake",
+            "Lithology": "high-Ti mare basalt",
+            "Description": "High-Ti Mare Basalt"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=78595",
+            "Sample Number": 78595,
+            "Mission": "Apollo 17",
+            "Sample Type": "rake",
+            "Lithology": "high-Ti mare basalt",
+            "Description": "High-Ti Mare Basalt"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=78596",
+            "Sample Number": 78596,
+            "Mission": "Apollo 17",
+            "Sample Type": "rake",
+            "Lithology": "high-Ti mare basalt",
+            "Description": "High-Ti Mare Basalt"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=78597",
+            "Sample Number": 78597,
+            "Mission": "Apollo 17",
+            "Sample Type": "rake",
+            "Lithology": "high-Ti mare basalt",
+            "Description": "High-Ti Mare Basalt"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=78598",
+            "Sample Number": 78598,
+            "Mission": "Apollo 17",
+            "Sample Type": "rake",
+            "Lithology": "high-Ti mare basalt",
+            "Description": "High-Ti Mare Basalt"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=78599",
+            "Sample Number": 78599,
+            "Mission": "Apollo 17",
+            "Sample Type": "rake",
+            "Lithology": "high-Ti mare basalt",
+            "Description": "High-Ti Mare Basalt"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=70017",
+            "Sample Number": 70017,
+            "Mission": "Apollo 17",
+            "Sample Type": "rock",
+            "Lithology": "high-Ti mare basalt",
+            "Description": "High-Ti Mare Basalt"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=70018",
+            "Sample Number": 70018,
+            "Mission": "Apollo 17",
+            "Sample Type": "rock",
+            "Lithology": "breccia",
+            "Description": "Clastic Matrix Breccia; no research has been conducted upon this sample"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=70019",
+            "Sample Number": 70019,
+            "Mission": "Apollo 17",
+            "Sample Type": "rock",
+            "Lithology": "breccia",
+            "Description": "Soil Breccia - Agglutinate"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=70035",
+            "Sample Number": 70035,
+            "Mission": "Apollo 17",
+            "Sample Type": "rock",
+            "Lithology": "high-Ti mare basalt",
+            "Description": "High-Ti Mare Basalt"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=70075",
+            "Sample Number": 70075,
+            "Mission": "Apollo 17",
+            "Sample Type": "rock",
+            "Lithology": "high-Ti mare basalt",
+            "Description": "High-Ti Mare Basalt"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=70135",
+            "Sample Number": 70135,
+            "Mission": "Apollo 17",
+            "Sample Type": "rock",
+            "Lithology": "high-Ti mare basalt",
+            "Description": "High-Ti Mare Basalt,"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=70136",
+            "Sample Number": 70136,
+            "Mission": "Apollo 17",
+            "Sample Type": "rock",
+            "Lithology": "high-Ti mare basalt",
+            "Description": "High-Ti Mare Basalt"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=70137",
+            "Sample Number": 70137,
+            "Mission": "Apollo 17",
+            "Sample Type": "rock",
+            "Lithology": "high-Ti mare basalt",
+            "Description": "High-Ti Mare Basalt"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=70138",
+            "Sample Number": 70138,
+            "Mission": "Apollo 17",
+            "Sample Type": "rock",
+            "Lithology": "high-Ti mare basalt",
+            "Description": "High-Ti Mare Basalt"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=70139",
+            "Sample Number": 70139,
+            "Mission": "Apollo 17",
+            "Sample Type": "rock",
+            "Lithology": "high-Ti mare basalt",
+            "Description": "High-Ti Mare Basalt"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=70145",
+            "Sample Number": 70145,
+            "Mission": "Apollo 17",
+            "Sample Type": "rock",
+            "Lithology": "high-Ti mare basalt",
+            "Description": "High-Ti Mare Basalt"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=70146",
+            "Sample Number": 70146,
+            "Mission": "Apollo 17",
+            "Sample Type": "rock",
+            "Lithology": "high-Ti mare basalt",
+            "Description": "High-Ti Mare Basalt"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=70147",
+            "Sample Number": 70147,
+            "Mission": "Apollo 17",
+            "Sample Type": "rock",
+            "Lithology": "high-Ti mare basalt",
+            "Description": "Clast-Rich Impact Melt"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=70148",
+            "Sample Number": 70148,
+            "Mission": "Apollo 17",
+            "Sample Type": "rock",
+            "Lithology": "high-Ti mare basalt",
+            "Description": "High-Ti Mare Basalt"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=70149",
+            "Sample Number": 70149,
+            "Mission": "Apollo 17",
+            "Sample Type": "rock",
+            "Lithology": "high-Ti mare basalt",
+            "Description": "High-Ti Mare Basalt"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=70155",
+            "Sample Number": 70155,
+            "Mission": "Apollo 17",
+            "Sample Type": "rock",
+            "Lithology": "high-Ti mare basalt",
+            "Description": "High-Ti Mare Basalt"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=70156",
+            "Sample Number": 70156,
+            "Mission": "Apollo 17",
+            "Sample Type": "rock",
+            "Lithology": "high-Ti mare basalt",
+            "Description": "High-Ti Mare Basalt"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=70157",
+            "Sample Number": 70157,
+            "Mission": "Apollo 17",
+            "Sample Type": "rock",
+            "Lithology": "high-Ti mare basalt",
+            "Description": "High-Ti Mare Basalt"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=70165",
+            "Sample Number": 70165,
+            "Mission": "Apollo 17",
+            "Sample Type": "rock",
+            "Lithology": "high-Ti mare basalt",
+            "Description": "High-Ti Mare Basalt"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=70175",
+            "Sample Number": 70175,
+            "Mission": "Apollo 17",
+            "Sample Type": "rock",
+            "Lithology": "breccia",
+            "Description": "Glass-Rich Microbreccia"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=70185",
+            "Sample Number": 70185,
+            "Mission": "Apollo 17",
+            "Sample Type": "rock",
+            "Lithology": "high-Ti mare basalt",
+            "Description": "High-Ti Mare Basalt"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=70215",
+            "Sample Number": 70215,
+            "Mission": "Apollo 17",
+            "Sample Type": "rock",
+            "Lithology": "high-Ti mare basalt",
+            "Description": "High-Ti Mare Basalt"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=70255",
+            "Sample Number": 70255,
+            "Mission": "Apollo 17",
+            "Sample Type": "rock",
+            "Lithology": "high-Ti mare basalt",
+            "Description": "High-Ti Mare Basalt"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=70275",
+            "Sample Number": 70275,
+            "Mission": "Apollo 17",
+            "Sample Type": "rock",
+            "Lithology": "high-Ti mare basalt",
+            "Description": "High-Ti Mare Basalt"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=70295",
+            "Sample Number": 70295,
+            "Mission": "Apollo 17",
+            "Sample Type": "rock",
+            "Lithology": "breccia",
+            "Description": "Dark Matrix Breccia"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=70315",
+            "Sample Number": 70315,
+            "Mission": "Apollo 17",
+            "Sample Type": "rock",
+            "Lithology": "high-Ti mare basalt",
+            "Description": "High-Ti Mare Basalt"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=71035",
+            "Sample Number": 71035,
+            "Mission": "Apollo 17",
+            "Sample Type": "rock",
+            "Lithology": "high-Ti mare basalt",
+            "Description": "High-Ti Mare Basalt"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=71036",
+            "Sample Number": 71036,
+            "Mission": "Apollo 17",
+            "Sample Type": "rock",
+            "Lithology": "high-Ti mare basalt",
+            "Description": "High-Ti Mare Basalt"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=71037",
+            "Sample Number": 71037,
+            "Mission": "Apollo 17",
+            "Sample Type": "rock",
+            "Lithology": "high-Ti mare basalt",
+            "Description": "High-Ti Mare Basalt"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=71045",
+            "Sample Number": 71045,
+            "Mission": "Apollo 17",
+            "Sample Type": "rock",
+            "Lithology": "high-Ti mare basalt",
+            "Description": "High-Ti Mare Basalt"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=71046",
+            "Sample Number": 71046,
+            "Mission": "Apollo 17",
+            "Sample Type": "rock",
+            "Lithology": "high-Ti mare basalt",
+            "Description": "High-Ti Mare Basalt"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=71047",
+            "Sample Number": 71047,
+            "Mission": "Apollo 17",
+            "Sample Type": "rock",
+            "Lithology": "high-Ti mare basalt",
+            "Description": "High-Ti Mare Basalt"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=71048",
+            "Sample Number": 71048,
+            "Mission": "Apollo 17",
+            "Sample Type": "rock",
+            "Lithology": "high-Ti mare basalt",
+            "Description": "High-Ti Mare Basalt"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=71049",
+            "Sample Number": 71049,
+            "Mission": "Apollo 17",
+            "Sample Type": "rock",
+            "Lithology": "high-Ti mare basalt",
+            "Description": "High-Ti Mare Basalt"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=71055",
+            "Sample Number": 71055,
+            "Mission": "Apollo 17",
+            "Sample Type": "rock",
+            "Lithology": "high-Ti mare basalt",
+            "Description": "High-Ti Mare Basalt"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=71065",
+            "Sample Number": 71065,
+            "Mission": "Apollo 17",
+            "Sample Type": "rock",
+            "Lithology": "high-Ti mare basalt",
+            "Description": "High-Ti Mare Basalt"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=71066",
+            "Sample Number": 71066,
+            "Mission": "Apollo 17",
+            "Sample Type": "rock",
+            "Lithology": "high-Ti mare basalt",
+            "Description": "High-Ti Mare Basalt"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=71067",
+            "Sample Number": 71067,
+            "Mission": "Apollo 17",
+            "Sample Type": "rock",
+            "Lithology": "high-Ti mare basalt",
+            "Description": "High-Ti Mare Basalt"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=71068",
+            "Sample Number": 71068,
+            "Mission": "Apollo 17",
+            "Sample Type": "rock",
+            "Lithology": "high-Ti mare basalt",
+            "Description": "High-Ti Mare Basalt"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=71069",
+            "Sample Number": 71069,
+            "Mission": "Apollo 17",
+            "Sample Type": "rock",
+            "Lithology": "high-Ti mare basalt",
+            "Description": "High-Ti Mare Basalt"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=71075",
+            "Sample Number": 71075,
+            "Mission": "Apollo 17",
+            "Sample Type": "rock",
+            "Lithology": "high-Ti mare basalt",
+            "Description": "High-Ti Mare Basalt"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=71085",
+            "Sample Number": 71085,
+            "Mission": "Apollo 17",
+            "Sample Type": "rock",
+            "Lithology": "high-Ti mare basalt",
+            "Description": "High-Ti Mare Basalt"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=71086",
+            "Sample Number": 71086,
+            "Mission": "Apollo 17",
+            "Sample Type": "rock",
+            "Lithology": "high-Ti mare basalt",
+            "Description": "High-Ti Mare Basalt"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=71087",
+            "Sample Number": 71087,
+            "Mission": "Apollo 17",
+            "Sample Type": "rock",
+            "Lithology": "high-Ti mare basalt",
+            "Description": "High-Ti Mare Basalt"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=71088",
+            "Sample Number": 71088,
+            "Mission": "Apollo 17",
+            "Sample Type": "rock",
+            "Lithology": "high-Ti mare basalt",
+            "Description": "High-Ti Mare Basalt"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=71095",
+            "Sample Number": 71095,
+            "Mission": "Apollo 17",
+            "Sample Type": "rock",
+            "Lithology": "high-Ti mare basalt",
+            "Description": "High-Ti Mare Basalt"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=71096",
+            "Sample Number": 71096,
+            "Mission": "Apollo 17",
+            "Sample Type": "rock",
+            "Lithology": "high-Ti mare basalt",
+            "Description": "High-Ti Mare Basalt"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=71097",
+            "Sample Number": 71097,
+            "Mission": "Apollo 17",
+            "Sample Type": "rock",
+            "Lithology": "high-Ti mare basalt",
+            "Description": "High-Ti Mare Basalt"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=71135",
+            "Sample Number": 71135,
+            "Mission": "Apollo 17",
+            "Sample Type": "rock",
+            "Lithology": "high-Ti mare basalt",
+            "Description": "High-Ti Mare Basalt"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=71136",
+            "Sample Number": 71136,
+            "Mission": "Apollo 17",
+            "Sample Type": "rock",
+            "Lithology": "high-Ti mare basalt",
+            "Description": "High-Ti Mare Basalt"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=71155",
+            "Sample Number": 71155,
+            "Mission": "Apollo 17",
+            "Sample Type": "rock",
+            "Lithology": "high-Ti mare basalt",
+            "Description": "High-Ti Mare Basalt"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=71156",
+            "Sample Number": 71156,
+            "Mission": "Apollo 17",
+            "Sample Type": "rock",
+            "Lithology": "high-Ti mare basalt",
+            "Description": "High-Ti Mare Basalt"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=71157",
+            "Sample Number": 71157,
+            "Mission": "Apollo 17",
+            "Sample Type": "rock",
+            "Lithology": "high-Ti mare basalt",
+            "Description": "High-Ti Mare Basalt"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=71175",
+            "Sample Number": 71175,
+            "Mission": "Apollo 17",
+            "Sample Type": "rock",
+            "Lithology": "high-Ti mare basalt",
+            "Description": "High-Ti Mare Basalt"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=71505",
+            "Sample Number": 71505,
+            "Mission": "Apollo 17",
+            "Sample Type": "rock",
+            "Lithology": "high-Ti mare basalt",
+            "Description": "High-Ti Mare Basalt"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=71506",
+            "Sample Number": 71506,
+            "Mission": "Apollo 17",
+            "Sample Type": "rock",
+            "Lithology": "high-Ti mare basalt",
+            "Description": "High-Ti Mare Basalt"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=71507",
+            "Sample Number": 71507,
+            "Mission": "Apollo 17",
+            "Sample Type": "rock",
+            "Lithology": "high-Ti mare basalt",
+            "Description": "High-Ti Mare Basalt"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=71508",
+            "Sample Number": 71508,
+            "Mission": "Apollo 17",
+            "Sample Type": "rock",
+            "Lithology": "high-Ti mare basalt",
+            "Description": "High-Ti Mare Basalt"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=71509",
+            "Sample Number": 71509,
+            "Mission": "Apollo 17",
+            "Sample Type": "rock",
+            "Lithology": "high-Ti mare basalt",
+            "Description": "High-Ti Mare Basalt"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=71515",
+            "Sample Number": 71515,
+            "Mission": "Apollo 17",
+            "Sample Type": "rock",
+            "Lithology": "other",
+            "Description": "Glass-Bonded Agglutinate"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=71525",
+            "Sample Number": 71525,
+            "Mission": "Apollo 17",
+            "Sample Type": "rock",
+            "Lithology": "high-Ti mare basalt",
+            "Description": "High-Ti Mare Basalt"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=71526",
+            "Sample Number": 71526,
+            "Mission": "Apollo 17",
+            "Sample Type": "rock",
+            "Lithology": "high-Ti mare basalt",
+            "Description": "High-Ti Mare Basalt"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=71527",
+            "Sample Number": 71527,
+            "Mission": "Apollo 17",
+            "Sample Type": "rock",
+            "Lithology": "high-Ti mare basalt",
+            "Description": "High-Ti Mare Basalt"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=71528",
+            "Sample Number": 71528,
+            "Mission": "Apollo 17",
+            "Sample Type": "rock",
+            "Lithology": "high-Ti mare basalt",
+            "Description": "High-Ti Mare Basalt"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=72135",
+            "Sample Number": 72135,
+            "Mission": "Apollo 17",
+            "Sample Type": "rock",
+            "Lithology": "breccia",
+            "Description": "Microbreccia"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=72145",
+            "Sample Number": 72145,
+            "Mission": "Apollo 17",
+            "Sample Type": "rock",
+            "Lithology": "breccia",
+            "Description": "Polymict Microbreccia; original all remains; no subsamples have been prepared and no work has been conducted in this Catalog (Oct 1993)"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=72155",
+            "Sample Number": 72155,
+            "Mission": "Apollo 17",
+            "Sample Type": "rock",
+            "Lithology": "basalt",
+            "Description": "Basalt"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=72215",
+            "Sample Number": 72215,
+            "Mission": "Apollo 17",
+            "Sample Type": "rock",
+            "Lithology": "impact melt breccia",
+            "Description": "aphanitic impact melt breccia"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=72235",
+            "Sample Number": 72235,
+            "Mission": "Apollo 17",
+            "Sample Type": "rock",
+            "Lithology": "impact melt breccia",
+            "Description": "aphanitic impact melt breccia, sample was given name \"Dying Dog\" during processing, contains plutonic KREEP norite"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=72255",
+            "Sample Number": 72255,
+            "Mission": "Apollo 17",
+            "Sample Type": "rock",
+            "Lithology": "impact melt breccia",
+            "Description": "aphanitic impact melt breccia"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=72275",
+            "Sample Number": 72275,
+            "Mission": "Apollo 17",
+            "Sample Type": "rock",
+            "Lithology": "breccia",
+            "Description": "fragmental polymict breccia,"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=72315",
+            "Sample Number": 72315,
+            "Mission": "Apollo 17",
+            "Sample Type": "rock",
+            "Lithology": "impact melt breccia",
+            "Description": "micropokilitic impact melt breccia"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=72335",
+            "Sample Number": 72335,
+            "Mission": "Apollo 17",
+            "Sample Type": "rock",
+            "Lithology": "impact melt breccia",
+            "Description": "Micropoikilitic impact melt breccia"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=72355",
+            "Sample Number": 72355,
+            "Mission": "Apollo 17",
+            "Sample Type": "rock",
+            "Lithology": "impact melt breccia",
+            "Description": "Micropoikilitic impact melt breccia"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=72375",
+            "Sample Number": 72375,
+            "Mission": "Apollo 17",
+            "Sample Type": "rock",
+            "Lithology": "impact melt breccia",
+            "Description": "Micropoikilitic impact melt breccia"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=72395",
+            "Sample Number": 72395,
+            "Mission": "Apollo 17",
+            "Sample Type": "rock",
+            "Lithology": "impact melt breccia",
+            "Description": "Micropoikilitic impact melt breccia"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=72415",
+            "Sample Number": 72415,
+            "Mission": "Apollo 17",
+            "Sample Type": "rock",
+            "Lithology": "dunite",
+            "Description": "Cataclastic dunite, homogeneous"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=72416",
+            "Sample Number": 72416,
+            "Mission": "Apollo 17",
+            "Sample Type": "rock",
+            "Lithology": "dunite",
+            "Description": "Cataclastic Dunite, has never been dissected or allocated for study"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=72417",
+            "Sample Number": 72417,
+            "Mission": "Apollo 17",
+            "Sample Type": "rock",
+            "Lithology": "dunite",
+            "Description": "Cataclastic Dunite, pale yellowish to greenish gray (5Y 8/1 to 5 GY 8/1)"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=72418",
+            "Sample Number": 72418,
+            "Mission": "Apollo 17",
+            "Sample Type": "rock",
+            "Lithology": "dunite",
+            "Description": "Cataclastic Dunite, has never been dissected or allocated for study"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=72435",
+            "Sample Number": 72435,
+            "Mission": "Apollo 17",
+            "Sample Type": "rock",
+            "Lithology": "impact melt breccia",
+            "Description": "Micropoikilitic Impact Melt Breccia, can be assumed to have formed during the Serenitatis event, has major and trace element chemistry similar to other Apollo 17 low-K Fra Mauro impacat melts"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=72505",
+            "Sample Number": 72505,
+            "Mission": "Apollo 17",
+            "Sample Type": "rock",
+            "Lithology": "impact melt breccia",
+            "Description": "Impact Melt Breccia (?)"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=72535",
+            "Sample Number": 72535,
+            "Mission": "Apollo 17",
+            "Sample Type": "rock",
+            "Lithology": "impact melt breccia",
+            "Description": "Microsubophitic Impact Melt Breccia, its chemistry is similar to the common low-K Fra Mauro melts that dominate the Apollo 17 highlands samples"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=72536",
+            "Sample Number": 72536,
+            "Mission": "Apollo 17",
+            "Sample Type": "rock",
+            "Lithology": "impact melt breccia",
+            "Description": "Microsubophitic Impact Melt Breccia, its chemistry is imilar to the common low-K Fra Mauro melts that dominate the Apollo 17 highlands samples"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=72537",
+            "Sample Number": 72537,
+            "Mission": "Apollo 17",
+            "Sample Type": "rock",
+            "Lithology": "impact melt breccia",
+            "Description": "Impact Melt Breccia (?), identification is uncertain because it has never been allocated or dissected"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=72538",
+            "Sample Number": 72538,
+            "Mission": "Apollo 17",
+            "Sample Type": "rock",
+            "Lithology": "impact melt breccia",
+            "Description": "Impact Melt Breccia (?), identification is uncertain because it has never been allocated or dissected"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=72539",
+            "Sample Number": 72539,
+            "Mission": "Apollo 17",
+            "Sample Type": "rock",
+            "Lithology": "breccia",
+            "Description": "Microsubophitic Impact Melt Breccia (?), its chemistry is similar to te common low-K Fra Mauro melts that dominate the Apollo 17 highlands samples"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=72545",
+            "Sample Number": 72545,
+            "Mission": "Apollo 17",
+            "Sample Type": "rock",
+            "Lithology": "breccia",
+            "Description": "Impact Melt Breccia (?), sample has never been allocated or dissected"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=72546",
+            "Sample Number": 72546,
+            "Mission": "Apollo 17",
+            "Sample Type": "rock",
+            "Lithology": "breccia",
+            "Description": "Impact Melt Breccia (?), sample has never been allocated or dissected"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=72547",
+            "Sample Number": 72547,
+            "Mission": "Apollo 17",
+            "Sample Type": "rock",
+            "Lithology": "impact melt breccia",
+            "Description": "Impact Melt Breccia (?), sample has never been allocated or dissected"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=72548",
+            "Sample Number": 72548,
+            "Mission": "Apollo 17",
+            "Sample Type": "rock",
+            "Lithology": "impact melt breccia",
+            "Description": "Micropoikilitic Impact Melt Breccia, its chemistry is similar to the common low-K Fra Mauro melts that dominate the Apollo 17 highlands samples"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=72549",
+            "Sample Number": 72549,
+            "Mission": "Apollo 17",
+            "Sample Type": "rock",
+            "Lithology": "impact melt breccia",
+            "Description": "Micropoikilitic Impact Melt Breccia, chemistry is similar to the common low-K Fra Mauro melts that dominate the Apollo 17 highlands samples"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=72555",
+            "Sample Number": 72555,
+            "Mission": "Apollo 17",
+            "Sample Type": "rock",
+            "Lithology": "impact melt breccia",
+            "Description": "Impact Melt Breccia (?), has never been allocated or dissected"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=72556",
+            "Sample Number": 72556,
+            "Mission": "Apollo 17",
+            "Sample Type": "rock",
+            "Lithology": "impact melt breccia",
+            "Description": "Impact Melt Breccia (?), has never been allocated or dissected"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=72557",
+            "Sample Number": 72557,
+            "Mission": "Apollo 17",
+            "Sample Type": "rock",
+            "Lithology": "impact melt breccia",
+            "Description": "Impact Melt Breccia (?), has never been dissected or allocated"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=72558",
+            "Sample Number": 72558,
+            "Mission": "Apollo 17",
+            "Sample Type": "rock",
+            "Lithology": "impact melt breccia",
+            "Description": "Micropoikilitic Impact Melt Breccia"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=72559",
+            "Sample Number": 72559,
+            "Mission": "Apollo 17",
+            "Sample Type": "rock",
+            "Lithology": "other",
+            "Description": "Granoblastic Impactite"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=72705",
+            "Sample Number": 72705,
+            "Mission": "Apollo 17",
+            "Sample Type": "rock",
+            "Lithology": "impact melt breccia",
+            "Description": "Impact Melt Breccia"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=72735",
+            "Sample Number": 72735,
+            "Mission": "Apollo 17",
+            "Sample Type": "rock",
+            "Lithology": "impact melt breccia",
+            "Description": "Impact Melt Breccia (High-K)"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=72736",
+            "Sample Number": 72736,
+            "Mission": "Apollo 17",
+            "Sample Type": "rock",
+            "Lithology": "impact melt breccia",
+            "Description": "Micropoikilitic Impact Melt Breccia, chemistry is similar to the common low-K Fra Mauro melts that dominate the Apollo 17 highlands samples,"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=72737",
+            "Sample Number": 72737,
+            "Mission": "Apollo 17",
+            "Sample Type": "rock",
+            "Lithology": "impact melt breccia",
+            "Description": "Impact Melt Breccia (?)"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=72738",
+            "Sample Number": 72738,
+            "Mission": "Apollo 17",
+            "Sample Type": "rock",
+            "Lithology": "impact melt breccia",
+            "Description": "Microsubophitic Impact Melt Breccia"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=73145",
+            "Sample Number": 73145,
+            "Mission": "Apollo 17",
+            "Sample Type": "rock",
+            "Lithology": "impact melt breccia",
+            "Description": "Impact Melt Breccia (?), medium dark gray (N4), homogeneous"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=73146",
+            "Sample Number": 73146,
+            "Mission": "Apollo 17",
+            "Sample Type": "rock",
+            "Lithology": "anorthite",
+            "Description": "Cataclastic Troctolitic Anorthosite, very light gray (N8), homogenous"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=73155",
+            "Sample Number": 73155,
+            "Mission": "Apollo 17",
+            "Sample Type": "rock",
+            "Lithology": "impact melt breccia",
+            "Description": "Impact Melt Breccia, medium dark gray (N4) in color, rather heterogeneous"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=73156",
+            "Sample Number": 73156,
+            "Mission": "Apollo 17",
+            "Sample Type": "rock",
+            "Lithology": "impact melt breccia",
+            "Description": "Impact Melt Breccia or Granoblastic Impactite, light gray and homogeneous"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=73215",
+            "Sample Number": 73215,
+            "Mission": "Apollo 17",
+            "Sample Type": "rock",
+            "Lithology": "impact melt breccia",
+            "Description": "Aphanitic Impact Melt Breccia, polymict breccia,"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=73216",
+            "Sample Number": 73216,
+            "Mission": "Apollo 17",
+            "Sample Type": "rock",
+            "Lithology": "impact melt breccia",
+            "Description": "Impact Melt Breccia, tan to olive gray (5Y 5/1)"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=73217",
+            "Sample Number": 73217,
+            "Mission": "Apollo 17",
+            "Sample Type": "rock",
+            "Lithology": "impact melt breccia",
+            "Description": "Impact Melt Breccia, bulk groundmass may be the low-K Fra Mauro basalt composition common at the Apollo 17 landing site,"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=73218",
+            "Sample Number": 73218,
+            "Mission": "Apollo 17",
+            "Sample Type": "rock",
+            "Lithology": "impact melt breccia",
+            "Description": "Impact Melt Breccia, greenish-gray gray (5GY 6/1) angular breccia; its chemical composition might be similar to the common low-K Fra Mauro basalt impact melts common at the site, originally described as anorthositic."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=73219",
+            "Sample Number": 73219,
+            "Mission": "Apollo 17",
+            "Sample Type": "rock",
+            "Lithology": "high-Ti mare basalt",
+            "Description": "High-Ti Mare Basalt, medium dark gray (N4), the only mare basalt as an individual rock fragment from the South Massif or landslide"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=73225",
+            "Sample Number": 73225,
+            "Mission": "Apollo 17",
+            "Sample Type": "rock",
+            "Lithology": "impact melt breccia",
+            "Description": "Impact Melt Breccia (?), light gray (N5), contains plagioclases, possibly a ranoblastic impactite"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=73235",
+            "Sample Number": 73235,
+            "Mission": "Apollo 17",
+            "Sample Type": "rock",
+            "Lithology": "impact melt breccia",
+            "Description": "Aphanitic Impact Melt Brecia, medium light gray (N6) with mottling"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=73245",
+            "Sample Number": 73245,
+            "Mission": "Apollo 17",
+            "Sample Type": "rock",
+            "Lithology": "other",
+            "Description": "Granoblastic Impactite (?); medium gray (N6), probably feldspathic granulite with a little adhering light brownish gray regolith breccia"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=73255",
+            "Sample Number": 73255,
+            "Mission": "Apollo 17",
+            "Sample Type": "rock",
+            "Lithology": "impact melt breccia",
+            "Description": "Aphanitic Impact Melt Breccia, essentally an agglomeritic bomb with abundant clasts"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=73275",
+            "Sample Number": 73275,
+            "Mission": "Apollo 17",
+            "Sample Type": "rock",
+            "Lithology": "impact melt breccia",
+            "Description": "Micropoikilitic Impact Melt Breccia, lclast-bearing, with chemical composition similar to the low-K Fra Mauro melts common at the site and generally presumed to represent the Serentatis impact melt, is light gray in color.."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=73285",
+            "Sample Number": 73285,
+            "Mission": "Apollo 17",
+            "Sample Type": "rock",
+            "Lithology": "breccia",
+            "Description": "Glass-Coated Polymict Breccia, medium light gray (N6),"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=74115",
+            "Sample Number": 74115,
+            "Mission": "Apollo 17",
+            "Sample Type": "rock",
+            "Lithology": "regolith breccia",
+            "Description": "Friable Regolith Breccia, light gray polymict breccia"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=74116",
+            "Sample Number": 74116,
+            "Mission": "Apollo 17",
+            "Sample Type": "rock",
+            "Lithology": "regolith breccia",
+            "Description": "Friable Regolith Breccia, light gray polymict breccia"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=74117",
+            "Sample Number": 74117,
+            "Mission": "Apollo 17",
+            "Sample Type": "rock",
+            "Lithology": "regolith breccia",
+            "Description": "Friable Regolith Breccia, light gray polymict breccia"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=74118",
+            "Sample Number": 74118,
+            "Mission": "Apollo 17",
+            "Sample Type": "rock",
+            "Lithology": "regolith breccia",
+            "Description": "Friable Regolith Breccia, light gray polymict breccia"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=74119",
+            "Sample Number": 74119,
+            "Mission": "Apollo 17",
+            "Sample Type": "rock",
+            "Lithology": "regolith breccia",
+            "Description": "Friable Regolith Breccia, light gray polymict breccia"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=74235",
+            "Sample Number": 74235,
+            "Mission": "Apollo 17",
+            "Sample Type": "rock",
+            "Lithology": "high-Ti mare basalt",
+            "Description": "High-Ti Mare Basalt"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=74245",
+            "Sample Number": 74245,
+            "Mission": "Apollo 17",
+            "Sample Type": "rock",
+            "Lithology": "basalt",
+            "Description": "Aphanitic High-Ti Basalt"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=74246",
+            "Sample Number": 74246,
+            "Mission": "Apollo 17",
+            "Sample Type": "rock",
+            "Lithology": "breccia",
+            "Description": "Soil Breccia"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=74247",
+            "Sample Number": 74247,
+            "Mission": "Apollo 17",
+            "Sample Type": "rock",
+            "Lithology": "basalt",
+            "Description": "High-Ti Basalt"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=74248",
+            "Sample Number": 74248,
+            "Mission": "Apollo 17",
+            "Sample Type": "rock",
+            "Lithology": "basalt",
+            "Description": "High-Ti Basalt"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=74249",
+            "Sample Number": 74249,
+            "Mission": "Apollo 17",
+            "Sample Type": "rock",
+            "Lithology": "basalt",
+            "Description": "High-Ti Basalt"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=74255",
+            "Sample Number": 74255,
+            "Mission": "Apollo 17",
+            "Sample Type": "rock",
+            "Lithology": "basalt",
+            "Description": "High-Ti Basalt"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=74275",
+            "Sample Number": 74275,
+            "Mission": "Apollo 17",
+            "Sample Type": "rock",
+            "Lithology": "high-Ti mare basalt",
+            "Description": "High-Ti Mare Basalt"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=74285",
+            "Sample Number": 74285,
+            "Mission": "Apollo 17",
+            "Sample Type": "rock",
+            "Lithology": "high-Ti mare basalt",
+            "Description": "High-Ti Mare Basalt"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=74286",
+            "Sample Number": 74286,
+            "Mission": "Apollo 17",
+            "Sample Type": "rock",
+            "Lithology": "high-Ti mare basalt",
+            "Description": "High-Ti Mare Basalt"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=74287",
+            "Sample Number": 74287,
+            "Mission": "Apollo 17",
+            "Sample Type": "rock",
+            "Lithology": "high-Ti mare basalt",
+            "Description": "High-It Mare Basalt"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=75015",
+            "Sample Number": 75015,
+            "Mission": "Apollo 17",
+            "Sample Type": "rock",
+            "Lithology": "high-Ti mare basalt",
+            "Description": "High-Ti Mare Basalt"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=75035",
+            "Sample Number": 75035,
+            "Mission": "Apollo 17",
+            "Sample Type": "rock",
+            "Lithology": "high-Ti mare basalt",
+            "Description": "High-Ti Mare Basalt"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=75055",
+            "Sample Number": 75055,
+            "Mission": "Apollo 17",
+            "Sample Type": "rock",
+            "Lithology": "high-Ti mare basalt",
+            "Description": "High-Ti Mare Basalt"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=75065",
+            "Sample Number": 75065,
+            "Mission": "Apollo 17",
+            "Sample Type": "rock",
+            "Lithology": "high-Ti mare basalt",
+            "Description": "High-Ti Mare Basalt"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=75066",
+            "Sample Number": 75066,
+            "Mission": "Apollo 17",
+            "Sample Type": "rock",
+            "Lithology": "breccia",
+            "Description": "Glassy Breccia"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=75075",
+            "Sample Number": 75075,
+            "Mission": "Apollo 17",
+            "Sample Type": "rock",
+            "Lithology": "high-Ti mare basalt",
+            "Description": "High-Ti Mare Basalt"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=75085",
+            "Sample Number": 75085,
+            "Mission": "Apollo 17",
+            "Sample Type": "rock",
+            "Lithology": "high-Ti mare basalt",
+            "Description": "High-Ti Mare Basalt"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=75086",
+            "Sample Number": 75086,
+            "Mission": "Apollo 17",
+            "Sample Type": "rock",
+            "Lithology": "high-Ti mare basalt",
+            "Description": "High-Ti Mare Basalt"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=75087",
+            "Sample Number": 75087,
+            "Mission": "Apollo 17",
+            "Sample Type": "rock",
+            "Lithology": "high-Ti mare basalt",
+            "Description": "High-Ti Mare Basalt"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=75088",
+            "Sample Number": 75088,
+            "Mission": "Apollo 17",
+            "Sample Type": "rock",
+            "Lithology": "high-Ti mare basalt",
+            "Description": "High-Ti Mare Basalt"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=75089",
+            "Sample Number": 75089,
+            "Mission": "Apollo 17",
+            "Sample Type": "rock",
+            "Lithology": "high-Ti mare basalt",
+            "Description": "High-Ti Mare Basalt"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=75115",
+            "Sample Number": 75115,
+            "Mission": "Apollo 17",
+            "Sample Type": "rock",
+            "Lithology": "high-Ti mare basalt",
+            "Description": "Light olive gray subrounded, fine-grained basalt, with an equigranular fabric and several penetrative fractures."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=76015",
+            "Sample Number": 76015,
+            "Mission": "Apollo 17",
+            "Sample Type": "rock",
+            "Lithology": "impact melt breccia",
+            "Description": "Vesicular Micropoikilitic Impact Melt Breccia; chipped off top corner of Block 5 of big boulder at Station 6; summarized by Spudis/Ryder (1981) that boulder is from the melt sheet or ejecta blanket from the Serenitatus impact event"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=76035",
+            "Sample Number": 76035,
+            "Mission": "Apollo 17",
+            "Sample Type": "rock",
+            "Lithology": "impact melt breccia",
+            "Description": "Nonvesicular Impact Melt Breccia"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=76036",
+            "Sample Number": 76036,
+            "Mission": "Apollo 17",
+            "Sample Type": "rock",
+            "Lithology": "impact melt breccia",
+            "Description": "Impact Melt Breccia; sample has not been studied at time of this Catalog (Aug 1994) but is apparently similar to and probably piece of 76035."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=76055",
+            "Sample Number": 76055,
+            "Mission": "Apollo 17",
+            "Sample Type": "rock",
+            "Lithology": "impact melt breccia",
+            "Description": "Impact Melt Breccia; appears to be older than Station 6 Boulder and other Serenitatus impact melts; may be a separate sample of Serenitatus melt sheet from high on North Massif."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=76136",
+            "Sample Number": 76136,
+            "Mission": "Apollo 17",
+            "Sample Type": "rock",
+            "Lithology": "high-Ti mare basalt",
+            "Description": "High-Ti Mare Basalt"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=76137",
+            "Sample Number": 76137,
+            "Mission": "Apollo 17",
+            "Sample Type": "rock",
+            "Lithology": "impact melt breccia",
+            "Description": "Poikilitic Impacat Melt Breccia; sample has not been studied at time of this Catalog (Aug 1994)"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=76215",
+            "Sample Number": 76215,
+            "Mission": "Apollo 17",
+            "Sample Type": "rock",
+            "Lithology": "impact melt breccia",
+            "Description": "Vesicular Micropoikilitic Impact Melt Breccia"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=76235",
+            "Sample Number": 76235,
+            "Mission": "Apollo 17",
+            "Sample Type": "rock",
+            "Lithology": "other",
+            "Description": "Feldspathic Granulitic Impactite; may have broken further in sample bag including samples 76230, 76235, 236, 237, 238, 239, 305, 306 and 307 (Heiken et al., 1973; Phinney, 1981)"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=76236",
+            "Sample Number": 76236,
+            "Mission": "Apollo 17",
+            "Sample Type": "rock",
+            "Lithology": "other",
+            "Description": "Feldspathic Granulitic Impactite; part of 76235"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=76237",
+            "Sample Number": 76237,
+            "Mission": "Apollo 17",
+            "Sample Type": "rock",
+            "Lithology": "other",
+            "Description": "Feldspathic Granulitic Impactite, part of 76235"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=76239",
+            "Sample Number": 76239,
+            "Mission": "Apollo 17",
+            "Sample Type": "rock",
+            "Lithology": "other",
+            "Description": "Feldspathic Granulitic Impactite; part of 76235"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=76255",
+            "Sample Number": 76255,
+            "Mission": "Apollo 17",
+            "Sample Type": "rock",
+            "Lithology": "impact melt breccia",
+            "Description": "Banded Impact Melt Breccia; has large clast of crushed norite"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=76265",
+            "Sample Number": 76265,
+            "Mission": "Apollo 17",
+            "Sample Type": "rock",
+            "Lithology": "impact melt breccia",
+            "Description": "Impact Melt Breccia"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=76275",
+            "Sample Number": 76275,
+            "Mission": "Apollo 17",
+            "Sample Type": "rock",
+            "Lithology": "impact melt breccia",
+            "Description": "Impact Melt Breccia; sample has not been well studied (Aug 1994)"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=76285",
+            "Sample Number": 76285,
+            "Mission": "Apollo 17",
+            "Sample Type": "rock",
+            "Lithology": "breccia",
+            "Description": "Agglutinate of Dark Matrix Breccia Fragments; soil in area was collected as comparison with 76245, which was permanently shadowed."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=76286",
+            "Sample Number": 76286,
+            "Mission": "Apollo 17",
+            "Sample Type": "rock",
+            "Lithology": "impact melt breccia",
+            "Description": "Impact Melt Breccia"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=76295",
+            "Sample Number": 76295,
+            "Mission": "Apollo 17",
+            "Sample Type": "rock",
+            "Lithology": "impact melt breccia",
+            "Description": "Impact Melt Breccia"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=76305",
+            "Sample Number": 76305,
+            "Mission": "Apollo 17",
+            "Sample Type": "rock",
+            "Lithology": "other",
+            "Description": "Feldspathic Granulitic Impactites, part of 76235"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=76306",
+            "Sample Number": 76306,
+            "Mission": "Apollo 17",
+            "Sample Type": "rock",
+            "Lithology": "other",
+            "Description": "Feldspathic Granulitic Impactites, part of 76235"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=76307",
+            "Sample Number": 76307,
+            "Mission": "Apollo 17",
+            "Sample Type": "rock",
+            "Lithology": "other",
+            "Description": "Feldspathic Granulitic Impactites, part of 76235"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=76315",
+            "Sample Number": 76315,
+            "Mission": "Apollo 17",
+            "Sample Type": "rock",
+            "Lithology": "impact melt breccia",
+            "Description": "Micropoikilitic Impact Melt Breccia"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=76335",
+            "Sample Number": 76335,
+            "Mission": "Apollo 17",
+            "Sample Type": "rock",
+            "Lithology": "troctolite",
+            "Description": "Cataclastic Troctolite"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=77017",
+            "Sample Number": 77017,
+            "Mission": "Apollo 17",
+            "Sample Type": "rock",
+            "Lithology": "other",
+            "Description": "Poikilitic Anorthsitic Gabbo, annealed, feldspathic breccia"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=77035",
+            "Sample Number": 77035,
+            "Mission": "Apollo 17",
+            "Sample Type": "rock",
+            "Lithology": "impact melt breccia",
+            "Description": "Micropoikilitic Impact Melt Breccia"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=77075",
+            "Sample Number": 77075,
+            "Mission": "Apollo 17",
+            "Sample Type": "rock",
+            "Lithology": "norite",
+            "Description": "Impact Melt Dike in Cataclastic Norite"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=77077",
+            "Sample Number": 77077,
+            "Mission": "Apollo 17",
+            "Sample Type": "rock",
+            "Lithology": "norite",
+            "Description": "Cataclastic Norite with Black Veinlets"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=77115",
+            "Sample Number": 77115,
+            "Mission": "Apollo 17",
+            "Sample Type": "rock",
+            "Lithology": "impact melt breccia",
+            "Description": "Micropoikilitic Impact Melt Breccia"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=77135",
+            "Sample Number": 77135,
+            "Mission": "Apollo 17",
+            "Sample Type": "rock",
+            "Lithology": "impact melt breccia",
+            "Description": "Vesicular Poikilitic Impact Melt Rock"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=77215",
+            "Sample Number": 77215,
+            "Mission": "Apollo 17",
+            "Sample Type": "rock",
+            "Lithology": "norite",
+            "Description": "Cataclastic Norite (41 or more pieces)"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=78135",
+            "Sample Number": 78135,
+            "Mission": "Apollo 17",
+            "Sample Type": "rock",
+            "Lithology": "high-Ti mare basalt",
+            "Description": "High-Ti Mare Basalt"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=78155",
+            "Sample Number": 78155,
+            "Mission": "Apollo 17",
+            "Sample Type": "rock",
+            "Lithology": "other",
+            "Description": "Feldspathic Granulitic Impactite; sample itself may have been projectile that made \"pit crater\"; may be exotic to site;"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=78235",
+            "Sample Number": 78235,
+            "Mission": "Apollo 17",
+            "Sample Type": "rock",
+            "Lithology": "norite",
+            "Description": "Shocked Norite"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=78236",
+            "Sample Number": 78236,
+            "Mission": "Apollo 17",
+            "Sample Type": "rock",
+            "Lithology": "norite",
+            "Description": "Shocked Norite, piece of norite 78235"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=78238",
+            "Sample Number": 78238,
+            "Mission": "Apollo 17",
+            "Sample Type": "rock",
+            "Lithology": "norite",
+            "Description": "Shocked Norite, piece from norite 78235"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=78255",
+            "Sample Number": 78255,
+            "Mission": "Apollo 17",
+            "Sample Type": "rock",
+            "Lithology": "norite",
+            "Description": "Shocked Norite"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=78465",
+            "Sample Number": 78465,
+            "Mission": "Apollo 17",
+            "Sample Type": "rock",
+            "Lithology": "breccia",
+            "Description": "Soil Breccia"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=79035",
+            "Sample Number": 79035,
+            "Mission": "Apollo 17",
+            "Sample Type": "rock",
+            "Lithology": "breccia",
+            "Description": "friable breccia"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=79115",
+            "Sample Number": 79115,
+            "Mission": "Apollo 17",
+            "Sample Type": "rock",
+            "Lithology": "breccia",
+            "Description": "Medium Gray Soil Breccia; described as a lumpy, generally fine-grained, friable basalt, with intense platy fracturing, particularly on the west face (Apollo 17 Lunar Sample Information Catalog, 1973)"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=79125",
+            "Sample Number": 79125,
+            "Mission": "Apollo 17",
+            "Sample Type": "rock",
+            "Lithology": "breccia",
+            "Description": "Microbreccia; As no work has been conducted on this sample, it is still intact as of this catalog (Oct 1993)"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=79135",
+            "Sample Number": 79135,
+            "Mission": "Apollo 17",
+            "Sample Type": "rock",
+            "Lithology": "breccia",
+            "Description": "Polymict Matrix Breccia"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=79155",
+            "Sample Number": 79155,
+            "Mission": "Apollo 17",
+            "Sample Type": "rock",
+            "Lithology": "other",
+            "Description": "Partially Glass-Coated Gabbro"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=79175",
+            "Sample Number": 79175,
+            "Mission": "Apollo 17",
+            "Sample Type": "rock",
+            "Lithology": "regolith breccia",
+            "Description": "Glass-Bonded Agglutinate"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=79195",
+            "Sample Number": 79195,
+            "Mission": "Apollo 17",
+            "Sample Type": "rock",
+            "Lithology": "breccia",
+            "Description": "Breccia, friable, basalt"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=79215",
+            "Sample Number": 79215,
+            "Mission": "Apollo 17",
+            "Sample Type": "rock",
+            "Lithology": "breccia",
+            "Description": "Metabreccia"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=79225",
+            "Sample Number": 79225,
+            "Mission": "Apollo 17",
+            "Sample Type": "rock",
+            "Lithology": "breccia",
+            "Description": "Friable Microbreccia; As of this Catalog (Oct 1993), original sample remains intact; no work has been conducted."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=79226",
+            "Sample Number": 79226,
+            "Mission": "Apollo 17",
+            "Sample Type": "rock",
+            "Lithology": "breccia",
+            "Description": "Friable Microbreccia; as of this Catalog (Oct 1993), original sample remains intact; no work has been conducted."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=79245",
+            "Sample Number": 79245,
+            "Mission": "Apollo 17",
+            "Sample Type": "rock",
+            "Lithology": "other",
+            "Description": "High Grade Metaclastic; The original sample remains intact at time of the Catalog (Oct 1993); no work has been conducted."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=79265",
+            "Sample Number": 79265,
+            "Mission": "Apollo 17",
+            "Sample Type": "rock",
+            "Lithology": "high-Ti mare basalt",
+            "Description": "High-Ti Mare Basalt"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=79515",
+            "Sample Number": 79515,
+            "Mission": "Apollo 17",
+            "Sample Type": "rock",
+            "Lithology": "high-Ti mare basalt",
+            "Description": "High-Ti Mare Basalt"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=79516",
+            "Sample Number": 79516,
+            "Mission": "Apollo 17",
+            "Sample Type": "rock",
+            "Lithology": "high-Ti mare basalt",
+            "Description": "High-Ti Mare Basalt"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=79517",
+            "Sample Number": 79517,
+            "Mission": "Apollo 17",
+            "Sample Type": "rock",
+            "Lithology": "breccia",
+            "Description": "Dark Matrix Breccia; the orignal sample remains intact as of the Catalog (Oct 1993) and no wrk has been conducted."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=79518",
+            "Sample Number": 79518,
+            "Mission": "Apollo 17",
+            "Sample Type": "rock",
+            "Lithology": "breccia",
+            "Description": "Dark Matrix Breccia; original sample remains intact as of this Catalog (Oct 1993); no work has been conducted"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=79519",
+            "Sample Number": 79519,
+            "Mission": "Apollo 17",
+            "Sample Type": "rock",
+            "Lithology": "breccia",
+            "Description": "Dark Matrix Breccia; orignal sample remains intact as of this Catalog (Oct 1993); no work has been conducted"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=79525",
+            "Sample Number": 79525,
+            "Mission": "Apollo 17",
+            "Sample Type": "rock",
+            "Lithology": "breccia",
+            "Description": "Dark Matrix Breccia; original sample remains intact as of this Catalog (Oct 1993); no work has been conducted"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=79526",
+            "Sample Number": 79526,
+            "Mission": "Apollo 17",
+            "Sample Type": "rock",
+            "Lithology": "breccia",
+            "Description": "Dark Matrix Breccia; original sample remains intack as of this Catalog (Oct 1993); no work has been conducted"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=79527",
+            "Sample Number": 79527,
+            "Mission": "Apollo 17",
+            "Sample Type": "rock",
+            "Lithology": "breccia",
+            "Description": "Dark Matrix Breccia; original sample remains intact as of this Catalog (Oct 1993); no work has been conducted"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=79528",
+            "Sample Number": 79528,
+            "Mission": "Apollo 17",
+            "Sample Type": "rock",
+            "Lithology": "breccia",
+            "Description": "Dark Matrix Breccia; original sample remains intact as of this Catalog (Oct 1993); no work has been conducted"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=79529",
+            "Sample Number": 79529,
+            "Mission": "Apollo 17",
+            "Sample Type": "rock",
+            "Lithology": "breccia",
+            "Description": "Dark Matrix Breccia; original sample remains intact as of this Catalog (Oct 1993); no work has been conducted"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=79535",
+            "Sample Number": 79535,
+            "Mission": "Apollo 17",
+            "Sample Type": "rock",
+            "Lithology": "breccia",
+            "Description": "Dark Mtarix Breccia; original sample remains intact as of this Catalog (Oct 1993); no work has been conducted"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=79536",
+            "Sample Number": 79536,
+            "Mission": "Apollo 17",
+            "Sample Type": "rock",
+            "Lithology": "breccia",
+            "Description": "Dark Matrix Breccia; the original sample remains intact as of this Catalog (Oct 1993); no work has been conducted"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=79537",
+            "Sample Number": 79537,
+            "Mission": "Apollo 17",
+            "Sample Type": "rock",
+            "Lithology": "breccia",
+            "Description": "Dark Matrix Breccia; original sample remains intact as of this Catalog (Oct 1993); no work has been conducted"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=76037",
+            "Sample Number": 76037,
+            "Mission": "Apollo 17",
+            "Sample Type": "soil-general",
+            "Lithology": "high-Ti mare basalt",
+            "Description": "High-Ti Mare Basalt"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=70160",
+            "Sample Number": 70160,
+            "Mission": "Apollo 17",
+            "Sample Type": "",
+            "Lithology": "soil",
+            "Description": "This is a fillet soil near the ALSEP central station, 180 meters west of the LM, at the base of a 1.5 meter boulder. Sample area has about 2-5% rock cover. Fines are darker when disturbed and compaction is greater in the fillet."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=70180",
+            "Sample Number": 70180,
+            "Mission": "Apollo 17",
+            "Sample Type": "",
+            "Lithology": "soil",
+            "Description": "This surface soil was collected 3 meters from the deep core site on the rim of an 8 meter blocky crater at the ALSEP. The sample area is flat and level with 2-3% block cover. Craters 10 cm to 1 meter in size are common, the fines are rather loose at the sample site on the rim of a .5 meter crater. This soil was collected with 70185, an 8 cm vuggy basalt."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=71040",
+            "Sample Number": 71040,
+            "Mission": "Apollo 17",
+            "Sample Type": "",
+            "Lithology": "soil",
+            "Description": "71040 is a surface soil that was collected along with 6 chips in the shadow of \"tombstone rock\" at Station 1A. Soil 71060 was collected at the same site at a depth of 5-6 cm. Tombstone Rock is on the inner side of the southwest rim of a 10 meter blocky crater. The sample area is broadly rolling and dominated by ejecta. Local craters up to 2 meters in size are common, and the fines are fairly compact."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=71060",
+            "Sample Number": 71060,
+            "Mission": "Apollo 17",
+            "Sample Type": "",
+            "Lithology": "soil",
+            "Description": "71060 is a soil sample collected 5-6 cm below the surface in the shadow of \"tombstone rock\" at Station 1A. It was collected with 13 chips. Tombstone Rock is on the inner side of the southwest rim of a 10 meter blocky crater. The sample area is broadly rolling and dominated by ejecta. Local craters up to 2 meters in size are common, and the fines are faily compact."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=71500",
+            "Sample Number": 71500,
+            "Mission": "Apollo 17",
+            "Sample Type": "",
+            "Lithology": "soil",
+            "Description": "Soil 71500 and 6 rock fragments were collected at Station 1A 15 meters northeast of the rim of a blocky 10 meter crater. It was collected as the reference to rake sample 71520 - 71597. The sample area is flat and essentially free of large fragments. The fines are fairly compact, there are 3 .5 meter craters in the sample area. The soil is scooped from the edge of a subdued crater in an area mostly free of surface rocks and small craters."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=72140",
+            "Sample Number": 72140,
+            "Mission": "Apollo 17",
+            "Sample Type": "",
+            "Lithology": "soil",
+            "Description": "This soil was collected during the LRV traverse between Station 1 and 2 on the \"prong\" or very faint extension of the white mantle of a crater rim. The sample area is undulating, and fragments greater than 10 cm are rare. The ground surface is patterned in a \"raindrop\" texture. This sample is very cohesive."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=72150",
+            "Sample Number": 72150,
+            "Mission": "Apollo 17",
+            "Sample Type": "",
+            "Lithology": "soil",
+            "Description": "This sample is document bag residue left in the bag which contained 72155, a 420 gm basalt. The basalt and the residue were collected during an LRV traverse on Tortilla flat between SEP and Station 2. The sample area is flat with sparse fragments. The sampling and handling procedures make this data very suspect."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=72240",
+            "Sample Number": 72240,
+            "Mission": "Apollo 17",
+            "Sample Type": "",
+            "Lithology": "soil",
+            "Description": "This soil was collected at Station 2, near the base of South Massif. The upper 4 cm of soil was collected from under a .7 meter breccia boulder which was rolled over by the crew. 72440 was from the upper 4 cm of the soil, and 72460 was a skim sample. The area was too disturbed after rolling the boulder over to compare well with the undisturbed fines, but generally it appears similar. The sample area is a strewn boulder field with loose fines."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=72320",
+            "Sample Number": 72320,
+            "Mission": "Apollo 17",
+            "Sample Type": "",
+            "Lithology": "soil",
+            "Description": "72320 was collected at Station 2, near the base of the South Massif. This \"shadowed soil\" collected about 20 cm under the east - west overhang of a 2 meter diameter boulder. The sample area is a strewn boulder field with boulders up to 2 meters across common. Craters up to 10 cm are abundant in the immediate sample area. The soil probably does not have as complex an exposure history as rake sample 72500 because of the protection from the rock overhang."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=72440",
+            "Sample Number": 72440,
+            "Mission": "Apollo 17",
+            "Sample Type": "",
+            "Lithology": "soil",
+            "Description": "This soil was collected at Station 2, near the base of South Massif. The upper 4 cm of soil was collected from a .7 meter breccia boulder which was rolled over by the crew. 72440 was from the upper 4 cm of the soil, and 72460 was a skim sample. The area was too disturbed after rolling the boulder over to compare well with the undisturbed fines, but generally it appears similar. The sample area is a strewn boulder field with loose fines."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=72460",
+            "Sample Number": 72460,
+            "Mission": "Apollo 17",
+            "Sample Type": "",
+            "Lithology": "soil",
+            "Description": "72460 was collected at Station 2, near the base of South Massif. It was a skim sample which was collected from under a .7 meter breccia boulder which was rolled over by the crew. 72440 was from the upper 4 cm of the soil, and 72460 was a skim sample. The area was too disturbed after rolling the boulder over to compare well with the undisturbed fines, but generally it appears similar. The sample area is a strewn boulder field with loose fines."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=72500",
+            "Sample Number": 72500,
+            "Mission": "Apollo 17",
+            "Sample Type": "",
+            "Lithology": "soil",
+            "Description": "Soil 72500 and rake sample 72530-72559 were collected at Station 2 near the base of South Massif a few meters from the rim of Nansen crater. Boulders up to 2 meters are common in the general area, but fragments larger than 25 cm are sparse in the raked area. The soil was sampled to a depth of 4 cm."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=72700",
+            "Sample Number": 72700,
+            "Mission": "Apollo 17",
+            "Sample Type": "",
+            "Lithology": "soil",
+            "Description": "Soil 72700 and rake samples 72735-38 were collected at Station 2 in a light mantle unit near the base of South Massif slightly upslope from Nansen crater. The area has an undulating slope towards the southeast, fragments up to 3 cm are sparsely distributed in the rake area, and craters up to 5 meters are common in the general area. The sample was collected to a depth of 5 cm."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=73120",
+            "Sample Number": 73120,
+            "Mission": "Apollo 17",
+            "Sample Type": "",
+            "Lithology": "soil",
+            "Description": "Surface sample 73120 was collected near trench sample 73140 at Station 2A, about 750 meters north-northeast of Station 2 at the base of South Massif on the light mantle deposits. The site is generally level, with fragments >5cm sparse and craters >10 cm sparse."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=73140",
+            "Sample Number": 73140,
+            "Mission": "Apollo 17",
+            "Sample Type": "",
+            "Lithology": "soil",
+            "Description": "This is a trench sample collected to a depth of 15 cm near surface sample 73120 at Station 2A, about 750 meters north-northeast of Station 2 at the base of South Massif on the light mantle deposits. The site is generally level, with fragments >5cm sparse and craters >10 cm sparse."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=73220",
+            "Sample Number": 73220,
+            "Mission": "Apollo 17",
+            "Sample Type": "",
+            "Lithology": "soil",
+            "Description": "This is a skim sample from the top 1 cm of trench (73240 is from the bottom). The trench is on the rim of a 10 meter crater in light mantle deposits at Station 3. The site slopes 7 degrees to the east, 1-10 cm fragments are common and >10 cm fragments are sparse."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=73240",
+            "Sample Number": 73240,
+            "Mission": "Apollo 17",
+            "Sample Type": "",
+            "Lithology": "soil",
+            "Description": "This is a trench sample from the upper part of a 15 cm deep trench containing a medium gray surface layer and a 3 cm light gray layer just below the surface. It was collected at Station 3 with skim sample 73220 on the rim of a 10 meter crater in the light mantle. The site slopes 7 degrees to the east, 1-10 cm fragments are common and >10 cm fragments are sparse."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=73260",
+            "Sample Number": 73260,
+            "Mission": "Apollo 17",
+            "Sample Type": "",
+            "Lithology": "soil",
+            "Description": "This is a trench sample from part of the \"marbled zone\" 5-10 cm below the surface. It may also include some material from the small patch of light material visible in the pre-sampling photographs. It was collected at Station 3 with skim sample 73220 on the rim of a 10 meter crater in the light mantle. The site slopes 7 degrees to the east, 1-10 cm fragments are common and >10 cm fragments are sparse."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=73280",
+            "Sample Number": 73280,
+            "Mission": "Apollo 17",
+            "Sample Type": "",
+            "Lithology": "soil",
+            "Description": "This is a trench sample from about 5-10 cm below the surface. It appears to be similar to the light gray material just below the surface. It was collected at Station 3 with skim sample 73220 on the rim of a 10 meter crater in the light mantle. The site slopes 7 degrees to the east, 1-10 cm fragments are common and >10 cm fragments are sparse."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=74120",
+            "Sample Number": 74120,
+            "Mission": "Apollo 17",
+            "Sample Type": "",
+            "Lithology": "soil",
+            "Description": "This surface soil was collected from the LRV while traversing over light mantle deposits between Stations 3 and 4. The site is undulating, yet regionally level with fragments >10 cm sparse. Craters <1 meter are abundant, but craters >1 meter are sparse."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=74220",
+            "Sample Number": 74220,
+            "Mission": "Apollo 17",
+            "Sample Type": "",
+            "Lithology": "soil",
+            "Description": "Considered to be a clod of friable material taken 6-8 cm deep in a trench from Station 4, on the rim of 120 meter Shorty crater. The site is near the low place in the crater rim crest. The fragments population is highly variable, craters up to several meters in diameter are common. The particles larger than 1 mm are mostly friable clumps that disagregated during sieving. Any discontinuity is probably due to the fact that the sizes <1 mm were sieved and the sizes >1 mm were hand picked."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=74240",
+            "Sample Number": 74240,
+            "Mission": "Apollo 17",
+            "Sample Type": "",
+            "Lithology": "soil",
+            "Description": "This is gray soil that was bordering the meter wide band of reddish soil (74240 is southwest of the colored soil and 74260 is to the northeast) at Station 4 on the rim of Shorty crater. The site is near the low place in the crater rim crest. The fragment population is highly variable, and craters up to several meters in diameter are common."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=74260",
+            "Sample Number": 74260,
+            "Mission": "Apollo 17",
+            "Sample Type": "",
+            "Lithology": "soil",
+            "Description": "This is gray soil that was bordering the meter wide band of reddish soil (74240 is southwest of the colored soil and 74260 is to the northeast) at Station 4 on the rim of Shorty crater. The site is near the low place in the crater rim crest. The fragment population is highly variable, and craters up to several meters in diameter are common."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=75060",
+            "Sample Number": 75060,
+            "Mission": "Apollo 17",
+            "Sample Type": "",
+            "Lithology": "soil",
+            "Description": "This is a mantling soil that was collected from a 1 cm depression on a 3 meter boulder, at Station 5, the southwest rim of Camelot crater. The site has an undulating slope with cobbles and boulders covering 30% of the surface. The soil contains two rock chips, 75065-66."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=75080",
+            "Sample Number": 75080,
+            "Mission": "Apollo 17",
+            "Sample Type": "",
+            "Lithology": "soil",
+            "Description": "This is a surface soil sample from a site on the regolith surface a few meters from sample 75060 at Station 5 on the southwest rim of Camelot crater. The sample area is undulating with cobbles and boulders covering 30% of the surface."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=75110",
+            "Sample Number": 75110,
+            "Mission": "Apollo 17",
+            "Sample Type": "",
+            "Lithology": "soil",
+            "Description": "This sample was collected during LRV traverse #7, from the apex of Victory crater on the inner slope of the crater rim. The site has pebbles to 1 meter size boulders covering 2-3% of the surface. The fragments appear to be randomly scattered, but there is a slight concentration on the rims of small craters."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=75210",
+            "Sample Number": 75210,
+            "Mission": "Apollo 17",
+            "Sample Type": "",
+            "Lithology": "soil",
+            "Description": "This soil was collected during LRV traverse #8, between Victory and Horatio craters in an area of dark mantle between the small craters. The area is flat with scattered craters less than 5 meters in diameter. Clods <10 cm are found on the rims of fresh craters. \"Raindrops\" are present on the surface of the sample area."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=76245",
+            "Sample Number": 76245,
+            "Mission": "Apollo 17",
+            "Sample Type": "",
+            "Lithology": "impact melt breccia",
+            "Description": "Impact Melt Breccia"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=76246",
+            "Sample Number": 76246,
+            "Mission": "Apollo 17",
+            "Sample Type": "",
+            "Lithology": "impact melt breccia",
+            "Description": "Impact Melt Breccia"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=76260",
+            "Sample Number": 76260,
+            "Mission": "Apollo 17",
+            "Sample Type": "",
+            "Lithology": "soil",
+            "Description": "This surface soil was collected at Station 6 on the south slope of the North Massif. It has a large boulder nearby which casts a permanent shadow on 76240: 76260 and 76280 are just outside the limit of the overhang. 76260 is a 2 cm skim and 76280 is a 5 cm scoop. The area slopes 11 degrees to the south with scattered fragments <6cm."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=76280",
+            "Sample Number": 76280,
+            "Mission": "Apollo 17",
+            "Sample Type": "",
+            "Lithology": "soil",
+            "Description": "This surface soil was collected at Station 6 on the south slope of the North Massif. It has a large boulder nearby which casts a permanent shadow on 76240: 76260 and 76280 are just outside the limit of the overhang. 76260 is a 2 cm skim and 76280 is a 5 cm scoop. The area slopes 11 degrees to the south with scattered fragments <6cm."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=76320",
+            "Sample Number": 76320,
+            "Mission": "Apollo 17",
+            "Sample Type": "",
+            "Lithology": "soil",
+            "Description": "Surface soil collected at Station 6 on flat face of boulder 1. The site slopes 10 degrees to the north with fragments up to 5 cm scattered about. A few 5-10 cm crataers are found in the area."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=76500",
+            "Sample Number": 76500,
+            "Mission": "Apollo 17",
+            "Sample Type": "",
+            "Lithology": "soil",
+            "Description": "Reference soil 76500 and rake soil 76530-76577 were collected at Station 6, 25 meters west of the boulder cluster on the ejecta blanket of a 10 meter crater. The site slopes 11 degrees to the south with 1-10 cm fragments scattered randomly. One large 10 meter crater and many <30 cm craters are found at the site."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=76505",
+            "Sample Number": 76505,
+            "Mission": "Apollo 17",
+            "Sample Type": "",
+            "Lithology": "impact melt breccia",
+            "Description": "Micropoikilitic Impact Melt Breccia"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=76506",
+            "Sample Number": 76506,
+            "Mission": "Apollo 17",
+            "Sample Type": "",
+            "Lithology": "regolith breccia",
+            "Description": "Dark Matrix Regolith Breccia"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=78220",
+            "Sample Number": 78220,
+            "Mission": "Apollo 17",
+            "Sample Type": "",
+            "Lithology": "soil",
+            "Description": "Soil collected from beneath a .5 meter gabbroic boulder at Station 8, near the base of Sculptured Hills, south of Wessex Cleft. The site slopes moderately steeply to the southwest, with scattered pebbles, clods, small rocks and one boulder. The surface is saturated with 1 cm craters, larger craters are present but not abundant."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=78420",
+            "Sample Number": 78420,
+            "Mission": "Apollo 17",
+            "Sample Type": "",
+            "Lithology": "soil",
+            "Description": "This is part of trench sequence at Station 8 at the base of Sculptured Hills south of Wessex Cleft. 78420 is at the bottom of a 25 cm trench, 78440 is at a depth of 6-15 cm, 78460 is at a depth of 1-6 cm, and 78480 is from the upper 1 cm. The site has a moderate slope to the southwest, a few pebbles and clods <5 cm are found, and the area is saturated with 1 cm craters. There are a few larger craters in the area."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=78460",
+            "Sample Number": 78460,
+            "Mission": "Apollo 17",
+            "Sample Type": "",
+            "Lithology": "soil",
+            "Description": "This is part of trench sequence at Station 8 at the base of Sculptured Hills south of Wessex Cleft. 78420 is at the bottom of a 25 cm trench, 78440 is at a depth of 6-15 cm, 78460 is at a depth of 1-6 cm, and 78480 is from the upper 1 cm. The site has a moderate slope to the southwest, a few pebbles and clods <5 cm are found, and the area is saturated with 1 m craters. There are a few larger craters in the area."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=78480",
+            "Sample Number": 78480,
+            "Mission": "Apollo 17",
+            "Sample Type": "",
+            "Lithology": "soil",
+            "Description": "This is part of trench sequence at Station 8 at the base of Sculptured Hills south of Wessex Cleft. 78420 is at the bottom of a 25 cm trench, 78440 is at a depth of 6-15 cm, 78460 is at a depth of 1-6 cm, and 78480 is from the upper 1 cm. The site has a moderate slope to the southwest, a few pebbles and clods <5 cm are found, and the area is saturated with 1 cm craters. There are a few larger craters in the area."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=78500",
+            "Sample Number": 78500,
+            "Mission": "Apollo 17",
+            "Sample Type": "",
+            "Lithology": "soil",
+            "Description": "This is a surface sample to accompany rake sample 78525-599, collected near the rim of a subdued 15 meter crater at the base of Sculptured Hills, south of Wessex Cleft. The site has a moderate slope to the southwest with scattered pebbles, clods, and small rocks."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=78505",
+            "Sample Number": 78505,
+            "Mission": "Apollo 17",
+            "Sample Type": "",
+            "Lithology": "high-Ti mare basalt",
+            "Description": "High-Ti Mare Basalt"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=78506",
+            "Sample Number": 78506,
+            "Mission": "Apollo 17",
+            "Sample Type": "",
+            "Lithology": "high-Ti mare basalt",
+            "Description": "High-Ti Mare Basalt"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=78507",
+            "Sample Number": 78507,
+            "Mission": "Apollo 17",
+            "Sample Type": "",
+            "Lithology": "high-Ti mare basalt",
+            "Description": "High-Ti Mare Basalt"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=78508",
+            "Sample Number": 78508,
+            "Mission": "Apollo 17",
+            "Sample Type": "",
+            "Lithology": "breccia",
+            "Description": "Light Matrix Soil Breccia"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=78509",
+            "Sample Number": 78509,
+            "Mission": "Apollo 17",
+            "Sample Type": "",
+            "Lithology": "high-Ti mare basalt",
+            "Description": "High-Ti Mare Basalt"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=78515",
+            "Sample Number": 78515,
+            "Mission": "Apollo 17",
+            "Sample Type": "",
+            "Lithology": "breccia",
+            "Description": "Dark Matrix Breccia"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=78516",
+            "Sample Number": 78516,
+            "Mission": "Apollo 17",
+            "Sample Type": "",
+            "Lithology": "breccia",
+            "Description": "Dark Matrix Soil Breccia"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=78517",
+            "Sample Number": 78517,
+            "Mission": "Apollo 17",
+            "Sample Type": "",
+            "Lithology": "other",
+            "Description": "Friable White Cataclasite"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=78518",
+            "Sample Number": 78518,
+            "Mission": "Apollo 17",
+            "Sample Type": "",
+            "Lithology": "breccia",
+            "Description": "Dark Matrix Soil Breccia"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=78528",
+            "Sample Number": 78528,
+            "Mission": "Apollo 17",
+            "Sample Type": "",
+            "Lithology": "basalt",
+            "Description": "Basalt"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=79220",
+            "Sample Number": 79220,
+            "Mission": "Apollo 17",
+            "Sample Type": "",
+            "Lithology": "soil",
+            "Description": "79220 is part of a trench sequence (79220 depth 0-2cm, 79240 depth 2-7 cm, 79260 depth 7-17 cm) taken from the southwest flank of the Van Serg crater ejecta blanket near Station 9. The uppermost 7 cm of the trench is gray, below that is a light gray or white layer. The site has a gently southeast slope away from Van Serg crater. Fragments 2-20 cm cover 3% of the surface. Two fresh 1 meter craters are found near the trench."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=79227",
+            "Sample Number": 79227,
+            "Mission": "Apollo 17",
+            "Sample Type": "",
+            "Lithology": "soil",
+            "Description": "Clod; after separation from the soil sample, this sample disaggregated to soil-like material and was not described"
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=79228",
+            "Sample Number": 79228,
+            "Mission": "Apollo 17",
+            "Sample Type": "",
+            "Lithology": "soil",
+            "Description": "Clod; After separation from the soil sample, this sample disaggregated to soil-like material and was not described."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=79240",
+            "Sample Number": 79240,
+            "Mission": "Apollo 17",
+            "Sample Type": "",
+            "Lithology": "soil",
+            "Description": "79220 is part of a trench sequence (79220 depth 0-2cm, 79240 depth 2-7 cm, 79260 depth 7-17 cm) taken from the southwest flank of the Van Serg crater ejecta blanket near Station 9. The uppermost 7 cm of the trench is gray, below that is a light gray or white layer. The site has a gently southeast slope away from Van Serg crater. Fragments 2-20 cm cover 3% of the surface. Two fresh 1 meter craters are found near the trench."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=79260",
+            "Sample Number": 79260,
+            "Mission": "Apollo 17",
+            "Sample Type": "",
+            "Lithology": "soil",
+            "Description": "79220 is part of a trench sequence (79220 depth 0-2cm, 79240 depth 2-7 cm, 79260 depth 7-17 cm) taken from the southwest flank of the Van Serg crater ejecta blanket near Station 9. The uppermost 7 cm of the trench is gray, below that is a light gray or white layer. The site has a gently southeast slope away from Van Serg crater. Fragments 2-20 cm cover 3% of the surface. Two fresh 1 meter craters are found near the trench."
+        },
+        {
+            "Sample Img": "http://www.lpi.usra.edu/lunar/samples/atlas/detail/?mission=Apollo%2017&sample=79510",
+            "Sample Number": 79510,
+            "Mission": "Apollo 17",
+            "Sample Type": "",
+            "Lithology": "soil",
+            "Description": "This surface sample was collected 2 meters east of the large boulder where 79120 was collected. Both samples were taken from the southeast rim of Van Serg crater, Station 9. There is no slope at the rim crest, fragments 2-30 cm cover 10% of the surface, the largest boulder in the area is 1.5 meters. Craters are negligible on the Van Serg crater rim."
+        }
+    ]
+}

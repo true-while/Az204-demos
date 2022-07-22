@@ -1,0 +1,19 @@
+#bring short name of your container from previous demo
+account=
+
+# build image 
+docker build -t ninjacat-dotnet .
+
+docker tag ninjacat-dotnet $account.azurecr.io/ninjacat-dotnet:latest
+
+docker push $account.azurecr.io/ninjacat-dotnet:latest
+
+# run image locally
+docker run -p 49161:80 -d ninjacat-dotnet
+
+# visit http://localhost:49161/
+
+# build image 
+docker pull $account.azurecr.io/ninjacat-dotnet:latest
+
+

@@ -1,0 +1,13 @@
+# generate a unique name and store as a shell variable
+webappname=mywebapp$RANDOM
+
+# create a resource group
+az group create --location eastus --name Demo-AZ204-M01
+
+# create an App Service plan
+az appservice plan create --name $webappname --resource-group Demo-AZ204-M01 --sku FREE
+
+# create a Web App
+az webapp create --name $webappname --resource-group Demo-AZ204-M01 --plan $webappname
+
+

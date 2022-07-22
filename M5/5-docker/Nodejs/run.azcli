@@ -1,0 +1,17 @@
+#bring short name of your container from previous demo
+account="acrdemo24014"
+
+# build image 
+docker build -t ninjacat-nodejs .
+
+docker tag ninjacat-nodejs $account.azurecr.io/ninjacat-nodejs:latest
+
+docker push $account.azurecr.io/ninjacat-nodejs:latest
+
+# run image locally
+docker run -p 49160:9090 -d ninjacat-nodejs
+
+# visit http://localhost:49160/
+
+# build image 
+docker pull $account.azurecr.io/ninjacat-nodejs:latest

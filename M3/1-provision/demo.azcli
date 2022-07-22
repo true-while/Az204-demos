@@ -1,0 +1,31 @@
+#create resource group
+az group create -l eastus -n Demo-AZ204-Blobs
+
+# to avoid name collisions generate unique name for your account
+account=azureblobs$RANDOM
+echo $account
+
+#create storage account 
+az storage account create --name $account --resource-group Demo-AZ204-Blobs 
+
+#retrieve key
+key=$(az storage account keys list --account-name $account --query [0].value -o tsv)
+
+#Copy the connection string for further use.
+connectionString=$(az storage account show-connection-string --name $account --resource-group Demo-AZ204-Blobs -o tsv)  
+echo $connectionString
+
+#create storage container by using key
+az storage container create --name products --public-access blob  --account-name $account  --account-key $key
+
+#upload img file
+az storage blob upload  --account-name $account  --account-key $key --container-name products --file img.png --name img.png
+
+#list blobs
+az storage blob show --name img.png --account-name $account  --account-key $key --container-name products
+
+#list URL to access from Edge
+echo https://$account.blob.core.windows.net/products/img.png
+
+
+

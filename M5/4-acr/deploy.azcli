@@ -1,0 +1,28 @@
+#Create resource group
+az group create --name Demo-AZ204-containers --location eastus
+
+#Geenrate unique name
+account=acrdemo$RANDOM
+
+# Create an ACR instance
+az acr create --resource-group Demo-AZ204-containers --name $account --sku Basic
+
+# Login to ACR
+az acr login --name $account 
+
+#prep the image to push in the ACR
+#generate tag
+docker tag nginx $account.azurecr.io/my-nginx:v1
+
+#push image
+docker push $account.azurecr.io/my-nginx:v1
+
+# List container images
+az acr repository list --name $account --output table
+
+# List the tags on the aci-helloworld repository
+az acr repository show-tags --name $account --repository my-nginx --output table
+
+#pull the image from the ACR
+docker pull $account.azurecr.io/my-nginx:v1
+

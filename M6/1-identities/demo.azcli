@@ -1,0 +1,23 @@
+#set variables
+randomIdentifier=$RANDOM
+servicePrincipalName="az204-sp-$randomIdentifier"
+roleName="Contributor"
+
+#get subscription id
+subscriptionID=$(az account show --query id -o tsv)
+
+# Verify the ID of the active subscription
+echo "Using subscription ID $subscriptionID and AppName: $servicePrincipalName"
+
+#create the resource group
+az group create -l eastus -n "Demo-AZ204-AAD"
+
+#create a service account with access to the Graph to read users and applications
+#id can be verified on https://docs.microsoft.com/en-us/graph/permissions-reference#all-permissions-and-ids
+az ad app create --display-name $servicePrincipalName --is-fallback-public-client --required-resource-accesses manifest.json
+
+#retrive App ID
+AppID=$(az ad app list --display-name az204-sp-14266 --query [0].id -o tsv)
+
+#output contains TenantID, and password you need for next demo
+az ad app credential reset --id $AppID --append
