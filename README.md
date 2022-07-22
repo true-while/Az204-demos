@@ -3,9 +3,9 @@
 ## Module 01: Creating Azure App Service Web Apps
 
 - Demo #1: Create Web App from Azure CLI
-  - [AzureCLI](/M01/Demo%20%231%20-%20Provision/Demo.md)
+  - [AzureCLI](/M1/1-provision/Demo.md)
 - Demo #2: Azure Web App Deployment
-  - [AzureCLI+CSharp](/M01/Demo%20%232%20-%20Deployment/Demo.md)
+  - [AzureCLI+CSharp](/M1/2-deployment/Demo.md)
 - Demo #3: Autoscale by using performance metrics
   - [Linux+Py](/M01/Demo%20%233%20-%20Autoscale/Demo.md)
 - Demo #4: Web App Slots and Canary deployment
