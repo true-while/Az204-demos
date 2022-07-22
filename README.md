@@ -6,34 +6,35 @@
   - [AzureCLI](/M1/1-provision/Demo.md)
 - Demo #2: Azure Web App Deployment
   - [AzureCLI+CSharp](/M1/2-deployment/Demo.md)
-- Demo #3: Autoscale by using performance metrics
-  - [Linux+Py](/M01/Demo%20%233%20-%20Autoscale/Demo.md)
-- Demo #4: Web App Slots and Canary deployment
-  - [Linux+NodeJS](/M01/Demo%20%234%20-%20Slot/Demo.md)
+- Demo #3: Autoscale Azure Web App by using performance metrics
+  - [Linux+Py](/M1/3-autoscale/Demo.md)
+- Demo #4: Swapping Slots of Azure Web App
+  - [Linux+NodeJS](/M1/4-slots/Demo.md)
 
 ## Module 02: Implement Azure Functions
 
-- Demo 1: Create Azure Functions 
-  - [Portal](/M02/Demo%20%231%20Function/Demo.md)
-- Demo 2: Azure Functions project 
-  - [C# HttpTriggered](/M02/Demo%20%232%20FunctionProject/CSharpDemo.md) 
+- Demo 1: Provision an Azure Function 
+  - [Portal](/M2/1-provision/Demo.md)
+- Demo 2: Explore Azure Function project 
+  - [C# HttpTriggered](/M2/2-project/CSharpDemo.md) 
 - Demo 3: Create a Durable Function 
-  - [C# FunIN-FunOut](/M02/Demo%20%233%20DurableFunction/Demo-csharp.md)
-
+  - [C# FunIN-FunOut](/M2/3-durable/Demo-csharp.md)
+  - [Node.js Chain Functions](M2/3-durable/Demo-nodejs1.md)
+  - [Node.js FunIN-FunOut](/M2/3-durable/Demo-nodejs2.md)
 
 
 ## Module 03: Develop solutions that use blob storage
 
-- Demo #1: Azure Blob
-  - [Portal](/M03/Demo%20%231%20New%20Blob/Demo.md)
+- Demo #1: Provision Azure Blob from Azure CLI
+  - [Portal](M3/1-provision/Demo.md)
 - Demo #2: Adding a policy to Azure Blob storage
-  - [Portal](/M03/Demo%20%232%20BlobPolicy/Demo.md)
+  - [Portal](/M3/2-policy/Demo.md)
 - Demo #3: Managing Azure Blob from code 
-  - [CSharp](/M03/Demo%20%233%20BobProj/Demo-CSharp.md)
-  - [NodeJS](/M03/Demo%20%233%20BobProj/Demo-Nodejs.md)
-- Demo #4: Using AzCopy in the Cloud Shell
-  - [CMD+AzCopy](/M03/Demo%20%234%20AzCopy/Demo.md)
+  - [CSharp](/M3/3-sdk/Demo.md)
+- Demo #4: Managing blob’s metadata from code
+  - [CMD+AzCopy](/M3/4-metadata/Demo.md)
 
+# coming soon
 
 ## Module 04: Develop solutions for Cosmos DB
 
