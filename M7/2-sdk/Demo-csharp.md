@@ -15,5 +15,5 @@ In the demo you will retrieve the secret value from key vault you build on previ
 1. Update `applicaiton.json` with parameters of your AppID, Tenant, App Secret and KeyVault name (from previous demo)
 1. Run the code to pull the TopSecret value.
 
-    ![Secret](CSharp\screen.png)
+    ![Secret](./CSharp/screen.png)
 
