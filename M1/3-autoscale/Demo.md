@@ -6,7 +6,7 @@ Then you will set up CPU autoscale rules and monitor scaling in and out.
 ## Technical Requirements:
 
 - Provision Azure Web App on Linux platform by using Standard price tier.
-- Deploy demo code located on [pyWebApp](pyWebApp) folder by use VS Code "Web Application: Deploy..." command.
+- Deploy demo code located on [pyWebApp](pyWebApp) folder by use VS Code "Web Application: Deploy..." command. The deployemnt tutorial
 
 
 ## Demonstration:

@@ -1,3 +1,5 @@
+#bash script
+
 # generate a unique name and store as a shell variable
 webappname=mywebapp$RANDOM
 

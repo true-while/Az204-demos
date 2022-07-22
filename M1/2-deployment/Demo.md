@@ -8,6 +8,8 @@ Then you will set up continues integration from GitHub Repository.
 - Install VSCode and Azure CLI Tools.
 - All scripts should be run from the demo folder.
 
+>> The GIT deployment made for the public [repo](https://github.com/true-while/secure-web-https.git). In case of the insufficient rights you can fork the repo and update its adders in the script.
+
 ## Deployment:
 
 1. Open VSCode and run the script **demo.azcli** line by line
@@ -23,6 +25,10 @@ Then you will set up continues integration from GitHub Repository.
 
 5. After configuring CI with github repo verify the result in browser:
 ![Git page](gitpage.png)
+
+
+## Demo recoding
+![demo](./M2-demo2.gif)
 
 ## Further learning:
 
