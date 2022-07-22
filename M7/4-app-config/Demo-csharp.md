@@ -1,4 +1,4 @@
-# AZ-203T04A-02 Demo #5: Explore App Configuration service
+# AZ-204 Demo #5: Explore App Configuration service
 
 In the demo you will manage Feature Flag deployment.
 You will deploy ContosoCars Azure webapp and App Configuration resource as well. 
