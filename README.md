@@ -86,6 +86,15 @@
 - Demo #4: Explore App Configuration service
   - [CSharp+AzureCLI](/M7/4-app-config/Demo-csharp.md)
 
+## Module 08: Implement API Management
+
+- Demo #1: Provision APIM from CLI
+  - [AzureCLI](/M8/1-provision/Demo.md)
+- Demo #2: Azure APIM policies
+  - [Portal](/M8/2-policy/demo.md)
+
+
+
 
 # Retired content
 
