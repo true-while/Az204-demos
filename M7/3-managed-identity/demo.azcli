@@ -1,3 +1,5 @@
+#bash script
+
 #keyvault name from previous demo
 keyvault="<your keyvault>"
 

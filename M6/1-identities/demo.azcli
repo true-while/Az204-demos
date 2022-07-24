@@ -1,3 +1,5 @@
+#bash script
+
 #set variables
 randomIdentifier=$RANDOM
 servicePrincipalName="az204-sp-$randomIdentifier"

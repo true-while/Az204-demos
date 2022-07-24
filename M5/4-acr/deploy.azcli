@@ -1,3 +1,5 @@
+#bash script
+
 #Create resource group
 az group create --name Demo-AZ204-containers --location eastus
 

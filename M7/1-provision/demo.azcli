@@ -1,3 +1,5 @@
+#bash script
+
 #generate unique name
 account=keyvlt$RANDOM
 

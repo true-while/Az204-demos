@@ -1,3 +1,5 @@
+#bash script
+
 #group to deploy template
 az group create --name "Demo-AZ204-ARM" --location "eastus"
 

@@ -1,5 +1,7 @@
-#create resource group
-az group create -l eastus -n Demo-AZ204-Blobs
+#bash script
+
+# create resource group
+az group create -l eastus -n Demo-AZ204-Blobs 
 
 # to avoid name collisions generate unique name for your account
 account=azureblobs$RANDOM
