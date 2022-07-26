@@ -34,6 +34,10 @@ namespace TheCloudShopsTriggerTest
                 Console.WriteLine("Beginning operations...\n");
                 Program p = new Program();
                 await p.GetStartedDemoAsync();
+                
+                Console.WriteLine("Ready for clean up?.");
+                Console.ReadKey();
+                await p.CleanUp();
 
             }
             catch (CosmosException de)
@@ -50,6 +54,21 @@ namespace TheCloudShopsTriggerTest
                 Console.WriteLine("End of demo, press any key to exit.");
                 Console.ReadKey();
             }
+        }
+
+        public  async Task CleanUp()
+        {
+            using(FeedIterator<Order> feedIterator = this.container.GetItemQueryIterator<Order>(new QueryDefinition("SELECT * FROM c")))
+            {
+                while (feedIterator.HasMoreResults)
+                {
+                    foreach (var order in await feedIterator.ReadNextAsync())
+                    {
+                        await this.container.DeleteItemAsync<Order>(order.id, new PartitionKey(order.OrderAddress.City));
+                    }
+                }
+            }
+       
         }
 
         public async Task GetStartedDemoAsync()

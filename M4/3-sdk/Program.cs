@@ -60,6 +60,8 @@ namespace TheCloudShopsSelector
             await this.CreateDatabaseAsync();
             await this.CreateContainerAsync();
 
+            await this.AddItemsToContainerAsync();
+
             //run seed method to load initial data
             await this.QueryItemsAsync();
             await this.ReplaceFamilyItemAsync("o3", "Redmond");

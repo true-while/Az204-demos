@@ -17,3 +17,5 @@ The code will also replace documents and search though documents.
 1. From the console run commands `dotnet build` and `dotnet run`
 
 1. Monitor console for the code output.
+
+    ![m04-demo3](m04-demo3.gif)
