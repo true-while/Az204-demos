@@ -96,7 +96,7 @@
 ## Module 09: Develop event-based solutions
 
 - Demo #1: Provision Event Hub
-  - [AzureCLI](/M9/1-eh-provision/Demo.md)
+  - [AzureCLI](/M9/1-eh-provision/demo.md)
 - Demo #2: Processing events from code
   - [CSharp](/M9/2-eh-sdk/demo.md)
 - Demo #3: IoT Hubs in Action
