@@ -93,8 +93,23 @@
 - Demo #2: Azure APIM policies
   - [Portal](/M8/2-policy/demo.md)
 
+## Module 09: Develop event-based solutions
 
+- Demo #1: Provision Event Hub
+  - [AzureCLI](/M9/1-eh-provision/Demo.md)
+- Demo #2: Processing events from code
+  - [CSharp](/M9/2-eh-sdk/demo.md)
+- Demo #3: IoT Hubs in Action
+  - [AzureCLI](/M9/3-iot-hub/demo.md)
+- Demo #4: Provision Event Grid
+  - [PowerShell](/M9/4-grid-provision/demo.md)
+- Demo #5: Event Grid event submission and handling
+  - [CSharp](/M9/5-grid-sdk/demo.md)
+- Demo #6: Notification Hub
+  - [CSharp](/M9/6-NHub/Demo-CSharp.md)
+  - [Nodejs](/M9/6-NHub/Demo-Nodejs.md)
 
+  
 
 # Retired content
 
