@@ -1,0 +1,20 @@
+#bash script
+
+#must be updated wiht name of your Web App with App Inisights
+appName=''  
+
+# build and publish binaries to the folder 'publihs'. requred Dot Net Core 5 installed
+dotnet publish 'TheCloudShopsAI' -o 'publish'
+
+
+# Bash command ZIP
+zip -r DemoProject.zip 'publish/.'
+# OR Powerhsell command
+Compress-Archive -Path publish\* -DestinationPath DemoProject.zip -force
+#alternative use Send to Zip from windows file explorer
+
+#deploy binaries to the Azure Web App
+az webapp deploy --resource-group Demo-AZ204-AI --name $appName --type zip --src-path 'DemoProject.zip'
+
+#check the webapp
+az webapp browse --name $appName --resource-group AppInsightsDemo-RG

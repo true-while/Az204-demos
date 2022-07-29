@@ -1,0 +1,37 @@
+#bash script
+
+# create resource group
+az group create --name Demo-AZ204-CDN --location eastus2
+
+account=cdndemo$RANDOM
+
+#create account 
+az storage account create --name $account --resource-group Demo-AZ204-CDN --location koreasouth
+
+#create container
+az storage container create --name demoimg --public-access container --account-name $account
+
+#get key
+key=$(az storage account keys list  --account-name $account --query "[0].{Name:value}" -o tsv)
+
+#upload file
+az storage blob upload --name img.jpg -f img.jpg -c demoimg --account-name $account --account-key $key
+
+# create new CDN account
+az cdn profile create --name DemoProfile --resource-group Demo-AZ204-CDN --sku Standard_Akamai
+
+# Create Endpoint for 
+az cdn endpoint create --name $account --origin $account.blob.core.windows.net --origin-host-header $account.blob.core.windows.net --origin-path '//demoimg' --profile-name DemoProfile --resource-group Demo-AZ204-CDN
+
+bloburl=https://$account.blob.core.windows.net/demoimg/img.jpg
+cdnurl=https://$account.blob.core.windows.net/demoimg/img.jpg
+
+echo $bloburl
+
+#load file directly from org
+curl $bloburl -o test.jpg
+
+#load file from CDN
+curl $cdnurl -o test.jpg
+
+
