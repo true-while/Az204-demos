@@ -110,6 +110,8 @@
   - [Nodejs](/M9/6-NHub/Demo-Nodejs.md)
 
 
+## Module 10: Instrument solutions to support monitoring and logging
+
 ## Module 11: Instrument solutions to support monitoring and logging
   
 - Demo #1: Exploring Azure Monitor
@@ -120,7 +122,7 @@
 
 - Demo #3:  Troubleshooting with AI.
   - [Portal](/M11/3-portal/Demo.md)
-  
+
 
 ## Module 12: Develop event-based solutions
   

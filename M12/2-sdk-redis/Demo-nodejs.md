@@ -20,4 +20,4 @@ PORT=6380
 
 1. Run the project and observe the output.
 
-![redis](ConsoleClient\NodeJS\screen.png)
+![redis](ConsoleClient/NodeJS/screen.png)
