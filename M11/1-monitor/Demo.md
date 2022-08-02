@@ -1,38 +1,33 @@
-# AZ-204 Demo: Azure Monitor
+# AZ-204 Demo: Exploring Azure Monitor
 
-In the demo you will use Azure Monitor to monitor performance and activity
+In the demo you will provision Web App and enable Monitoring and Diagnostic for the service.
 
-## Before delivery:
+## Technical requirement.
 
-- none
+- Azure CLI or Cloud Shell
 
-## In class:
+## Demonstration
 
-1. Start VM or Web App
-1. Make several requests to the Web App to have some output in the metric
+1. Open `demo.azcli` and execute line by line to provision Web App.
+
+1. Make several requests to the Web App to generate activities for metrics.
+
 1. From the first page demonstrate the base telemetry.
  
-![VM](diag.png)
-
-1. From the `monitoring` select `metrics` add custom metrics: CPU % and Request Count. Change the time frame on top corner.
- 
-![Logs](diag2.png)
+![diag](diag.png)
 
 1. From the `web app` select `Audit Log` and demonstrate log tracked by Azure Monitor.
 
 ![Logs](diag3.png)
- 
-1. Find `Monitor` from the service list and open `Logs`. 
-1. Select `Last Metrics` from the available query examples 
- 
-![Logs](diag3.png)
 
-1. Run the query. Demonstrate results. 
+1. From the `Monitoring` section select **Log Stream** to observer the output in live mode
 
-![LogWorkspace](diag4.png)
+![stream](stream.png)
 
-```SQL
-AzureMetrics 
-| summarize arg_max(TimeGenerated, UnitName, Total, Count, Maximum, Minimum, Average) by MetricName
-```
+1. Find `Logs` from the `Monitoring` section. 
+
+    ```SQL
+    AzureMetrics 
+    | summarize arg_max(TimeGenerated, UnitName, Total, Count, Maximum, Minimum, Average) by MetricName
+    ```
 ![LogWorkspace](diag5.png)

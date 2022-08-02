@@ -4,7 +4,7 @@
 appName=''  
 
 # build and publish binaries to the folder 'publihs'. requred Dot Net Core 5 installed
-dotnet publish 'TheCloudShopsAI' -o 'publish'
+dotnet publish 'DemoProject' -o 'publish'
 
 
 # Bash command ZIP
@@ -17,4 +17,4 @@ Compress-Archive -Path publish\* -DestinationPath DemoProject.zip -force
 az webapp deploy --resource-group Demo-AZ204-AI --name $appName --type zip --src-path 'DemoProject.zip'
 
 #check the webapp
-az webapp browse --name $appName --resource-group AppInsightsDemo-RG
+az webapp browse --name $appName --resource-group Demo-AZ204-AI 

@@ -1,16 +1,24 @@
-# AZ-203T05A-01 Demo: Application Insights Advanced features
+# AZ-203 Demo : Troubleshooting with AI.
 
-In this demo you will demonstrate who to track the metrics, events and errors from app code.
+In this demo you will find out how to use Application Insights Map and troubleshot exceptions. 
 
-## Before delivery:
- 
- - Open project in VS **AI-Demo.sln**
+## Technical requirements:
 
-## In class:
+- App Insights instance you setup before.
 
-1. Open file `HomeController.cs`
-1. Demonstrate method `TrackDependency` and places where it is calling
-1. Demonstrate method `Privacy` and tracking exception.
-1. Demonstrate method `GetFile` where custom telemetry events tracked.
-1. You also can open "index.cshtml" and demonstrate how JavaScript events tracked with `appInsights.trackEvent`
+## Demonstration:
+
+1. From the Azure portal find and open the `Application Map`. After a few minutes after the requests you made for your website you should see the instance of DB and Storage Account and Web site on the map.
+
+    ![map](map.png)
+
+1. Set mouse pointer to  DB to see statistics.
+
+1. You also can observe the SQL commands that send to the SQL DB when you choice exact page request. 
+
+1. Check errors count and navigate to the error list
+
+    ![exception](exception.png)
+
+1. Click on `investigate failure` to get more about errors.
 

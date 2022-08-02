@@ -1,0 +1,74 @@
+#bash script
+
+#web app name
+appName=aicodedemo$RANDOM 
+
+# create a resource group
+az group create --location eastus --name Demo-AZ204-AI
+
+# create an App Service plan
+az appservice plan create --name $appName --resource-group Demo-AZ204-AI --sku FREE
+
+# create a Web App
+az webapp create --name $appName --resource-group Demo-AZ204-AI --plan $appName
+
+# setup loging
+az webapp log config --application-logging filesystem --detailed-error-messages true --failed-request-tracing true --level information --name $appName --resource-group Demo-AZ204-AI --web-server-logging filesystem
+
+#-------------------------------
+# Adding Azure SQL
+#-------------------------------
+az sql server create -n $appName-sql -u myadminuser -p myadmin@Password -g Demo-AZ204-AI 
+az sql db create -s $appName-sql -n $appName-db --service-objective Basic -g Demo-AZ204-AI  
+
+#open firewall to connect from services
+az sql server firewall-rule create -g Demo-AZ204-AI  --server $appName-sql -n 'allowed to connect by Azure resources' --start-ip-address 0.0.0.0 --end-ip-address 0.0.0.0
+
+#retrieve connection string
+sqlstring=$(az sql db show-connection-string -s $appName-sql -n $appName-db  -c ado.net  -o tsv)
+
+#update user and pwd
+sqlstring=${sqlstring/<username>/myadminuser}
+sqlstring=${sqlstring/<password>/myadmin@Password}
+echo $sqlstring
+
+#-------------------------------
+# Adding Storage Account
+#-------------------------------
+az storage account create --name $appName --resource-group Demo-AZ204-AI   
+#connection string, please copy
+blobstring=$(az storage account  show-connection-string --name $appName  -o tsv)
+echo $blobstring
+#---------------------
+#create Variable
+#--------------------
+az webapp config appsettings set -n $appName --settings SqlConnection="$sqlstring" -g Demo-AZ204-AI 
+az webapp config appsettings set -n $appName --settings BlobConnection="$blobstring" -g Demo-AZ204-AI 
+
+# open page with web app.
+az webapp browse --name $appName --resource-group Demo-AZ204-AI 
+
+# Install CLI extension to provision App Insights
+az extension add -n application-insights
+
+# Create Log analytics workspace
+az monitor log-analytics workspace create -g Demo-AZ204-AI  -n $appName-ai
+
+# Create Application Insights, the resource required a minute to be provisioned
+az monitor app-insights component create --app $appName-ai --location eastus --resource-group Demo-AZ204-AI  --kind web --workspace $appName-ai
+
+
+# Return the App Insides key for future use.
+instrumentation=$(az monitor app-insights component show --app $appName-ai -g Demo-AZ204-AI  --query  "connectionString" --output tsv)
+echo $instrumentation
+
+# Update App insights key for Web App
+az webapp config appsettings set -n $appName --settings APPLICATIONINSIGHTS_CONNECTION_STRING=$instrumentation -g Demo-AZ204-AI 
+az webapp config appsettings set -n $appName --settings ApplicationInsightsAgent_EXTENSION_VERSION=~2 -g Demo-AZ204-AI 
+az webapp config appsettings set -n $appName --settings DiagnosticServices_EXTENSION_VERSION=~3 -g Demo-AZ204-AI 
+az webapp config appsettings set -n $appName --settings InstrumentationEngine_EXTENSION_VERSION=~1 -g Demo-AZ204-AI 
+az webapp config appsettings set -n $appName --settings SnapshotDebugger_EXTENSION_VERSION=~1 -g Demo-AZ204-AI 
+az webapp config appsettings set -n $appName --settings XDT_MicrosoftApplicationInsights_BaseExtensions=~1 -g Demo-AZ204-AI 
+
+# Connect Web App                                          
+az monitor app-insights component connect-webapp -g Demo-AZ204-AI  -a $appName-ai --web-app $appName --enable-profiler --enable-snapshot-debugger 
