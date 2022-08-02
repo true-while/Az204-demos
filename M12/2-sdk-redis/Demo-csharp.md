@@ -14,4 +14,4 @@ In the demo you will build a Redis in Azure and get connected to the Redis servi
 
 1. Run the project and observe output 
 
-![redis](ConsoleClient\CSharp\screen.png)
+![redis](ConsoleClient/CSharp/screen.png)
