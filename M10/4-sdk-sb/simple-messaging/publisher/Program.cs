@@ -44,7 +44,9 @@ namespace publisher
             }
 
             //release resources
-            await sender.CloseAsync();
+            await sender.CloseAsync();            
+            Console.Read();
+
 
         }
     }

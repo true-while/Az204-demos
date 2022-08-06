@@ -110,7 +110,9 @@
   - [Nodejs](/M9/6-NHub/Demo-Nodejs.md)
 
 
-## Module 10: Instrument solutions to support monitoring and logging
+## Module 10: Develop message-based solutions
+
+
 
 ## Module 11: Instrument solutions to support monitoring and logging
   

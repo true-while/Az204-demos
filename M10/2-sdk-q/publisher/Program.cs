@@ -27,11 +27,13 @@ namespace publisher
             var client = CreateQueueClient(); //build client
 
             // sending 30 messages 
-            for( var i=0; i< 30; i++ )
+            for( var i=0; i< 10; i++ )
             {
                string msg = JsonSerializer.Serialize( new TheMessage(){ MsgID = $"{i}", Info = $"Simple messaging #{i}"});
-               InsertMessage(client, msg);
+               InsertMessage(client, msg, i);
             }
+
+            Console.Read();
         }
 
         public static QueueClient CreateQueueClient()
@@ -56,12 +58,12 @@ namespace publisher
         }
 
 
-        public static void InsertMessage(QueueClient queueClient, string message)
+        public static void InsertMessage(QueueClient queueClient, string message, int i)
         {
             //sending messages from 
             queueClient.SendMessage(message);
 
-            Console.WriteLine($"Message inserted");
+            Console.WriteLine($"Message #{i} inserted");
         }      
     }
 }
