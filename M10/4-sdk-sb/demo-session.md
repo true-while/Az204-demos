@@ -16,7 +16,7 @@ In the demo, you will use console applications to send and receive messages from
 
 1. Build and run the `publisher` that send a few messages in the queue. You can observer the messages from Azure Portal by using Service Bus explorer.
 
-    ![publisher](/4-sdk-sb/session-demo/publisher.png)
+    ![publisher](session-demo/publisher.png)
 
 1. Repeat the same steps with updating `Program.cs` for **/session-messaging/consumer** project.
 
@@ -24,4 +24,4 @@ In the demo, you will use console applications to send and receive messages from
 
 1. [1] option demonstrate you receiving all messages per session (2 msg or 3 msg depend on the session); [2] option will peak messages to observe without deletion.
 
-    ![consumer](/4-sdk-sb/session-demo/consumer.png)
+    ![consumer](session-demo/consumer.png)
