@@ -112,7 +112,16 @@
 
 ## Module 10: Develop message-based solutions
 
-
+- Demo #1: Provision Azure Storage Queue by Azure CLI
+  - [AzureCLI](/M10/1-provision-q/demo.md)
+- Demo #2: Processing messages from the code
+  - [CSharp](/M10/2-sdk-q/demo.md)
+- Demo #3: Provision Azure Service Bus Queues and Topic by Azure CLI
+  - [AzureCLI](/M10/3-provision-sb/demo.md)
+- Demo #4: Send and receive messages from a Service Bus Queue
+  - [CSharp](/M10/4-sdk-sb/demo-simple.md)  - msg broker
+  - [CSharp](/M10/4-sdk-sb/demo-session.md) - session
+  - [CSharp](/M10/4-sdk-sb/demo-topic.md)   - topic
 
 ## Module 11: Instrument solutions to support monitoring and logging
   

@@ -28,7 +28,7 @@ namespace publisher
                                 "ExampleEventSubject",
                                 "Example.EventType",
                                 "1.0",
-                                "This is the event data");
+                                "Hello World");
 
                         // Send the event
                         await client.SendEventAsync(egEvent);

@@ -12,4 +12,6 @@ az appservice plan create --name $webappname --resource-group Demo-AZ204-M01 --s
 # create a Web App
 az webapp create --name $webappname --resource-group Demo-AZ204-M01 --plan $webappname
 
+#open web app
+az webapp browse --name $webappname --resource-group Demo-AZ204-M01
 
