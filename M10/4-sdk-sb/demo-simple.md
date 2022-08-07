@@ -15,7 +15,7 @@ In the demo, you will use console applications to send and receive messages from
 
 1. Build and run the `publisher` that send a few messages in the queue. You can observer the messages from Azure Portal by using Service Bus explorer.
 
-    ![publisher](/4-sdk-sb/simple-messaging/publisher.png)
+    ![publisher](simple-messaging/publisher.png)
 
 1. Repeat the same steps with updating `Program.cs` for **/simple-messaging/consumer** project.
 
@@ -23,4 +23,4 @@ In the demo, you will use console applications to send and receive messages from
 
 1. [1] option demonstrate you receiving 1 message and lock it with PickLock option and then delete it; [2] option demonstrate you receiving and explicit delete it later. [3] option will peak messages to observe without deletion.
 
-    ![consumer](/4-sdk-sb/simple-messaging/consumer.png)
+    ![consumer](simple-messaging/consumer.png)
