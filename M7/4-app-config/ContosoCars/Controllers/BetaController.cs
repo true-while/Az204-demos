@@ -1,6 +1,7 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using Microsoft.FeatureManagement;
 using Microsoft.FeatureManagement.Mvc;
+using System.Threading.Tasks;
 
 namespace Src
 {
@@ -13,10 +14,11 @@ namespace Src
             _featureManager = featureManager;
         }
 
-        [FeatureGate(MyFeatureFlags.BlackFridayDeals)]
-        public IActionResult Index()
+        [FeatureGate(MyFeatureFlags.BlackFridayDeals)] //check
+        public async Task<IActionResult> Index()
         {
-            if (await _featureManager.IsEnabledAsync(MyFeatureFlags.BlackFridayDeals))
+            //alternative check
+            if (await _featureManager.IsEnabledAsync(MyFeatureFlags.BlackFridayDeals.ToString()))
             {
                 return View();
             }

@@ -11,8 +11,14 @@ You will update configuration settings to get web app connected to app configura
 - Azure CLI or CLoud Shell
 
 ## Demonstration 
+
 1. Script need to be updated with web app name previously deployed.
-1. Run script line by line to deploy src.zip to the website. If the rebuild required you can find source in [".\src"](./src/)
+
+1. Run script line by line to deploy `src.zip` to the website. 
+
+> If the rebuild required you can find source in [".\src"](./src/)
+> To run the web site locally update `appsettings.json` and add appropriate connection string to `AppConfig` in the connection string section.
+
 1. BlackFriday deals should be deployed as feature. When you open the web site first no Black Friday's deals should be visible
 
     ![nodeals](./nodeals.png)

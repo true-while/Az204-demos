@@ -4,6 +4,9 @@ account="<your web appname>"
 #deploy app config
 az appconfig create --location eastus --name $account --resource-group Demo-AZ204-AppConfig
 
+#pull connection string
+cstring=$(az appconfig credential list -g Demo-AZ204-AppConfig -n $account --query [3].connectionString -o tsv) 
+
 #create flag
 az appconfig feature set -n $account --feature BlackFridayDeals --yes
 
@@ -14,7 +17,7 @@ az appconfig feature disable -n $account --feature BlackFridayDeals --yes
 az webapp deploy --resource-group Demo-AZ204-AppConfig --name $account --type zip --src-path 'src.zip'
 
 #create configuration
-az webapp config connection-string set -n $account -g Demo-AZ204-AppConfig --connection-string-type Custom --settings AppConfig="Endpoint=https://featureflagsdemo.azconfig.io;Id=vVia-l0-s0:I5lPPe7hhN1wWq/l6lYu;Secret=yV8BNlyJDEsB1Bxb1yP4B/Hez2pPkl1+ua1M0SIpvzU="
+az webapp config connection-string set -n $account -g Demo-AZ204-AppConfig --connection-string-type Custom --settings AppConfig=\"$cstring\"
 
 #check the app. You will not see any Black friday deals in menu
 az webapp browse -n $account -g Demo-AZ204-AppConfig 
