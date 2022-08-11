@@ -1,0 +1,24 @@
+#create resourece group
+az group create --name Demo-AZ204-M01 --location eastus
+
+account=autoscale-$RANDOM
+
+#create app service plan
+az appservice plan create --name $account-plan --resource-group Demo-AZ204-M01 --sku S1 --is-linux $true
+
+#create web app
+az webapp create --name $account  --resource-group Demo-AZ204-M01 --plan $account-plan --runtime "PYTHON:3.7"
+
+# set up autoscale
+az monitor autoscale create --name $account-plan --resource-type "Microsoft.Web/serverfarms" -g Demo-AZ204-M01 --resource $account-plan --min-count 1 --max-count 5 --count 1 
+
+az monitor autoscale rule create -g Demo-AZ204-M01 --autoscale-name $account-plan --scale out 1 --condition "CpuPercentage > 50 avg 1m"
+az monitor autoscale rule create -g Demo-AZ204-M01 --autoscale-name $account-plan --scale in 1 --condition "CpuPercentage < 25 avg 1m"
+
+#deploy web app from zip
+az webapp deployment source config-zip --resource-group Demo-AZ204-M01 --name $account --src src.zip
+
+## observing results
+az webapp browse --name $account --resource-group Demo-AZ204-M01 
+
+

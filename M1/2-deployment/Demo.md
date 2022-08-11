@@ -8,9 +8,9 @@ Then you will set up continues integration from GitHub Repository.
 - Install VSCode and Azure CLI Tools.
 - All scripts should be run from the demo folder.
 
->> The GIT deployment made for the public [repo](https://github.com/true-while/secure-web-https.git). In case of the insufficient rights you can fork the repo and update its adders in the script.
+> The GIT deployment made for the public [repo](https://github.com/true-while/secure-web-https.git). In case of the insufficient rights you can fork the repo and update its adders in the script.
 
-## Deployment:
+## Demonstration:
 
 1. Open VSCode and run the script **demo.azcli** line by line
 2. Check the result on the web app – should be a test page.
@@ -27,9 +27,10 @@ Then you will set up continues integration from GitHub Repository.
 ![Git page](gitpage.png)
 
 
-## Demo recoding
-![demo](./M2-demo2.gif)
+## Recoding
 
-## Further learning:
+![demo](./m1-demo2.gif)
+
+## References:
 
 PowerShell deployment  tutorial could be find [here](https://docs.microsoft.com/en-us/azure/app-service/scripts/powershell-deploy-staging-environment)

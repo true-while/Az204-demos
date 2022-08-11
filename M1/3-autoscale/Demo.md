@@ -5,21 +5,24 @@ Then you will set up CPU autoscale rules and monitor scaling in and out.
 
 ## Technical Requirements:
 
-- Provision Azure Web App on Linux platform by using Standard price tier.
-- Deploy demo code located on [pyWebApp](pyWebApp) folder by use VS Code "Web Application: Deploy..." command. The deployemnt tutorial
-
+- Azure CLI
+- VS code
 
 ## Demonstration:
 
-- Setup autoscale rules CPU > 50% +1 and CPU < 10% -1. For simplicity and speedup demo chose the shortest intervals
+1. Open `demo.azcli` and execute commands line by line and deploy website. Observe created rules from the Azure Portal
 
-![Autoscale](auto.png)
+    ![m1-demo3-setup](m1-demo3-setup.gif)
 
-- Visit web site page and click "start work" to start generation CPU activity
+1. Open deployed Web App and click "start work" to start workload. 
 
-![start](start.png)
+    ![start](start.png)
 
-- When you start and stop generation you might get following graph of scalding per instance based on CPU load
+1. Monitor autoscaling history and stop the workload when the wab app scaled for more then 1 instance. 
 
-![Scale Result](webapp-autoscale.png)
+    ![m1-demo3-auto-scale](m1-demo3-auto-scale.gif)
+
+1. When the workload finished the web app should scale in back to 1 instance.
+
+    ![Scale Result](webapp-autoscale.png)
 
