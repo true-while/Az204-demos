@@ -18,9 +18,9 @@ namespace DurableDemo
             var outputs = new List<string>();
 
             // Replace "hello" with the name of your Durable Activity Function.
-            outputs.Add(await context.CallActivityAsync<string>("Function1_Hello", "Tokyo"));
-            outputs.Add(await context.CallActivityAsync<string>("Function1_Hello", "Seattle"));
-            outputs.Add(await context.CallActivityAsync<string>("Function1_Hello", "London"));
+            outputs.Add(await context.CallActivityAsync<string>("SayHello", "Tokyo"));
+            outputs.Add(await context.CallActivityAsync<string>("SayHello", "Seattle"));
+            outputs.Add(await context.CallActivityAsync<string>("SayHello", "London"));
 
             // returns ["Hello Tokyo!", "Hello Seattle!", "Hello London!"]
             return outputs;
@@ -40,7 +40,7 @@ namespace DurableDemo
             ILogger log)
         {
             // Function input comes from the request content.
-            string instanceId = await starter.StartNewAsync("Function1", null);
+            string instanceId = await starter.StartNewAsync("GetCity", null);
 
             log.LogInformation($"Started orchestration with ID = '{instanceId}'.");
 
