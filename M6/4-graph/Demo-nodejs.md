@@ -14,6 +14,8 @@ In the demo you will use MSAL.JS libraries to request token and access to Micros
 
 1. Open **Nodejs** folder in VSCode.
 
+1. Open file **authConfig.js** and update *clientid* and *authority* values with you app credentials. 
+
 1. Run local website command:  **node .\server.js**
 
 1. Open browser on http://localhost:3000
