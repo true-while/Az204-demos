@@ -4,8 +4,8 @@
 // visit https://azuread.github.io/microsoft-authentication-library-for-js/docs/msal/modules/_authenticationparameters_.html
 const msalConfig = {
   auth: {
-    clientId: "213721b2-aef7-42cb-9d33-7ac80edfb2d4",
-    authority: "https://login.microsoftonline.com/57abfb88-2c2a-4e22-ad26-a2a845843584/",
+    clientId: "<your app id>",
+    authority: "https://login.microsoftonline.com/<your tenant id>/",
     redirectUri: "http://localhost:3000",
   },
   cache: {
