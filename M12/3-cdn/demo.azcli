@@ -18,13 +18,13 @@ key=$(az storage account keys list  --account-name $account --query "[0].{Name:v
 az storage blob upload --name img.jpg -f img.jpg -c demoimg --account-name $account --account-key $key
 
 # create new CDN account
-az cdn profile create --name DemoProfile --resource-group Demo-AZ204-CDN --sku Standard_Akamai
+az cdn profile create --name DemoProfile --resource-group Demo-AZ204-CDN --sku Standard_Microsoft
 
 # Create Endpoint for 
 az cdn endpoint create --name $account --origin $account.blob.core.windows.net --origin-host-header $account.blob.core.windows.net --origin-path '//demoimg' --profile-name DemoProfile --resource-group Demo-AZ204-CDN
 
 bloburl=https://$account.blob.core.windows.net/demoimg/img.jpg
-cdnurl=https://$account.blob.core.windows.net/demoimg/img.jpg
+cdnurl=https://$account.azureedge.net/img.jpg
 
 echo $bloburl
 
