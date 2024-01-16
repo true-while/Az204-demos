@@ -3,32 +3,46 @@
 # create resource group
 az group create --name Demo-AZ204-CDN --location eastus2
 
-account=cdndemo$RANDOM
+account=alexcdndemonew$RANDOM
 
 #create account 
 az storage account create --name $account --resource-group Demo-AZ204-CDN --location koreasouth
 
-#create container
-az storage container create --name demoimg --public-access container --account-name $account
-
 #get key
 key=$(az storage account keys list  --account-name $account --query "[0].{Name:value}" -o tsv)
 
-#upload file
-az storage blob upload --name img.jpg -f img.jpg -c demoimg --account-name $account --account-key $key
+#create static web site
+az storage blob service-properties update --account-name $account --static-website --404-document 404.html --index-document index.html --account-key $key
+
+#upload file to the folder
+az storage blob upload --name img.jpg -f img.jpg --container-name '$web' --account-name $account --account-key $key
+
+#get endpoint for static web site
+weburl=$(az storage account show -n $account -g Demo-AZ204-CDN --query "primaryEndpoints.web" --output tsv)
+domain="${weburl/"https://"/""}"  
+domain="${domain/"/"/""}" 
 
 # create new CDN account
 az cdn profile create --name DemoProfile --resource-group Demo-AZ204-CDN --sku Standard_Microsoft
 
 # Create Endpoint for 
-az cdn endpoint create --name $account --origin $account.blob.core.windows.net --origin-host-header $account.blob.core.windows.net --origin-path '//demoimg' --profile-name DemoProfile --resource-group Demo-AZ204-CDN
+az cdn endpoint create --name $account --origin  $domain --origin-host-header  $domain --profile-name DemoProfile --resource-group Demo-AZ204-CDN
 
-bloburl=https://$account.blob.core.windows.net/demoimg/img.jpg
+# preload the file for premium only
+az cdn endpoint load --content-paths '//img.jpg' --name $account --profile-name DemoProfile --resource-group Demo-AZ204-CDN
+
+
+###########################
+# Test load
+###########################
+
+bloburl=$weburl/img.jpg
 cdnurl=https://$account.azureedge.net/img.jpg
 
 echo $bloburl
+echo $cdnurl 
 
-#load file directly from org
+#load file from blob
 curl $bloburl -o test.jpg
 
 #load file from CDN
