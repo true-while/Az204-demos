@@ -1,4 +1,4 @@
-# AZ-204 Demo: Explore Azure Function project
+# AZ-204 Demo: Explore Azure Function project.
 
 In the demo you will start Azure Function locally and will reach out the external API with text provided in request. Text will be translated to the Piratish language.
 
